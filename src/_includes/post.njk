@@ -1,0 +1,20 @@
+---
+layout: layout.njk
+isHome: false
+---
+
+<article class="">
+  <h1>{{ title }}</h1>
+  {{ content | safe }}
+  <p class="text-xs text-gray-500 mt-8">
+    منتشر شده در <time datetime="{{ date }}">{{ date }}</time>
+    {% if date !== editedOn and editedOn !== undefined %}
+      <br>آخرین ویرایش در <time datetime="{{ editedOn }}">{{ editedOn }}</time>
+    {% endif %}
+  </p>
+</article>
+
+<a class="btn btn-comment" target="_blank"
+    href="https://twitter.com/intent/tweet?text=@@mrmowji&url={{ website.url }}{{ page.url }}">
+  نظرتو Tweet کن.
+</a>
