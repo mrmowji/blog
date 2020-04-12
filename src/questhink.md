@@ -12,7 +12,7 @@ date: 2020-03-30
 یه وبسایته که فقط ازتون سوال می‌پرسه. هر بار که صفحه رو باز کنید، یه سوال تصادفی توی صفحه نمایش داده میشه و در صورت تمایل می‌تونید بهش فکر کنید.
 
 <figure>
-<img src="/_assets/images/content/questhink-title.png" alt="Questhink title" />
+<img src="{{ website.assetsPath }}/images/content/questhink-title.png" alt="Questhink title" />
 </figure>
 
 ## هدف
@@ -34,7 +34,7 @@ date: 2020-03-30
 داره که اونجا می‌شه نظرات رو ثبت کرد. سوال جالبی رو پیدا کردید ممنون میشم از طریق اون صفحه واسم بفرستید. در حال حاضر از سرویس Disqus استفاده کردم تا کار سریع‌تر جلو بره.
 
 <figure>
-<img src="/_assets/images/content/questhink-first-question.png">
+<img src="{{ website.assetsPath }}/images/content/questhink-first-question.png">
 <figcaption>
 آیا به اندازه‌ی کافی از خودتون سوال می‌پرسید؟
 </figcaption>

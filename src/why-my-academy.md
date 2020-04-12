@@ -9,7 +9,7 @@ date: 2019-08-30
 2 3 ماه پیش، در مورد تصمیمم در مورد این که در مورد موارد ... بگذریم. پس از کلی کلنجار و کل‌کل، کلید کلاف کلفت ... ای بابا. خیلیا ازم پرسیدن که ... :|
 
 <figure>
-<img src="/_assets/images/content/my-academy-that-way.png">
+<img src="{{ website.assetsPath }}/images/content/my-academy-that-way.png">
 <figcaption>
 آکادمی مسترموجی، از اون طرف
 </figcaption>

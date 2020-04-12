@@ -9,7 +9,7 @@ date: 2019-06-25
 لانگ تایمیه که توی اسپیسِ اینترنت، یوزرهای پرشین، از وردها و اصطلاحات انگلیش یوز می‌کنن. یت شخصا آندرستند نکردم چرا این قضیه هنوز ادامه داره.
 
 <figure>
-  <img src="/_assets/images/content/godvillage-dictionary-cover.png" alt="تصویری از علی‌اکبر دهخدا بر روی جلد یک فرهنگ لغت خیالی">
+  <img src="{{ website.assetsPath }}/images/content/godvillage-dictionary-cover.png" alt="تصویری از علی‌اکبر دهخدا بر روی جلد یک فرهنگ لغت خیالی">
 <figcaption>
 جلد دیکتیوناری که در فیوچر چاپ خواهد شد.
 </figcaption>

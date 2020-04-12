@@ -13,7 +13,7 @@ date: 2019-02-22
 اما اسم فیلمی که جدیدا دیدم هست **The Huntsman: Winter's War** یا **شکارچی: جنگ زمستان**. محصول 2016.
 
 <figure>
-<img src="/_assets/images/content/the-huntsman-winter's-war-poster.jpeg" alt="4 نقش اصلی فیلم" >
+<img src="{{ website.assetsPath }}/images/content/the-huntsman-winter's-war-poster.jpeg" alt="4 نقش اصلی فیلم" >
 <figcaption>
 پوستر فیلم «شکارچی: جنگ زمستان» درددنگگگگگگگگگگگگ ددنگ
 </figcaption>
