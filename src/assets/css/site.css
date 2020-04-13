@@ -484,6 +484,9 @@ img {
 }
 
 @media (min-width: 768px) {
+  body {
+    padding: 2.25rem;
+  }
   .container {
     max-width: 768px;
   }
