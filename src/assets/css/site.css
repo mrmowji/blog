@@ -50,10 +50,21 @@ h1 {
  * 2. Show the overflow in Edge and IE.
  */
 
+hr {
+  box-sizing: content-box; /* 1 */
+  height: 0; /* 1 */
+  overflow: visible; /* 2 */
+}
+
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
+
+pre {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
 
 /* Text-level semantics
    ========================================================================== */
@@ -75,7 +86,7 @@ a {
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
 
-
+b,
 strong {
   font-weight: bolder;
 }
@@ -84,6 +95,11 @@ strong {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
+
+code {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
 
 /**
  * Add the correct font size in all browsers.
@@ -114,7 +130,8 @@ img {
  */
 
 
-input {
+input,
+select {
   font-family: inherit; /* 1 */
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
@@ -136,17 +153,38 @@ input { /* 1 */
  * 1. Remove the inheritance of text transform in Firefox.
  */
 
+
+select { /* 1 */
+  text-transform: none;
+}
+
 /**
  * Correct the inability to style clickable types in iOS and Safari.
  */
+
+
+[type="reset"] {
+  -webkit-appearance: button;
+}
 
 /**
  * Remove the inner border and padding in Firefox.
  */
 
+
+[type="reset"]::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}
+
 /**
  * Restore the focus styles unset by the previous rule.
  */
+
+
+[type="reset"]:-moz-focusring {
+  outline: 1px dotted ButtonText;
+}
 
 /**
  * Correct the padding in Firefox.
@@ -176,14 +214,28 @@ input { /* 1 */
  * Correct the cursor style of increment and decrement buttons in Chrome.
  */
 
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
 /**
  * 1. Correct the odd appearance in Chrome and Safari.
  * 2. Correct the outline style in Safari.
  */
 
+[type="search"] {
+  -webkit-appearance: textfield; /* 1 */
+  outline-offset: -2px; /* 2 */
+}
+
 /**
  * Remove the inner padding in Chrome and Safari on macOS.
  */
+
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
 
 /**
  * 1. Correct the inability to style clickable types in iOS and Safari.
@@ -212,6 +264,10 @@ summary {
  * Add the correct display in IE 10+.
  */
 
+template {
+  display: none;
+}
+
 /**
  * Add the correct display in IE 10.
  */
@@ -230,8 +286,10 @@ summary {
 h1,
 h2,
 h3,
+hr,
 figure,
-p {
+p,
+pre {
   margin: 0;
 }
 
@@ -302,6 +360,10 @@ html {
  * Ensure horizontal rules are visible by default
  */
 
+hr {
+  border-top-width: 1px;
+}
+
 /**
  * Undo the `border-style: none` reset that Normalize applies to images so that
  * our `border-{width}` utilities have the expected effect.
@@ -336,6 +398,10 @@ input::placeholder {
   color: #a0aec0;
 }
 
+table {
+  border-collapse: collapse;
+}
+
 h1,
 h2,
 h3 {
@@ -362,7 +428,8 @@ a {
  */
 
 
-input {
+input,
+select {
   padding: 0;
   line-height: inherit;
   color: inherit;
@@ -375,6 +442,11 @@ input {
  * 'mono' font family.
  */
 
+pre,
+code {
+  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
 /**
  * Make replaced elements `display: block` by default as that's
  * the behavior you want almost all of the time. Inspired by
@@ -383,7 +455,8 @@ input {
  * https://github.com/mozdevs/cssremedy/issues/14
  */
 
-img {
+img,
+object {
   display: block;
   vertical-align: middle;
 }
@@ -398,6 +471,34 @@ img {
 img {
   max-width: 100%;
   height: auto;
+}
+
+.container {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
 }
 
 /* add extracted components here */
@@ -419,6 +520,20 @@ nav a {
 
 nav a:hover {
   color: #212121;
+}
+
+code {
+  direction: ltr;
+  font-family: "Sans Mono", "Consolas", "Courier", monospace;
+  font-size: 0.875rem;
+  background-color: #eeeeee;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  display: inline-block;
+}
+
+.hljs {
+  margin-bottom: 1rem;
 }
 
 figure {
@@ -453,7 +568,7 @@ h3 {
   margin-top: 0.75rem;
 }
 
-input[type=text] {
+input[type=text], input[type=number], input[type=password] {
   outline: 0;
   background-color: #eeeeee;
   border-color: #eeeeee;
@@ -463,7 +578,7 @@ input[type=text] {
   border-width: 4px;
 }
 
-input[type=text]:focus {
+input[type=text]:focus, input[type=password]:focus {
   border-color: #90cdf4;
 }
 
@@ -473,6 +588,15 @@ p {
 
 p:last-child {
   margin-bottom: 0;
+}
+
+table {
+  width: 100%;
+  border-width: 2px;
+  border-color: #757575;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border-collapse: collapse;
 }
 
 time {
@@ -567,12 +691,28 @@ summary {
   font-size: 0.875rem;
 }
 
+.field {
+  margin-bottom: 1.25rem;
+}
+
 .border-gray-200 {
   border-color: #eeeeee;
 }
 
 .border-b-2 {
   border-bottom-width: 2px;
+}
+
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline;
+}
+
+.table {
+  display: table;
 }
 
 .h-full {
@@ -650,6 +790,26 @@ summary {
   padding-bottom: 0.5rem;
 }
 
+.static {
+  position: static;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.resize {
+  resize: both;
+}
+
 .shadow-xl {
   box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
 }
@@ -688,6 +848,20 @@ summary {
 
 .line-through {
   text-decoration: line-through;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .w-48 {
@@ -761,4 +935,88 @@ summary {
 body {
   font-family: Vazir, Tahoma, sans-serif !important;
   letter-spacing: -0.5px;
+}
+
+/*
+
+Monokai Sublime style. Derived from Monokai by noformnocontent http://nn.mit-license.org/
+
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #23241f;
+}
+
+.hljs,
+.hljs-tag,
+.hljs-subst {
+  color: #f8f8f2;
+}
+
+.hljs-strong,
+.hljs-emphasis {
+  color: #a8a8a2;
+}
+
+.hljs-bullet,
+.hljs-quote,
+.hljs-number,
+.hljs-regexp,
+.hljs-literal,
+.hljs-link {
+  color: #ae81ff;
+}
+
+.hljs-code,
+.hljs-title,
+.hljs-section,
+.hljs-selector-class {
+  color: #a6e22e;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-name,
+.hljs-attr {
+  color: #f92672;
+}
+
+.hljs-symbol,
+.hljs-attribute {
+  color: #66d9ef;
+}
+
+.hljs-params,
+.hljs-class .hljs-title {
+  color: #f8f8f2;
+}
+
+.hljs-string,
+.hljs-type,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-selector-id,
+.hljs-selector-attr,
+.hljs-selector-pseudo,
+.hljs-addition,
+.hljs-variable,
+.hljs-template-variable {
+  color: #e6db74;
+}
+
+.hljs-comment,
+.hljs-deletion,
+.hljs-meta {
+  color: #75715e;
 }
