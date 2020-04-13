@@ -192,7 +192,7 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-list-item-time">از 1397</span>
       <br>
       یک وبلاگ مینیمال که در ابتدا با استفاده از ASP.Net Core و TailwindCSS توسعه یافته بود.
-      پس از بررسی نیازها، این وبلاگ با استفاده از 11ty SSG و بدون استفاده از TailwindCSS توسعه یافت.
+      پس از بررسی نیازها، این وبلاگ با استفاده از 11ty SSG و بدون استفاده از TailwindCSS بازنویسی شد.
       برخی از مقالات منتشرشده در این وبلاگ را، در
       <a href="https://virgool.io/@mrmowji">ویرگول</a>
       نیز بازنشر می‌کنم.
@@ -297,6 +297,7 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-item">CSS</span>
       <span class="cv-item">TailwindCSS</span>
       <span class="cv-item">Cross-Platform</span>
+      <span class="cv-item">توسعه‌ی بازی</span>
       <span class="cv-item">Web App</span>
       <span class="cv-item">VS Code</span>
     </li>
