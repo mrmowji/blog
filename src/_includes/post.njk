@@ -3,10 +3,10 @@ layout: layout.njk
 isHome: false
 ---
 
-<article class="">
+<article>
   <h1>{{ title }}</h1>
   {{ content | safe }}
-  <p class="text-xs text-gray-500 mt-8">
+  <p class="post-info">
     منتشر شده در <time datetime="{{ date | isoDate }}">{{ date | persianDate }}</time>
     {% if date !== editedOn and editedOn !== undefined %}
       <br>آخرین ویرایش در <time datetime="{{ editedOn }}">{{ editedOn }}</time>

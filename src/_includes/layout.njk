@@ -6,7 +6,7 @@ websiteTitle: مسترموجی
 websiteSubtitle: چه کسی گوسفند مرا قورت داد؟ کاوه!؟
 ---
 <!DOCTYPE html>
-<html dir="rtl" lang="fa" class="h-full">
+<html dir="rtl" lang="fa">
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
@@ -47,24 +47,23 @@ websiteSubtitle: چه کسی گوسفند مرا قورت داد؟ کاوه!؟
   <link rel="stylesheet" href="{{ website.assetsPath }}/css/site.min.css" />
   <script src="{{ website.assetsPath }}/js/site.min.js" defer></script>
 </head>
-<body class="text-gray-900 p-5 md:px-12 max-w-xl mx-auto shadow-xl min-h-full">
-  <header class="text-center mb-10 {{ "mt-24" if isHome else "mt-8" }}">
+<body>
+  <header class="{{ "home" if isHome }}">
     <a href="/">
-      <img src="{{ website.assetsPath }}/images/layout/logo2.png" alt="{{ websiteTitle }}" class="mb-2 max-w-full mx-auto
-        {{ "w-64" if isHome else "w-48 opacity-25" }}" />
+      <img class="logo {{ "home" if isHome }}" src="{{ website.assetsPath }}/images/layout/logo2.png" alt="{{ websiteTitle }}" />
     </a>
-    <div class="opacity-50 {{ "" if isHome else "text-sm" }}">{{ websiteSubtitle }}</div>
+    <div class="subtitle {{ "home" if isHome }}">{{ websiteSubtitle }}</div>
   </header>
-  <main class="my-24">
+  <main>
     {{ content | safe }}
   </main>
-  <footer class="mb-3">
-    <div class="text-center mb-1 text-sm border-b-2 border-gray-200 pb-2">
+  <footer>
+    <div class="introduction">
       من مجتبی‌م. مجتبی جوان. 
       برنامه‌نویس و طراح گرافیک.
       اینجا می‌نویسم.
     </div>
-    <nav class="text-center">
+    <nav>
       <a href="/posts">
         آرشیو
       </a>
