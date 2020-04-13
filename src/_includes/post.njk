@@ -7,7 +7,7 @@ isHome: false
   <h1>{{ title }}</h1>
   {{ content | safe }}
   <p class="text-xs text-gray-500 mt-8">
-    منتشر شده در <time datetime="{{ date }}">{{ date }}</time>
+    منتشر شده در <time datetime="{{ date | isoDate }}">{{ date | persianDate }}</time>
     {% if date !== editedOn and editedOn !== undefined %}
       <br>آخرین ویرایش در <time datetime="{{ editedOn }}">{{ editedOn }}</time>
     {% endif %}
