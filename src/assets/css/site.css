@@ -675,6 +675,10 @@ li {
   margin-bottom: 1rem;
 }
 
+ul.compact li {
+  margin-bottom: .2rem;
+}
+
 summary {
   outline: 0;
 }
