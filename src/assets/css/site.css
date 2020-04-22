@@ -24,6 +24,8 @@ html {
 body {
   box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
   color: #212121;
+  font-size: 18px;
+  line-height: 1.5;
   margin: 0 auto;
   max-width: 36rem;
   min-height: 100%;
