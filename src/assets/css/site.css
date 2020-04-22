@@ -346,6 +346,10 @@ ul {
   padding: 0;
 }
 
+li {
+  margin-bottom: 1rem;
+}
+
 /**
  * Tailwind custom reset styles
  */
@@ -644,7 +648,7 @@ input[type=text]:focus, input[type=password]:focus {
 }
 
 p {
-  margin-bottom: 1.25rem;
+  margin-bottom: 2rem;
 }
 
 p:last-child {
@@ -668,7 +672,7 @@ time {
 ul {
   list-style-type: disc;
   list-style-position: inside;
-  margin-bottom: 0.75rem;
+  margin-bottom: 2rem;
 }
 
 summary {
