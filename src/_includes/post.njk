@@ -6,12 +6,12 @@ isHome: false
 <article>
   <h1>{{ title }}</h1>
   {{ content | safe }}
-  <p class="post-info">
+  {# <p class="post-info">
     منتشر شده در <time datetime="{{ date | isoDate }}">{{ date | persianDate }}</time>
     {% if date !== editedOn and editedOn !== undefined %}
       <br>آخرین ویرایش در <time datetime="{{ editedOn }}">{{ editedOn }}</time>
     {% endif %}
-  </p>
+  </p> #}
 </article>
 
 <a class="btn btn-comment" target="_blank"
