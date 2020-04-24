@@ -70,9 +70,9 @@ i = i ? (i < 0 ? Math.max(0, len + i) : i) : 0;
 همانند زیر:
 
 <ul class="compact">
-<li>`list` -> `lst`</li>
-<li>`userAgent` -> `ua`</li>
-<li>`browser` -> `brsr`</li>
+<li><code>list</code> -> <code>lst</code></li>
+<li><code>userAgent</code> -> <code>ua</code></li>
+<li><code>browser</code> -> <code>brsr</code></li>
 <li>و غیره
 </ul>
 
