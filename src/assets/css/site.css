@@ -640,10 +640,6 @@ p {
   margin-bottom: 2rem;
 }
 
-p:last-child {
-  margin-bottom: 0;
-}
-
 table {
   width: 100%;
   border-width: 2px;
@@ -660,8 +656,8 @@ time {
 
 ul {
   list-style-type: square;
-  list-style-position: inside;
   margin-bottom: 2rem;
+  padding-right: 1.25rem;
 }
 
 li {
