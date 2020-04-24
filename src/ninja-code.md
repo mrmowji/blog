@@ -196,10 +196,10 @@ function ninjaFunction(elem) {
 از اسامی یکسانی برای متغیرهای درون و بیرون یک تابع استفاده کنید. به همین سادگی. نیازی به تلاش برای اختراع نام‌های جدید نیست.
 
 ```js
-let *!*user*/!* = authenticateUser();
+let user = authenticateUser();
 
 function render() {
-  let *!*user*/!* = anotherValue();
+  let user = anotherValue();
   ...
   ...many lines...
   ...
