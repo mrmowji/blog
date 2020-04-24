@@ -572,7 +572,7 @@ nav a:hover {
 code {
   direction: ltr;
   font-family: "Sans Mono", "Consolas", "Courier", monospace;
-  font-size: 0.875rem;
+  font-size: 1rem;
   background-color: #eeeeee;
   padding-left: 0.25rem;
   padding-right: 0.25rem;
