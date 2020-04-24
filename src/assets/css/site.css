@@ -31,6 +31,13 @@ body {
   padding: 1.25rem;
 }
 
+blockquote {
+  background: #eaeaea;
+  border-right: 5px solid black;
+  margin: 0 0 2rem 0;
+  padding: 1rem 1.5rem;
+}
+
 header {
   margin-bottom: 2.5rem;
   margin-top: 2rem;
@@ -169,7 +176,6 @@ img {
  * 2. Remove the margin in Firefox and Safari.
  */
 
-
 input,
 select {
   font-family: inherit; /* 1 */
@@ -183,8 +189,8 @@ select {
  * 1. Show the overflow in Edge.
  */
 
-
-input { /* 1 */
+input {
+  /* 1 */
   overflow: visible;
 }
 
@@ -193,15 +199,14 @@ input { /* 1 */
  * 1. Remove the inheritance of text transform in Firefox.
  */
 
-
-select { /* 1 */
+select {
+  /* 1 */
   text-transform: none;
 }
 
 /**
  * Correct the inability to style clickable types in iOS and Safari.
  */
-
 
 [type="reset"] {
   -webkit-appearance: button;
@@ -211,7 +216,6 @@ select { /* 1 */
  * Remove the inner border and padding in Firefox.
  */
 
-
 [type="reset"]::-moz-focus-inner {
   border-style: none;
   padding: 0;
@@ -220,7 +224,6 @@ select { /* 1 */
 /**
  * Restore the focus styles unset by the previous rule.
  */
-
 
 [type="reset"]:-moz-focusring {
   outline: 1px dotted ButtonText;
@@ -322,7 +325,6 @@ template {
  * Removes the default spacing and border for appropriate elements.
  */
 
-
 h1,
 h2,
 h3,
@@ -337,7 +339,6 @@ pre {
  * Work around a Firefox/IE bug where the transparent `button` background
  * results in a loss of the default `button` focus styles.
  */
-
 
 ul {
   list-style: none;
@@ -357,7 +358,9 @@ ul {
  */
 
 html {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 1 */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 1 */
   line-height: 1.5; /* 2 */
 }
 
@@ -467,7 +470,6 @@ a {
  * normalize.css.
  */
 
-
 input,
 select {
   padding: 0;
@@ -484,7 +486,8 @@ select {
 
 pre,
 code {
-  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+    monospace;
 }
 
 /**
@@ -579,7 +582,7 @@ code {
 .hljs {
   margin-bottom: 1rem;
 }
- 
+
 figure {
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
@@ -616,7 +619,9 @@ h3 {
   margin-top: 0.75rem;
 }
 
-input[type=text], input[type=number], input[type=password] {
+input[type="text"],
+input[type="number"],
+input[type="password"] {
   outline: 0;
   background-color: #eeeeee;
   border-color: #eeeeee;
@@ -626,7 +631,8 @@ input[type=text], input[type=number], input[type=password] {
   border-width: 4px;
 }
 
-input[type=text]:focus, input[type=password]:focus {
+input[type="text"]:focus,
+input[type="password"]:focus {
   border-color: #90cdf4;
 }
 
@@ -663,7 +669,7 @@ li {
 }
 
 ul.compact li {
-  margin-bottom: .2rem;
+  margin-bottom: 0.2rem;
 }
 
 summary {
@@ -782,12 +788,14 @@ summary {
 
   font-weight: 900;
 
-  src: url('../fonts/vazir-black.eot');
+  src: url("../fonts/vazir-black.eot");
 
-  src: url('../fonts/vazir-black.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
-  url('../fonts/vazir-black.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/
-  url('../fonts/vazir-black.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-  url('../fonts/vazir-black.ttf') format('truetype');
+  src: url("../fonts/vazir-black.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("../fonts/vazir-black.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("../fonts/vazir-black.woff")
+      format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/vazir-black.ttf")
+      format("truetype");
 }
 
 @font-face {
@@ -797,12 +805,14 @@ summary {
 
   font-weight: bold;
 
-  src: url('../fonts/vazir-bold.eot');
+  src: url("../fonts/vazir-bold.eot");
 
-  src: url('../fonts/vazir-bold.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
-  url('../fonts/vazir-bold.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/
-  url('../fonts/vazir-bold.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-  url('../fonts/vazir-bold.ttf') format('truetype');
+  src: url("../fonts/vazir-bold.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("../fonts/vazir-bold.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("../fonts/vazir-bold.woff")
+      format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/vazir-bold.ttf")
+      format("truetype");
 }
 
 @font-face {
@@ -812,12 +822,13 @@ summary {
 
   font-weight: normal;
 
-  src: url('../fonts/vazir.eot');
+  src: url("../fonts/vazir.eot");
 
-  src: url('../fonts/vazir.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
-  url('../fonts/vazir.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/
-  url('../fonts/vazir.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-  url('../fonts/vazir.ttf') format('truetype');
+  src: url("../fonts/vazir.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("../fonts/vazir.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("../fonts/vazir.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/vazir.ttf")
+      format("truetype");
 }
 
 @font-face {
@@ -827,12 +838,14 @@ summary {
 
   font-weight: 200;
 
-  src: url('../fonts/vazir-light.eot');
+  src: url("../fonts/vazir-light.eot");
 
-  src: url('../fonts/vazir-light.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
-  url('../fonts/vazir-light.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/
-  url('../fonts/vazir-light.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-  url('../fonts/vazir-light.ttf') format('truetype');
+  src: url("../fonts/vazir-light.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("../fonts/vazir-light.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("../fonts/vazir-light.woff")
+      format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/vazir-light.ttf")
+      format("truetype");
 }
 
 body {
