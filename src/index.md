@@ -3,17 +3,33 @@ layout: layout.njk
 title: مسترموجی
 ---
 
-  {%- assign posts = collections.post | reverse -%}
-  {% for post in posts limit:1 %}
-  <div class="last-post">
-    <h2>
-      <a class="last-post-title" href="{{ post.url }}">
-        آخرین پست:
-        {{ post.data.title }}
+  <p>
+  من مجتبی‌م. مجتبی جوان. برنامه‌نویس و طراح گرافیک. مینیمالیستم.
+  اگه می‌خواید بیشتر منو بشناسید،
+  <a href="/about">
+        صفحه‌ی درباره
       </a>
-    </h2>
-    <p>
-      {{ post.data.description }}
-    </p>
-  </div>
+      رو بخونید.
+      اگه تمایل دارید همکاری کنیم، لطفا
+      <a href="/cv">
+        رزومه‌ی من
+      </a>
+      رو بررسی کنید. اگه به هر دلیلی خواستید با من ارتباط برقرار کنید
+      می‌تونید از لینک‌هایی که توی
+      <a href="/contact">
+        صفحه‌ی تماس
+      </a>
+      وجود داره استفاده کنید.
+      من اینجا می‌نویسم. عنوان آخرین پستم اینه: 
+      {%- assign posts = collections.post | reverse -%}
+  {% for post in posts limit:1 %}
+      <a href="{{ post.url }}">
+        «{{ post.data.title }}»
+      </a>
   {% endfor %}
+  . برای دیدن همه‌ی پست‌ها، 
+  <a href="/posts">
+        آرشیو
+      </a>
+      رو باز کنید.
+  </p>

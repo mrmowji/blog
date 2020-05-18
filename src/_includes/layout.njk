@@ -62,6 +62,7 @@ websiteSubtitle: چه کسی گوسفند مرا قورت داد؟ کاوه!؟
   <main>
     {{ content | safe }}
   </main>
+  {%- if not isHome -%}
   <footer>
     <nav>
       <a href="/posts">
@@ -78,5 +79,6 @@ websiteSubtitle: چه کسی گوسفند مرا قورت داد؟ کاوه!؟
       </a>
     </nav>
   </footer>
+  {%- endif -%}
 </body>
 </html>
