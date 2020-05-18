@@ -52,6 +52,11 @@ header.home {
   margin: 0 auto;
 }
 
+.avatar img {
+  display: block;
+  margin: 0 auto 12px auto;
+}
+
 .logo {
   margin: 0 auto 0.5rem auto;
   max-width: 100%;
