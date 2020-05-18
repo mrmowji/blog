@@ -45,7 +45,7 @@ header {
 }
 
 header.home {
-  margin-top: 6rem;
+  margin-top: 5rem;
 }
 
 .avatar {
@@ -85,7 +85,6 @@ header.home {
 main {
   display: block;
   margin-top: 6rem;
-  margin-bottom: 6rem;
 }
 
 /**
@@ -607,6 +606,7 @@ figcaption {
 
 footer {
   margin-bottom: 0.75rem;
+  margin-top: 6rem;
 }
 
 h1 {
