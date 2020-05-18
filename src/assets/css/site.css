@@ -48,6 +48,10 @@ header.home {
   margin-top: 6rem;
 }
 
+.avatar {
+  margin: 0 auto;
+}
+
 .logo {
   margin: 0 auto 0.5rem auto;
   max-width: 100%;
