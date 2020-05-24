@@ -32,6 +32,7 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-item">Entity Framework</span>
       <span class="cv-item">LINQ</span>
       <span class="cv-item">Vue.js</span>
+      <span class="cv-item">React.js</span>
       <span class="cv-item">JSON</span>
       <span class="cv-item">XML</span>
       <span class="cv-item">SVG</span>
@@ -40,6 +41,8 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-item">LESS</span>
       <span class="cv-item">Responsive Design</span>
       <span class="cv-item">TailwindCSS</span>
+      <span class="cv-item">Bootstrap</span>
+      <span class="cv-item">jQuery</span>
       <span class="cv-item">REST</span>
       <span class="cv-item">OOP</span>
       <span class="cv-item">MySQL</span>
