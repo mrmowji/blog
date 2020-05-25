@@ -39,10 +39,10 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-item">MVC</span>
       <span class="cv-item">Design Patterns</span>
       <span class="cv-item">LESS</span>
+      <span class="cv-item">SCSS</span>
       <span class="cv-item">Responsive Design</span>
       <span class="cv-item">TailwindCSS</span>
       <span class="cv-item">Bootstrap</span>
-      <span class="cv-item">SCSS</span>
       <span class="cv-item">jQuery</span>
       <span class="cv-item">REST</span>
       <span class="cv-item">OOP</span>
