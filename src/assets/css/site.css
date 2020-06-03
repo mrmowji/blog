@@ -714,6 +714,11 @@ summary {
   background-color: #4299e1;
 }
 
+.comment {
+  border: 2px solid black;
+  padding: 20px;
+}
+
 .cv-list-item {
   margin-bottom: 0.5rem;
 }
