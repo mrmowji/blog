@@ -716,6 +716,7 @@ summary {
 
 .comment {
   border: 2px solid black;
+  margin-top: 2.5rem;
   padding: 20px;
 }
 
