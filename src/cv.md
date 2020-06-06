@@ -88,18 +88,18 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">طراح گرافیک</h3>
       <span class="cv-list-item-subtitle">WTX Hub</span>
-      <span class="cv-list-item-time">از 1398</span>
+      <span class="cv-list-item-time">از ۱۳۹۸ تا ۱۳۹۹</span>
       <p>
-      در حال حاضر، بنده، مسئولیت طراحی لوگوی پروژه‌های وابسته به شرکت
-      WTXHub را بر عهده دارم.
+      به مدت ۶ ماه، مسئولیت طراحی لوگوی پروژه‌های وابسته به شرکت
+      WTXHub بر عهده‌ی من بود.
       این شرکت، در حال تولید نرم‌افزار، بلاک‌چین و رمزارز مرتبط
-      با حوزه‌ی غذا و نوشیدنی است.
+      با حوزه‌ی غذا و نوشیدنی است. با توجه به این که پرداخت دستمزد این شرکت بر پایه‌ی رمزارز WTXH بود و هنوز امکان خرید یا فروش آن وجود ندارد، ادامه‌ی همکاری برای بنده مقدور نبود.
       </p>
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">توسعه‌دهنده‌ی نرم‌افزار</h3>
       <span class="cv-list-item-subtitle">آزادکار</span>
-      <span class="cv-list-item-time">از 1385</span>
+      <span class="cv-list-item-time">از ۱۳۸۵</span>
       <br>
       <p>
       برنامه‌نویسی را با پاسکال و ++C شروع کردم.
@@ -111,9 +111,9 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">طراح گرافیک</h3>
       <span class="cv-list-item-subtitle">آزادکار</span>
-      <span class="cv-list-item-time">از 1393</span>
+      <span class="cv-list-item-time">از ۱۳۹۳</span>
       <br>
-      گرافیک را به صورت حرفه‌ای‌تر از سال 1393 دنبال می‌کنم.
+      گرافیک را به صورت حرفه‌ای‌تر از سال ۱۳۹۳ دنبال می‌کنم.
       پروژه‌های اولیه‌ی من در این حوزه، مرتبط با ویرایش تصاویر بود.
       پس از آن، طراحی وکتور و به‌خصوص طراحی لوگو و تایپوگرافی با سبک مینیمال را به عنوان حوزه‌ی اصلی خود انتخاب کردم.
       علاوه بر موارد مذکور، در زمینه‌های طراحی رابط کاربری،
@@ -122,21 +122,21 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">مدرس</h3>
       <span class="cv-list-item-subtitle">دانشگاه صنعتی بیرجند</span>
-      <span class="cv-list-item-time">1393</span>
+      <span class="cv-list-item-time">۱۳۹۳</span>
       <br>
       درس برنامه‌نویسی مقدماتی (الگوریتم و ++C) برای دانشجویان مهندسی صنایع
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">مدرس</h3>
       <span class="cv-list-item-subtitle">دانشگاه تهران</span>
-      <span class="cv-list-item-time">1392</span>
+      <span class="cv-list-item-time">۱۳۹۲</span>
       <br>
       درس ICDL برای دانشجویان کارشناسی زمین‌شناسی
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">استاد حل تمرین</h3>
       <span class="cv-list-item-subtitle">دانشگاه تهران</span>
-      <span class="cv-list-item-time">1392</span>
+      <span class="cv-list-item-time">۱۳۹۲</span>
       <br>
       درس نظریه‌ی علوم کامپیوتر برای دانشجویان کارشناسی ارشد علوم کامپیوتر
     </li>
@@ -147,16 +147,17 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">وبسایت Questhink</h3>
       <span class="cv-list-item-subtitle"><a href="https://questhink.com">questhink.com</a></span>
-      <span class="cv-list-item-time">از 1399</span>
+      <span class="cv-list-item-time">از ۱۳۹۹</span>
       <br>
-      یک وبسایت مینیمال که با استفاده از ASP.Net Core و TailwindCSS توسعه یافته است.
-      در این وبسایت، سعی شده تا مهم‌ترین سوالات زندگی انسان، گردآوری
+      یک وبسایت مینیمال که در ابتدا با استفاده از ASP.Net Core و TailwindCSS توسعه یافته بود.
+      پس از بررسی نیازها، این وبلاگ با استفاده از 11ty SSG و بدون استفاده از TailwindCSS بازنویسی شد.
+      در این وبسایت، سعی شده است تا مهم‌ترین سوالات زندگی انسان، گردآوری
       و به صورت تصادفی برای بازدیدکننده نمایش داده شود.
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">وبلاگ شخصی</h3>
       <span class="cv-list-item-subtitle"><a href="https://mrmowji.com">mrmowji.com</a></span>
-      <span class="cv-list-item-time">از 1397</span>
+      <span class="cv-list-item-time">از ۱۳۹۷</span>
       <br>
       یک وبلاگ مینیمال که در ابتدا با استفاده از ASP.Net Core و TailwindCSS توسعه یافته بود.
       پس از بررسی نیازها، این وبلاگ با استفاده از 11ty SSG و بدون استفاده از TailwindCSS بازنویسی شد.
@@ -167,21 +168,21 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">یاب‌نت</h3>
       <span class="cv-list-item-subtitle"><a href="https://yabnet.com" target="_blank">yabnet.com</a></span>
-      <span class="cv-list-item-time">از 1396</span>
+      <span class="cv-list-item-time">از ۱۳۹۶ تا ۱۳۹۹</span>
       <br>
-      یاب‌نت شبکه‌ای است برای ارتباط ارائه‌دهندگان (از هر نوع) با مشتریان.
-      این پروژه با استفاده از ASP.Net MVC و بانک اطلاعاتی MS SQL Server در سمت سرور، و Vuejs و Semantic-UI در سمت کلاینت توسعه یافته است.
-      همچنین به منظور برقراری ارتباط بلادرنگ بین کاربران، از SignalR استفاده شده است.
+      یاب‌نت شبکه‌ای بود برای ارتباط ارائه‌دهندگان (از هر نوع) با مشتریان.
+      این پروژه با استفاده از ASP.Net MVC و بانک اطلاعاتی MS SQL Server در سمت سرور، و Vuejs و Semantic-UI در سمت کلاینت توسعه یافته بود.
+      همچنین به منظور برقراری ارتباط بلادرنگ بین کاربران، از SignalR استفاده شد.
       به عنوان یک توسعه‌دهنده‌ی Full-Stack، مسئولیت توسعه‌ی کل پروژه (سرور، کلاینت، طراحی شامل طراحی لوگو) بر عهده‌ی بنده بود.
       از زمان آغاز پروژه، طراحی UI وبسایت، 2 بار به طور کلی تغییر کرد.
-      در حال حاضر نیز، بنده، مسئولیت نگهداری و پیاده‌سازی ویژگی‌های جدید این وبسایت را بر عهده دارم.
+      پروژه به دلیل افزایش هزینه‌های جانبی و نبود پشتوانه‌ی مالی متوقف شد.
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">دمادم</h3>
       <span class="cv-list-item-subtitle">damadam.ir</span>
-      <span class="cv-list-item-time">از 1393 تا 1397</span>
+      <span class="cv-list-item-time">از ۱۳۹۳ تا ۱۳۹۷</span>
       <br>
-      دمادم (به معنی لحظه‌به‌لحظه) یک خبرخوان فارسی بود که در اواخر سال 1393 با استفاده از PHP و MySQL توسعه یافت.
+      دمادم (به معنی لحظه‌به‌لحظه) یک خبرخوان فارسی بود که در اواخر سال ۱۳۹۳ با استفاده از PHP و MySQL توسعه یافت.
       در سمت کلاینت، از هیچ‌گونه فریمورکی استفاده نشده بود.
       در سال پایانی پروژه، فریمورک CodeIgniter در سمت سرور به کار گرفته شد.
       این پروژه، اولین پروژه‌ی بنده به عنوان توسعه‌دهنده‌ی Full-Stack وب بود.
@@ -190,12 +191,13 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       روزانه، حداقل ده‌هزار صفحه از منابع تعریف‌شده استخراج می‌شد.
       مهم‌ترین تجربه‌ی برنامه‌نویسی برای من، وبسایت دمادم بود.
       هر چند نمی‌توان وبسایت الکسا را یک منبع معتبر دانست،
-      ولی وبسایت دمادم، پس از 2 سال توانست به رتبه‌ی 700 در ایران دست پیدا کند.
+      ولی وبسایت دمادم، پس از ۲ سال توانست به رتبه‌ی ۷۰۰ در ایران دست پیدا کند.
+      از جمله دلایل توقف این پروژه، می‌توان به، فیلتر شدن یک‌ماهه، تغییر عملکرد وبسایت از دریافت محتوای اصلی خبر به دریافت تنها عنوان و سایر اطلاعات جزئی، و حساس بودن اخبار بعضی از منابع و در نتیجه شکایت‌هایی که به دنبال داشت، اشاره کرد.
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">ژئومورفولوژی کمی</h3>
       <span class="cv-list-item-subtitle"><a href="http://irangeomorphology.ir/content/182/%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%DA%98%D8%A6%D9%88%D9%85%D9%88%D8%B1%D9%81%D9%88%D9%84%D9%88%DA%98%DB%8C-%DA%A9%D9%85%DB%8C%D8%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%AE%D8%A8%D8%B1-28_YW_SLASH_2_YW_SLASH_1392%D8%8C-%D8%AE%D8%A8%D8%B1-%D8%A7%D8%B2-%D8%AD%D8%B3%DB%8C%D9%86-%D8%AC%D9%88%D8%A7%D9%86" target="_blank">انجمن ایرانی ژئومورفولوژی</a></span>
-      <span class="cv-list-item-time">1392</span>
+      <span class="cv-list-item-time">۱۳۹۳</span>
       <br>
       این نرم‌افزار تحت ویندوز، یک محاسبه‌گر برای مهم‌ترین فرمول‌های موجود در ژئومورفولوژی است
       که با WinForms و بانک اطلاعاتی MS Access توسعه یافته است.
@@ -229,12 +231,12 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">کارشناسی علوم کامپیوتر</h3>
       <span class="cv-list-item-subtitle">دانشگاه شهید باهنر کرمان</span>
-      <span class="cv-list-item-time">ورودی 1385</span>
+      <span class="cv-list-item-time">ورودی ۱۳۸۵</span>
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">کارشناسی ارشد علوم کامپیوتر</h3>
       <span class="cv-list-item-subtitle">دانشگاه تهران</span>
-      <span class="cv-list-item-time">ورودی 1390</span>
+      <span class="cv-list-item-time">ورودی ۱۳۹۰</span>
       <br>
       پایان‌نامه: طراحی و پیاده‌سازی یک الگوریتم جدید،
       دقیق‌تر و بسیار سریع‌تر برای حل مساله‌ی طراحی RNA در حوزه‌ی بیوانفورماتیک
@@ -246,21 +248,21 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">لوگوی منتخب داوران</h3>
       <span class="cv-list-item-subtitle">انجمن منطق ایران</span>
-      <span class="cv-list-item-time">1398</span>
+      <span class="cv-list-item-time">۱۳۹۸</span>
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">لوگوی منتخب داوران</h3>
       <span class="cv-list-item-subtitle">بیرجند تیاتر</span>
-      <span class="cv-list-item-time">1396</span>
+      <span class="cv-list-item-time">۱۳۹۶</span>
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">لوگوی منتخب داوران</h3>
       <span class="cv-list-item-subtitle">وبسایت خبری کلیژدک</span>
-      <span class="cv-list-item-time">1395</span>
+      <span class="cv-list-item-time">۱۳۹۵</span>
     </li>
     <li class="cv-list-item">
-      <h3 class="cv-list-item-title">رتبه‌ی 36 در کنکور کارشناسی ارشد علوم کامپیوتر</h3>
-      <span class="cv-list-item-time">1390</span>
+      <h3 class="cv-list-item-title">رتبه‌ی ۳۶ در کنکور کارشناسی ارشد علوم کامپیوتر</h3>
+      <span class="cv-list-item-time">۱۳۹۰</span>
     </li>
   </ul>
 
@@ -273,9 +275,9 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       روزانه نیز، از مقالات و کتاب‌های انگلیسی و مرتبط با برنامه‌نویسی و گرافیک استفاده می‌کنم.
       بیشترین تجربه‌ی من در نوشتن متون انگلیسی،
       در جوامع آنلاین و مرتبط با حوزه‌های کاری (StackOverflow یا Github) است.
-      اخیرا، بیشتر فیلم‌ها و سریال‌های انگلیسی را بدون زیرنویس، تماشا می‌کنم.
+      اخیرا، بیشتر فیلم‌ها و سریال‌های انگلیسی را بدون زیرنویس تماشا می‌کنم.
       با توجه به اینکه، تجربه‌ی زیادی در مکالمه‌ی انگلیسی نداشته‌ام،
-      کیفیت صبحت کردن من به زبان انگلیسی، از کیفیت سایر مهارت‌های من در این زبان، کمتر است.
+      کیفیت صحبت کردن من به زبان انگلیسی، از کیفیت سایر مهارت‌های من در این زبان، کمتر است.
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">اسپانیایی</h3>
