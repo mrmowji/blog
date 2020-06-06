@@ -142,43 +142,6 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     </li>
   </ul>
 
-  <h2>تحصیلات</h2>
-  <ul>
-    <li class="cv-list-item">
-      <h3 class="cv-list-item-title">کارشناسی علوم کامپیوتر</h3>
-      <span class="cv-list-item-subtitle">دانشگاه شهید باهنر کرمان</span>
-      <span class="cv-list-item-time">ورودی 1385</span>
-    </li>
-    <li class="cv-list-item">
-      <h3 class="cv-list-item-title">کارشناسی ارشد علوم کامپیوتر</h3>
-      <span class="cv-list-item-subtitle">دانشگاه تهران</span>
-      <span class="cv-list-item-time">ورودی 1390</span>
-      <br>
-      پایان‌نامه: طراحی و پیاده‌سازی یک الگوریتم جدید،
-      دقیق‌تر و بسیار سریع‌تر برای حل مساله‌ی طراحی RNA در حوزه‌ی بیوانفورماتیک
-    </li>
-  </ul>
-
-  <h2>زبان‌های خارجی</h2>
-  <ul>
-    <li class="cv-list-item">
-      <h3 class="cv-list-item-title">انگلیسی</h3>
-      <br>
-      تجربه‌ی زیادی در خواندن و ترجمه‌ی متون انگلیسی دارم.
-      روزانه نیز، از مقالات و کتاب‌های انگلیسی و مرتبط با برنامه‌نویسی و گرافیک استفاده می‌کنم.
-      بیشترین تجربه‌ی من در نوشتن متون انگلیسی،
-      در جوامع آنلاین و مرتبط با حوزه‌های کاری (StackOverflow یا Github) است.
-      اخیرا، بیشتر فیلم‌ها و سریال‌های انگلیسی را بدون زیرنویس، تماشا می‌کنم.
-      با توجه به اینکه، تجربه‌ی زیادی در مکالمه‌ی انگلیسی نداشته‌ام،
-      کیفیت صبحت کردن من به زبان انگلیسی، از کیفیت سایر مهارت‌های من در این زبان، کمتر است.
-    </li>
-    <li class="cv-list-item">
-      <h3 class="cv-list-item-title">اسپانیایی</h3>
-      <br>
-      در حال حاضر، یادگیری این زبان را از طریق اپلیکیشن Duolingo دنبال می‌کنم.
-    </li>
-  </ul>
-
   <h2>پروژه‌ها</h2>
   <ul>
     <li class="cv-list-item">
@@ -240,9 +203,10 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">مخازن GitHub</h3>
       <br>
-      در حال حاضر، 3 اپلیکیشن تحت وب با نام‌های
-      <a href="https://github.com/mrmowji/Pomodoro" target="_blank">Pomodoro</a>,
-      <a href="https://github.com/mrmowji/chess-clock" target="_blank">Chess Clock</a>
+      در حال حاضر، ۴ اپلیکیشن تحت وب با نام‌های
+      <a href="https://github.com/mrmowji/sodist" target="_blank">Sodist</a>،
+      <a href="https://github.com/mrmowji/Pomodoro" target="_blank">Pomodoro</a>،
+      <a href="https://github.com/mrmowji/chess-clock" target="_blank">Chess Clock</a>،
       و
       <a href="https://github.com/mrmowji/rasgir" target="_blank">راس‌گیر</a>
       در مخازن عمومی بنده در GitHub وجود دارد. این اپلیکیشن‌ها با استفاده از Vuejs، Semantic-UI یا TailwindCSS توسعه یافته‌اند.
@@ -257,6 +221,23 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       یا
       <a href="https://www.behance.net/mrmowji" target="_blank">Behance</a>
       ببینید.
+    </li>
+  </ul>
+
+  <h2>تحصیلات</h2>
+  <ul>
+    <li class="cv-list-item">
+      <h3 class="cv-list-item-title">کارشناسی علوم کامپیوتر</h3>
+      <span class="cv-list-item-subtitle">دانشگاه شهید باهنر کرمان</span>
+      <span class="cv-list-item-time">ورودی 1385</span>
+    </li>
+    <li class="cv-list-item">
+      <h3 class="cv-list-item-title">کارشناسی ارشد علوم کامپیوتر</h3>
+      <span class="cv-list-item-subtitle">دانشگاه تهران</span>
+      <span class="cv-list-item-time">ورودی 1390</span>
+      <br>
+      پایان‌نامه: طراحی و پیاده‌سازی یک الگوریتم جدید،
+      دقیق‌تر و بسیار سریع‌تر برای حل مساله‌ی طراحی RNA در حوزه‌ی بیوانفورماتیک
     </li>
   </ul>
 
@@ -280,6 +261,26 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">رتبه‌ی 36 در کنکور کارشناسی ارشد علوم کامپیوتر</h3>
       <span class="cv-list-item-time">1390</span>
+    </li>
+  </ul>
+
+  <h2>زبان‌های خارجی</h2>
+  <ul>
+    <li class="cv-list-item">
+      <h3 class="cv-list-item-title">انگلیسی</h3>
+      <br>
+      تجربه‌ی زیادی در خواندن و ترجمه‌ی متون انگلیسی دارم.
+      روزانه نیز، از مقالات و کتاب‌های انگلیسی و مرتبط با برنامه‌نویسی و گرافیک استفاده می‌کنم.
+      بیشترین تجربه‌ی من در نوشتن متون انگلیسی،
+      در جوامع آنلاین و مرتبط با حوزه‌های کاری (StackOverflow یا Github) است.
+      اخیرا، بیشتر فیلم‌ها و سریال‌های انگلیسی را بدون زیرنویس، تماشا می‌کنم.
+      با توجه به اینکه، تجربه‌ی زیادی در مکالمه‌ی انگلیسی نداشته‌ام،
+      کیفیت صبحت کردن من به زبان انگلیسی، از کیفیت سایر مهارت‌های من در این زبان، کمتر است.
+    </li>
+    <li class="cv-list-item">
+      <h3 class="cv-list-item-title">اسپانیایی</h3>
+      <br>
+      در حال حاضر، یادگیری این زبان را از طریق اپلیکیشن Duolingo دنبال می‌کنم.
     </li>
   </ul>
 
