@@ -167,7 +167,7 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">یاب‌نت</h3>
-      <span class="cv-list-item-subtitle"><a href="https://yabnet.com" target="_blank">yabnet.com</a></span>
+      <span class="cv-list-item-subtitle">yabnet.com</span>
       <span class="cv-list-item-time">از ۱۳۹۶ تا ۱۳۹۹</span>
       <br>
       یاب‌نت شبکه‌ای بود برای ارتباط ارائه‌دهندگان (از هر نوع) با مشتریان.
