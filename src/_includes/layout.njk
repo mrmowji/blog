@@ -53,32 +53,32 @@ websiteSubtitle: چه کسی گوسفند مرا قورت داد؟ کاوه!؟
     <div class="avatar">
       <img src="{{ website.assetsPath }}/images/layout/avatar.png" alt="Brad Pitt" width="100" />
     </div>
-    {%- endif -%}
     <a href="/">
       <img class="logo {{ "home" if isHome }}" src="{{ website.assetsPath }}/images/layout/logo2.png" alt="{{ websiteTitle }}" />
     </a>
     <div class="subtitle {{ "home" if isHome }}">{{ websiteSubtitle }}</div>
+    {%- else -%}
+    <div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid black">
+      <a href="/"><img src="{{ website.assetsPath }}/images/layout/favicon-32x32.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+      </nav>
+    </div>
+    {%- endif -%}
   </header>
   <main>
     {{ content | safe }}
   </main>
-  {%- if not isHome -%}
-  <footer>
-    <nav>
-      <a href="/">
-        خانه
-      </a>
-      <a href="/about">
-        درباره
-      </a>
-      <a href="/cv">
-        رزومه
-      </a>
-      <a href="/">
-        تماس
-      </a>
-    </nav>
-  </footer>
-  {%- endif -%}
 </body>
 </html>

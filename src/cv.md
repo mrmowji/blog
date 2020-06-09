@@ -9,7 +9,7 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <br>
     بیرجند - خراسان جنوبی
     <br>
-    <a href="mailto:javan.mojtaba@gmail.com">javan.mojtaba@gmail.com</a>
+    <a class="js-copy" data-value="javan.mojtaba@gmail.com">javan.mojtaba@gmail.com</a>
   </p>
   <p>
     در حال حاضر، تنها به صورت دورکاری آماده‌ی همکاری
