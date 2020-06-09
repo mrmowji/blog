@@ -14,13 +14,16 @@ title: مسترموجی
       <a href="/cv">
         رزومه
       </a>
-      رو بررسی کنید. اگه به هر دلیلی خواستید با من ارتباط برقرار کنید
-      می‌تونید از
-      <a href="/contact">
-        لینک‌های تماس
-      </a>
-      استفاده کنید.
-      من اینجا می‌نویسم.
+      رو بررسی کنید.
+      ایمیلم اینه: <span onclick="copyToClipboard('javan.mojtaba@gmail.com')">javan.mojtaba@gmail.com</a>.
+      توی
+      <a href="https://instagram.com/mrmowji" target="_blank" rel="nofollow">Instagram</a>،
+      <a href="https://t.me/mrmowji" target="_blank" rel="nofollow">Telegram</a>،
+      <a href="https://linkedin.com/in/mrmowji" target="_blank" rel="nofollow">Linkedin</a>،
+      <a href="https://github.com/mrmowji" target="_blank" rel="nofollow">GitHub</a>،
+      <a href="https://dribbble.com/mrmowji" target="_blank" rel="nofollow">Dribbble</a> و
+      <a href="https://behance.net/mrmowji" target="_blank" rel="nofollow">Behance</a>
+      هم هستم.
   </p>
 
 
