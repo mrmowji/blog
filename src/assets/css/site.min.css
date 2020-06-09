@@ -771,6 +771,14 @@ summary {
   font-size: 0.875rem;
 }
 
+.intro {
+  margin-bottom: 6rem;
+}
+
+.intro p {
+  margin-bottom: 0;
+}
+
 .list-none {
   list-style-type: none;
 }
