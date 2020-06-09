@@ -7,15 +7,16 @@ title: مسترموجی
     من مجتبی‌م. مجتبی جوان. برنامه‌نویس و طراح گرافیک. مینیمالیستم.
     <br>
     <span style="text-align: center;">
-      <a href="/about">درباره</a> / 
-      <a href="/cv">رزومه</a> / 
-      <a class="js-copy" data-value="javan.mojtaba@gmail.com">ایمیل</a> / 
       <a href="https://instagram.com/mrmowji" target="_blank" rel="nofollow">Instagram</a> / 
       <a href="https://t.me/mrmowji" target="_blank" rel="nofollow">Telegram</a> / 
       <a href="https://linkedin.com/in/mrmowji" target="_blank" rel="nofollow">Linkedin</a> / 
       <a href="https://github.com/mrmowji" target="_blank" rel="nofollow">GitHub</a> / 
       <a href="https://dribbble.com/mrmowji" target="_blank" rel="nofollow">Dribbble</a> / 
       <a href="https://behance.net/mrmowji" target="_blank" rel="nofollow">Behance</a>
+      <br>
+      <a href="/about">درباره</a> / 
+      <a href="/cv">رزومه</a> / 
+      <a class="js-copy" data-value="javan.mojtaba@gmail.com">ایمیل</a>
     </span>
   </p>
 

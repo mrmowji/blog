@@ -788,6 +788,19 @@ summary {
   color: #3182ce;
 }
 
+.message {
+  background: black;
+  bottom: 0;
+  color: white;
+  font-size: 1rem;
+  left: 0;
+  line-height: 1;
+  padding: 1.25rem;
+  position: fixed;
+  right: 0;
+  text-align: center;
+}
+
 .post-info {
   color: #9e9e9e;
   font-size: 0.75rem;
