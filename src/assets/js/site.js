@@ -17,7 +17,7 @@ function copyToClipboard(text) {
   input.setSelectionRange(0, 99999); /*For mobile devices*/
   document.execCommand("copy");
   input.remove();
-  displayMessage("کپی شد!");
+  displayMessage("کپی شد.");
 }
 
 function displayMessage(message) {
