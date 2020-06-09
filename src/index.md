@@ -20,15 +20,24 @@ title: مسترموجی
         لینک‌های تماس
       </a>
       استفاده کنید.
-      من اینجا می‌نویسم. عنوان آخرین پستم اینه: 
-      {%- assign posts = collections.post | reverse -%}
-  {% for post in posts limit:1 %}
-      <a href="{{ post.url }}">
-        «{{ post.data.title }}»
-      </a>
-  {% endfor %}. برای دیدن همه‌ی پست‌ها، 
-  <a href="/posts">
-        آرشیو
-      </a>
-      رو باز کنید.
+      من اینجا می‌نویسم.
   </p>
+
+
+  <h2>نوشته‌ها</h2>
+  <p>
+    تا این لحظه،
+    <strong>{{ collections.post.length }}</strong>
+    مطلب نوشته شده.
+    مطالب بر اساس زمان و به صورت نزولی مرتب شدن (جدیدترین پست‌ها بالاترن).
+  </p>
+  <ul class="list-none compact">
+  {%- for post in collections.post -%}
+    <li>
+      <span>
+        <time datetime="{{ post.data.date }}">{{ post.data.date | date: '%Y/%m/%d' }}</time>
+      </span>
+      <a href="{{ post.url }}">{{ post.data.title }}</a>  
+    </li>
+  {%- endfor -%}
+  </ul>
