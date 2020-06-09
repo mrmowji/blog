@@ -5,7 +5,7 @@ title: مسترموجی
 
 <div class="intro">
   <p>
-    مجتبی جوان، برنامه‌نویس و طراح گرافیک، مینیمالیست
+    مجتبی جوان، برنامه‌نویس و طراح گرافیک
     </p>
     <nav>
       <a href="https://instagram.com/mrmowji" target="_blank" rel="nofollow">Instagram</a>
