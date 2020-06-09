@@ -5,25 +5,21 @@ title: مسترموجی
 
   <p>
   من مجتبی‌م. مجتبی جوان. برنامه‌نویس و طراح گرافیک. مینیمالیستم.
-  اگه می‌خواید بیشتر منو بشناسید،
+  <div style="text-align: center;">
   <a href="/about">
         درباره
       </a>
-      رو بخونید.
-      اگه تمایل به همکاری داشتید، لطفا
       <a href="/cv">
         رزومه
       </a>
-      رو بررسی کنید.
-      ایمیلم اینه: <span onclick="copyToClipboard('javan.mojtaba@gmail.com')">javan.mojtaba@gmail.com</a>.
-      توی
-      <a href="https://instagram.com/mrmowji" target="_blank" rel="nofollow">Instagram</a>،
-      <a href="https://t.me/mrmowji" target="_blank" rel="nofollow">Telegram</a>،
-      <a href="https://linkedin.com/in/mrmowji" target="_blank" rel="nofollow">Linkedin</a>،
-      <a href="https://github.com/mrmowji" target="_blank" rel="nofollow">GitHub</a>،
-      <a href="https://dribbble.com/mrmowji" target="_blank" rel="nofollow">Dribbble</a> و
+      <a class="js-copy" data-value="javan.mojtaba@gmail.com">ایمیل</a>
+      <a href="https://instagram.com/mrmowji" target="_blank" rel="nofollow">Instagram</a>
+      <a href="https://t.me/mrmowji" target="_blank" rel="nofollow">Telegram</a>
+      <a href="https://linkedin.com/in/mrmowji" target="_blank" rel="nofollow">Linkedin</a>
+      <a href="https://github.com/mrmowji" target="_blank" rel="nofollow">GitHub</a>
+      <a href="https://dribbble.com/mrmowji" target="_blank" rel="nofollow">Dribbble</a>
       <a href="https://behance.net/mrmowji" target="_blank" rel="nofollow">Behance</a>
-      هم هستم.
+      </div>
   </p>
 
 

@@ -1,6 +1,12 @@
 ﻿hljs.initHighlightingOnLoad();
 
 document.addEventListener("DOMContentLoaded", function() {
+  for (let el of document.querySelectorAll(".js-copy")) {
+    el.addEventListener("click", function (e) {
+      e.preventDefault();
+      copyToClipboard(el.dataset.value);
+    });
+  }
 });
 
 function copyToClipboard(text) {
