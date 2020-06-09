@@ -19,10 +19,12 @@ title: مسترموجی
       <a href="/about">درباره</a>
       <a href="/cv">رزومه</a>
       <a class="js-copy" data-value="javan.mojtaba@gmail.com">ایمیل</a>
+      <br>
+      <a href="#posts">نوشته‌ها</a>
   </nav>
 </div>
 
-  <h2>نوشته‌ها</h2>
+  <h2 id="posts">نوشته‌ها</h2>
   <p>
     تا این لحظه،
     <strong>{{ collections.post.length }}</strong>
