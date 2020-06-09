@@ -28,7 +28,7 @@ title: مسترموجی
     مطالب بر اساس زمان و به صورت نزولی مرتب شدن (جدیدترین پست‌ها بالاترن).
   </p>
   <ul class="list-none compact">
-  {%- for post in collections.post -%}
+  {%- for post in collections.post reversed -%}
     <li>
       <span>
         <time datetime="{{ post.data.date }}">{{ post.data.date | date: '%Y/%m/%d' }}</time>
