@@ -572,6 +572,7 @@ nav {
 
 nav a {
   color: #616161;
+  margin: 0 8px;
 }
 
 nav a:hover {
@@ -768,6 +769,14 @@ summary {
   display: inline-block;
   margin-bottom: 0.25rem;
   font-size: 0.875rem;
+}
+
+.intro {
+  margin-bottom: ;
+}
+
+.intro p {
+  margin-bottom: 0;
 }
 
 .list-none {

@@ -1,4 +1,794 @@
-html{line-height:1.15;-webkit-text-size-adjust:100%;height:100%}body{color:#212121;font-size:18px;line-height:1.5;margin:0 auto;max-width:36rem;min-height:100%;padding:1.25rem}blockquote{background:#eaeaea;border-right:5px solid #000;margin:0 0 2rem;padding:1rem 1.5rem}header{margin-bottom:2.5rem;margin-top:2rem;text-align:center}header.home{margin-top:5rem}.avatar{margin:0 auto}.avatar img{display:block;margin:0 auto 12px}.logo{margin:0 auto .5rem;max-width:100%;opacity:.25;width:12rem}.logo.home{opacity:1;width:16rem}.subtitle{font-size:.875rem;opacity:.5}.subtitle.home{font-size:1rem}main{display:block;margin-top:6rem}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}b,strong{font-weight:bolder}code{font-family:monospace,monospace;font-size:1em}img{border-style:none}input,select{font-family:inherit;font-size:100%;line-height:1.15;margin:0}input{overflow:visible}select{text-transform:none}[type="reset"]{-webkit-appearance:button}[type="reset"]::-moz-focus-inner{border-style:none;padding:0}[type="reset"]:-moz-focusring{outline:1px dotted ButtonText}[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto}[type="search"]{-webkit-appearance:textfield;outline-offset:-2px}[type="search"]::-webkit-search-decoration{-webkit-appearance:none}summary{display:list-item}template{display:none}h1,h2,h3,hr,figure,p,pre{margin:0}ul{list-style:none;margin:0;padding:0}html{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";line-height:1.5}*,::before,::after{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e0e0e0}hr{border-top-width:1px}img{border-style:solid}input::-webkit-input-placeholder{color:#a0aec0}input::-moz-placeholder{color:#a0aec0}input:-ms-input-placeholder{color:#a0aec0}input::-ms-input-placeholder{color:#a0aec0}input::placeholder{color:#a0aec0}table{border-collapse:collapse}h1,h2,h3{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}input,select{padding:0;line-height:inherit;color:inherit}pre,code{font-family:Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}img,object{display:block;vertical-align:middle}img{height:auto;max-width:100%;margin:auto}.container{width:100%}@media (min-width: 640px){.container{max-width:640px}}@media (min-width: 768px){body{padding:2.25rem}.container{max-width:768px}}@media (min-width: 1024px){.container{max-width:1024px}}@media (min-width: 1280px){.container{max-width:1280px}}a{color:#4299e1}a:hover{color:#3182ce}nav{text-align:center}nav a{color:#616161}nav a:hover{color:#212121}code{direction:ltr;font-family:"Sans Mono","Consolas","Courier",monospace;font-size:1rem;background-color:#eee;padding-left:.25rem;padding-right:.25rem;display:inline-block}.hljs{margin-bottom:2rem}figure{margin-top:1.25rem;margin-bottom:1.25rem}figcaption{font-size:.875rem;text-align:center;color:#9e9e9e;margin-top:.5rem;margin-bottom:.5rem}footer{margin-bottom:.75rem;margin-top:6rem}h1{font-size:1.875rem;font-weight:900;margin-bottom:.5rem}h2{font-size:1.5rem;font-weight:900;margin-bottom:.5rem;margin-top:4rem}h3{font-size:1.125rem;font-weight:900;margin-top:.75rem}input[type="text"],input[type="number"],input[type="password"]{outline:0;background-color:#eee;border-color:#eee;padding:.5rem;display:block;width:100%;border-width:4px}input[type="text"]:focus,input[type="password"]:focus{border-color:#90cdf4}p{margin-bottom:2rem}p:last-child{margin-bottom:0}table{width:100%;border-width:2px;border-color:#757575;margin-top:1.25rem;margin-bottom:1.25rem;border-collapse:collapse}time{color:#9e9e9e;margin-left:1.25rem}ul{list-style-type:square;margin-bottom:2rem;padding-right:1.25rem}li{margin-bottom:2rem}ul.compact li{margin-bottom:.2rem}summary{outline:0}.btn{color:#424242;border-color:#424242;border-width:2px;text-align:center;padding:.75rem;width:100%;border-radius:.25rem;font-size:.875rem}.btn:hover{background-color:#424242;color:#fff}.btn-comment{margin-top:2.5rem;margin-bottom:2.5rem;display:block;color:#4299e1;border-color:#4299e1}.btn-comment:hover{background-color:#4299e1}.comment{border:2px solid #000;font-size:16px;margin-top:2.5rem;padding:20px}.cv-list-item{margin-bottom:.5rem}.cv-list-item-title{margin-top:0;margin-bottom:0;display:inline-block;margin-left:.5rem}.cv-list-item-subtitle{margin-left:.5rem}.cv-list-item-subtitle::before{content:"("}.cv-list-item-subtitle::after{content:")"}.cv-list-item-time{color:#9e9e9e;font-size:.875rem;margin-left:.5rem}.cv-list-item-time::before{content:"["}.cv-list-item-time::after{content:"]"}.cv-item{background-color:#e0e0e0;border-radius:.25rem;display:inline-block;margin-bottom:.25rem;font-size:.875rem;padding:.25rem .5rem}.list-none{list-style-type:none}.last-post{margin-bottom:.75rem}.last-post-title{color:#4299e1;font-size:1.25rem;margin-bottom:.5rem}.last-post-title:hover{color:#3182ce}.post-info{color:#9e9e9e;font-size:.75rem;margin-top:2rem}.line-through{text-decoration:line-through}@font-face{font-family:Vazir;font-style:normal;font-weight:900;src:url(../fonts/vazir-black.eot);src:url(../fonts/vazir-black.eot?#iefix) format("embedded-opentype"),url(../fonts/vazir-black.woff2) format("woff2"),url(../fonts/vazir-black.woff) format("woff"),url(../fonts/vazir-black.ttf) format("truetype")}@font-face{font-family:Vazir;font-style:normal;font-weight:700;src:url(../fonts/vazir-bold.eot);src:url(../fonts/vazir-bold.eot?#iefix) format("embedded-opentype"),url(../fonts/vazir-bold.woff2) format("woff2"),url(../fonts/vazir-bold.woff) format("woff"),url(../fonts/vazir-bold.ttf) format("truetype")}@font-face{font-family:Vazir;font-style:normal;font-weight:400;src:url(../fonts/vazir.eot);src:url(../fonts/vazir.eot?#iefix) format("embedded-opentype"),url(../fonts/vazir.woff2) format("woff2"),url(../fonts/vazir.woff) format("woff"),url(../fonts/vazir.ttf) format("truetype")}@font-face{font-family:Vazir;font-style:normal;font-weight:200;src:url(../fonts/vazir-light.eot);src:url(../fonts/vazir-light.eot?#iefix) format("embedded-opentype"),url(../fonts/vazir-light.woff2) format("woff2"),url(../fonts/vazir-light.woff) format("woff"),url(../fonts/vazir-light.ttf) format("truetype")}body{font-family:Vazir,Tahoma,sans-serif!important;letter-spacing:-.5px}.hljs{display:block;overflow-x:auto;padding:.5em;background:#23241f}.hljs,.hljs-tag,.hljs-subst{color:#f8f8f2}.hljs-strong,.hljs-emphasis{color:#a8a8a2}.hljs-bullet,.hljs-quote,.hljs-number,.hljs-regexp,.hljs-literal,.hljs-link{color:#ae81ff}.hljs-code,.hljs-title,.hljs-section,.hljs-selector-class{color:#a6e22e}.hljs-strong{font-weight:700}.hljs-emphasis{font-style:italic}.hljs-keyword,.hljs-selector-tag,.hljs-name,.hljs-attr{color:#f92672}.hljs-symbol,.hljs-attribute{color:#66d9ef}.hljs-params,.hljs-class .hljs-title{color:#f8f8f2}.hljs-string,.hljs-type,.hljs-built_in,.hljs-builtin-name,.hljs-selector-id,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-addition,.hljs-variable,.hljs-template-variable{color:#e6db74}.hljs-comment,.hljs-deletion,.hljs-meta{color:#75715e}
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+/* Document
+   ========================================================================== */
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+
+ html {
+  line-height: 1.15; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+  height: 100%;
+}
+
+/* Sections
+   ========================================================================== */
+
+/**
+ * Remove the margin in all browsers.
+ */
+
+body {
+  color: #212121;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 36rem;
+  min-height: 100%;
+  padding: 1.25rem;
+}
+
+blockquote {
+  background: #eaeaea;
+  border-right: 5px solid black;
+  margin: 0 0 2rem 0;
+  padding: 1rem 1.5rem;
+}
+
+header {
+  margin-bottom: 2.5rem;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+header.home {
+  margin-top: 5rem;
+}
+
+.avatar {
+  margin: 0 auto;
+}
+
+.avatar img {
+  display: block;
+  margin: 0 auto 12px auto;
+}
+
+.logo {
+  margin: 0 auto 0.5rem auto;
+  max-width: 100%;
+  opacity: 0.25;
+  width: 12rem;
+}
+
+.logo.home {
+  opacity: 1;
+  width: 16rem;
+}
+
+.subtitle {
+  font-size: 0.875rem;
+  opacity: 0.5;
+}
+
+.subtitle.home {
+  font-size: 1rem;
+}
+
+/**
+ * Render the `main` element consistently in IE.
+ */
+
+main {
+  display: block;
+  margin-top: 6rem;
+}
+
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+/* Grouping content
+   ========================================================================== */
+
+/**
+ * 1. Add the correct box sizing in Firefox.
+ * 2. Show the overflow in Edge and IE.
+ */
+
+hr {
+  box-sizing: content-box; /* 1 */
+  height: 0; /* 1 */
+  overflow: visible; /* 2 */
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+pre {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+/* Text-level semantics
+   ========================================================================== */
+
+/**
+ * Remove the gray background on active links in IE 10.
+ */
+
+a {
+  background-color: transparent;
+}
+
+/**
+ * 1. Remove the bottom border in Chrome 57-
+ * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ */
+
+/**
+ * Add the correct font weight in Chrome, Edge, and Safari.
+ */
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+code {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+/**
+ * Add the correct font size in all browsers.
+ */
+
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in
+ * all browsers.
+ */
+
+/* Embedded content
+   ========================================================================== */
+
+/**
+ * Remove the border on images inside links in IE 10.
+ */
+
+img {
+  border-style: none;
+}
+
+/* Forms
+   ========================================================================== */
+
+/**
+ * 1. Change the font styles in all browsers.
+ * 2. Remove the margin in Firefox and Safari.
+ */
+
+input,
+select {
+  font-family: inherit; /* 1 */
+  font-size: 100%; /* 1 */
+  line-height: 1.15; /* 1 */
+  margin: 0; /* 2 */
+}
+
+/**
+ * Show the overflow in IE.
+ * 1. Show the overflow in Edge.
+ */
+
+input {
+  /* 1 */
+  overflow: visible;
+}
+
+/**
+ * Remove the inheritance of text transform in Edge, Firefox, and IE.
+ * 1. Remove the inheritance of text transform in Firefox.
+ */
+
+select {
+  /* 1 */
+  text-transform: none;
+}
+
+/**
+ * Correct the inability to style clickable types in iOS and Safari.
+ */
+
+[type="reset"] {
+  -webkit-appearance: button;
+}
+
+/**
+ * Remove the inner border and padding in Firefox.
+ */
+
+[type="reset"]::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}
+
+/**
+ * Restore the focus styles unset by the previous rule.
+ */
+
+[type="reset"]:-moz-focusring {
+  outline: 1px dotted ButtonText;
+}
+
+/**
+ * Correct the padding in Firefox.
+ */
+
+/**
+ * 1. Correct the text wrapping in Edge and IE.
+ * 2. Correct the color inheritance from `fieldset` elements in IE.
+ * 3. Remove the padding so developers are not caught out when they zero out
+ *    `fieldset` elements in all browsers.
+ */
+
+/**
+ * Add the correct vertical alignment in Chrome, Firefox, and Opera.
+ */
+
+/**
+ * Remove the default vertical scrollbar in IE 10+.
+ */
+
+/**
+ * 1. Add the correct box sizing in IE 10.
+ * 2. Remove the padding in IE 10.
+ */
+
+/**
+ * Correct the cursor style of increment and decrement buttons in Chrome.
+ */
+
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+
+[type="search"] {
+  -webkit-appearance: textfield; /* 1 */
+  outline-offset: -2px; /* 2 */
+}
+
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+
+/* Interactive
+   ========================================================================== */
+
+/*
+ * Add the correct display in Edge, IE 10+, and Firefox.
+ */
+
+/*
+ * Add the correct display in all browsers.
+ */
+
+summary {
+  display: list-item;
+}
+
+/* Misc
+   ========================================================================== */
+
+/**
+ * Add the correct display in IE 10+.
+ */
+
+template {
+  display: none;
+}
+
+/**
+ * Add the correct display in IE 10.
+ */
+
+/**
+ * Manually forked from SUIT CSS Base: https://github.com/suitcss/base
+ * A thin layer on top of normalize.css that provides a starting point more
+ * suitable for web applications.
+ */
+
+/**
+ * Removes the default spacing and border for appropriate elements.
+ */
+
+h1,
+h2,
+h3,
+hr,
+figure,
+p,
+pre {
+  margin: 0;
+}
+
+/**
+ * Work around a Firefox/IE bug where the transparent `button` background
+ * results in a loss of the default `button` focus styles.
+ */
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/**
+ * Tailwind custom reset styles
+ */
+
+/**
+ * 1. Use the user's configured `sans` font-family (with Tailwind's default
+ *    sans-serif font stack as a fallback) as a sane default.
+ * 2. Use Tailwind's default "normal" line-height so the user isn't forced
+ *    to override it to ensure consistency even when using the default theme.
+ */
+
+html {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 1 */
+  line-height: 1.5; /* 2 */
+}
+
+/**
+ * 1. Prevent padding and border from affecting element width.
+ *
+ *    We used to set this in the html element and inherit from
+ *    the parent element for everything else. This caused issues
+ *    in shadow-dom-enhanced elements like <details> where the content
+ *    is wrapped by a div with box-sizing set to `content-box`.
+ *
+ *    https://github.com/mozdevs/cssremedy/issues/4
+ *
+ *
+ * 2. Allow adding a border to an element by just adding a border-width.
+ *
+ *    By default, the way the browser specifies that an element should have no
+ *    border is by setting it's border-style to `none` in the user-agent
+ *    stylesheet.
+ *
+ *    In order to easily add borders to elements by just setting the `border-width`
+ *    property, we change the default border-style for all elements to `solid`, and
+ *    use border-width to hide them instead. This way our `border` utilities only
+ *    need to set the `border-width` property instead of the entire `border`
+ *    shorthand, making our border utilities much more straightforward to compose.
+ *
+ *    https://github.com/tailwindcss/tailwindcss/pull/116
+ */
+
+*,
+::before,
+::after {
+  box-sizing: border-box; /* 1 */
+  border-width: 0; /* 2 */
+  border-style: solid; /* 2 */
+  border-color: #e0e0e0; /* 2 */
+}
+
+/*
+ * Ensure horizontal rules are visible by default
+ */
+
+hr {
+  border-top-width: 1px;
+}
+
+/**
+ * Undo the `border-style: none` reset that Normalize applies to images so that
+ * our `border-{width}` utilities have the expected effect.
+ *
+ * The Normalize reset is unnecessary for us since we default the border-width
+ * to 0 on all elements.
+ *
+ * https://github.com/tailwindcss/tailwindcss/issues/362
+ */
+
+img {
+  border-style: solid;
+}
+
+input::-webkit-input-placeholder {
+  color: #a0aec0;
+}
+
+input::-moz-placeholder {
+  color: #a0aec0;
+}
+
+input:-ms-input-placeholder {
+  color: #a0aec0;
+}
+
+input::-ms-input-placeholder {
+  color: #a0aec0;
+}
+
+input::placeholder {
+  color: #a0aec0;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+h1,
+h2,
+h3 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+/**
+ * Reset links to optimize for opt-in styling instead of
+ * opt-out.
+ */
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+/**
+ * Reset form element properties that are easy to forget to
+ * style explicitly so you don't inadvertently introduce
+ * styles that deviate from your design system. These styles
+ * supplement a partial reset that is already applied by
+ * normalize.css.
+ */
+
+input,
+select {
+  padding: 0;
+  line-height: inherit;
+  color: inherit;
+}
+
+/**
+ * Use the configured 'mono' font family for elements that
+ * are expected to be rendered with a monospace font, falling
+ * back to the system monospace stack if there is no configured
+ * 'mono' font family.
+ */
+
+pre,
+code {
+  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+    monospace;
+}
+
+/**
+ * Make replaced elements `display: block` by default as that's
+ * the behavior you want almost all of the time. Inspired by
+ * CSS Remedy, with `svg` added as well.
+ *
+ * https://github.com/mozdevs/cssremedy/issues/14
+ */
+
+img,
+object {
+  display: block;
+  vertical-align: middle;
+}
+
+/**
+ * Constrain images and videos to the parent width and preserve
+ * their instrinsic aspect ratio.
+ *
+ * https://github.com/mozdevs/cssremedy/issues/14
+ */
+
+img {
+  height: auto;
+  max-width: 100%;
+  margin: auto;
+}
+
+.container {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    padding: 2.25rem;
+  }
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+
+/* add extracted components here */
+
+a {
+  color: #4299e1;
+}
+
+a:hover {
+  color: #3182ce;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  color: #616161;
+  margin: 0 8px;
+}
+
+nav a:hover {
+  color: #212121;
+}
+
+code {
+  direction: ltr;
+  font-family: "Sans Mono", "Consolas", "Courier", monospace;
+  font-size: 1rem;
+  background-color: #eeeeee;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  display: inline-block;
+}
+
+.hljs {
+  margin-bottom: 2rem;
+}
+
+figure {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+figcaption {
+  font-size: 0.875rem;
+  text-align: center;
+  color: #9e9e9e;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+footer {
+  margin-bottom: 0.75rem;
+  margin-top: 6rem;
+}
+
+h1 {
+  font-size: 1.875rem;
+  font-weight: 900;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 900;
+  margin-bottom: 0.5rem;
+  margin-top: 4rem;
+}
+
+h3 {
+  font-size: 1.125rem;
+  font-weight: 900;
+  margin-top: 0.75rem;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="password"] {
+  outline: 0;
+  background-color: #eeeeee;
+  border-color: #eeeeee;
+  padding: 0.5rem;
+  display: block;
+  width: 100%;
+  border-width: 4px;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+  border-color: #90cdf4;
+}
+
+p {
+  margin-bottom: 2rem;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+table {
+  width: 100%;
+  border-width: 2px;
+  border-color: #757575;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border-collapse: collapse;
+}
+
+time {
+  color: #9e9e9e;
+  margin-left: 1.25rem;
+}
+
+ul {
+  list-style-type: square;
+  margin-bottom: 2rem;
+  padding-right: 1.25rem;
+}
+
+li {
+  margin-bottom: 2rem;
+}
+
+ul.compact li {
+  margin-bottom: 0.2rem;
+}
+
+summary {
+  outline: 0;
+}
+
+.btn {
+  color: #424242;
+  border-color: #424242;
+  border-width: 2px;
+  text-align: center;
+  padding: 0.75rem;
+  width: 100%;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+}
+
+.btn:hover {
+  background-color: #424242;
+  color: #fff;
+}
+
+.btn-comment {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  display: block;
+  color: #4299e1;
+  border-color: #4299e1;
+}
+
+.btn-comment:hover {
+  background-color: #4299e1;
+}
+
+.comment {
+  border: 2px solid black;
+  font-size: 16px;
+  margin-top: 2.5rem;
+  padding: 20px;
+}
+
+.cv-list-item {
+  margin-bottom: 0.5rem;
+}
+
+.cv-list-item-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  display: inline-block;
+  margin-left: 0.5rem;
+}
+
+.cv-list-item-subtitle {
+  margin-left: 0.5rem;
+}
+
+.cv-list-item-subtitle::before {
+  content: "(";
+}
+
+.cv-list-item-subtitle::after {
+  content: ")";
+}
+
+.cv-list-item-time {
+  color: #9e9e9e;
+  font-size: 0.875rem;
+  margin-left: 0.5rem;
+}
+
+.cv-list-item-time::before {
+  content: "[";
+}
+
+.cv-list-item-time::after {
+  content: "]";
+}
+
+.cv-item {
+  background-color: #e0e0e0;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  border-radius: 0.25rem;
+  display: inline-block;
+  margin-bottom: 0.25rem;
+  font-size: 0.875rem;
+}
+
+.list-none {
+  list-style-type: none;
+}
+
+.last-post {
+  margin-bottom: 0.75rem;
+}
+
+.last-post-title {
+  color: #4299e1;
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.last-post-title:hover {
+  color: #3182ce;
+}
+
 .message {
   background: black;
   bottom: 0;
@@ -10,4 +800,170 @@ html{line-height:1.15;-webkit-text-size-adjust:100%;height:100%}body{color:#2121
   position: fixed;
   right: 0;
   text-align: center;
+}
+
+.post-info {
+  color: #9e9e9e;
+  font-size: 0.75rem;
+  margin-top: 2rem;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+@font-face {
+  font-family: Vazir;
+
+  font-style: normal;
+
+  font-weight: 900;
+
+  src: url("../fonts/vazir-black.eot");
+
+  src: url("../fonts/vazir-black.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("../fonts/vazir-black.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("../fonts/vazir-black.woff")
+      format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/vazir-black.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: Vazir;
+
+  font-style: normal;
+
+  font-weight: bold;
+
+  src: url("../fonts/vazir-bold.eot");
+
+  src: url("../fonts/vazir-bold.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("../fonts/vazir-bold.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("../fonts/vazir-bold.woff")
+      format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/vazir-bold.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: Vazir;
+
+  font-style: normal;
+
+  font-weight: normal;
+
+  src: url("../fonts/vazir.eot");
+
+  src: url("../fonts/vazir.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("../fonts/vazir.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("../fonts/vazir.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/vazir.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: Vazir;
+
+  font-style: normal;
+
+  font-weight: 200;
+
+  src: url("../fonts/vazir-light.eot");
+
+  src: url("../fonts/vazir-light.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("../fonts/vazir-light.woff2") format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("../fonts/vazir-light.woff")
+      format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/vazir-light.ttf")
+      format("truetype");
+}
+
+body {
+  font-family: Vazir, Tahoma, sans-serif !important;
+  letter-spacing: -0.5px;
+}
+
+/*
+
+Monokai Sublime style. Derived from Monokai by noformnocontent http://nn.mit-license.org/
+
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #23241f;
+}
+
+.hljs,
+.hljs-tag,
+.hljs-subst {
+  color: #f8f8f2;
+}
+
+.hljs-strong,
+.hljs-emphasis {
+  color: #a8a8a2;
+}
+
+.hljs-bullet,
+.hljs-quote,
+.hljs-number,
+.hljs-regexp,
+.hljs-literal,
+.hljs-link {
+  color: #ae81ff;
+}
+
+.hljs-code,
+.hljs-title,
+.hljs-section,
+.hljs-selector-class {
+  color: #a6e22e;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-name,
+.hljs-attr {
+  color: #f92672;
+}
+
+.hljs-symbol,
+.hljs-attribute {
+  color: #66d9ef;
+}
+
+.hljs-params,
+.hljs-class .hljs-title {
+  color: #f8f8f2;
+}
+
+.hljs-string,
+.hljs-type,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-selector-id,
+.hljs-selector-attr,
+.hljs-selector-pseudo,
+.hljs-addition,
+.hljs-variable,
+.hljs-template-variable {
+  color: #e6db74;
+}
+
+.hljs-comment,
+.hljs-deletion,
+.hljs-meta {
+  color: #75715e;
 }
