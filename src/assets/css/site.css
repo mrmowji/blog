@@ -572,7 +572,7 @@ nav {
 
 nav a {
   color: #616161;
-  margin: 0 8px;
+  margin: 0 5px;
 }
 
 nav a:hover {
@@ -773,6 +773,7 @@ summary {
 
 .intro {
   margin-bottom: 6rem;
+  text-align: center;
 }
 
 .intro p {
