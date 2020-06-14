@@ -17,7 +17,8 @@ date: 2020-06-14
 اگه فیلم رو ندیدید شاید بهتره ادامه‌ی متن رو نخونید. اگه دیدید شاید این نقد براتون مفید یا جالب باشه، شاید هم نباشه.
 
 <figure>
-<img src="{{ website.assetsPath }}/images/content/prisoners-movie-poster.jpg">
+<img src="{{ website.assetsPath }}/images/content/prisoners-movie-poster.jpg"
+  alt="Jake Gyllenhaal، Hugh Jackman و یه هزارتو که توی پس‌زمینه‌س.">
 <figcaption>
 همونطور که می‌بینید، حتی پوسترش رو هم خوب طراحی نکردن.
 </figcaption>
