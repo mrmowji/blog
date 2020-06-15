@@ -51,8 +51,4 @@ date: 2020-03-30
 
 امیدوارم براتون مفید باشه. نظری (نقد، پیشنهاد و ...) داشتید ممنون میشم واسم بفرستید.
 
-<ul class="compact">
-<li>آدرس: <a href="https://questhink.com" target="_blank">questhink.com</a></li>
-<li>توییتر: <a href="https://twitter.com/questhinkcom" target="_blank">questhinkcom</a></li>
-<li>اینستاگرام: <a href="https://instagram.com/questhink" target="_blank">questhink</a></li>
-</ul>
+<a href="https://questhink.com" target="_blank">questhink.com</a>
