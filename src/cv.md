@@ -20,12 +20,14 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <br>
       <span class="cv-item">C#</span>
       <span class="cv-item">JavaScript</span>
+      <span class="cv-item">ES6</span>
       <span class="cv-item">HTML</span>
       <span class="cv-item">CSS</span>
       <span class="cv-item">ASP.NET Core</span>
       <span class="cv-item">ASP.NET MVC</span>
       <span class="cv-item">.NET Core</span>
       <span class="cv-item">Entity Framework</span>
+      <span class="cv-item">ORM</span>
       <span class="cv-item">LINQ</span>
       <span class="cv-item">Vue.js</span>
       <span class="cv-item">React.js</span>
@@ -33,9 +35,10 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-item">XML</span>
       <span class="cv-item">SVG</span>
       <span class="cv-item">MVC</span>
+      <span class="cv-item">NPM</span>
       <span class="cv-item">Design Patterns</span>
       <span class="cv-item">LESS</span>
-      <span class="cv-item">SCSS</span>
+      <span class="cv-item">SASS</span>
       <span class="cv-item">Responsive Design</span>
       <span class="cv-item">TailwindCSS</span>
       <span class="cv-item">Bootstrap</span>
@@ -45,6 +48,7 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-item">MySQL</span>
       <span class="cv-item">SQL Server</span>
       <span class="cv-item">SQL</span>
+      <span class="cv-item">RDBMS</span>
       <span class="cv-item">NativeScript</span>
       <span class="cv-item">Website</span>
       <span class="cv-item">Web App</span>
