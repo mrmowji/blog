@@ -51,6 +51,8 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-item">SSG</span>
       <span class="cv-item">11ty</span>
       <span class="cv-item">p5js</span>
+      <span class="cv-item">Nunjucks</span>
+      <span class="cv-item">Markdown</span>
       <span class="cv-item">توسعه‌ی بازی</span>
       <span class="cv-item">طراحی الگوریتم</span>
       <span class="cv-item">ساختمان داده‌ها</span>
