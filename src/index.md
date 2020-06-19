@@ -21,6 +21,7 @@ title: مسترموجی
       <a class="js-copy" data-value="javan.mojtaba@gmail.com">ایمیل</a>
       <br>
       <a href="#posts">نوشته‌ها</a>
+      <a id="toggle-theme-button">تاریک</a>
   </nav>
 </div>
 

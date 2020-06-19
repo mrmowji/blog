@@ -8,7 +8,7 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
- html {
+html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
   height: 100%;
@@ -891,6 +891,95 @@ summary {
 body {
   font-family: Vazir, Tahoma, sans-serif !important;
   letter-spacing: -0.5px;
+}
+
+html {
+  --color-background: #f3f3f3;
+  --color-link: #3490dc;
+  --color-link-hover: #206196;
+  --color-nav-link: #616161;
+  --color-nav-link-hover: #212121;
+  --color-text: black;
+  --color-cv-item-background: #ddd;
+  --filter-logo: initial;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    --color-background: #131313;
+    --color-link: #4CBBE6;
+    --color-link-hover: #4299e1;
+    --color-nav-link: #818181;
+    --color-nav-link-hover: white;
+    --color-text: white;
+    --color-text-inverse: black;
+    --filter-logo: invert(1);
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  html {
+    --color-background: #f3f3f3;
+    --color-link: #3490dc;
+    --color-link-hover: #206196;
+    --color-nav-link: #616161;
+    --color-nav-link-hover: #212121;
+    --color-text: black;
+    --color-cv-item-background: #222;
+    --filter-logo: initial;
+  }
+}
+
+html.light {
+  --color-background: #f3f3f3;
+  --color-link: #3490dc;
+  --color-link-hover: #206196;
+  --color-nav-link: #616161;
+  --color-nav-link-hover: #212121;
+  --color-text: black;
+  --color-cv-item-background: #ddd;
+  --filter-logo: initial;
+}
+
+html.dark {
+  --color-background: #131313;
+  --color-link: #4CBBE6;
+  --color-link-hover: #4299e1;
+  --color-nav-link: #818181;
+  --color-nav-link-hover: white;
+  --color-text: white;
+  --color-cv-item-background: #222;
+  --filter-logo: invert(1);
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-text);
+}
+
+a {
+  color: var(--color-link);
+}
+
+a:hover,
+.logo-link:hover {
+  color: var(--color-link-hover);
+}
+
+nav a {
+  color: var(--color-nav-link);
+}
+
+nav a:hover {
+  color: var(--color-nav-link-hover);
+}
+
+.cv-item {
+  background-color: var(--color-cv-item-background);
+}
+
+.logo, .icon {
+  filter: var(--filter-logo);
 }
 
 /*

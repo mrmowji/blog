@@ -8,6 +8,52 @@ websiteSubtitle: چه کسی گوسفند مرا قورت داد؟ کاوه!؟
 <!DOCTYPE html>
 <html dir="rtl" lang="fa">
 <head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
   <script>
@@ -59,7 +105,7 @@ websiteSubtitle: چه کسی گوسفند مرا قورت داد؟ کاوه!؟
     <div class="subtitle {{ "home" if isHome }}">{{ websiteSubtitle }}</div>
     {%- else -%}
     <div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid black">
-      <a href="/"><img src="{{ website.assetsPath }}/images/layout/favicon-32x32.png"></a>
+      <a href="/"><img class="icon" src="{{ website.assetsPath }}/images/layout/icon-transparent.png"></a>
       <nav>
         <a href="/#posts">
           نوشته‌ها
@@ -73,6 +119,7 @@ websiteSubtitle: چه کسی گوسفند مرا قورت داد؟ کاوه!؟
         <a href="/">
           تماس
         </a>
+        <a id="toggle-theme-button">تاریک</a>
       </nav>
     </div>
     {%- endif -%}
