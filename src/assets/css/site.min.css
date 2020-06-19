@@ -913,7 +913,7 @@ html {
     --color-nav-link: #818181;
     --color-nav-link-hover: white;
     --color-text: white;
-    --color-text-inverse: black;
+    --color-cv-item-background: #444;
     --filter-logo: invert(1);
   }
 }
@@ -949,7 +949,7 @@ html.dark {
   --color-nav-link: #818181;
   --color-nav-link-hover: white;
   --color-text: white;
-  --color-cv-item-background: #222;
+  --color-cv-item-background: #444;
   --filter-logo: invert(1);
 }
 
@@ -975,7 +975,11 @@ nav a:hover {
   color: var(--color-nav-link-hover);
 }
 
-.cv-item {
+blockquote {
+  border-color: var(--color-text);
+}
+
+.cv-item, code, blockquote {
   background-color: var(--color-cv-item-background);
 }
 
