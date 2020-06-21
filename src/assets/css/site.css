@@ -8,7 +8,7 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
-html {
+ html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
   height: 100%;
@@ -666,6 +666,7 @@ table {
 
 time {
   color: #9e9e9e;
+  font-size: smaller;
   margin-left: 1.25rem;
 }
 
@@ -713,13 +714,6 @@ summary {
 
 .btn-comment:hover {
   background-color: #4299e1;
-}
-
-.comment {
-  border: 2px solid black;
-  font-size: 16px;
-  margin-top: 2.5rem;
-  padding: 20px;
 }
 
 .cv-list-item {
@@ -895,46 +889,61 @@ body {
 
 html {
   --color-background: #f3f3f3;
-  --color-link: #bbb;
-  --color-article-link: #888;
+  --color-link: #206196;
   --color-link-hover: black;
+  --color-nav-link: #616161;
+  --color-nav-link-hover: #212121;
   --color-text: black;
+  --color-cv-item-background: #ddd;
+  --filter-logo: initial;
 }
 
 @media (prefers-color-scheme: dark) {
   html {
     --color-background: #131313;
-    --color-link: #bbb;
-    --color-article-link: #bbb;
+    --color-link: #4CBBE6;
     --color-link-hover: white;
+    --color-nav-link: #818181;
+    --color-nav-link-hover: white;
     --color-text: white;
+    --color-cv-item-background: #444;
+    --filter-logo: invert(1);
   }
 }
 
 @media (prefers-color-scheme: light) {
   html {
     --color-background: #f3f3f3;
-    --color-link: #bbb;
-    --color-article-link: #888;
+    --color-link: #206196;
     --color-link-hover: black;
+    --color-nav-link: #616161;
+    --color-nav-link-hover: #212121;
     --color-text: black;
+    --color-cv-item-background: #222;
+    --filter-logo: initial;
   }
 }
 
 html.light {
   --color-background: #f3f3f3;
-  --color-link: #bbb;
-  --color-article-link: #888;
+  --color-link: #206196;
   --color-link-hover: black;
+  --color-nav-link: #616161;
+  --color-nav-link-hover: #212121;
   --color-text: black;
+  --color-cv-item-background: #ddd;
+  --filter-logo: initial;
 }
 
 html.dark {
   --color-background: #131313;
-  --color-link: #bbb;
-  --color-article-link: #bbb;
+  --color-link: #4CBBE6;
   --color-link-hover: white;
+  --color-nav-link: #818181;
+  --color-nav-link-hover: white;
   --color-text: white;
+  --color-cv-item-background: #444;
+  --filter-logo: invert(1);
 }
 
 body {
@@ -946,13 +955,35 @@ a {
   color: var(--color-link);
 }
 
-a:hover, .menu-item:hover, .logo-link:hover {
+a:hover,
+.logo-link:hover {
   color: var(--color-link-hover);
 }
 
-article a {
-  border-bottom: 1px solid currentColor;
-  color: var(--color-article-link);
+nav a {
+  color: var(--color-nav-link);
+}
+
+nav a:hover {
+  color: var(--color-nav-link-hover);
+}
+
+blockquote {
+  border-color: var(--color-text);
+}
+
+.cv-item, code, blockquote {
+  background-color: var(--color-cv-item-background);
+}
+
+.divider {
+  border-bottom: 2px solid #616161;
+  margin: 4rem auto auto auto;
+  width: 8rem;
+}
+
+.logo, .icon {
+  filter: var(--filter-logo);
 }
 
 /*

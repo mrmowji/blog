@@ -3,8 +3,8 @@ layout: layout.njk
 isHome: false
 ---
 
+<h1>{{ title }}</h1>
 <article>
-  <h1>{{ title }}</h1>
   {{ content | safe }}
   {# <p class="post-info">
     منتشر شده در <time datetime="{{ date | isoDate }}">{{ date | persianDate }}</time>
@@ -12,51 +12,51 @@ isHome: false
       <br>آخرین ویرایش در <time datetime="{{ editedOn }}">{{ editedOn }}</time>
     {% endif %}
   </p> #}
-</article>
 
+  <div class="divider"></div>
 
-<div class="comment">
-<p>
-در حال حاضر، برای این وبلاگ، از سرویس Disqus برای سیستم ثبت نظر استفاده می‌کنم.
-متاسفانه توی ایران در دسترس نیست. می‌دونید باید چه کاری بکنید ;)
+  <h2>نظرات</h2>
+  <p>
+  در حال حاضر، از سرویس Disqus برای نظرات استفاده می‌کنم.
+  متاسفانه توی ایران در دسترس نیست. می‌دونید باید چه کاری بکنید ;)
   </p>
   <p>
   اگه نمی‌دونید چه کاری باید بکنید، یا می‌دونید ولی حوصله ندارید، یا یه پیام خصوصی می‌خواید بفرستید،
   می‌تونید از ایمیل استفاده کنید:
   <a class="js-copy" data-value="javan.mojtaba@gmail.com">javan.mojtaba@gmail.com</a>.
-</p>
+  </p>
 
-<div id="disqus_thread" class="disqus"></div>
+  <div id="disqus_thread" class="disqus"></div>
 
-<script>
+  <script>
 
-  let commentsLoaded = false;
-  document.addEventListener("DOMContentLoaded", function() {
-    console.log("loaded");
-    let commentsElement = document.getElementById("disqus_thread");
-    window.onscroll = function(){
-      console.log("scrolled", commentsElement.offsetTop, window.innerHeight);
-      if((commentsElement.offsetTop <= window.innerHeight + window.scrollY) && !commentsLoaded){
-        console.log("scrolled to comments");
-        commentsLoaded = true;
-        var disqus_config = function () {
-        this.page.url = "{{ website.url }}{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = "{{ page.url }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-        };
+    let commentsLoaded = false;
+    document.addEventListener("DOMContentLoaded", function() {
+      console.log("loaded");
+      let commentsElement = document.getElementById("disqus_thread");
+      window.onscroll = function(){
+        console.log("scrolled", commentsElement.offsetTop, window.innerHeight);
+        if((commentsElement.offsetTop <= window.innerHeight + window.scrollY) && !commentsLoaded){
+          console.log("scrolled to comments");
+          commentsLoaded = true;
+          var disqus_config = function () {
+          this.page.url = "{{ website.url }}{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
+          this.page.identifier = "{{ page.url }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+          };
 
-        (function() { // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        s.src = 'https://mrmowji.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-        })();   
+          (function() { // DON'T EDIT BELOW THIS LINE
+          var d = document, s = d.createElement('script');
+          s.src = 'https://mrmowji.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+          })();   
+        }
       }
-    }
-  });
+    });
 
-</script>
+  </script>
 
-<noscript>
-برای دیدن نظرات، لطفا JavaScript رو توی مرورگرتون فعال کنید.</a>
-</noscript>
-</div>
+  <noscript>
+  برای دیدن نظرات، لطفا JavaScript رو توی مرورگرتون فعال کنید.</a>
+  </noscript>
+</article>

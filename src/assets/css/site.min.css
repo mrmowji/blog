@@ -8,7 +8,7 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
-html {
+ html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
   height: 100%;
@@ -716,13 +716,6 @@ summary {
   background-color: #4299e1;
 }
 
-.comment {
-  border: 2px solid black;
-  font-size: 16px;
-  margin-top: 2.5rem;
-  padding: 20px;
-}
-
 .cv-list-item {
   margin-bottom: 0.5rem;
 }
@@ -896,8 +889,8 @@ body {
 
 html {
   --color-background: #f3f3f3;
-  --color-link: #3490dc;
-  --color-link-hover: #206196;
+  --color-link: #206196;
+  --color-link-hover: black;
   --color-nav-link: #616161;
   --color-nav-link-hover: #212121;
   --color-text: black;
@@ -909,7 +902,7 @@ html {
   html {
     --color-background: #131313;
     --color-link: #4CBBE6;
-    --color-link-hover: #4299e1;
+    --color-link-hover: white;
     --color-nav-link: #818181;
     --color-nav-link-hover: white;
     --color-text: white;
@@ -921,8 +914,8 @@ html {
 @media (prefers-color-scheme: light) {
   html {
     --color-background: #f3f3f3;
-    --color-link: #3490dc;
-    --color-link-hover: #206196;
+    --color-link: #206196;
+    --color-link-hover: black;
     --color-nav-link: #616161;
     --color-nav-link-hover: #212121;
     --color-text: black;
@@ -933,8 +926,8 @@ html {
 
 html.light {
   --color-background: #f3f3f3;
-  --color-link: #3490dc;
-  --color-link-hover: #206196;
+  --color-link: #206196;
+  --color-link-hover: black;
   --color-nav-link: #616161;
   --color-nav-link-hover: #212121;
   --color-text: black;
@@ -945,7 +938,7 @@ html.light {
 html.dark {
   --color-background: #131313;
   --color-link: #4CBBE6;
-  --color-link-hover: #4299e1;
+  --color-link-hover: white;
   --color-nav-link: #818181;
   --color-nav-link-hover: white;
   --color-text: white;
@@ -981,6 +974,12 @@ blockquote {
 
 .cv-item, code, blockquote {
   background-color: var(--color-cv-item-background);
+}
+
+.divider {
+  border-bottom: 2px solid #616161;
+  margin: 4rem auto auto auto;
+  width: 8rem;
 }
 
 .logo, .icon {
