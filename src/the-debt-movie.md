@@ -16,7 +16,7 @@ The Debt توی وبسایت IMDb رتبه‌ی **۶٫۸ از ۱۰** رو گرف
 <img src="{{ website.assetsPath }}/images/content/the-dept-movie-poster.jpg"
   alt="Helen Mirren با عینک دودی، Jessica Chastain و Sam Worthington با تفنگ. جمله‌ی اصلی پوستر هم اینه: Every secret comes with a price.">
 <figcaption>
-پوسترش طوریه انگار با یه فیلم در حد حیمز باند طرفیم. نه این که جمیز باند خوبه. منظورم اینه که انگار این فیلم قراره در همون حد اکشن باشه. ولی اینطور نیست.
+پوسترش طوریه انگار با یه فیلم در حد جیمز باند طرفیم. نه این که جمیز باند خوبه. منظورم اینه که انگار این فیلم قراره در همون حد اکشن باشه. ولی اینطور نیست.
 </figcaption>
 </figure>
 
