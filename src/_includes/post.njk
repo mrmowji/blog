@@ -18,13 +18,19 @@ isHome: false
   <h2>نظرات</h2>
   <p>
   در حال حاضر، از سرویس Disqus برای نظرات استفاده می‌کنم.
-  متاسفانه توی ایران در دسترس نیست. می‌دونید باید چه کاری بکنید ;)
+  متاسفانه توی ایران در دسترس نیست (یا ایران فیلترش کرده یا اونا ما رو فیلتر کردن).
   </p>
+  
   <p>
   اگه نمی‌دونید چه کاری باید بکنید، یا می‌دونید ولی حوصله ندارید، یا یه پیام خصوصی می‌خواید بفرستید،
-  می‌تونید از ایمیل استفاده کنید:
-  <a class="js-copy" data-value="javan.mojtaba@gmail.com">javan.mojtaba@gmail.com</a>.
+  می‌تونید از
+  <a class="js-copy" data-value="javan.mojtaba@gmail.com">ایمیل</a>
+  یا
+  <a href="/">سایر راه‌ها ارتباطی</a>
+  استفاده کنید.
   </p>
+
+  <p>نظرات باید زیر همین متن، بارگذاری بشن. اگه نشدن، ۲ پاراگراف بالا رو بخونید.</p>
 
   <div id="disqus_thread" class="disqus"></div>
 
@@ -40,8 +46,8 @@ isHome: false
           console.log("scrolled to comments");
           commentsLoaded = true;
           var disqus_config = function () {
-          this.page.url = "{{ website.url }}{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
-          this.page.identifier = "{{ page.url }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            this.page.url = "{{ website.url }}{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = "{{ page.url }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
           };
 
           (function() { // DON'T EDIT BELOW THIS LINE
@@ -49,7 +55,7 @@ isHome: false
           s.src = 'https://mrmowji.disqus.com/embed.js';
           s.setAttribute('data-timestamp', +new Date());
           (d.head || d.body).appendChild(s);
-          })();   
+          })();
         }
       }
     });
