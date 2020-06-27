@@ -31,6 +31,7 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-item">LINQ</span>
       <span class="cv-item">Vue.js</span>
       <span class="cv-item">React.js</span>
+      <span class="cv-item">JSX</span>
       <span class="cv-item">JSON</span>
       <span class="cv-item">XML</span>
       <span class="cv-item">SVG</span>
