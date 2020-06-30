@@ -7,7 +7,6 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
   <p>
     توسعه‌دهنده‌ی وب (Full-Stack) |
     طراح گرافیک |
-    فریلنسر (مستقل) |
     متولد ۱۳۶۷ | 
     بیرجند - خراسان جنوبی | 
     <a class="js-copy" data-value="javan.mojtaba@gmail.com">javan.mojtaba@gmail.com</a>
