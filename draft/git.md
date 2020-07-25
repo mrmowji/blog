@@ -146,6 +146,7 @@ git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s 
 ## Undo & Redo
 
 ```bash
+# undo before staging
 # checkout copies any snapshot from the repository to the working directory
 # discard the changes applied to a specific file in the working directory
 # revert changes in the working directory; checkout the repository’s version of the file
@@ -217,6 +218,49 @@ git checkout -b <name>
 # then get status, change, add to staging area, and commit
 # you can use `git log --all --graph` to see all commits from all branches and how they diverge
 git branch <name>
+```
+
+## Merge
+
+```bash
+# brings the changes in two branches together
+# merges second branch into first branch
+# use `git log --graph --all` to see
+# it does produce ugly commit graphs
+# look at the option of rebasing rather than merging
+# keep your changes in first branch compatible with changes in the mainline (second branch, usually master)
+# head will point to both of them; they'd be identical
+git checkout <first-branch>
+git merge <second-branch>
+
+# sometimes you have to handle conflicts manually
+# after fail-merging two branches with conflicts
+# you're provided with conflicts in each file
+# <<<<<<< HEAD : it's from your current branch until you reach the following mark
+# =======
+# >>>>>>> <branch-name> : from the above mark to this line, is from the branch you're trying to merge into the current branch
+# then you have to commit the conflict resolution
+```
+
+## Rebase
+
+```bash
+# brings the changes in two branches together
+# rebases second branch into first branch
+# use `git log --graph --all` to see
+# the commit tree for the first branch will be rewritten so that the second branch is a part of the commit history
+# it rewinds the head (current branch) to replay your work on top of it
+# this leaves the chain of commits linear and much easier to read
+# don’t use rebase if the branch is public and shared with others; rewriting publicly shared branches will tend to screw up other members of the team
+# don't use rebase when the exact history of the commit branch is important (since rebase rewrites the commit history)
+# use rebase for short-lived, local branches and merge for branches in the public repository
+git checkout <first-branch>
+git rebase <second-branch>
+
+# now, because the head of second branch is a direct ancestor of the head of the first branch, git is able to do a fast-forward merge; when fast-forwarding, the branch pointer is simply moved forward to point to the same commit as the first branch
+# there will never be conflicts in a fast-forward merge
+git checkout <second-branch>
+git merge <first-branch>
 ```
 
 ## Moving files
