@@ -49,6 +49,11 @@ git config --global alias.st status
 git init
 ```
 
+```bash
+# see Remote section
+git clone
+```
+
 ## Status
 
 ```bash
@@ -210,6 +215,13 @@ git checkout <branch-name>
 ## Branch
 
 ```bash
+# lists available branches in the current (**local**) repo
+git branch
+
+# lists remote branches too
+# branches starting with remotes/origin are branches from the original repo
+git branch -a
+
 # create and checkout a branch at the same time (see the next command)
 git checkout -b <name>
 
@@ -263,6 +275,77 @@ git checkout <second-branch>
 git merge <first-branch>
 ```
 
+## Remote & Multiple Repositories
+
+```bash
+# using a local repo to clone
+# commits history will be cloned too (more or less); the only difference should be in the names of the branches (log to see "origin")
+# only the master branch will be cloned
+# other branches can be created in the current clone repo (see `git branch -a` for a list of remote branches)
+git clone <repo-directory> <clone-name>
+```
+
+```bash
+# creates or clones a bare repository from another repo
+# bare repositories (without working directories) are usually used for sharing
+git clone --bare <repo-name> <repo-name>.git
+
+# then you can `ls` the <repo-name>.git directory; it contains the .git directory contents from the remote repo
+# convention: repositories ending in ‘.git’ are bare repositories
+# there is no working directory in the <repo-name>.git repo
+# it is nothing but the .git directory of a non-bare repo
+```
+
+```bash
+# adds a remote repo as a remote to our local repo
+# see `git clone` section to understand bare repos
+# common names for remote repo are: origin, shared
+git remote add <a-name-for-remote-repo> <bare-repo-relative-path>
+
+# lists the remote repos the current repo knows about
+git remote
+
+# show more info about a remote repo
+git remote show <remote-repo-name>
+# e.g.
+# the convention is to use the name "origin" for the primary centralized repository (if there is one)
+git remote show origin
+```
+
+```bash
+# fetch changes (new commits) from the remote repo, but it will not merge these commits into the local branches
+# use `git log --all` after this command to see the commits from the remote repo (they are not integrated into the cloned repository’s local branches; note where "origin/HEAD" and "HEAD -> ..." are)
+git fetch
+
+# then you can merge fetched changes to local branch
+# <branch-name> is the name of the branch our current repo is tracking or is a clone of
+git merge origin/<branch-name>
+```
+
+```bash
+# is equivalent to a `git fetch` followed by a `git merge`
+# your branch must be tracking the remote branch
+git pull
+
+# pulls changes from a remote repo
+# to see the remote repos names use `git remote`
+git pull <remote-repo-name> <branch-on-that-remote-repo>
+```
+
+```bash
+# create a local branch which tracks a remote branch
+git branch --track <branch-name> <branch-name-on-a-remote-or-another-local-branch>
+```
+
+```bash
+# when your branch is tracking the remote branch
+git push
+
+# pushes changes to a remote repo
+# to see the remote repos names use `git remote`
+git push <remote-repo-name> <branch-on-that-remote-repo>
+```
+
 ## Moving files
 
 ```bash
@@ -276,9 +359,11 @@ git add <directory>/<file>
 git rm <file>
 ```
 
-## Refs and Garbage Collection
+## Workflows
 
 ## Git Intrnals
+
+### Refs and Garbage Collection
 
 ### .git directory
 
@@ -324,15 +409,16 @@ cat .git/HEAD
 ls .git/refs/tags
 ```
 
-````bash
+```bash
 # specific tag
 # its content is just the hash of the commit tied to the tag
 cat .git/refs/tags/v1
+```
 
 ```bash
 # get the type of an object by its hash
 git cat-file -t <hash>
-````
+```
 
 ```bash
 # the dump of an object by its hash
@@ -357,3 +443,15 @@ git cat-file -p <dir-hash>
 # getting the content of a blob we get from the previous two commands
 git cat-file -p <blob-hash>
 ```
+
+## Hosting Git Repositories
+
+### Git Server
+
+### Pushing to Git Daemon
+
+### Sharing Repos Across WIFI
+
+## Other
+
+### SSH Setup
