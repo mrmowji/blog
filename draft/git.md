@@ -16,6 +16,8 @@
 
 ## Setup
 
+Use the following commands without `--global` to set configs for the current local git repo.
+
 ```bash
 # set a name that is identifiable for credit when review version history
 git config --global user.name "Your name"
@@ -113,6 +115,8 @@ git add .
 ## Commit or Checkin
 
 You can see commits as circles/nodes in a horizontal graph with directed edges from a commit to its parent. The HEAD is visualized by the red circle/commit.
+
+You can use squares for commits from a remote branch/repo.
 
 ```bash
 # commit your staged content as a new commit snapshot
@@ -338,7 +342,7 @@ git clean -f
 # this results in a repository with uncommitted modifications
 git reset --mixed HEAD~1
 
-# if it's not the latest hash (a previous hash, or a hash which if dangled or is child of the current hash but it's not a branch's HEAD), you'll move to a non-existent (temporary) branch; use `git log` and `git branch` to see (this puts us in a detached HEAD state, which means our HEAD is no longer on the tip of a branch)
+# if it's not the latest hash (a previous hash, or a hash which if dangled or is child of the current hash but it's not a branch's HEAD, or it's from a remote repo/branch), you'll move to a non-existent (temporary) branch; use `git log` and `git branch` to see (this puts us in a detached HEAD state, which means our HEAD is no longer on the tip of a branch)
 git checkout <commit-hash>
 
 # checkout by tag (e.g. v1)
@@ -370,6 +374,8 @@ git rebase -i master # if you're in master branch
 A branch simply is a lightweight movable pointer to a commit.
 A branch is actually a pointer to a single commit—not a container for a series of commits.
 
+Just as branches are an abstraction for the working directory, the staged snapshot, and a commit history, a repository is an abstraction for branches.
+
 We can’t add new commits when we’re not on a branch (for example when we've checked out an old commit). We need to create a branch from such cases to be able to do something.
 
 New branches will get all the previous history from the point they're created in. Each branch has a linear history.
@@ -384,6 +390,9 @@ git branch
 # lists remote branches too
 # branches starting with remotes/origin are branches from the original repo
 git branch -a
+
+# list your current remote branches
+git branch -r
 
 # create and checkout a branch at the same time (see the next command)
 # it uses the current HEAD as the starting point for the new branch
@@ -497,15 +506,20 @@ git merge <first-branch>
 
 ## Remote & Multiple Repositories
 
+Just as branches are an abstraction for the working directory, the staged snapshot, and a commit history, a repository is an abstraction for branches.
+
+Remotes are for people, whereas branches are for topics.
+
 ```bash
 # retrieve an entire repository from a hosted location via URL
+# When you clone a repository, Git automatically adds an origin remote pointing to the original repository, under the assumption that you’ll probably want to interact with it down the road (see `git remote`)
 git clone <url>
 
 # using a local repo to clone
 # commits history will be cloned too (more or less); the only difference should be in the names of the branches (log to see "origin")
 # only the master branch will be cloned
 # other branches can be created in the current clone repo (see `git branch -a` for a list of remote branches)
-git clone <repo-directory> <clone-name>
+git clone <repo-directory-path> <clone-name>
 ```
 
 ```bash
@@ -520,14 +534,29 @@ git clone --bare <repo-name> <repo-name>.git
 ```
 
 ```bash
+# list your current remote branches
+# remote branches are always listed in the form <remote‐name>/<branch‐name> so that they will never be mistaken for local branches
+# we can use those names (<remote‐name>/<branch‐name>) wherever we need <branch> or <commit> in commands
+git branch -r
+```
+
+```bash
+# lists the remote repos the current repo knows about
+git remote
+
+# verbose
+# shows the full path to your remote repository and whether they're designated as a “fetch” and a “push” location
+git remote -v
+
 # adds a remote repo as a remote to our local repo
 # see `git clone` section to understand bare repos
 # common names for remote repo are: origin, shared
 # add a git URL/path as an alias
+# bookmark another Git repository for easy access
 git remote add <a-name-for-remote-repo> <bare-repo-relative-path>
 
-# lists the remote repos the current repo knows about
-git remote
+# or
+git remote add <a-name-for-remote-repo> <repo-relative-path>
 
 # show more info about a remote repo
 git remote show <remote-repo-name>
@@ -539,15 +568,27 @@ git remote show origin
 ```bash
 # fetch changes (new commits) from the remote repo, but it will not merge these commits into the local branches
 # use `git log --all` after this command to see the commits from the remote repo (they are not integrated into the cloned repository’s local branches; note where "origin/HEAD" and "HEAD -> ..." are)
+# our remote branches are not direct links into the remote repository—they are read-only copies of her branches, stored in our own repository. This means that we would have to do another fetch to access new updates.
 git fetch
 
 # fetch down all the branches from a Git remote
 # alias is the name you gave to a remote
+# populate our remote branch listing (`git branch -r`)
+# will go to the “fetch” location shown in `git remote -v` and download all of the branches it finds there into our repository
+# download remote branch information, but do not merge anything
 git fetch <alias>
 
 # then you can merge fetched changes to local branch
 # merge a remote branch into your current branch to bring it up to date
 git merge <alias>/<branch-name>
+```
+
+```bash
+# puts you in a detached HEAD state
+# we can’t continue developing if we’re not on a local branch
+# we either need to merge it into our own local branch or create another branch
+# or we can just see and do nothing
+git checkout <remote-branch>
 ```
 
 ```bash
@@ -574,7 +615,12 @@ git push
 # to see the remote repos names use `git remote`
 # transmit local branch commits to the remote repository branch
 # alias is the name you gave to that remote
+# if the branch in not present in the remote repo, a branch with that name will be created
+# it does not automatically push tags associated with a particular branch
 git push <alias> <branch-on-that-remote-repo>
+
+# BEWARE! Don't lose tags. Instead of pushing the branch that contains the tag, Git requires us to manually push the tag itself.
+git push <alias> <tag>
 ```
 
 ## Moving files
@@ -687,6 +733,7 @@ new branch.
 - Consider the master branch as the stable project. It's for recording the evolution of a project.
 - Create a new branch for each major addition to your project.
 - Don’t create a branch if you can’t give it a specific name.
+- You should never push into another developer’s repository.
 
 ## Git Intrnals
 
