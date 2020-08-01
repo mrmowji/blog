@@ -130,6 +130,7 @@ git commit
 # you can achieve the same effect by resetting the branch back one commit and then recommitting the new changes
 # you can use it to change the last commit's message without any change in staging area
 git commit --amend -m "Commit message"
+git commit --amend
 
 # to automatically include all **tracked** files in the staged snapshot and then commit
 # untracked files won't be added
@@ -389,6 +390,9 @@ git checkout <first-branch>
 # merge conflicts occur when we try to merge branches that have edited the same content. Git doesn’t know how to combine the two changes, so it stops to ask us what to do before committing. We can see exactly what went wrong with the familiar `git status` command (this command shows us the staged snapshot of the merge commit; the “Unmerged paths” section contains files that have a conflict)
 git merge <second-branch>
 
+# force a merge commit when Git would normally do a fast-forward merge
+git merge --no-ff <branch-name>
+
 # sometimes you have to handle conflicts manually
 # after fail-merging two branches with conflicts
 # you're provided with conflicts in each file
@@ -402,8 +406,12 @@ git merge <second-branch>
 ## Rebase
 
 ```bash
-# brings the changes in two branches together
-# rebases second branch into first branch
+# brings the changes in two branches together in a better way than what Merge does
+# like the `git merge`, this command requires you to be on the branch that you want to move
+# rebases first branch onto the second branch
+# takes the entire first branch and plops it onto the tip of the second branch
+# enables us to do a fast-forward merge later on
+# also allows us to integrate the most up-to-date version of second branch without a merge commit
 # apply any commits of current branch ahead of specified one
 # use `git log --graph --all` to see
 # the commit tree for the first branch will be rewritten so that the second branch is a part of the commit history
@@ -412,8 +420,39 @@ git merge <second-branch>
 # don’t use rebase if the branch is public and shared with others; rewriting publicly shared branches will tend to screw up other members of the team
 # don't use rebase when the exact history of the commit branch is important (since rebase rewrites the commit history)
 # use rebase for short-lived, local branches and merge for branches in the public repository
+# less messy commit history (comparing to Merge)
+# rebasing lets us move branches around by changing the commit that they are based on
+# after rebasing, the feature branch has a new parent commit, which is the same commit pointed to by master. Instead of joining the branches with a merge commit, rebasing integrates the feature branch by building on top of master. The result is a perfectly linear history that reads more like a story than the hodgepodge of unrelated edits.
+# we move from an old base to a new base
+# commit history is grouped better than what we get when using Merge
+# it effectively eliminates the need for merge commits, resulting in a completely linear history
+# to an outside observer, it will seem as though you created every part of your project in a neatly planned sequence, even though you may have explored various alternatives or developed unrelated features in parallel
+# gives you the power to choose exactly what gets stored in your repositories (-i)
+# your history wouldn't reflect exactly what you’ve done
 git checkout <first-branch>
 git rebase <second-branch>
+
+# rebase onto a commit which might not be a branch's latest commit
+git rebase <commit>
+
+# rebase interactively
+# select actions for each commit
+# we can choose how each commit is transferred to the new base
+# common senario: combine multiple commits into one (condense our unnecessarily small commits into a single, meaningful snapshot) by changing `pick` to `squash`; Git stops to ask you what commit message to use for the combined snapshot resulting in our repository history being rewritten with brand new commits
+# common senario: edit/alter/amend a commit by changing `pick` to `edit`; Git stops you to make your edits, stage them, and `commit --amend` (we're on the commit we decided to edit). You must use `git rebase --continue` after your commit to continue rebasing
+# before we merge into the master branch, we should make sure we have a clean, meaningful history in our feature branch
+# opens up a text editor populated with all of the commits introduced in the about branch, listed from oldest to newest
+# the listing defines exactly how Git will transfer the commits to the new base, one by one
+# leaving it as is will do a normal git rebase , but if we move the lines around, we can change the order in which commits are applied
+# if you were to delete a line from the rebase listing, the associated commit wouldn’t be transferred to the new base, and its content would be lost forever
+# you can run another interactive rebase session on the same branch (common senario: to edit your commits) and it will show you your current branch commits
+git rebase -i <second-branch>
+
+# continues a rebase if it's stopped for you fo take some action (e.g. after amending a commit)
+git rebase --continue
+
+# aborts a rebase if it's stopped for you fo take some action, and you can start over from scratch; returns the repository to its former state
+git rebase --abort
 
 # now, because the head of second branch is a direct ancestor of the head of the first branch, git is able to do a fast-forward merge; when fast-forwarding, the branch pointer is simply moved forward to point to the same commit as the first branch
 # there will never be conflicts in a fast-forward merge
@@ -545,9 +584,16 @@ git status
 - Work on it with the Basic workflow.
 - When it's done, return to the master branch (checkout).
 - `git branch` to make sure.
-- Merge the feature branch into the master branch.
+- If working with remote, fetch and pull to make the master updated.
+- Checkout the feature branch agin.
+- `git branch` to make sure.
+- Rebase the feature branch onto the master branch. Squash to one commit.
+- Return to master branch.
+- `git branch` to make sure.
+- Merge the feature branch into the master branch. It'll be a fast-forwarding merge.
 - Delete the feature branch.
 - `git branch` to make sure.
+- Push to remote (if any).
 
 ### Hotfix
 
@@ -567,7 +613,7 @@ new branch.
 - Test your changes.
 - Checkout master.
 - `git branch` to make sure.
-- Merge the hotfix branch into master.
+- Merge the hotfix branch into master. Do rebase if necessary.
 - Delete the hotfix branch.
 - `git branch` to make sure.
 
