@@ -182,11 +182,25 @@ git tag -d v1
 # HEAD is Git’s internal way of indicating the snapshot that is currently checked out
 git log
 
+# display the commits reachable from <until> but not from <since> (these parameters can be either commit ID’s or branch names)
+git log <since>..<until>
+
 # show the commits on the **second branch** that are not on the **first branch**
 git log <first-branch>..<second-branch>
 
+# show the commits on the **branch** that are not on the current branch
+git log HEAD..<branch>
+
+# display the last 4 commits on the current branch
+git log HEAD~4..HEAD
+# better
+git log -n 4
+
 # display history related to a file
 git log <file>
+
+# includes information about which files have been changed in each commit
+git log --stat
 
 # show all commit logs with indication of any paths that moved
 git log --stat -M
@@ -243,9 +257,17 @@ git show <commit>
 
 # show any object in Git in human-readable format
 git show <hash>
+
+# shows every change/action you made to your repository
+# display the local, chronological history of a repository
+# good to find dangling commits (caused because of resetting, etc.)
+# is a chronological listing of our history, without regard for the repository’s branch structure
+# lets us find dangling commits that would otherwise be lost from the project history
+# at the beginning of each reflog entry, you’ll find a commit ID representing the HEAD after that action; you can use that ID to checkout
+git reflog
 ```
 
-## Undo & Redo
+## Undo & Redo & Rewriting History
 
 ```bash
 # undo before staging
@@ -311,7 +333,12 @@ git clean -f
 # BE CAREFUL! the effect is permanent
 git clean -f
 
-# if it's not the latest hash, you'll move to a non-existent (temporary) branch; use `git log` and `git branch` to see
+# reset, but preserve the working directory
+# the HEAD moves, but the working directory remaines unchanged
+# this results in a repository with uncommitted modifications
+git reset --mixed HEAD~1
+
+# if it's not the latest hash (a previous hash, or a hash which if dangled or is child of the current hash but it's not a branch's HEAD), you'll move to a non-existent (temporary) branch; use `git log` and `git branch` to see (this puts us in a detached HEAD state, which means our HEAD is no longer on the tip of a branch)
 git checkout <commit-hash>
 
 # checkout by tag (e.g. v1)
@@ -332,9 +359,16 @@ git checkout master
 git checkout <branch-name>
 ```
 
+```bash
+# use rebase to modofy your commits
+# common senarip: when you want to split changes in one commit into two or more commits; use `edit` instead of `pick`, commits that are applied after this commit won't be shown in `git log` before you `rebase --continue`. You can use `git reset --mixed HEAD~1` to remove the commit and commit again, this time with each change in a distinct commit
+git rebase -i master # if you're in master branch
+```
+
 ## Branch
 
 A branch simply is a lightweight movable pointer to a commit.
+A branch is actually a pointer to a single commit—not a container for a series of commits.
 
 We can’t add new commits when we’re not on a branch (for example when we've checked out an old commit). We need to create a branch from such cases to be able to do something.
 
@@ -437,6 +471,7 @@ git rebase <commit>
 
 # rebase interactively
 # select actions for each commit
+# during a rebase you can add, delete, and edit commits to your heart’s content, and the entire result will be moved to the new base
 # we can choose how each commit is transferred to the new base
 # common senario: combine multiple commits into one (condense our unnecessarily small commits into a single, meaningful snapshot) by changing `pick` to `squash`; Git stops to ask you what commit message to use for the combined snapshot resulting in our repository history being rewritten with brand new commits
 # common senario: edit/alter/amend a commit by changing `pick` to `edit`; Git stops you to make your edits, stage them, and `commit --amend` (we're on the commit we decided to edit). You must use `git rebase --continue` after your commit to continue rebasing
@@ -576,9 +611,6 @@ git status
 
 ### Merge feature or topic branches
 
-- Consider the master branch as the stable project. It's for recording the evolution of a project.
-- Create a new branch for each major addition to your project.
-- Don’t create a branch if you can’t give it a specific name.
 - Create and checkout a branch for your feature.
 - `git branch` to make sure.
 - Work on it with the Basic workflow.
@@ -617,10 +649,44 @@ new branch.
 - Delete the hotfix branch.
 - `git branch` to make sure.
 
+### Split a commit
+
+- Rebase interactively the current branch/commit: `git rebase -i master`.
+- Set `edit` as the action you want take on the desired commit.
+- Save and close the file.
+- Git will stop so you can edit your commit.
+- `git reset --mixed HEAD~1` to move one step backward but still have the changes in WD.
+- `git log` and `git status` to make sure.
+- Make your changes you want to be in the first commit.
+- Stage and commit them.
+- Repeat the previous two steps as many times as you want.
+- `git rebase --continue`.
+
+### Revive a lost/dangling commit
+
+- `git reflog` to see your actions on the repo.
+- Find the commit ID representing the HEAD after that action you want back.
+- Checkout that commit.
+- `git log` to make sure.
+- This puts us in a detached HEAD state, which means our HEAD is no longer
+  on the tip of a branch. We’re actually in the opposite situation as we would be in when we check out a commit before the branch tip. Now, we’re looking at a commit after the tip of the branch, but we still have a detached HEAD.
+- `git checkout -b <new-branch-name>` to turn our dangling commit into a full-fledged branch. We now have a branch that can be merged back into the project.
+- `git branch` to make sure.
+- `git log <previous-branch>..<new-branch>` to see what our new branch has that the previous branch hasn't. Decide if that's exactly what you're trying to take back.
+- Checkout the previous branch so you can merge the revived commit(s) to it.
+- `git branch` to make sure.
+- `git log HEAD..<new-branch> --stat` to see what you're going to merge.
+- Merge: `git merge <new-branch>`. It'd be an FF merge.
+- Delete the new branch.
+
 ## Best practices
 
-- You should never make
-  changes directly to a previous revision/commit. Go to the latest commit on your branch and find your way from there.
+- You should never make changes directly to a previous revision/commit. Go to the latest commit on your branch and find your way from there.
+- Commit a snapshot for each significant addition to your project.
+- Don’t commit a snapshot if you can’t come up with a single, specific message for it.
+- Consider the master branch as the stable project. It's for recording the evolution of a project.
+- Create a new branch for each major addition to your project.
+- Don’t create a branch if you can’t give it a specific name.
 
 ## Git Intrnals
 
