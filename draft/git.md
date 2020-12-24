@@ -364,8 +364,8 @@ git checkout <branch-name>
 ```
 
 ```bash
-# use rebase to modofy your commits
-# common senarip: when you want to split changes in one commit into two or more commits; use `edit` instead of `pick`, commits that are applied after this commit won't be shown in `git log` before you `rebase --continue`. You can use `git reset --mixed HEAD~1` to remove the commit and commit again, this time with each change in a distinct commit
+# use rebase to modify your commits
+# common scenario: when you want to split changes in one commit into two or more commits; use `edit` instead of `pick`, commits that are applied after this commit won't be shown in `git log` before you `rebase --continue`. You can use `git reset --mixed HEAD~1` to remove the commit and commit again, this time with each change in a distinct commit
 git rebase -i master # if you're in master branch
 ```
 
