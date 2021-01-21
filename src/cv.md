@@ -17,23 +17,28 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">برنامه‌نویسی</h3>
       <br>
-      <span class="cv-item">C#</span>
       <span class="cv-item">JavaScript</span>
       <span class="cv-item">ES6</span>
       <span class="cv-item">HTML</span>
       <span class="cv-item">CSS</span>
+      <span class="cv-item">React.js</span>
+      <span class="cv-item">Vue.js</span>
+      <span class="cv-item">Svelte</span>
+      <span class="cv-item">Redux/Saga/Duck</span>
+      <span class="cv-item">Material UI</span>
+      <span class="cv-item">Cypress</span>
+      <span class="cv-item">GraphQL</span>
+      <span class="cv-item">JSX</span>
+      <span class="cv-item">JSON</span>
+      <span class="cv-item">XML</span>
+      <span class="cv-item">SVG</span>
+      <span class="cv-item">C#</span>
       <span class="cv-item">ASP.NET Core</span>
       <span class="cv-item">ASP.NET MVC</span>
       <span class="cv-item">.NET Core</span>
       <span class="cv-item">Entity Framework</span>
       <span class="cv-item">ORM</span>
       <span class="cv-item">LINQ</span>
-      <span class="cv-item">Vue.js</span>
-      <span class="cv-item">React.js</span>
-      <span class="cv-item">JSX</span>
-      <span class="cv-item">JSON</span>
-      <span class="cv-item">XML</span>
-      <span class="cv-item">SVG</span>
       <span class="cv-item">MVC</span>
       <span class="cv-item">NPM</span>
       <span class="cv-item">Design Patterns</span>
@@ -87,6 +92,13 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
 
   <h2>تجربیات</h2>
   <ul>
+    <li class="cv-list-item">
+      <h3 class="cv-list-item-title">توسعه‌دهنده‌ی Front-End</h3>
+      <span class="cv-list-item-subtitle">Ethica Data</span>
+      <span class="cv-list-item-time">از ۱۳۹۹</span>
+      <br>
+      از تیرماه سال ۱۳۹۹ به عنوان توسعه‌دهنده‌ی فرانت‌اند در این شرکت مشغول به فعالیت شدم. React، ‌Redux/Saga، Context API، Hooks، GraphQL، MUI، و Cypress از جمله مواردی هستند که به طور معمول با آن‌ها سروکار دارم. همچنین تجربه‌ی مصاحبه با تعدادی از کارجویان موقعیت شغلی طراح تجربه‌ی کابر را در این شرکت داشتم.
+    </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">توسعه‌دهنده‌ی Full-Stack</h3>
       <span class="cv-list-item-subtitle">یاب‌نت</span>
