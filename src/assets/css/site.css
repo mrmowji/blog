@@ -558,6 +558,10 @@ img {
 
 /* add extracted components here */
 
+[lang="en"] {
+  direction: ltr;
+}
+
 a {
   color: #4299e1;
 }

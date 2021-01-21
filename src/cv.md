@@ -17,55 +17,55 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">برنامه‌نویسی</h3>
       <br>
-      <span class="cv-item">JavaScript</span>
-      <span class="cv-item">ES6</span>
-      <span class="cv-item">HTML</span>
-      <span class="cv-item">CSS</span>
-      <span class="cv-item">React.js</span>
-      <span class="cv-item">Vue.js</span>
-      <span class="cv-item">Svelte</span>
-      <span class="cv-item">Redux/Saga/Duck</span>
-      <span class="cv-item">Material UI</span>
-      <span class="cv-item">Cypress</span>
-      <span class="cv-item">GraphQL</span>
-      <span class="cv-item">JSX</span>
-      <span class="cv-item">JSON</span>
-      <span class="cv-item">XML</span>
-      <span class="cv-item">SVG</span>
-      <span class="cv-item">C#</span>
-      <span class="cv-item">ASP.NET Core</span>
-      <span class="cv-item">ASP.NET MVC</span>
-      <span class="cv-item">.NET Core</span>
-      <span class="cv-item">Entity Framework</span>
-      <span class="cv-item">ORM</span>
-      <span class="cv-item">LINQ</span>
-      <span class="cv-item">MVC</span>
-      <span class="cv-item">NPM</span>
-      <span class="cv-item">Design Patterns</span>
-      <span class="cv-item">LESS</span>
-      <span class="cv-item">SASS</span>
-      <span class="cv-item">Responsive Design</span>
-      <span class="cv-item">TailwindCSS</span>
-      <span class="cv-item">Bootstrap</span>
-      <span class="cv-item">jQuery</span>
-      <span class="cv-item">REST</span>
-      <span class="cv-item">OOP</span>
-      <span class="cv-item">MySQL</span>
-      <span class="cv-item">SQL Server</span>
-      <span class="cv-item">SQL</span>
-      <span class="cv-item">RDBMS</span>
-      <span class="cv-item">NativeScript</span>
-      <span class="cv-item">Website</span>
-      <span class="cv-item">Web App</span>
-      <span class="cv-item">SSG</span>
-      <span class="cv-item">11ty</span>
-      <span class="cv-item">p5js</span>
-      <span class="cv-item">Nunjucks</span>
-      <span class="cv-item">Markdown</span>
+      <span class="cv-item" lang="en">JavaScript</span>
+      <span class="cv-item" lang="en">ES6</span>
+      <span class="cv-item" lang="en">HTML</span>
+      <span class="cv-item" lang="en">CSS</span>
+      <span class="cv-item" lang="en">React.js</span>
+      <span class="cv-item" lang="en">Vue.js</span>
+      <span class="cv-item" lang="en">Svelte</span>
+      <span class="cv-item" lang="en">Redux/Saga/Duck</span>
+      <span class="cv-item" lang="en">Material UI</span>
+      <span class="cv-item" lang="en">Cypress</span>
+      <span class="cv-item" lang="en">GraphQL</span>
+      <span class="cv-item" lang="en">JSX</span>
+      <span class="cv-item" lang="en">JSON</span>
+      <span class="cv-item" lang="en">XML</span>
+      <span class="cv-item" lang="en">SVG</span>
+      <span class="cv-item" lang="en">C#</span>
+      <span class="cv-item" lang="en">ASP.NET Core</span>
+      <span class="cv-item" lang="en">ASP.NET MVC</span>
+      <span class="cv-item" lang="en">.NET Core</span>
+      <span class="cv-item" lang="en">Entity Framework</span>
+      <span class="cv-item" lang="en">ORM</span>
+      <span class="cv-item" lang="en">LINQ</span>
+      <span class="cv-item" lang="en">MVC</span>
+      <span class="cv-item" lang="en">NPM</span>
+      <span class="cv-item" lang="en">Design Patterns</span>
+      <span class="cv-item" lang="en">LESS</span>
+      <span class="cv-item" lang="en">SASS</span>
+      <span class="cv-item" lang="en">Responsive Design</span>
+      <span class="cv-item" lang="en">TailwindCSS</span>
+      <span class="cv-item" lang="en">Bootstrap</span>
+      <span class="cv-item" lang="en">jQuery</span>
+      <span class="cv-item" lang="en">REST</span>
+      <span class="cv-item" lang="en">OOP</span>
+      <span class="cv-item" lang="en">MySQL</span>
+      <span class="cv-item" lang="en">SQL Server</span>
+      <span class="cv-item" lang="en">SQL</span>
+      <span class="cv-item" lang="en">RDBMS</span>
+      <span class="cv-item" lang="en">NativeScript</span>
+      <span class="cv-item" lang="en">Website</span>
+      <span class="cv-item" lang="en">Web App</span>
+      <span class="cv-item" lang="en">SSG</span>
+      <span class="cv-item" lang="en">11ty</span>
+      <span class="cv-item" lang="en">p5js</span>
+      <span class="cv-item" lang="en">Nunjucks</span>
+      <span class="cv-item" lang="en">Markdown</span>
       <span class="cv-item">توسعه‌ی بازی</span>
       <span class="cv-item">طراحی الگوریتم</span>
       <span class="cv-item">ساختمان داده‌ها</span>
-      <span class="cv-item">VS Code</span>
+      <span class="cv-item" lang="en">VS Code</span>
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">طراحی گرافیک</h3>
@@ -75,18 +75,18 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-item">تایپوگرافی</span>
       <span class="cv-item">طراحی UI</span>
       <span class="cv-item">طراحی پوستر</span>
-      <span class="cv-item">Inkscape</span>
-      <span class="cv-item">Vector</span>
-      <span class="cv-item">Figma</span>
+      <span class="cv-item" lang="en">Inkscape</span>
+      <span class="cv-item" lang="en">Vector</span>
+      <span class="cv-item" lang="en">Figma</span>
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">سایر</h3>
       <br>
-      <span class="cv-item">Git</span>
-      <span class="cv-item">GitHub</span>
-      <span class="cv-item">SEO</span>
-      <span class="cv-item">Google Webmaster</span>
-      <span class="cv-item">Agile</span>
+      <span class="cv-item" lang="en">Git</span>
+      <span class="cv-item" lang="en">GitHub</span>
+      <span class="cv-item" lang="en">SEO</span>
+      <span class="cv-item" lang="en">Google Webmaster</span>
+      <span class="cv-item" lang="en">Agile</span>
     </li>
   </ul>
 
@@ -97,7 +97,7 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-list-item-subtitle">Ethica Data</span>
       <span class="cv-list-item-time">از ۱۳۹۹</span>
       <br>
-      از تیرماه سال ۱۳۹۹ به عنوان توسعه‌دهنده‌ی فرانت‌اند در این شرکت مشغول به فعالیت شدم. React، ‌Redux/Saga، Context API، Hooks، GraphQL، MUI، و Cypress از جمله مواردی هستند که به طور معمول با آن‌ها سروکار دارم. همچنین تجربه‌ی مصاحبه با تعدادی از کارجویان موقعیت شغلی طراح تجربه‌ی کابر را در این شرکت داشتم.
+      از تیرماه سال ۱۳۹۹ به عنوان توسعه‌دهنده‌ی فرانت‌اند در این شرکت مشغول به فعالیت شدم. React، ‌Redux/Saga، Context API، Hooks، GraphQL، MUI، و Cypress از جمله مواردی هستند که به طور معمول با آن‌ها سروکار دارم. همچنین تجربه‌ی مصاحبه با تعدادی از کارجویان موقعیت شغلی طراح تجربه‌ی کاربر را در این شرکت داشتم.
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">توسعه‌دهنده‌ی Full-Stack</h3>
@@ -305,22 +305,25 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">توسعه‌ی نرم‌افزار</h3>
       <br>
+      <span class="cv-item"  lang="en">Linux</span>
+      <span class="cv-item" lang="en">Ubuntu</span>
       <span class="cv-item">بهینه‌سازی</span>
+      <span class="cv-item">امنیت</span>
       <span class="cv-item">متن‌باز</span>
       <span class="cv-item">طراحی الگوریتم</span>
       <span class="cv-item">ساختمان داده‌ها</span>
-      <span class="cv-item">C#</span>
-      <span class="cv-item">ASP.NET Core</span>
-      <span class="cv-item">.NET Core</span>
-      <span class="cv-item">JavaScript</span>
-      <span class="cv-item">Vue.js</span>
-      <span class="cv-item">HTML</span>
-      <span class="cv-item">CSS</span>
-      <span class="cv-item">TailwindCSS</span>
-      <span class="cv-item">Cross-Platform</span>
+      <span class="cv-item" lang="en">C#</span>
+      <span class="cv-item" lang="en">ASP.NET Core</span>
+      <span class="cv-item" lang="en">.NET Core</span>
+      <span class="cv-item" lang="en">JavaScript</span>
+      <span class="cv-item" lang="en">Vue.js</span>
+      <span class="cv-item" lang="en">HTML</span>
+      <span class="cv-item" lang="en">CSS</span>
+      <span class="cv-item" lang="en">TailwindCSS</span>
+      <span class="cv-item" lang="en">Cross-Platform</span>
       <span class="cv-item">توسعه‌ی بازی</span>
-      <span class="cv-item">Web App</span>
-      <span class="cv-item">VS Code</span>
+      <span class="cv-item" lang="en">Web App</span>
+      <span class="cv-item" lang="en">VS Code</span>
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">طراحی گرافیک</h3>
@@ -334,8 +337,8 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-item">طراحی لوگو</span>
       <span class="cv-item">صفحه‌آرایی</span>
       <span class="cv-item">طراحی شخصیت</span>
-      <span class="cv-item">Inkscape</span>
-      <span class="cv-item">Figma</span>
+      <span class="cv-item" lang="en">Inkscape</span>
+      <span class="cv-item" lang="en">Figma</span>
     </li>
     <li class="cv-list-item">
       <h3 class="cv-list-item-title">سایر</h3>
@@ -345,6 +348,6 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       <span class="cv-item">موسیقی</span>
       <span class="cv-item">پینگ‌پنگ</span>
       <span class="cv-item">انیمیشن</span>
-      <span class="cv-item">TED</span>
+      <span class="cv-item" lang="en">TED</span>
     </li>
   </ul>
