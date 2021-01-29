@@ -984,6 +984,10 @@ blockquote {
   filter: var(--filter-logo);
 }
 
+iframe {
+  margin-bottom: 2rem;
+}
+
 /*
 
 Monokai Sublime style. Derived from Monokai by noformnocontent http://nn.mit-license.org/
