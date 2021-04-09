@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم Unfriended</title>
+  <meta name="description" content="از اون فیلم‌هاییه که قسمت دومش خیلی خیلی بهتر از اولیه‌س. تا به حال همچین موردی رو ندیده بودم." />
+  <meta property="og:title" content="فیلم Unfriended">
+  <meta property="og:description" content="از اون فیلم‌هاییه که قسمت دومش خیلی خیلی بهتر از اولیه‌س. تا به حال همچین موردی رو ندیده بودم.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم Unfriended" />
+  <meta name="twitter:description" content="از اون فیلم‌هاییه که قسمت دومش خیلی خیلی بهتر از اولیه‌س. تا به حال همچین موردی رو ندیده بودم." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم Unfriended</h1>
+<article>
+  <p>فیلم 10 Unfriended، محصول 2014 آمریکا.
+توی وبسایت IMDb، رتبه‌ی 5.5 رو به طور میانگین گرفته. من بهش 3 میدم و با این امتیاز میره توی لیست فیلم‌هایی که توصیه می‌کنم نبینید.
+به نظرم ارزش یه بار دیدن رو هم نداره واقعا. با این حال قسمت دوم این فیلم رو شدیدا پیشنهاد می‌کنم.
+این دو قسمت به هم ارتباطی ندارن. احساس می‌کنم قسمت دو رو به خاطر شکست قسمت اول ساختن و واقعا هم موفق بودن.</p>
+<p>ویژگی‌های مثبت فیلم، موضوع نسبتا جدیدش توی ژانر ترسناک و کیفیت ساختش با توجه به محیطی که توش هستیمه.
+اینکه اشتباهات اشخاص با توجه به وضعیت روحیشون تغییر می‌کنه هم جالبه. مثلا وقتی خیلی ترسیدن موقع تایپ کردن اشتباه تایپی دارن.
+یا وقتی کدهای پلیسی رو دارن توی صفحات وب می‌خونن اشتباه می‌خونن.
+توی تقریبا تمام فریم‌های فیلم، ما فقط داریم صفحه‌ی مانیتور یکی از بازیگرها رو می‌بینیم.</p>
+<p>داستان فیلم در مورد چند تا بچه دبیرستانیه که توی اسکایپ و بقیه‌ی شبکه‌های اجتماعی
+با نیروهای غیرطبیعی که احتمالا با خودکشی هم‌کلاسیشون در ارتباطه تهدید میشن.</p>
+<p>همون تیتراژ اول فیلم یه جورایی به ما میگه که این فیلم احتمالا به دنیای دیجیتال مربوطه. وقتی کلمه‌ی Universal داره
+دور زمین می‌چرخه یه سری نویز توی تصویر می‌بینیم. خودش می‌تونه بیانگر تاثیرات منفی دنیای دیجیتال باشه. توی این فیلم یکی
+از این اثرات منفی رو می‌بینیم.</p>
+<p>ادامه‌ی متن ممکنه داستان فیلم رو لو بده. اگه فیلم رو ندیدید بهتره دیگه ادامه ندید. اگه دیدید شاید خوندن بقیه‌ی متن براتون مفید باشه.</p>
+<p>اول فیلم می‌بینیم که نقش اول (به اسم Blaire) داره کلیپ‌های یه دختر دبیرستانی به اسم (Laura) رو می‌بینه که به دلیل منتشر شدن یه ویدئوی نامناسب ازش به صورت آنلاین، توی دبیرستان با تفنگ خودشو می‌کشه.</p>
+<p>بلیر با دوست‌پسرش در حال ویدئوچت توی اسکایپن یه دفه تماسشون به صورت ناخواسته و بدون اینکه خودشون کاری بکنن به تماس گروهی تبدیل میشه و بقیه‌ی دوستاشون هم میان توی چت. در واقع یه شخص دیگه هم توی اون چت گروهی هست که بقیه نمیشناسنش.</p>
+<p>در این بین، دوست‌پسر بلیر (به اسم Mitch) یه پیام از طرف لائورا می‌گیره. بعدش خود بلیر هم توی فیسبوک یه پیام از لائورا می‌گیره.
+بعدش می‌فهمیم که در واقع امروز، سالگرد لائوراس. جلوتر می‌فهمیم که ملت توی یه فروم در مورد دریافت پیام از طرف مردگان
+مطالبی رو به اشتراک گذاشتن.</p>
+<p>خلاصه سعی می‌کنن این مشکل رو با حذف کردن لائورا از لیست دوستان درست کنن تا دیگه پیامی ازش نگیرن. البته در این بین
+یه سری مشکلات مشکوک هم توی فیسبوک به وجود میاد.</p>
+<p>از این‌جا به بعد اون شخص (یا هر چیزی که اسمش هست) شدت اذیت کردن بچه‌ها رو بیشتر می‌کنه.
+مثلا عکس‌های خصوصیشون رو توی فیسبوک به اشتراک می‌ذاره. یا توی اسکایپ از طرف بقیه پیام میده. این کار رو با اکانت یکی از همون بچه‌ها انجام میده
+تا تنش بینشون رو بیشتر کنه و یه چیزی رو یادآوری کنه (به اشتراک گذاشتن محتوای خصوصی اشخاص به صورت آنلاین).</p>
+<p>در مدت کوتاهی اون شخص مسئولیت کارها رو قبول میکنه.</p>
+<p>یکی از بچه‌ها (به اسم Val) عکس چت خودش با لائورا رو از طرف اون شخص می‌گیره. در واقع داخل اون چت با لحن بدی به لائورا گفته میشه که «چرا خودتو نمی‌کشی؟»</p>
+<p>این عکس توسط همون شخص توی اینستاگرام هم به اشتراک گذاشته میشه.</p>
+<p>بچه‌ها تصمیم می‌گیرن کلا همه چیز رو قطع کنن و برن. ولی از طرف اون شخص تهدید میشن که اگه قطع کنن همشون می‌میرن.</p>
+<p>ول که با اون انتشار عکس تصمیم گرفته بود با پلیس تماس بگیره بعد از چند دقیقه به تماس گروهی جوین میشه. ولی این دفه فرق می‌کنه.
+تصویرش ثابته. یه دفه تصویرش درست میشه ولی می‌بینیم که یه جورایی سرش می‌خوره به میز یا یه همچین چیزی و دیگه تکون نمی‌خوره.</p>
+<p>بچه‌ها فک می‌کنن غش کرده یا یه جور حمله‌ی قلبی بوده چون سابقه‌شو داشته.</p>
+<p>پلیس‌ها که به خونه‌ی ول رسیده بودن توی چت دیده میشدن چون موبایلش هنوز وصله. کدهای پلیسی رو بقیه‌ی بچه‌ها توی اینترنت جستجو می‌کنن.
+یکی از نتایج جستجو «خودکشیه». یعنی کدی که پلیس مخابره می‌کنه نشون‌دهنده‌ی خودکشی ول هست.</p>
+<p>بعدش اون شخص مرموز به همشون پیام میده که همشون یه اسرار کثیفی دارن که می‌خواد منتشرشون کنه.</p>
+<p>بجه‌ها تلاش می‌کنن که اونو از چت بندازن بیرون و از شرش خلاص بشن. ظاهرا که با یه ابزار تروجان این کار رو انجام میدن.
+همه هم شاد و شنگولن، انگار نه انگار دوستشون همین چند دقیقه پیش خودکشی کرده.</p>
+<p>ولی خوب، دوباره سروکله‌ی اون شخص پیدا میشه. و این دفعه نوبت تپل‌ترین فرد گروهه.</p>
+<p>روند فیلم به همین شکل ادامه پیدا می‌کنه. وارد یه بازی هم میشن که توش باید یه سری چیزا رو اعتراف کنن.</p>
+<p>مرگ‌ها کاملا به شکل مرموزی اتفاق میفتن. یعنی کسی اون بچه‌ها رو به قتل نمی‌رسونه. به نظر می‌رسه خودشون خودکشی می‌کنن ولی به صورت ناخواسته. انگار کنترلی روش ندارن.</p>
+<p>آخرش هم می‌فهمیم که نقش اول و دوست‌پسرش در واقع عوامل اصلی انتشار ویدئوی لائورا بودن که به سزای اعمالشون رسیدن.</p>
+<p>چه مشکلاتی داشت؟</p>
+<ul>
+<li>وقتی ظاهرا تونستن شخص مرموز رو از گروه چتشون بندازن بیرون خیلی شاد و شنگولن. انگار نه انگار چند دقیقه قبلش یکی از
+دوستاشون به طور مرموزی خودکشی می‌کنه. یا جلوتر که تپله کشته میشه، باز هم وضعیتشون برمی‌گرده به حالت نرمال و انگار نه انگار.</li>
+<li>بازی‌ها زیاد قابل قبول نیست به نظرم. دریغ از یه دونه اشک. سعی می‌کنن ولی نمیشه. در کل توی بعضی از سکانس‌ها خیلی مصنوعی
+بازی می‌کنن.</li>
+<li>این شخص مرموز می‌تونه دوربین هم کار بذاره. این کار رو برای Ken (تپل‌ترین شخص گروه) انجام میده.
+البته کلا تخیلیه ولی خوب این یه مورد خیلی خاص بود و با بقیه‌ی ویژگی‌های اون شخص نمی‌خوند.</li>
+<li>تمام مرگ‌ها به صورت خودکشی و بدون کنترل خود شخص رخ میده. به جز مورد آخر. نمی‌دونم چه لزومی داشت توی مورد آخر
+یه شخص واقعی رو توی تاریکی ببینیم. چون تا قبلش همه چیز رو داشتیم با دید روح و ... هضم می‌کردیم.</li>
+<li>ساعت تقریبا ۱۰ شبه. هیچ‌کسی غیر از این بچه‌های دبیرستانی توی خونه نیست. معمولا پدر و مادرها باید حضور داشته باشن. نه؟
+همه با هم نیستن.</li>
+<li>توی بعضی از سکانس‌ها دنبال کردن چند تا منبع ورودی اطلاعات سخته. مثلا پشت صحنه دارن حرف میزنن و به نظر هم حرفاشون مهم میاد.
+ولی اینور دارن چت می‌کنن و اون چت هم مهمه.</li>
+<li>یه قسمت توی بازی اعترافی مرگبار هست که شخص مرموز داستان برای آدام و بلیر یه پرینت می‌فرسته. یعنی پرینترشون یه چیزی رو چاپ می‌کنه.
+ولی خوب میشد واسشون ایمیل کنه. حالا چرا این کار رو کردن توی داستان؟ صرفا برای این که وقتی آدام خودکشی می‌کنه دوربین جابجا بشه و بتونه اون صفحه پرینت رو نشون بده به بقیه. اگه میخواستن این کار رو با چیزی که روی صفحه مانیتور هست بکنن نمیشد بیننده و
+بقیه‌ی اعضای گروه متوجه بشن چه چیزی برای آدام ارسال شده. کلا روش جالبی نبود برای رسیدن به یه هدف نسبتا غیرضروری.</li>
+<li>توی اون بازی اعتراف، در اون بلبشوی بکش بکش (خودبکش خودبکش)، ملت دنبال جواب گرفتن از بقیه‌ن. ول هم نمی‌کنن. بذار تموم بشه این قضیه بعد برو ببین دوست‌دخترت خیانت کرده بهت یا نه.</li>
+<li>بلیر اون آخرای قضیه که چیز دیگه‌ای به ذهنش نمی‌رسه، تصمیم می‌گیره از طریق چت‌های تصادفی آنلاین (Chatroulette) یه شخص رو پیدا و درخواست کمک کنه که پلیس بفرسته. جالب اینجاست شخص مرموز داستان ما هیچ مشکلی با این قضیه نداره. چون تا الآن خیلی راحت
+می‌تونست همه چیز رو کنترل کنه. پس احتمالا می‌تونه ببینه بلیر داره چه کاری می‌کنه. هیچ چیزی توی فیلم نمی‌بینیم که چرا
+به بلیر اجازه میده همچین کاری رو بکنه. راحت می‌تونست بلاکش کنه. بدتر اینکه بلیر فقط آدرس اون کسی که در حال حاضر
+در خطره رو میده. آدرس بقیه و خودشو نمیده. نمی‌دونم چرا؟</li>
+<li>با این که فیلم توی ژانر ترسناکه ولی کلا از دید من ترسناک نبود. نمی‌دونم. شاید برای بقیه ترسناک باشه.</li>
+</ul>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/unfriended-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم Unfriended&body=https://mrmowji.com/unfriended-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
