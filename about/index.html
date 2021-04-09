@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>درباره</title>
+  <meta name="description" content="اینجا در مورد من بیشتر بدونید. من کیم؟ چی و چرا می‌نویسم؟ و این که چه کسی گوسفند مرا قورت داد؟" />
+  <meta property="og:title" content="درباره">
+  <meta property="og:description" content="اینجا در مورد من بیشتر بدونید. من کیم؟ چی و چرا می‌نویسم؟ و این که چه کسی گوسفند مرا قورت داد؟">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="درباره" />
+  <meta name="twitter:description" content="اینجا در مورد من بیشتر بدونید. من کیم؟ چی و چرا می‌نویسم؟ و این که چه کسی گوسفند مرا قورت داد؟" />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>درباره</h1>
+<article>
+    <p>
+    برای دیدن مهارت‌ها، تجربیات، تحصیلات، زبان‌های خارجی، پروژه‌ها، افتخارات و علاقه‌مندی‌ها،
+    <a href="/cv">صفحه‌ی رزومه</a>
+    رو باز کنید.
+  </p>
+  <h2>درباره‌ی خودم</h2>
+  <p>
+    وی در خانواده‌ای مذهبی ...<br>
+    من مجتبی‌م. <strong>مجتبی جوان</strong>.
+    متولد شهریور 67، بیرجند (نه بجنورد، نه بروجرد، نه لبنان)، خراسان جنوبی.
+    بالاخره وبسایت خودمو راه انداختم.
+  </p>
+  <p>
+    <strong>راهنمایی</strong> که بودم داداشم دانشگاه باهنر کرمان درس می‌خوند،
+    جایی که خودم هم بعدش لیسانسمو گرفتم. بعضی وقتا میومد خونه و کامپیوترشو هم با خودش میاورد،
+    پنتیوم بود فک کنم با ویندوز 98 و موس تیله‌ای.
+    شاید از همونجا بود که عاشق کامپیوتر و برنامه‌نویسی شدم.
+  </p>
+  <p>
+    توی دبیرستان با <strong>پاسکال</strong> کار کردیم.
+    هنوز اون محیط توی ذهنم هست. پاسکال، دوست‌داشتنی بود. بعد از اون تا لیسانس کلا برنامه‌نویسی کار نکردم،
+    چون کامپیوتر نداشتم.
+  </p>
+  <p>
+    اما بهترین تجربه‌های اجتماعیم، توی دوره‌ی
+    <strong>کارشناسی دانشگاه باهنر کرمان</strong> رقم خورد.
+    عالی بود. بچه‌ها عالی بودن، خاطرات هم که دیگه تکرار نمیشن.
+    توی این دوره، دوباره پاسکال رو به عنوان مقدمات برنامه‌نویسی پاس کردیم.
+    ترم بعدش <strong>C++</strong> رو پاس کردیم. زبون نسبتا خوبیه. هنوز هم بعضی وقتا باهاش کار می‌کنم.
+    ترمای آخر بود که توی درس مباحث ویژه، طراحی وبسایت رو با <strong>HTML/CSS</strong> و <strong>ASP Classic</strong> کار کردیم.
+    از این نسخه از ASP بعدا واسه یه پروژه‌ی تجاری کوچیک استفاده کردم.
+    در همین حین، به منظور گذارن زندگی، کلیه‌هامو فروختم (الکی).
+    ولی به منظور جور کردن پول ساندویچ و کافی‌میکس، سعی می‌کردم پروژه‌های فتوشاپ،
+    فلش خدابیامرز، ترجمه، برنامه‌نویسی و ... رو انجام بدم.
+  </p>
+  <p>
+    بعد از لیسانس، ما رو اعزام کردن <strong>دانشگاه تهران</strong>.
+    <strong>فوق‌لیسانس</strong> کلا دوره جالبی نیست. چون خیلی کوتاهه. ولی با انسان‌های باحالی آشنا شدم.
+    کلا خوشحالم این مسیر رو طی کردم. توی این دوره، بیشتر با <strong>لاتک (LaTeX)</strong> کار کردیم.
+    خیلی خوب بود. توی همین سال‌ها بود که <strong>C#</strong> رو بیشتر یاد گرفتم، یه زبون شسته‌رفته و ناز.
+  </p>
+  <p>
+    بین تسویه‌حساب با دانشگاه تهران که خیلی الکی بیشتر از 2 ماه طول کشید و اعزام به خدمت،
+    من و داداشم تصمیم گرفتیم یه وبسایت خبرخوان برای رسانه‌های اطلاح‌طلب و اعتدال‌گرا راه بندازیم.
+    این شد که <strong>وبسایت دمادم (damadam)</strong> بدون این که توی زمینه‌ی وب به صورت حرفه‌ای کار کرده باشم راه افتاد.
+  </p>
+  <p>
+    دمادم رو با <strong>PHP</strong> و <strong>MySQL</strong> پیاده کردم.
+    تقریبا 3 ماه طول کشید. نسخه‌ی اولیه که قبل از عید 94 راه‌اندازی شده بود خیلی خیلی خام بود
+    و فک کنم توی وبسایت archive.org باشه. ولی به طور عجیبی داشت خوب پیش می‌رفت.
+    شاید بیشترین تجربه‌ای که شخصا توی این مدت کسب کردم، <strong>SEO</strong> و <strong>بهینه‌سازی بانک اطلاعاتی</strong> بود.
+    واقعا مفید بود. شاید 3 یا 4 بار وبسایت به خاطر حجم بالای داده‌ها و کمبود منابع، از دسترس خارج شد
+    و مجبور بودیم سرور رو ارتقا بدیم. در روز، نزدیک به ۱۰۰۰۰ خبر رو استخراج می‌کردیم.
+    وضعیت از وقتی که محتوای اصلی خبر رو هم از منبع می‌کشیدیم بیرون، بدتر شد.
+  </p>
+  <p>
+    یه بار به خاطر بی‌تجربگی و یا بی‌فکری خودمون با <strong>وبسایت بازده</strong> به مشکل خوردیم.
+    امیدوارم ما رو بخشیده باشن. مشکل از ما بود، حق با بازده. هنوز هم وقتی بهش فکر می‌کنم مو به تنم سیخ میشه.
+  </p>
+  <p>
+    بهترین رتبه‌ای که وبسایت دمادم توی الکسا بهش رسیده بود ۷۰۰ بود.
+    البته بعدش به این نتیجه رسیدم که وبسایت الکسا ملاک خوب و مناسبی نیست.
+    ولی با توجه به بازدید و درآمدی که با یکتانت توی تبلیغات داشتیم فهمیدیم که وبسایت داره خوب کار 
+    می‌کنه.
+  <p>
+  </p>
+    همه چیز از اواسط ۱۳۹۶ بدتر شد. ۲ ۳ بار شکایت حقوقی داشتیم.
+    اواخر، یه بار به مدت ۱ ماه فیلتر شد (به خاطر یه مطلب که وبسایت منبع به خاطرش فیلتر نشده بود).
+    جالب اینجا بود که هر نوع گزارشی که به ما می‌رسید سریعا نسبت بهش اقدام می‌کردیم.
+    جالبتر این بود که به جای فیلتر کردن یک صفحه، کل دامنه رو فیلتر کرده بودن.
+    بعدش تصمیم گرفتیم دیگه محتوا رو استخراج نکنیم. تمام این عوامل باعث شدن بازدید کاهش پیدا کنه.
+    شکایت‌ها و شکایت‌های احتمالی در آینده، کاهش بازدید، افزایش قیمت سرورها (به ۵۰۰هزار تومن در ماه نزدیک شده بود) و بی‌حوصلگی خودمون
+    (مدیریت و توسعه‌ی یک خبرخوان واقعا دیگه چیزی نبود که تغییری توی وضع زندگی بشریت داشته باشه)،
+    ما رو به این نتیجه رسوند که دیگه باید بیخیال بشیم و اندر تیرماه ۹۷، دمادم رو متوقف کردیم.
+  </p>
+  <p>
+    بریم عقب‌تر. بعد از کارشناسی ارشد، در پاییز ۹۳ برای اولین بار با یک <strong>شتر هفت‌سر</strong> آشنا شدم.
+    هر چقدر خواستم <strong>سربازی</strong> رو بپیچونم و نرم، نشد.
+    امریه هم نتونستم بگیرم. نتیجه این شد که «بنا به درخواست نامبرده، 21 ماه در خدمت مایی برادر»، توجه کنید، بنا به درخواست خودم،
+    وگرنه اونا کاری ندارن با ما! باید ۲۱ ماه رو در خدمت ۰۴ بیرجند می‌بودم.
+    دقیقا ۶۴۰ روز. چیزی که سربازی بهم داد چند تا رفیق باحال بود. روزی هم که ترخیص شدم، <strong>پلاسکو</strong> اومد پایین.
+  </p>
+  <p>
+    بعد از دمادم، پروژه‌های دیگه‌ای (مثل یاب‌نت و ساروان) رو هم بردیم جلو و متاسفانه اون‌ها هم شکست خوردن. به نظر خودم، دلیل عمده‌ی موفق نشدن این پروژه‌ها، مشکلات مالی و نبود یه تیم منسجم بود. ولی من کم نمیارم.
+  </p>
+  <p>همین!</p>
+  <h2>درباره‌ی این وبلاگ</h2>
+  <p>
+    اگه اشتباه نکنم سال ۸۵ بود که برای اولین بار با وبلاگ‌نویسی آشنا شدم. همون سال یه وبلاگ با بلاگفا درست کردم و تقریبا
+    هر مطلبی که خودم دوست داشتم رو منتشر می‌کردم. تجربه‌ی خوبی بود. بعد از اون دیگه با سرویس‌های وبلاگ‌نویسی حال نکردم تا این که
+    blog.ir اومد. خیلی خوب بود. واقعا تمیز کار کردن. هنوز هم به نظرم بهترین سرویس وبلاگ‌نویسی توی ایرانه. بیشتر مطالبم توی
+    blog.ir مربوط به دوره‌ی سربازیمه. یه جور دفترچه‌ی خاطرات بود برای دوره‌ی آموزشی.
+  </p>
+  <p>
+    الآن هم بالاخره تونستم کد وبسایتمو بنویسم و شروع کنم. قبلا با وردپرس کار کردم. ولی از اونجایی
+    که دیگه با PHP و وردپرس حال نمی‌کنم واسه این وبسایت تصمیم گرفتم
+    از ASP.Net Core استفاده کنم.
+    بعد از ۱ سال، وبسایت رو از حالت پویا درآوردم و از 11ty به جای ASP.NET Core استفاده کردم.
+    اینجوری نه بانک اطلاعاتی دارم و نه امنیت به اون شکل مهمه. از طرفی سرعت هم خیلی خیلی بیشتر شده.
+    برای هاست هم از صفحات GitHub استفاده کردم. تنها هزینه‌ای که این وبسایت/وبلاگ داره، هزینه‌ی دامنه‌س.
+  </p>
+  <h2>چی و چرا می‌نویسم؟</h2>
+  <p>
+    کلا نوشتن رو دوست دارم. مخصوصا وقتی قراره با صفحه‌کلید این کار رو انجام بدم.
+    دوست دارم تجربیات خودمو با بقیه به اشتراک بذارم. شاید مفید باشن.
+  </p>
+  <p>
+    <strong>تغییر</strong> یکی از موضوعات اصلی این وبسایت خواهد بود. تغییر توی هر چیزی، در جهت مثبت. البته بیشتر پست‌ها
+    نظر شخصین و لزوما از دید همه قابل قبول نیستن. با این حال، از دید خودم درستن و ممکنه بعدا اون نظر یا طرز فکر رو یه نفر
+    تغییر بده. بحث کردن رو دوست دارم.
+  </p>
+  <p>
+    از زیرموضوعات «تغییر» که شاید بیشتر از بقیه‌ی موضوعات بهش پرداخته بشه، بحث
+    <strong>مینیمال</strong> بودنه. این موضوع توی زندگی خودم تاثیرات زیادی داشته و همونطور که از ظاهر وبسایت هم
+    می‌تونید متوجه بشید، خودم یک مینیمالیستم (یا دوست دارم باشم).
+  </p>
+  <p>
+    اگه تمایل داشتید، می‌تونید
+    <a href="/">با من در ارتباط باشید</a>.
+    خوشحال میشم.
+  </p>
+</article>
+  </main>
+</body>
+</html>

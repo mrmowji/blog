@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>پروژه‌ی Questhink</title>
+  <meta name="description" content="پروژه‌ی Questhink از اون پروژه‌های مینیماله که تقریبا یه سال میشد بهش فکر می‌کردم. بهتون سوال نشون میده. شما به سوالات فکر کنید. حالشو ببرید. اگه مفید بود منو فراموش نکنید." />
+  <meta property="og:title" content="پروژه‌ی Questhink">
+  <meta property="og:description" content="پروژه‌ی Questhink از اون پروژه‌های مینیماله که تقریبا یه سال میشد بهش فکر می‌کردم. بهتون سوال نشون میده. شما به سوالات فکر کنید. حالشو ببرید. اگه مفید بود منو فراموش نکنید.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="پروژه‌ی Questhink" />
+  <meta name="twitter:description" content="پروژه‌ی Questhink از اون پروژه‌های مینیماله که تقریبا یه سال میشد بهش فکر می‌کردم. بهتون سوال نشون میده. شما به سوالات فکر کنید. حالشو ببرید. اگه مفید بود منو فراموش نکنید." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>پروژه‌ی Questhink</h1>
+<article>
+  <p>تقریبا یه سال بود که یه ایده توی ذهنم وول می‌خورد. بالاخره انجام شد. اینجا قراره معرفیش کنم. اسمش هست Questhink.</p>
+<p><a href="https://questhink.com" target="_blank">Questhink</a>
+یه وبسایته که فقط ازتون سوال می‌پرسه. هر بار که صفحه رو باز کنید، یه سوال تصادفی توی صفحه نمایش داده میشه و در صورت تمایل می‌تونید بهش فکر کنید.</p>
+<figure>
+<img src="/assets/images/content/questhink-title.png" alt="Questhink title" />
+</figure>
+<h2>هدف</h2>
+<p>به نظرم ما از سوالات اساسی و کلی زندگی و ... خیلی فاصله گرفتیم. سوالاتی که شاید تاثیر زیادی توی مسیر یا دیدگاهمون داشته باشن. پس دفعه‌ی بعد که چند دقیقه وقت آزاد داشتید، به جای این که سریع اون بازی رو بیارید بالا، می‌تونید وبسایت Questhink رو باز کنید و به سوال یا سوالاتی که برای شما نمایش داده میشه، فکر کنید.</p>
+<p>ایده‌ی اصلی این پروژه، از منابعی مختلفی سرچشمه می‌گیره. یکیشون
+<a href="http://thoughtquestions.com/" target="_blank">
+وبسایت Thought Question
+</a>
+هست، که به نظر می‌رسه از سال ۲۰۱۴ دیگه فعالیت نمی‌کنه. بعضی از سوالات Questhink هم بر اساس همین وبسایتن.</p>
+<p>توی Questhink، فقط سوال برای شما نمایش داده میشه. امکان نظر دادن یا ثبت جواب وجود نداره. فقط باید بهش فکر کنید. اگه خواستید می‌تونید سوال رو با بقیه به اشتراک بذارید و با همدیگه فیض ببرید.</p>
+<p>اگه خواستید می‌تونید توی این پروژه مشارکت داشته باشید. این وبسایت، یه
+<a href="https://questhink.com/contact" target="_blank">
+صفحه‌ی «تماس»
+</a>
+داره که اونجا می‌شه نظرات رو ثبت کرد. سوال جالبی رو پیدا کردید ممنون میشم از طریق اون صفحه واسم بفرستید. در حال حاضر از سرویس Disqus استفاده کردم تا کار سریع‌تر جلو بره.</p>
+<figure>
+<img src="/assets/images/content/questhink-first-question.png">
+<figcaption>
+آیا به اندازه‌ی کافی از خودتون سوال می‌پرسید؟
+</figcaption>
+</figure>
+<h2>خواص</h2>
+<ul>
+<li>مینیماله، به طوری که تمرکز اصلی مخاطب فقط روی سواله. ولی خوب، چیز دیگه‌ای رو هم لازم نبود بهش اضافه کنم. البته ناگفته نمونه که بنده از پیروان مینیمالیسم هستم.</li>
+<li>امکان کپی و به اشتراک گذاشتن سوال وجود داره. بدیهیه. چیزی که شاید بدیهی نباشه و به مورد قبل مربوطه اینه که خیلی راحت می‌تونید از صفحه‌ی سوال عکس بگیرید و توی اینستاگرام هم به اشتراک بذارید.</li>
+<li>امکان مخفی کردن یک یا چند سوال وجود داره. دیگه نمی‌بینیدشون.</li>
+<li>امکان پیشنهاد سوال هم از طریق فرم تماس (بالاتر گفته شد) وجود داره.</li>
+<li>در حال حاضر، انگلیسیه.</li>
+<li>...</li>
+</ul>
+<p>امیدوارم براتون مفید باشه. نظری (نقد، پیشنهاد و ...) داشتید ممنون میشم واسم بفرستید.</p>
+<p><a href="https://questhink.com" target="_blank">questhink.com</a></p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/questhink/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=پروژه‌ی Questhink&body=https://mrmowji.com/questhink/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>تمام پست‌ها</title>
+  <meta name="description" content="لیست تمام مطالبی رو که توی این وبلاگ منتشر شده اینجا ببینید." />
+  <meta property="og:title" content="تمام پست‌ها">
+  <meta property="og:description" content="لیست تمام مطالبی رو که توی این وبلاگ منتشر شده اینجا ببینید.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="تمام پست‌ها" />
+  <meta name="twitter:description" content="لیست تمام مطالبی رو که توی این وبلاگ منتشر شده اینجا ببینید." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>تمام پست‌ها</h1>
+<article>
+    <p>
+    اینجا تمام پست‌ها رو می‌تونید ببینید. تا این لحظه،
+    <strong>50</strong>
+    مطلب نوشته شده.
+    مطالب بر اساس زمان و به صورت نزولی مرتب شدن (جدیدترین پست‌ها بالاترن).
+    با سال انتشار تفکیک شدن و روز و ماه هم مشخصه.
+  </p>
+  <ul class="list-none compact"><li>
+      <span>
+        <time datetime="Wed Apr 08 2015 00:00:00 GMT+0000 (Coordinated Universal Time)">2015/04/08</time>
+      </span>
+      <a href="/military-service-04/">سربازی ۰۴</a>  
+    </li><li>
+      <span>
+        <time datetime="Tue Feb 19 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/02/19</time>
+      </span>
+      <a href="/minimalism/">مینیمالیسم</a>  
+    </li><li>
+      <span>
+        <time datetime="Wed Feb 20 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/02/20</time>
+      </span>
+      <a href="/blogging/">وبلاگ‌نویسی</a>  
+    </li><li>
+      <span>
+        <time datetime="Fri Feb 22 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/02/22</time>
+      </span>
+      <a href="/huntsman-winter-war-movie/">فیلم The Huntsman: Winter's War</a>  
+    </li><li>
+      <span>
+        <time datetime="Sun Feb 24 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/02/24</time>
+      </span>
+      <a href="/comments/">بخش نظرات</a>  
+    </li><li>
+      <span>
+        <time datetime="Tue Feb 26 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/02/26</time>
+      </span>
+      <a href="/child/">آیا این حق رو داریم که بچه‌دار بشیم؟</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu Feb 28 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/02/28</time>
+      </span>
+      <a href="/experience-1/">تجربه‌ای عجیب در آزادکاری (فریلنسینگ)</a>  
+    </li><li>
+      <span>
+        <time datetime="Fri Mar 01 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/03/01</time>
+      </span>
+      <a href="/minimal-email/">چطور یه ایمیل مینیمال داشته باشیم؟</a>  
+    </li><li>
+      <span>
+        <time datetime="Sat Mar 02 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/03/02</time>
+      </span>
+      <a href="/clothes/">لباس؛ چرا اینقدر تنوع؟</a>  
+    </li><li>
+      <span>
+        <time datetime="Sun Mar 03 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/03/03</time>
+      </span>
+      <a href="/spotlight-movie/">فیلم Spotlight</a>  
+    </li><li>
+      <span>
+        <time datetime="Mon Mar 11 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/03/11</time>
+      </span>
+      <a href="/1397/">مرور ۱۳۹۷</a>  
+    </li><li>
+      <span>
+        <time datetime="Tue Mar 12 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/03/12</time>
+      </span>
+      <a href="/1398-goals/">اهداف ۱۳۹۸</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu May 16 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/05/16</time>
+      </span>
+      <a href="/geostorm-movie/">فیلم Geostorm</a>  
+    </li><li>
+      <span>
+        <time datetime="Wed May 22 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/05/22</time>
+      </span>
+      <a href="/the-road-movie/">فیلم The Road</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu May 30 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/05/30</time>
+      </span>
+      <a href="/news/">آیا واقعا باید اخبار رو دنبال کنیم؟</a>  
+    </li><li>
+      <span>
+        <time datetime="Sat Jun 01 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/06/01</time>
+      </span>
+      <a href="/rhythm-0/">ریتم صفر</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu Jun 13 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/06/13</time>
+      </span>
+      <a href="/irib/">صدا، سیما و حرص‌های من</a>  
+    </li><li>
+      <span>
+        <time datetime="Wed Jun 19 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/06/19</time>
+      </span>
+      <a href="/mortal-engines-movie/">فیلم Mortal Engines</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu Jun 20 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/06/20</time>
+      </span>
+      <a href="/wild-tales-movie/">فیلم Wild Tales</a>  
+    </li><li>
+      <span>
+        <time datetime="Sat Jun 22 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/06/22</time>
+      </span>
+      <a href="/similar-design-won/">کار مشابهی که جایزه گرفت!</a>  
+    </li><li>
+      <span>
+        <time datetime="Tue Jun 25 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/06/25</time>
+      </span>
+      <a href="/write-persian/">شاید بهتره فارسی بنویسیم!</a>  
+    </li><li>
+      <span>
+        <time datetime="Sat Jun 29 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/06/29</time>
+      </span>
+      <a href="/the-aviator-movie/">فیلم The Aviator</a>  
+    </li><li>
+      <span>
+        <time datetime="Wed Jul 03 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/07/03</time>
+      </span>
+      <a href="/the-grey-movie/">فیلم The Grey</a>  
+    </li><li>
+      <span>
+        <time datetime="Wed Jul 17 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/07/17</time>
+      </span>
+      <a href="/game-of-thrones-tv-series/">سریال Game of Thrones</a>  
+    </li><li>
+      <span>
+        <time datetime="Fri Aug 30 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/08/30</time>
+      </span>
+      <a href="/why-my-academy/">مشکلات منابع آموزش آنلاین برنامه‌نویسی</a>  
+    </li><li>
+      <span>
+        <time datetime="Wed Oct 30 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/10/30</time>
+      </span>
+      <a href="/why-no-agreement-on-gui-language/">چرا یه زبان جامع برای GUI نداریم؟ والا!</a>  
+    </li><li>
+      <span>
+        <time datetime="Mon Dec 02 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/12/02</time>
+      </span>
+      <a href="/brothers-movie/">فیلم Brothers</a>  
+    </li><li>
+      <span>
+        <time datetime="Wed Dec 04 2019 00:00:00 GMT+0000 (Coordinated Universal Time)">2019/12/04</time>
+      </span>
+      <a href="/aftermath-movie/">فیلم Aftermath</a>  
+    </li><li>
+      <span>
+        <time datetime="Wed Mar 04 2020 00:00:00 GMT+0000 (Coordinated Universal Time)">2020/03/04</time>
+      </span>
+      <a href="/1398/">مرور ۱۳۹۸</a>  
+    </li><li>
+      <span>
+        <time datetime="Mon Mar 30 2020 00:00:00 GMT+0000 (Coordinated Universal Time)">2020/03/30</time>
+      </span>
+      <a href="/questhink/">پروژه‌ی Questhink</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu Apr 23 2020 00:00:00 GMT+0000 (Coordinated Universal Time)">2020/04/23</time>
+      </span>
+      <a href="/ninja-code/">کد نینجا</a>  
+    </li><li>
+      <span>
+        <time datetime="Wed Jun 03 2020 00:00:00 GMT+0000 (Coordinated Universal Time)">2020/06/03</time>
+      </span>
+      <a href="/minimal-twitter/">چطور در توییتر مینیمال باشیم؟</a>  
+    </li><li>
+      <span>
+        <time datetime="Sun Jun 14 2020 00:00:00 GMT+0000 (Coordinated Universal Time)">2020/06/14</time>
+      </span>
+      <a href="/prisoners-movie/">فیلم Prisoners</a>  
+    </li><li>
+      <span>
+        <time datetime="Fri Jun 19 2020 00:00:00 GMT+0000 (Coordinated Universal Time)">2020/06/19</time>
+      </span>
+      <a href="/rejected/">رد شدگانیم!</a>  
+    </li><li>
+      <span>
+        <time datetime="Sat Jun 20 2020 00:00:00 GMT+0000 (Coordinated Universal Time)">2020/06/20</time>
+      </span>
+      <a href="/the-debt-movie/">فیلم The Debt</a>  
+    </li><li>
+      <span>
+        <time datetime="Tue Jun 30 2020 00:00:00 GMT+0000 (Coordinated Universal Time)">2020/06/30</time>
+      </span>
+      <a href="/devils-donkey/">مراحل پایین آمدن از خر شیطان</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu Dec 24 2020 00:00:00 GMT+0000 (Coordinated Universal Time)">2020/12/24</time>
+      </span>
+      <a href="/darebee-baseline/">وبسایت Darebee و اولین تجربه‌ی موفق من در ورزش</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu Dec 24 2020 00:00:00 GMT+0000 (Coordinated Universal Time)">2020/12/24</time>
+      </span>
+      <a href="/minimal-browser-bookmarks/">مینیمالیسم در بوکمارک‌های مرورگر</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu Dec 31 2020 00:00:00 GMT+0000 (Coordinated Universal Time)">2020/12/31</time>
+      </span>
+      <a href="/need-creation/">چرا احساس می‌کنیم به فلان چیز نیاز داریم؟</a>  
+    </li><li>
+      <span>
+        <time datetime="Fri Jan 08 2021 00:00:00 GMT+0000 (Coordinated Universal Time)">2021/01/08</time>
+      </span>
+      <a href="/bobby-fischer-teaches-chess-book/">کتاب Bobby Fischer Teaches Chess</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu Jan 21 2021 00:00:00 GMT+0000 (Coordinated Universal Time)">2021/01/21</time>
+      </span>
+      <a href="/statistical-cunning/">حیله‌های آماری</a>  
+    </li><li>
+      <span>
+        <time datetime="Fri Jan 22 2021 00:00:00 GMT+0000 (Coordinated Universal Time)">2021/01/22</time>
+      </span>
+      <a href="/diy-vs-pnp/">DIY vs. PnP در توسعه‌ی نرم‌افزار</a>  
+    </li><li>
+      <span>
+        <time datetime="Fri Jan 29 2021 00:00:00 GMT+0000 (Coordinated Universal Time)">2021/01/29</time>
+      </span>
+      <a href="/ponisha-with-caution/">مشکل پنهان وبسایت‌هایی مثل پونیشا</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu Mar 18 2021 00:00:00 GMT+0000 (Coordinated Universal Time)">2021/03/18</time>
+      </span>
+      <a href="/1399/">مرور ۱۳۹۹</a>  
+    </li><li>
+      <span>
+        <time datetime="Sat Mar 20 2021 00:00:00 GMT+0000 (Coordinated Universal Time)">2021/03/20</time>
+      </span>
+      <a href="/10-cloverfield-lane-movie/">فیلم 10 Cloverfield Lane</a>  
+    </li><li>
+      <span>
+        <time datetime="Mon Mar 22 2021 00:00:00 GMT+0000 (Coordinated Universal Time)">2021/03/22</time>
+      </span>
+      <a href="/train-to-busan-movie/">فیلم Train to Busan</a>  
+    </li><li>
+      <span>
+        <time datetime="Tue Mar 23 2021 00:00:00 GMT+0000 (Coordinated Universal Time)">2021/03/23</time>
+      </span>
+      <a href="/greenland-movie/">فیلم Greenland</a>  
+    </li><li>
+      <span>
+        <time datetime="Wed Mar 24 2021 00:00:00 GMT+0000 (Coordinated Universal Time)">2021/03/24</time>
+      </span>
+      <a href="/yes-man-movie/">فیلم Yes Man</a>  
+    </li><li>
+      <span>
+        <time datetime="Thu Mar 25 2021 00:00:00 GMT+0000 (Coordinated Universal Time)">2021/03/25</time>
+      </span>
+      <a href="/a-walk-among-the-tombstones-movie/">فیلم A Walk Among the Tombstones</a>  
+    </li><li>
+      <span>
+        <time datetime="Fri Mar 26 2021 00:00:00 GMT+0000 (Coordinated Universal Time)">2021/03/26</time>
+      </span>
+      <a href="/contagion-movie/">فیلم Contagion</a>  
+    </li></ul>
+</article>
+  </main>
+</body>
+</html>

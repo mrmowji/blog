@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم Yes Man</title>
+  <meta name="description" content="یه فیلم نسبتا شاد که شاید روحیه‌تون رو بهتر کنه. من خودم چند بار دیدم. احتمالا دوباره در آینده ببینم." />
+  <meta property="og:title" content="فیلم Yes Man">
+  <meta property="og:description" content="یه فیلم نسبتا شاد که شاید روحیه‌تون رو بهتر کنه. من خودم چند بار دیدم. احتمالا دوباره در آینده ببینم.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم Yes Man" />
+  <meta name="twitter:description" content="یه فیلم نسبتا شاد که شاید روحیه‌تون رو بهتر کنه. من خودم چند بار دیدم. احتمالا دوباره در آینده ببینم." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم Yes Man</h1>
+<article>
+  <p>جیم کری رو احتمالا همه می‌شناسن. حداقل 4 5 فیلم از این بازیگر هست که از دید من ارزش یک یا چند بار دیدن رو دارن.
+Yes Man یه دونه از اون فیلم‌هاس. این فیلم محصول سال 2008 آمریکاس.
+توی وبسایت IMDb، رتبه‌ی 6.8 رو به طور میانگین گرفته. من بهش 6 میدم و با این امتیاز میره توی لیست فیلم‌هایی که توصیه می‌کنم حداقل یه بار ببینید. توی لیست بهترین‌ها نیست. ولی سرگرم‌کننده‌س و شاید حال بعضیا رو در جهت مثبت تغییر بده.</p>
+<p>ژانر فیلم کمدی و عاشقانه‌س. طنز فیلم در مقایسه با فیلم‌های قبلی جیم کری توی همین ژانر
+کمتره ولی مشکل خاصی نداشت از دید من. ممکنه شما رو به قهقهه نندازه ولی احتمالش هست لبخند رو روی صورتتون نگه داره.</p>
+<p>داستان خیلی ساده‌س. روون و سبک میره جلو. چیز پیچیده‌ای وجود نداره. به جز یکی دو سکانس احتمالا بشه این فیلم رو با خونواده هم دید. موسیقی و تصویربرداری هم معمولیه. ولی بیشتر فیلم‌نامه و پیام فیلمه که مهمه.</p>
+<p>بعضی از سکانس‌های فیلم موندگارن. مجموعه بازیگری که انتخاب شده به نظرم مناسبن.</p>
+<p>این که می‌تونستم با بخشی از نقش اول مرد (توی نه گفتن) و بخشی از نقش اول زن (توی این که کار خودشو انجام میده بدون در نظر گرفتن نظر بقیه) هم‌ذات‌پنداری کنم برام خیلی خوب بود.</p>
+<p>ادامه‌ی متن ممکنه داستان فیلم رو لو بده. اگه فیلم رو ندیدید بهتره دیگه ادامه ندید. اگه دیدید شاید خوندن بقیه‌ی متن براتون مفید باشه.</p>
+<p>فیلم در مورد یه شخص به اسم کارله (Carl) که زیاد حال و حوصله نداره. زیاد با دوستاش نمی‌گرده. زیاد «نه» می‌گه.
+ولی در کل زندگی بدی نداره. به عنوان سرپرست امور مالی توی یه بانک کار می‌کنه. یه جورایی شبیه منه.</p>
+<p>از طریق یکی از دوستان قدیمیش با مفهوم Yes Man آشنا میشه و بعد از یه کابوس کوتاه تصمیم می‌گیره توی یکی از سمینارهاش شرکت کنه.</p>
+<p>بعد از پیمانی که با سخنران اون سمینار می‌بنده، تصمیم می‌گیره هر وقت یه فرصت خودش رو در هر شکلی بهش نشون داد، «نه» نگه. در واقع «بله» گفتن رو از همون
+بعد سمینار شروع می‌کنه و یه جورایی تاثیرش رو هم می‌بینه (یا حداقل خودش اینطور به قضیه نگاه می‌کنه).</p>
+<p>این بله‌ها مسیر زندگی کارل رو تغییر میدن و زندگی بهتری رو براش می‌سازن. البته توی بعضی از موارد نمی‌تونه بله بگه و
+اتفاقات خوبی واسش نمیفتن و این‌ها رو به عنوان طبعات نقض پیمانی که بسته برداشت می‌کنه. به این شکل به جایی میرسه که به همه چیز بله میگه.
+بعضی از این فرصت‌هایی که بهشون بله گفته بعدا به دردش می‌خورن.</p>
+<p>آخرش هم متوجه میشه که این قضیه بله گفتن به همه چیز فقط برای اول کاره، برای شروع. بعدش باید بله گفت نه به این خاطر که مجبوریم
+و نه به خاطر یه پیمان، بلکه به خاطر این که قلبمون اینطور می‌خواد. حتی شاید بهتره از «شاید» به جای نه و بله استفاده کنیم.</p>
+<p>فیلم چون از نوع کمدیه زیاد وارد جزئیات مشکلاتش نشدم چون توی این فیلم‌ها زیاد دنبال منطق نمی‌گردم شخصا. ولی خوب توی بعضی از سکانس‌ها بازی‌ها خوب نبود از دید من، حتی بازی جیم کری.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/yes-man-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم Yes Man&body=https://mrmowji.com/yes-man-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

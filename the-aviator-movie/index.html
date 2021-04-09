@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم The Aviator</title>
+  <meta name="description" content="این اولین فیلمیه که از یه کارگردان شناخته شده معرفی می‌کنم و توصیه می‌کنم نبینید. از این نوع فیلم‌ها توی این وبلاگ زیاد خواهید دید. دفه‌ی بعد که یه نفر گفت اسکورسیزی خیلی خفنه، هوانورد رو واسش مثال بزنید." />
+  <meta property="og:title" content="فیلم The Aviator">
+  <meta property="og:description" content="این اولین فیلمیه که از یه کارگردان شناخته شده معرفی می‌کنم و توصیه می‌کنم نبینید. از این نوع فیلم‌ها توی این وبلاگ زیاد خواهید دید. دفه‌ی بعد که یه نفر گفت اسکورسیزی خیلی خفنه، هوانورد رو واسش مثال بزنید.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم The Aviator" />
+  <meta name="twitter:description" content="این اولین فیلمیه که از یه کارگردان شناخته شده معرفی می‌کنم و توصیه می‌کنم نبینید. از این نوع فیلم‌ها توی این وبلاگ زیاد خواهید دید. دفه‌ی بعد که یه نفر گفت اسکورسیزی خیلی خفنه، هوانورد رو واسش مثال بزنید." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم The Aviator</h1>
+<article>
+  <p>با سلام خدمت حضار محترم. بنده در این مدت (حداقل) 20 ساله‌‎ای که عاشق سینما شدم، تنها با یک ویژگی اهالی سینما مشکل داشتم. اون هم این که یک کارگردان، بازیگر و ... رو اونقدر بزرگ می‌کنن که بعدش دیگه نمی‌تونن جمعش کنن.</p>
+<p>از جمله‌ی این کارگردان‌ها میشه به <strong>مارتین اسکورسیزی (Martin Scorsese)</strong> اشاره کرد. مسلما همه‌ی فیلم‌هاش بد نیست، و دقیقا به همین شکل همه‌ی فیلم‌هاش هم خوب نیست (حتی شاید تعداد فیلم‌های خوبشون کمتر از تعداد فیلم‌های بدشون باشه). چند مثال دیگه: <strong>کریستوفر نولان</strong>، <strong>کوئنتین تارانتینو</strong> و <strong>استیون اسپیلبرگ</strong>.</p>
+<p>اما فیلمی که توی این پست می‌خوام در موردش بنویسم، اسمش هست <strong>The Aviator (هوانورد)</strong> محصول 2004. توی IMDb، میانگین رتبه‌ی این فیلم <strong>7.5 از 10ه</strong>. من بهش <strong>2 از 10</strong> میدم؛ بیشتر به خاطر تصویربرداری.</p>
+<p>خودم توصیه می‌کنم <strong>این فیلم رو نبینید</strong>. ولی اگه دیدید ادامه‌ی متن شاید واستون مفید باشه. اگه ندیدید، تا همین‌جا کافیه.</p>
+<p>داستان فیلم (که واقعیه)، در مورد شخصیه به اسم <strong>هوارد هیوز (Howard Hughes)</strong> که دچار وسواس فکری و عملیه (OCD)، کم‌شنواس و علاقه‌ی زیادی به پرواز و هواپیما داره و به دلیل همین علاقه‌ش میره به سمت ساخت فیلم‌هایی که در مورد پروازن و یا ساخت هواپیماهای جدید با ایده‌های خودش. در واقع اونطور که توی فیلم نمایش داده میشه، این موارد، آرزوهای بچگیش بودن که بهشون هم میرسه. ثروت زیادی که بعد از مرگ والدینش بهش میرسه، این کارها رو ممکن می‌کنه ولی اراده‌ای که خودش داشته و تصمیماتی که می‌گیره اون رو به هدفش می‌رسونه.</p>
+<ul>
+<li>این که فیلم در مورد یه بچه پولداره که داره با مشکلاتش دست و پنجه نرم می‌کنه، شاید از دید بعضی‌ها چیز باارزشی نباشه. هر چند درستش اینه که بگیم نمیشه همینجوری قضاوت کرد، ولی این داستان واقعا چیزی برای برداشت نداره، یعنی نباید انتظار داشته باشید که بعد از دیدنش مثلا انگیزه‌تون بیشتر بشه (البته اگه دنبال همچین چیزی هستید)، چون شخصیت اصلی داستان یه شخص پولداره که داره سعی می‌کنه به آرزوهاش برسه، و وضعیت خیلیا شاید نزدیک به اون هم نباشه. فضای فیلم هم به اندازه‌ی نسبتا زیادی پره از همچین شخصیت‌های اتوکشیده و ثروتمندی. بهتره با دید زندگی‌نامه به داستان نگاه کرد و کارهای مفیدی که انجام شده رو در نظر گرفت. در واقع، کلیت فیلم همینه و احتمالا ارزش صرف وقت رو نداشته باشه. چیزی رو از دست نمی‌دید. می‌تونید داستانش رو به طور خلاصه‌تری توی اینترنت پیدا کنید :دی</li>
+<li>خوب، اولین مشکل این فیلم، مدت زمانشه. بیش از اندازه زیاده؛ 2 ساعت و 50 دقیقه یا همون 3 ساعت. مدت زمان می‌تونه مشکلی ایجاد نکنه، اگه مخاطب رو نخوابونه.بعد از تقریبا 15 دقیقه‌ی ابتدای فیلم، بیننده با یه روایت خسته‌کننده مواجهه.</li>
+<li>هوارد هیوز، برای برطرف کردن یکی از مشکلاتی که توی فیلمبرداری صحنه‌های هوایی داره، تصمیم می‌گیره یه متخصص هواشناسی رو استخدام کنه. جالب اینجاست این متخصص هیچ کار مهمی رو انجام نمیده. موقع استخدام هم میگه نمیشه تشخیص داد کی ابرها به وجود میان و باید صبر کرد، یا ابرها در حرکتن و ... واقعا برای همچین حرف‌هایی نیاز به یه متخصص بود؟ جلوتر یه بار میگه «ابرها را در فلان‌جا یافتم» و باز جلوتر ازش توی توجیه یه فیلم دیگه استفاده میشه. در عمل خیلی راحت میشد حذفش کرد. شخصیتش هم بیشتر طنز بود تا چیزی که به واقعیت نزدیک باشه. رجوع کنید به مورد بعدی.</li>
+<li>کلا این فیلم، بیننده (حداقل من) رو یاد فیلم‌های کمدی می‌ندازه. حتی در بعضی از موارد هم با دید طنز به اختلال‌های هوارد پرداخته شده بود. نمی‌دونم هدف از این نحوه‌ی بیان داستان چیه؟ ولی هر چی که هست، ما با یه فیلم بیوگرافی و درام طرفیم. شخصیت اول داستان از یه چیزهای رنج می‌بره و در پایان هم به طور موقت به یه چیزایی دست پیدا می‌کنه و یه سری تحولات رو رقم می‌زنه (هر چند زندگیش با توجه به اون چیزی که بقیه‌ی جاها نوشتن، بعد از اتفاقات فیلم، چندان خوب نمیره جلو). با این اوصاف، لازم نبود نحوه‌ی اجرا طوری باشه که انگار داریم فیلمی رو می‌بینیم که توی همون دهه‌ی 1930 ساخته شده، و نه یک داستان واقعی که چند سال بعد به تصویر کشیده شده.</li>
+<li>تدوین فیلم توی تعداد زیادی از سکانس‌ها خیلی تو ذوق می‌زنه.</li>
+<li>توی فیلم می‌بینیم که هوارد با هواپیماش میره توی یه ساحل که ملت در حال فیلمبردارین. اونجا برای اولین بار با همسر آینده‌ی هوارد (Katharine Hepburn) آشنا میشیم. هیچ پیشینه‌ای نداریم که چرا این اتفاق میفته.</li>
+<li>موسیقی تا حد زیادی سرسام‌آوره. بیشتر سکانس‌های نیمه‌ی اول فیلم هم توی مکان‌هایی رخ می‌دن که موسیقی و رقص هست. اجرای یکی از موسیقی‌ها واقعا روی مخ بود، هم موسیقیش، هم نحوه‌ی خوندنشون.</li>
+<li>با شخصیت‌هایی توی این فیلم آشنا میشیم و حس می‌کنیم جلوتر نقش مهمی رو داشته باشن، ولی از این خبرا نیست. مثال: نقشی که Jude Law بازی می‌کنه. زیرداستان مربوط به این شخصیت‌ها رو به نظرم راحت می‌تونستن حذف و زمان فیلم رو کمتر کنن.</li>
+<li>زیرداستان خونواده‌ی Katharine کاملا اضافی به نظر می‌رسه. هیچ چیزی رو اضافه نمی‌کنه. حتی یه مشکلی هم داشت این بود که توی همین زیرداستان، موقع ناهار خوردن، هوارد به مادر کترین می‌گه «شما پول واستون مهم نیست، چون (پول) دارید». خود هوارد هم شخصیت پولداری حساب میشه و ادعای این که «بعضی از ماها باید برای زندگی کار کنیم» چندان نمی‌چسبید.</li>
+<li>زیرداستان مربوط به فیلمی از هوارد که با کمیته‌ی سانسور (از خودم درآوردم اسمشو) به مشکل می‌خوره هم اضافی بود.</li>
+<li>مشکل اصلی که احتمالا خیلیا به خاطر گفتنش منو می‌خورن، خود لئوناردو دی‌کاپریو بود. همچین بازیگری با اون صدای نازک، چهره‌ی بچگانه که حتی سبیل هم کمکی بهش نمی‌کنه، بدن لاغر و قد نسبتا متوسط، برای همچین کاراکتری مناسب نبود، حتی شباهت زیادی هم به خود هوارد هیوز نداره. به نظرم از جدیت داستان کم کرده بود.</li>
+</ul>
+<p>در کل، به نظرم خیلی بهتر از این میشد ساخت، جدی‌تر و نه به شکل کمدی که بیننده رو یاد فیلم‌های با داستان غیرواقعی میندازن. داستانش بد نیست ولی فیلم و فیلم‌نامه‌ش نه. <strong>فیلمی نیست که بخواید بیشتر از یک بار ببینید</strong>.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/the-aviator-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم The Aviator&body=https://mrmowji.com/the-aviator-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

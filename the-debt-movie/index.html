@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم The Debt</title>
+  <meta name="description" content="فیلمی که نسبتا خوب شروع میشه و تا وسطای فیلم هم خوب میره جلو. بعد از اون، مشکلات میاد رو که حتی نیمه‌ی اول هم نمی‌تونه حمعش کنه." />
+  <meta property="og:title" content="فیلم The Debt">
+  <meta property="og:description" content="فیلمی که نسبتا خوب شروع میشه و تا وسطای فیلم هم خوب میره جلو. بعد از اون، مشکلات میاد رو که حتی نیمه‌ی اول هم نمی‌تونه حمعش کنه.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم The Debt" />
+  <meta name="twitter:description" content="فیلمی که نسبتا خوب شروع میشه و تا وسطای فیلم هم خوب میره جلو. بعد از اون، مشکلات میاد رو که حتی نیمه‌ی اول هم نمی‌تونه حمعش کنه." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم The Debt</h1>
+<article>
+  <p>فیلم The Debt (بدهی، قرض، دِین) رو امروز دیدم. بیکاری همینه باباجان. وقت زیاده. این فیلم که نسبتا خوب شروع میشه و تا وسطای فیلم هم میشه بعضی از مشکلاتش رو نادیده گرفت، بعد از نیمه، مشکلاتش رو بیشتر می‌بینیم.</p>
+<p>The Debt توی وبسایت IMDb رتبه‌ی <strong>۶٫۸ از ۱۰</strong> رو گرفته که احتمالا در آینده بیاد پایین‌تر. چون اون زمانی که من دانلود کردم رتبه‌ش بیشتر بود و نقدهایی که براش ثبت شده بودن هم اینقدر منفی نبود. فیلم محصول ۲۰۱۰ آمریکاس. من خودم بهش <strong>۴</strong> میدم چون احساس می‌کنم مشکلاتی که پایین‌تر واسش میارم ممکنه واقعا مشکل نباشن. یعنی برداشت بد خودم باشه. در حال حاضر این فیلم میره توی لیست فیلم‌هایی که <strong>نه توصیه می‌کنم نبینید و نه توصیه می‌کنم ببینید</strong>. شاید «متوسط» بهترین برچسب برای این فیلم باشه. شاید خوشتون بیاد.</p>
+<p>این فیلم، بازسازی یه فیلم دیگه با همین عنوانه. کلا هالیوود علاقه‌ی خاصی به بازسازی داره و معمولا هم نتیجه‌ی این کارهاش خوب نیستن. البته شاید توی این مورد، مشکل اصلی مربوط به داستان باشه.</p>
+<figure>
+<img src="/assets/images/content/the-dept-movie-poster.jpg"
+  alt="Helen Mirren با عینک دودی، Jessica Chastain و Sam Worthington با تفنگ. جمله‌ی اصلی پوستر هم اینه: Every secret comes with a price.">
+<figcaption>
+پوسترش طوریه انگار با یه فیلم در حد جیمز باند طرفیم. نه این که جمیز باند خوبه. منظورم اینه که انگار این فیلم قراره در همون حد اکشن باشه. ولی اینطور نیست.
+</figcaption>
+</figure>
+<p>داستان فیلم در مورد یک تیم ۳نفره از نیروهای موساده که قراره یه دکتر آلمانی رو بدزدن و منتقلش کنن به اسرائیل تا در جواب جنایت‌های جنگی که روی مردم (احتمالا) یهودی انجام داده محاکمه بشه. این اتفاقات در سال‌های بعد از جنگ جهانی دوم رخ میدن.</p>
+<p>اگه فیلم رو ندیدید شاید بهتره دیگه ادامه ندید. اگه دیدید، شاید متن زیر براتون مفید باشه.</p>
+<p>اون تیم ۳نفره بعد از این که موفق میشن دکتر جنایت‌کار رو بدزدن، توی انتقالش به محدوده‌ی مورد نظر که بشه راحت‌تر بردش اسرائیل، شکست می‌خورن. در نتیجه مجبور میشن تا اطلاع ثانوی اون دکتر رو نزد خودشون نگه دارن. اطلاع ثانوی رخ نمیده. در این حین، دکتر موفق میشه فرار کنه. اون ۳ نفر تصمیم می‌گیرن برای این که آبروی کشورشون نره (مجرم رو از دست دادن) دروغ بگن و وانمود کنن که دکتر رو در حین فرار کشتن.</p>
+<p>این دروغ رو به مدت ۳۰ سال فاش نمی‌کنن. ولی بعد از ۳۰ و اندی سال، اون دکتر سر و کله‌ش پیدا میشه و به نظر می‌رسه می‌خواد بگه که «آقایون من زنده‌م». تصمیم می‌گیرن که برن ساکتش کنن، یا حداقل خودشون قبلش راستشو بگن و به این شکل دیگه دینی بر گردنشون نباشه.</p>
+<h2>چیش خوبه؟</h2>
+<ul>
+<li>بازی‌ها به نظرم خوبن. یه مشکل داشت فقط که توی بخش بعدی میگم.</li>
+<li>چند تا سکانس خیلی خوب داره که بعضیاشون هم زیاد طولانی نیستن. یکیش اونجایی که ریچل (با بازی Jessica Chastain) با ناراحتی میره پیانو زدن رو شروع می‌کنه. پر واضحه که بتهوون نقش خیلی موثری رو توی اون صحنه ایفا می‌کنه. شاید بهترین سکانس فیلم همین بود.</li>
+<li>به نظرم موسیقی با ریتم فیلم خیلی هماهنگه. کلا هم موسیقیش خوبه.</li>
+<li>دوربین و فیلمبرداری به نظرم خوبه. بیشتر سکانس‌ها با حرکات نرم، تصویربرداری شدن. کمتر صحنه‌ای هست که دوربین توش کاملا ثابت باشه.</li>
+<li>فلش‌بک‌ها خیلی خوب با داستان زمان حال (دهه‌ی ۹۰) جور شدن. جاهای خوبی فلش‌بک داریم.</li>
+</ul>
+<h2>چیش خوب نیست به نظرم؟</h2>
+<ul>
+<li>بازی‌ها خوبن ولی انتخاب بازیگرها شاید خوب انجام نشده. اولین مورد این که تفاوت فاحشی بین بازیگرهای ۳۰ سال قبل و بازیگرهای زمان حال وجود داره. قد، چهره و ... شاید فقط بازیگر نقش اصلی (ریچل) رو بشه قابل قبول دونست. مشکل بعدی هم این بود که بازیگرها بیشتر به نژاد انگلیسی (بریتانیایی) می‌خوردن تا اسرائیلی.</li>
+<li>برای این که بتونن هویت دکتر رو قبل از دزدیدنش تایید کنن، مجبور میشن یه سری عکس ازش بگیرن و برای مقامات بفرستن. حالا چطوری عکس می‌گیرن؟ ریچل یه دوربین خیلی خیلی ریز رو به عنوان گردنبند با خودش حمل می‌کنه. موقعی که دکتر داره معاینه‌ش می‌کنه، ریچل گردنبند رو می‌گیره (یعنی استرس داره و ...) و باهاش عکس می‌گیره. واقعا نمی‌دونم اون زمان چطور همچین دوربینی رو ساختن. یا اصن چرا همچین راه سختی رو برای عکس گرفتن انتخاب کردن؟ این از اون مواردیه که خودم حوصله نداشتم در موردش تحقیق کنم. ولی برای یه بیننده‌ی عادی مثل من خیلی عجیب بود.</li>
+<li>تنها راهی که این ۳ نفر پیدا می‌کنن تا دکتر رو بعد از دزدیدن به محل امن و نهایی ببرن از وسط یه راه‌آهنه که یه طرفش (سمت این ۳ نفر) اداره‌ی پسته و اون طرف هم توسط نیروهای آلمانی نگهبانی میشه. یعنی حتی اگه موفق هم میشدن باید از جلوی نیروهای آلمانی یا در کنار قطار با ماشین فرار می‌کردن. این که این رو پیش‌بینی کردن خیلی عجیبه. چون احتمال گیر افتادنشون خیلی زیاد بود. اینطور که نشون دادن، اگه ۱۰۰ متر می‌رفتن اونورتر بهتر بود.</li>
+<li>برای روز مبادا نیومدن داروی بیهوشی قوی‌تری رو به دکتر تزریق کنن، یا حداقل ۲ بار با فواصل مشخص بهش تزریق کنن. در حدی که نمیره، ولی بلند هم نشه بوق بزنه ملت رو بیدار کنه. جالب اینجاس که قرار بود هیچ‌کدوم از اون ۳ مامور مخفی، بالاسر دکتره نباشن. یعنی توی نقشه اینطور رفتن جلو. بعد انتظار داشتن بیدار نشه. جلوتر می‌گن «مطمئنی کل دارو رو تزریق کردی؟». این شد بهونه؟ خوب ۲ بار بزن. اصن ۱۰ بار بزن.</li>
+<li>بعد از این که دکتر فرار می‌کنه، ۳ تا مامور تصمیم می‌گیرن دروغ بگن که اونو در حین فرار کشتن. دو دلیل اصلی برای این کار به ما نشون داده میشه. یکیش این که خود دکتر، دیگه به کسی چیزی نمیگه، ساکت می‌مونه. ولی چرا؟ چرا باید ساکت بمونه؟ چرا همچین فرضی می‌کنن. حتی بعد از فرارش هم هیچ پلیسی نمیاد سمت محلی که ۳ مامور زندگی می‌کنن. یعنی دکتر اصن نرفته گزارش بده. چرا؟ اگه آلمان اون زمان دیدگاهش نسب به جنگ جهانی عوض شده و اگه همچین موردی رو ببینه حتما محاکمه‌ش می‌کنه خوب چرا اسرائیل به آلمان گزارش نمیده؟ اگه نه هم که دکتره نباید از رفتن پیش پلیس بترسه. دلیل دومشون هم این بود که اگه راستشو بگن آبروی کشورشون میره. چرا آخه؟ مگه شما علنا اعلام کردید که قراره همچین شخصی رو بدزدید و ببرید کشور خودتون محاکمه کنید که حالا با فرار کردنش آبروی کشورتون بره. آبروی خودتون شاید بره فقط، اون هم جلوی چند نفری که می‌دونستن همچین ماموریتی وجود داره. خیر سرشون ماموریت مخفی بود. کدوم آبروریزی آخه؟</li>
+<li>آخرای داستان هم یه کم گنگ و ماست‌مالی شده میره جلو. اصن معلوم نیست چه خبره. اون دکتره رو توی یه بیمارستان روانی توی اوکراین پیدا می‌کنن. به نظر میاد دکتره اشتباه می‌کنه و به یکی از بیمارهای دیگه که توی اون بیمارستان بستری شده، داستان زندگیشو میگه. بعد اون طرف هم میاد خودشو با اسم اون دکتره به همه معرفی می‌کنه (که من خفنم و اینقدر آدم کشتم و ...). قسمت گنگش این بود. از اون طرف، دکتره حداقل ۲۰ ۳۰ سال از ریچل بزرگتره. یعنی در زمان حال (دهه‌ی ۹۰)، ریچل تقریبا ۵۵ سالشه و اون دکتره احتمالا ۷۵ ۸۵ سالش میشه. با این حال، دکتره مثل اسب قویه و می‌تونه از پس یه مامور سابق موساد بر بیاد. نکته‌ی بعدی در مورد سکانس‌های مربوط به این قسمت این بود که به زور اومدن هیجانش رو بیشتر کردن. مثلا گزارشگره دیرتر میرسه و ... این هم ناگفته نمونه که ریچل می‌خواست اون بدبخت بیمار روانی رو بدون نگاه کردن به صورتش و تایید هویت، بکشه.</li>
+</ul>
+<p>داستان، بر اساس واقعیت ساخته نشده. کلا خیالیه. شاید همین باعث شده که مشکلات بالا به وجود بیان. شاید هم من اشتباه برداشت کردم. اگه اینطور بود لطفا بهم اطلاع بدید. در حال حاضر پیشنهاد نمی‌کنم این فیلم رو کسی ببینه.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/the-debt-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم The Debt&body=https://mrmowji.com/the-debt-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

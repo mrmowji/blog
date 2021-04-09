@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>تجربه‌ای عجیب در آزادکاری (فریلنسینگ)</title>
+  <meta name="description" content="اولین تجربه نه‌چندان‌خوب من توی آزادکاری (فریلنسینگ) رو که می‌دونم تا مدت زیادی توی ذهنم خواهد موند، اینجا بخونید. تقریبا 10 ساله کارم اینه ولی این مورد واسم خیلی خاص بود. امیدوارم به درد شما هم بخوره و تعارف رو توی بحث کسب و کار بذارید کنار." />
+  <meta property="og:title" content="تجربه‌ای عجیب در آزادکاری (فریلنسینگ)">
+  <meta property="og:description" content="اولین تجربه نه‌چندان‌خوب من توی آزادکاری (فریلنسینگ) رو که می‌دونم تا مدت زیادی توی ذهنم خواهد موند، اینجا بخونید. تقریبا 10 ساله کارم اینه ولی این مورد واسم خیلی خاص بود. امیدوارم به درد شما هم بخوره و تعارف رو توی بحث کسب و کار بذارید کنار.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="تجربه‌ای عجیب در آزادکاری (فریلنسینگ)" />
+  <meta name="twitter:description" content="اولین تجربه نه‌چندان‌خوب من توی آزادکاری (فریلنسینگ) رو که می‌دونم تا مدت زیادی توی ذهنم خواهد موند، اینجا بخونید. تقریبا 10 ساله کارم اینه ولی این مورد واسم خیلی خاص بود. امیدوارم به درد شما هم بخوره و تعارف رو توی بحث کسب و کار بذارید کنار." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>تجربه‌ای عجیب در آزادکاری (فریلنسینگ)</h1>
+<article>
+  <p><strong>آزادکاری یا فریلنسینگ (Freelancing)</strong> می‌تونه خیلی خوب باشه، خیلی؛ شما واسه خودتون کار می‌کنید، هر وقت بخواید کار می‌کنید، هر جایی بخواید کار می‌کنید، آزادید، لم می‌دید و حال نداشتید هم کار نمی‌کنید (نه در اون حد دیگه!). با این حال، بعضی وقتا (مخصوصا اوایل کار) فراموش می‌کنید که چه چیزی واقعا مهمه. توی این پست می‌خوام در مورد یه <strong>تجربه‌ی نه‌چندان خوب</strong> که با یکی از مشتری‌هام داشتم بگم.</p>
+<figure>
+<img src="/assets/images/content/feeling-sorry.png" alt="مجسمه‌ای شرمسار">
+<figcaption>
+اینگونه شرمسارم. فقط به خاطر این که این عکس رو کش رفتم. [کش رفته شده گشته از
+<a href="https://medium.com/thrive-global/have-you-ever-been-shamed-f4bee278b61">اینجا</a>]
+</figcaption>
+</figure>
+<p>از جمله کارهایی که اگه فرصت داشته باشم انجام میدم، گرافیکه. تقریبا 2 3 سال میشه که خیلی جدی کار می‌کنم، هر چند درآمد خاصی واسم نداشته و فقط به خاطر علاقه ادامه میدم. هیچ ادعایی هم ندارم. یه نفر ممکنه از کارهام خوشش بیاد، و یه نفر هم نه.</p>
+<p>اوایل امسال بود که یکی از دوستان که نمونه کارهامو
+<a href="https://www.instagram.com/mrmowji">توی اینستاگرام</a>
+دیده بود، منو به یکی از دوستان خودش (<strong>آقای x</strong>) معرفی کرد. یه قرار گذاشتیم واسه صحبت‌های اولیه. کار اصلی آقای x مدیریت رستوران و کافه بود، یعنی خودش یه کافه تو تهران داشت و می‌خواست توی شهر خودش (شهر من) هم یه کافه‌رستوران بزنه و واسه همین یه لوگو نیاز داشت. با این که توی تهران طراح داشت (واسه کافه‌ش) ولی دوست داشت از طراحان محلی استفاده کنه. از این تصمیمش واقعا خوشم اومد. از اون طرف چون من بیشتر مینیمال کار می‌کنم و آقای x هم دنبال همچین طراحی میگشتن منو انتخاب کرده بودن. خلاصه این که توی همون قرار اول همه چیز قطعی شد.</p>
+<p>قیمت لوگو رو 500هزار تومن در نظر گرفتم (می‌دونم کمه، <strong>اولین اشتباه</strong>) و به خاطر این که دوستم معرفی کرده بود 100هزار تومن کم کردم. من نصف هزینه رو بعد از 3 تا طرح اول ازشون گرفتم (<strong>دومین اشتباه</strong>؛ باید قبل از شروع کار، هزینه رو دریافت می‌کردم). قرار بر این بود که حداکثر توی 1 ماه به نتیجه‌ی نهایی برسیم، چون می‌گفتن می‌خوان حداکثر توی 2 ماه، شعبه رو افتتاح کنن. من توی هفته‌ی اول 3 تا طرح فرستادم که یکیشون انتخاب شد و طبق گفته‌ی خودشون، دوسش داشتن. ولی با این حال یه طرح دیگه هم می‌خواستن که بتونن بهتر تصمیم بگیرن. به خاطر آشنایی دوستم، یه طرح دیگه هم واسشون فرستادم و جالب اینجا بود که طرح جدید رو بیشتر پسندیده بودن و به نظر می‌رسید طرح نهایی همین باشه. روش بیشتر کار کردیم تا جایی که دیگه چیزی به ذهن آقای x نمی‌رسید که بخوان تغییر بدن. حرفی واسه گفتن نمونده بود. ولی کار رو نبستن؛ باز موند.</p>
+<p>یه مدت گذشت و آقای x تماس گرفت و گفت یه کار واسه من جور کرده و شماره‌ی دوستش (<strong>آقای y</strong>) رو که مدیر یه شرکت تبلیغاتی توی همین شهر بود بهم داد. بعد از چند روز زنگ زدم واسه این که ببینم کلا اون شرکت چجوریاس. من خودم تجربه‌ی کار توی هیچ شرکتی رو ندارم. خواستم بدونم محدوده‌ی حقوقی که میخوان بدن چقدره و این که سبک و نمونه کارهاشون چطوره. چون واسه خودم مهم بود یه ارتباط منطقی بین سبک و نمونه کارهای اون شرکت، سبک کار و قابلیت‌های خودم و حقوقی که قراره به من بدن، برقرار کنم. مثلا اگه نمونه کارهای اونا طوری بود که از دید خودم این قابلیت رو داشتم که بهتر از اونا کار کنم، مسلما اون حقوق واسم مناسب و محرک نبود. ولی بعد از صحبت کردن در مورد حقوق، در جواب من که فقط دنبال این بودم نمونه کارهای قبلیشونو ببینم، آقای y بهم گفت:</p>
+<blockquote>
+<p>من همینقدر رو هم به خاطر این که آقای فلانی معرفیتون کردن، <strong>لطف کردم</strong> بهتون گفتم.</p>
+</blockquote>
+<p>همونجا تشکر و خداحافظی کردم و همکاری من با اون شرکت منتفی شد.</p>
+<p>اما قسمت آزاردهنده‌تر ماجرا. بعد از منتفی شدن کارم توی اون شرکت، یه دفه آقای x کلا غیب شد. نه پیامی داد، نه زنگی، هیچ‌گونه ارتباطی. من هم پیگیری نکردم. با خودم فکر می‌کردم شاید درگیر کارهای افتتاح شعبه باشن و فرصت نشده طرح رو بیشتر بررسی کنن. بعد از یه مدت کلا این قضیه رو فراموش کردم. بقیه‎‌ی هزینه رو هم نگرفته بودم ازشون.</p>
+<p>چند وقت پیش توی اینستاگرام با یه صفحه آشنا شدم (دقیقا یادم نیست، فکر کنم توی پیشنهادها بود) و دیدم صفحه‌ی مربوط به همون کافه‌رستورانه. توی تصاویری که گذاشته بودن کلا یه لوگوی دیگه بود، اصلا هم مینیمال نبود (بدون هیچ‌گونه غرضی اینو میگم). کافه‌رستوران افتتاح شده بود و روی دیوارش نئون لوگوی جدید رو گذاشته بودن.</p>
+<p>آقای x با اون همه <strong>ادعایی</strong> که در مورد <strong>حرفه‌ای بودن</strong> توی زمینه کاری خودش داشت (مثلا می‌گفت: «من خودم قهوه تدریس می‌کنم»)، در مورد کار بقیه حرفه‌ای برخورد نکرد. این که بدون تسویه‌حساب یا حتی این که بگه یه طراح دیگه رو انتخاب کرده (هر چند باز هم باید باقی هزینه رو پرداخت کنه) کار خودشو جلو ببره، اصلا جالب نیست. از اون طرف آقای y هم همین مشکل رو داشت. یه شرکت تبلیغاتی بدون نمونه کار (حتی توی وبسایت) دقیقا چه حرفی واسه گفتن داره؟ این که توی یه شهر کوچیک، با یه شرکت کوچیک، اینقدر خودتو بزرگ ببینی یعنی چی؟ با وجود تمام این اتفاقات، امیدوارم هر دو نفر حداقل همونقدر که من به اشتباهات گذشته‌م فکر می‌کنم، فکر کنن.</p>
+<p>کلا این قضیه رو گفتم که بگم، <strong>هیچ‌وقت، هیچ‌وقت، بدون قرارداد و گرفتن هزینه‌ی اولیه، کار رو شروع نکنید</strong>، حتی اگه بهترین دوستتون یا اصلا فامیلتون یه کاری رو از شما بخواد. شاید این که کلا مرامی و بدون گرفتن هزینه واسش کار کنید بهتر از این باشه که بدون قرارداد کار کنید. این یکی از اصولی بود که تقریبا توی همون سال‌های اول کارم بهش رسیدم ولی بعد از چند سال، واسه آقای x این اصل رو اعمال نکردم (<strong>اشتباه صفرم</strong>).</p>
+<p>موارد از این دست چند بار دیگه هم واسم اتفاق افتادن ولی شخصیت‌های این داستان، این قضیه رو واسه خودم منحصربه‌فرد کردن. این که همیشه اینجور آدم‌ها پیدا میشن، توی هر صنفی، هر سنی، هر درجه‌ای. شخصا دوست دارم بدونم این اشخاص توی ذهنشون چطور به این نتیجه می‌رسن که باید این کارها رو بکنن یا نکنن.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/experience-1/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=تجربه‌ای عجیب در آزادکاری (فریلنسینگ)&body=https://mrmowji.com/experience-1/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم Brothers</title>
+  <meta name="description" content="فیلم «برادرها» محصول ۲۰۰۹، آمریکا، در مجموع، توصیه نمیشه. اگه فیلم رو ندیدید، بهتره متن رو نخونید. اگه دیدید، شاید این مقاله واستون مفید باشه." />
+  <meta property="og:title" content="فیلم Brothers">
+  <meta property="og:description" content="فیلم «برادرها» محصول ۲۰۰۹، آمریکا، در مجموع، توصیه نمیشه. اگه فیلم رو ندیدید، بهتره متن رو نخونید. اگه دیدید، شاید این مقاله واستون مفید باشه.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم Brothers" />
+  <meta name="twitter:description" content="فیلم «برادرها» محصول ۲۰۰۹، آمریکا، در مجموع، توصیه نمیشه. اگه فیلم رو ندیدید، بهتره متن رو نخونید. اگه دیدید، شاید این مقاله واستون مفید باشه." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم Brothers</h1>
+<article>
+  <p>فیلم «برادرها» (Brothers)، از دید من، اگه بخوام خیلی راه بیام، یه فیلم متوسطه. از اون فیلماییه که احتمالا خود سازندگان هم از همون ابتدا یا حداقل اون وسطاش فهمیدن که قرار نیست ترقه‌های روی پله‌ها رو تی بکشن، ببخشید، پله‌های ترقی رو طی کنن.</p>
+<p>در زمان نگارش این متن، رتبه‌ی این فیلم توی وبسایت IMDb به طور میانگین برابر با <strong>۷٫۱</strong>ه. تولید سال <strong>۲۰۰۹</strong>، آمریکای جهان‌خوار (یک نوع رژیم غذایی). من بهش <strong>۳</strong> میدم و با این حساب میره توی لیست <strong>فیلم‌هایی که توصیه می‌کنم نبینید</strong>. اگه فیلم رو دیدید شاید ادامه‌ی متن واستون مفید باشه، در غیر این‌صورت مسئولیت لو رفتن داستان به عهده‌ی خودتونه.</p>
+<p>فیلم، بازسازی یه فیلم دانمارکی به همین اسمه که توی ۲۰۰۴ ساخته شده. خودم نسخه‌ی اصلی رو ندیدم.</p>
+<p>داستان فیلم در مورد یه افسر ارتش آمریکاس (به اسم Sam با بازی 	Tobey Maguire) که زن (به اسم Grace با بازی Natalie Portman) و ۲ تا دختربچه داره. پدر، زن‌پدر و برادر (به اسم Tommy با بازی Jake Gyllenhaal) هم داره. پدرش بازنشسته‌ی ارتشه. برادرش همون اوایل فیلم از زندان آزاد میشه. شخصیت اصلی داستان، باید اعزام بشه افغانستان. خودش هم بدش نمیاد. توی افغانستان، هلیکوپتر حاوی Sam و افرادش منحدم میشه.</p>
+<p>چون جسدش رو پیدا نمی‌کنن، فرض رو بر کشته شدنش میذارن. مشکلات خونواده‌ی داستان ما و همینطور مشکلات فیلم‌نامه و کلا فیلم (از دید من) از همین‌جا شروع میشه.</p>
+<ul>
+<li>شاید بهتر بود بازیگر نقش اول یه شخص دیگه باشه. Tobey Maguire نه به افسر ارتش می‌خوره، نه به فوتبالیست حرفه‌ای بودن.</li>
+<li>بیشتر بازی‌ها خیلی خوب نیست. انگار همه دارن زور می‌زنن توی نقش قرار بگیرن. منظورم این نیست که مثلا فلان بازیگر کلا خوب بازی نکرده، نه. منظورم اینه که توی سکانس‌های مختلف، کیفیت بازی‌ها متفاوته. البته بازی نقش دختر بزرگ خونواده یه چیز دیگه‌س.</li>
+<li>اتفاقاتی که بیینده باید طولانی بودنشون رو حس کنه خیلی سریع اتفاق میفتن و جمع میشن. مثلا چرا بعد از این که خبر مرگ Sam رو دادن، خیلی سریع همه چیز گل و بلبل شد و همشون شاد و شنگولن. یا شخصا اصن حس نکردم چرا همچین افسری باید دخل سرباز زیردستی خودشو بیاره تا نجات پیدا کنه. یعنی اون سختی که لازم بود این شخص بکشه تا ذهنش همچین نتیجه‌ای رو بگیره، ندیدم. حالا خوبه داشتن ازش فیلم هم می‌گرفتن. یعنی با خودش فکر نمی‌کرد که اگه خونواده‌ش اون فیلمو ببینن دیگه خونواده‌ای در کار نیست؟</li>
+<li>در ادامه‌ی مورد بالا، متوجه نشدم چرا وقتی جسد Sam پیدا نشده، اونقدر سریع واسش مراسم ختم می‌گیرن. حداقل بگن مفقوده. یا حداقل نشون بدن مثلا یه سال گذشته بعد که دیگه جسدشو نتونستن پیدا کنن، بگن فرض می‌کنیم مرده. تا یه تیر شلیک میشه، فرت: «خوب دیگه، اونا مردن. خدافز شما».</li>
+<li>اصن چرا Sam به زن و برادرش مشکوک میشه؟ چطور واقعا؟ چی می‌بینه که ما نمی‌بینیم؟</li>
+<li>چرا دختر بزرگشون یه دفه سر میز شام، میاد و الکی میگه که زن و برادر Sam در غیابش، با هم رابطه داشتن؟ خیلی خیلی بعید بود. یعنی خیلی. با اون سنش. رفتاری رو هم ازش ندیده بودیم که بخوایم این رفتار رو ازش قبول کنیم. خل و چل شد یهو.</li>
+<li>زیرداستان زندان بودن Tommy چه لزومی داشت؟</li>
+<li>زن اون سربازی که توی افغانستان کشته شد، یه خواب می‌بینه که به واقعیت نزدیکه! اصن اون سرباز اگه زن و بچه نمی‌داشت بهتر بود. نقش خاصی نداشتن. خواب دیدن هم خیلی دور از واقعیته.</li>
+<li>با این که یه فیلم ضدجنگه (که یه ویژگی مثبته) و قراره مخاطب رو درگیر کنه، ولی نمیشه با کاراکترها یکی شد و درکشون کرد.</li>
+<li>کل فیلم رو میشه توی حداکثر یه صفحه‌ی A4 جمع کرد، بدون این که جزئیات زیادی رو از دست بدیم.</li>
+<li>موسیقی متن و فیلم‌برداری به نظرم خوب بود.</li>
+</ul>
+<p>در مجموع، یه فیلم فراموش‌شدنیه که احتمالا بیشتر از یک بار، ارزش دیدن رو نداشته باشه، هر چند همون یه بار رو هم توصیه نمی‌کنم.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/brothers-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم Brothers&body=https://mrmowji.com/brothers-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

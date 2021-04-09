@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>کتاب Bobby Fischer Teaches Chess</title>
+  <meta name="description" content="این کتاب به شدت توصیه میشه. البته نه به کل جهان. به کسایی که به شطرنج یا پازل علاقه دارن. برای مبتدی‌ها هم عالیه." />
+  <meta property="og:title" content="کتاب Bobby Fischer Teaches Chess">
+  <meta property="og:description" content="این کتاب به شدت توصیه میشه. البته نه به کل جهان. به کسایی که به شطرنج یا پازل علاقه دارن. برای مبتدی‌ها هم عالیه.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="کتاب Bobby Fischer Teaches Chess" />
+  <meta name="twitter:description" content="این کتاب به شدت توصیه میشه. البته نه به کل جهان. به کسایی که به شطرنج یا پازل علاقه دارن. برای مبتدی‌ها هم عالیه." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>کتاب Bobby Fischer Teaches Chess</h1>
+<article>
+  <p>در یک کلام، واقعا با این کتاب حال کردم.</p>
+<p>من زیاد اهل شطرنج بازی کردن نبودم. شاید کلا ۱۰ بار توی زندگیم بازی کرده باشم. حدود یه ماه پیش بنا به دلایلی تصمیم گرفتم ذهنم رو از یه چیزی منحرف کنم و روی یه چیز جدید تمرکز کنم (سر خودمو شیره بمالم). این شد که رفتم سمت بازی. یکی از علایق شخصیه.</p>
+<p>رفتم گوگل پلی رو باز کردم و خوشبختانه شطرنج جزو پیشنهادهاش بود. قسمت رو می‌بینی؟ وقتی دو نفر بخوان به هم برسن هیچ چیزی جلودارشون نیست. هعی. با همون دانش ناچیزم شروع کردم. ولی بعد از یه مدت فهمیدم بهتره اصولی‌تر بازی کنم. یه جستجو در گوگل منو هدایت کرد به مقاله‌ای از chess.com که یه سری کتاب رو توش معرفی کرده بود. تقریبا همه رو گذاشتم توی لیست. ولی عنوان این کتاب، منو جلب کرد چون قبلا فیلم
+Pawn Sacrifice رو دیده بودم. گفتم بهتره با همین شروع کنم.</p>
+<p>این کتاب در حال حاضر توی وبسایت Goodreads رتبه‌ی ۴٫۰۳ از ۵ و توی وبسایت Amazon رتبه‌ی ۴٫۶ از ۵ رو گرفته.
+<strong>من به این کتاب رتبه‌ی ۴ از ۵ میدم.</strong> اگه رتبه از ۱۰ بود هم همون ۸ رو می‌دادم احتمالا.</p>
+<h2>نکات مثبت</h2>
+<ul>
+<li>شروع کتاب عالیه. کاملا مناسب برای مبتدی‌ها. نیازی نیست نگران چیزی باشید. هر چیزی بخواید داخل کناب هست. حتی مرجع هم نداره. خود نویسنده مرجعه. همونطور که خود کتاب هم میگه، مطالب جدید کاملا بر اساس مطالب قبلی که یاد گرفتید بیان میشن.</li>
+<li>ساختار کتاب خیلی خوبه و خیلی راحت میشه دنبالش کرد.</li>
+<li>تمرین‌های زیادی داره که خیلی خوب چیده شدن. بعضی از این تمرین‌ها از بازی‌های واقعی نویسنده گرفته شدن.</li>
+<li>کتاب طرز فکرتون نسبت به شطرنج رو به صورت جلورونده‌ای تغییر میده. این که در مورد این که چطور فکر می‌کنید فکر کنید. برای مثال، بعد از بیان مطلب اصلی هر قسمت، یه سری تمرین دارید. تمرین‌های اول اون قسمت رو ممکنه خیلی راحت و بر اساس چیزی که می‌دونید و عادت کردید حل کنید. یه دفه با یه تمرین متفاوت و نکته‌دار مواجه میشید که اگه طرز فکرتون همون چیز همیشگی باشه احتمالا پاسختون اشتباه خواهد بود. اگه خدای نکرده این اتفاق افتاد، نگران نباشید، چون در واقع چیز مهمی رو یاد گرفتید که به زودی فراموش نمی‌کنید و از اونجا به بعد همراهتون خواهد بود. نکته: سرباز می‌تونه مات کنه.</li>
+<li>سرعت خوندن این کتاب برای خودم واقعا یه ویژگی مثبت بود. هر شب حداقل ۲۰ صفحه می‌خوندم. چون تازه دوباره خوندن رو شروع کردم، نخواستم فشار بیاد. ولی احتمالا شما بتونید حداکثر توی یه هفته تمومش کنید.</li>
+<li>اگه نسخه‌ی دیجیتال کتاب (مثلا PDF) رو در اختیار دارید، راحت می‌تونید روی برگه‌های آ۵ چاپش کنید. خواناییش هنوز هم خوبه. مصرف کاغذ هم کمتر میشه. ولی به نظرم روی کتاب‌خوان‌ها هم باید بشه راحت خوندش. تست نکردم.</li>
+<li>اگه نسخه‌ی اصلی رو می‌خونید (نمی‌دونم ترجمه شده یا نه)، بهتره بدونید مجموعه لغاتی که توی کتاب استفاده شدن خیلی راحتن. کلمات قلمبه سلمبه نداریم.</li>
+<li>خلاصه کردن کتاب خیلی ساده‌س. یعنی شاید بشه توی ۱۰ ۲۰ صفحه انجامش داد. نه تنها بیشتر محتوا تکراریه (به خاطر تمرین‌ها) بلکه بعضی از چیزا هم مسلما توی ذهنتون حک میشن و نیازی به نوت‌برداریشون هم نیست. بعضی از کتاب‌ها هستن که باید همیشه خودشون رو نگه دارید. نمیشه راحت خلاصه‌شون کرد. اگه حجم چیزایی که نگه می‌دارید براتون مهمه (مثل من) خلاصه کردنش کار عاقلانه‌ایه.</li>
+</ul>
+<h2>نکات منفی</h2>
+<p>چرا یه ستاره ازش کم کردم؟</p>
+<ul>
+<li>این کتاب، فقط مات کردن رو آموزش میده. تا جایی که یادمه توضیحات یا تمریناتش تنها حول محور «چک بعدی» می‌چرخید. یعنی تمام تمریناتتون از جایی شروع میشد که باید حریف رو چک می‌کردید و حالا یا همون چک، مات هم می‌کرد یا باید توالی چک‌ها رو ادامه می‌دادید. این قضیه یه مشکل داره اینه که حل کردن تمرین‌ها رو ساده‌تر می‌کنه. یعنی می‌دونستید باید حریف رو به هر نحوی که شده اول چک کنید و بعد ادامه بدید. برای مثال حالتی رو در نظر بگیرید که اول باید یه حرکت خاص می‌زدید تا شرایط برای چک/مات آماده بشه. همچین چیزی نداره این کتاب. یا مثلا در مورد این که کلا بازی رو چطور شروع کنیم چیزی نمی‌گه. درسته هدف از شطرنج اینه که در نهایت مات/پات کنیم. ولی به هر حال از دید من مبتدی بعضی از قسمت‌های بازی از قلم افتادن و توضیحی در مورد این که چرا اون قسمت‌ها مهم نیستن داده نمیشه که حداقل یه اطمینان بهم دست بده.</li>
+</ul>
+<p>در مجموع این کتاب رو به هر کسی که پازل‌ها رو دوست داره توصیه می‌کنم.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/bobby-fischer-teaches-chess-book/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=کتاب Bobby Fischer Teaches Chess&body=https://mrmowji.com/bobby-fischer-teaches-chess-book/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>وبلاگ‌نویسی</title>
+  <meta name="description" content="وبلاگ‌نویسی چیه؟ چه تفاوتی با وبسایت داره؟ چه سودی داره؟ بلاگر کیه؟ من کیم؟ اون کیه؟ اینجا بخونید." />
+  <meta property="og:title" content="وبلاگ‌نویسی">
+  <meta property="og:description" content="وبلاگ‌نویسی چیه؟ چه تفاوتی با وبسایت داره؟ چه سودی داره؟ بلاگر کیه؟ من کیم؟ اون کیه؟ اینجا بخونید.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="وبلاگ‌نویسی" />
+  <meta name="twitter:description" content="وبلاگ‌نویسی چیه؟ چه تفاوتی با وبسایت داره؟ چه سودی داره؟ بلاگر کیه؟ من کیم؟ اون کیه؟ اینجا بخونید." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>وبلاگ‌نویسی</h1>
+<article>
+  <p>وبلاگ‌نویسی (یا بلاگ‌نویسی) از کلمه‌ی انگلیسی Blogging میاد. اما خود Blogging خلاصه‌شده‌ی کلمه‌ی Weblogging هست. اما خود Weblogging از ترکیب دو کلمه‌ی Web و Logging میاد که در نهایت میشه یه چیزی تو مایه‌های «ثبت وقایع در وب». یعنی یه نفر مث من بیاد در مورد یه سری وقایع توی اینترنت بنویسه. میشه گفت یه جور دفترچه‌ی خاطراته. وبلاگ‌نویس، توی انگلیسی میشه Blogger (بلاگر).</p>
+<p>خیلی از افرادی که توی زمینه‌ی بازاریابی و حوزه‌های مشابه فعالیت می‌کنن، وبلاگ‌نویسی رو یکی از راه‌های بالقوه واسه بازاریابی می‌دونن. البته شخصا با این هدف این وبلاگ رو راه ننداختم. ولی شاید در آینده صرفا جهت معرفی خودم ازش استفاده کنم. هیچ تبلیغی توی این وبلاگ نخواهید دید :).</p>
+<h2>تفاوت وبلاگ و وبسایت چیه؟</h2>
+<p>حتما وبسایت‌های زیادی رو دیدید و حتما متوجه شدید که بعضی از اون وبسایت‌ها یه بخشی با عنوان «بلاگ» دارن. حالا ممکنه سوال پیش بیاد که تفاوت این دو مورد چیه و چرا کلا از یه اسم واسشون استفاده نمی‌کنیم؟</p>
+<ul>
+<li>اولین تفاوت شاید توی این باشه که بلاگ‌ها سریعتر و بیشتر از وبسایت‌ها به‌روز میشن. وبسایت یه شرکت برنامه‌نویسی یا طراحی وبسایت رو در نظر بگیرید. محتوای اصلی این وبسایت‌ها معمولا نمونه‌کارهای انجام‌شده و خدماتی هست که ارائه میدن. اگه اون شرکت‌ها فقط بخوان به این موارد اتکا کنن ممکنه وبسایتشون هر یک یا چند ماه به‌روز بشه. ولی اگه در کنار و در واقع به عنوان یک زیرمجموعه از وبسایت، یک بلاگ راه بندازن، خیلی راحت‌تر می‌تونن محتوا تولید کنن و وبسایت خودشون رو به‌روز نگه دارن.</li>
+<li>وبلاگ‌ها معمولا با مخاطب در تعاملن. مثلا کسی که یه مطلب رو می‌خونه معمولا می‌تونه نظرشو واسه نویسنده بفرسته و توی بحث‌ها شرکت کنه. شاید واسه همینه که بعضیا وبلاگ‌ها رو زیرمجموعه‌ی رسانه‌های اجتماعی می‌دونن.</li>
+</ul>
+<h2>چرا وبلاگ‌نویسی؟</h2>
+<p>مزایای وبلاگ‌نویسی ممکنه همون اول کار خیلی ملموس و قابل درک نباشه:</p>
+<ul>
+<li><strong>ایجاد یک تغییر:</strong> بعضیا واسه حمایت از و یا آگاهی بخشیدن نسبت به یه موضوعی (سیاسی، محیط زیست، اجتماعی و ...) شروع به وبلاگ‌نویسی می‌کنن.</li>
+<li><strong>نشر دانش شخصی:</strong> شخصی که به تدریس خیلی علاقه داره، می‌تونه با راه انداختن یه وبلاگ، این فرصت رو داشته باشه که افراد بیشتری رو آموزش بده. اون وسطا، ممکنه متوجه بشه که می‌تونه از طریق وبلاگش یه سری محصول/خدمات آموزشی آنلاین ارائه بده.</li>
+<li><strong>نویسندگی بهتر:</strong> هر چی بیشتر بنویسید، توی نویسندگی بهتر میشید (احتمالا)، مثل خیلی از حرفه‌های دیگه. بیشتر وبلاگ‌نویس‌ها به طور منظم می‌نویسن و نوشته‌هاشون رو (حتی بعد از منتشر کردن) ویرایش و اصلاح می‌کنن؛ کاری که باید انجام بشه به نظرم. مسلما می‌تونن از بازخورد بقیه واسه بهتر کردن نوشته‌ها استفاده کنن. البته یک نویسنده‌ی خوب بودن، لزوما به معنی یک وبلاگ‌نویس خوب شدن نیست. خیلی از وبلاگ‌نویس‌های شناخته‌شده، خودشون قبول دارن نویسنده‌ی خوبی نیستن ولی تونستن مخاطب خودشون رو جذب کنن، در بدترین حالت با شعار «اگه من می‌تونم، پس تو هم می‌تونی».</li>
+<li><strong>ایجاد شبکه‌ی حرفه‌ای:</strong> وبلاگ‌نویسی یه جور شبکه‌س. شبکه‌ای که مخاطب‌های شما، که ممکنه خودشون وبلاگ‌نویس باشن، شکل می‌دن و شاید همین شبکه باعث میشه وبلاگ‌ها سریعتر از وبسایت‌ها رشد کنن. علاوه بر این، مزایای جانبی این شبکه رو هم نباید نادیده گرفت. مثلا دیروز یه سمینار از TED دیدم که سخنران، توسط تیم TED دعوت شده بود و اونطور که خودش می‌گفت، از طریق وبلاگش باهاش آشنا شدن. خدا رو چه دیدی! شاید فردا بگن «مجی، تو بیا مدیر ما باش اصن»! بعد کاوه تشت آب رو روم خالی کنه بگه «پاشو لنگ ظهره».</li>
+<li><strong>دیده شدن:</strong> میشه با راه انداختن یه وبلاگ و چسبیدن بهش، دیده شد. می‌تونید برند خودتون رو تبلیغ کنید، با مشتری‌های قبلی یا جدید/بالقوه ارتباط برقرار کنید، و ... کلا در بدترین حالت، وبلاگ‌نویسی می‌تونه به طور غیرمستقیم به افزایش درآمد شما کمک کنه. علاوه بر این‌ها می‌تونید توی حرفه‌ای که توش مشغول به کار و فعالیت هستید، به یه چهره‌ی سرشناس تبدیل بشید، که یه جورایی برمیگرده به مورد قبل.</li>
+</ul>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/blogging/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=وبلاگ‌نویسی&body=https://mrmowji.com/blogging/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

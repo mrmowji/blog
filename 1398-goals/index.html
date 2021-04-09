@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>اهداف ۱۳۹۸</title>
+  <meta name="description" content="هدف شما در سال 1398 چه است؟ آخرش که چی؟ از شدت بیکاری نشستم این لیست رو نوشتم. شاید هیچ تاثیری هم نداشته باشه. یک سال شاید بهترین بازه برای اینجور برنامه‌ریزی‌هاست. شما هم تست کنید ببینید چی می‌خواید." />
+  <meta property="og:title" content="اهداف ۱۳۹۸">
+  <meta property="og:description" content="هدف شما در سال 1398 چه است؟ آخرش که چی؟ از شدت بیکاری نشستم این لیست رو نوشتم. شاید هیچ تاثیری هم نداشته باشه. یک سال شاید بهترین بازه برای اینجور برنامه‌ریزی‌هاست. شما هم تست کنید ببینید چی می‌خواید.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="اهداف ۱۳۹۸" />
+  <meta name="twitter:description" content="هدف شما در سال 1398 چه است؟ آخرش که چی؟ از شدت بیکاری نشستم این لیست رو نوشتم. شاید هیچ تاثیری هم نداشته باشه. یک سال شاید بهترین بازه برای اینجور برنامه‌ریزی‌هاست. شما هم تست کنید ببینید چی می‌خواید." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>اهداف ۱۳۹۸</h1>
+<article>
+  <p>با توجه به این که <a href="/1397">توی سال 1397 کار خاصی انجام ندادم</a>، تصمیم گرفتم اهدافمو برای سال 1398 اینجا بنویسم (و بعد تا آغاز سال 1399 بخوابم). البته کلا توی این عوالم نیستم. فقط میخوام تست کنم ببینم چه تاثیری داره. از طرفی، یک سال، بهترین بازه برای اینجور افکار و برنامه‌ریزی‌هاست. تقریبا بیشتر موارد زیر توی یک سال شدنی هستن.</p>
+<ul>
+<li>یه وبسایت هست که تقریبا چند ماهه درگیرشیم. سعی می‌کنم تمومش کنم و وضعیتمو باهاش مشخص کنم.</li>
+<li>چند وقته به ایده 2 تا پروژه خیلی مفیدتر فکر می‌کنم. امیدوارم سال بعد حداقل شروعشون کنم. البته با توجه به زمانی که دارم احتمالا یکیشون تموم بشه.</li>
+<li>لاغر بشم خخخ. تنها زمانی که از وزنم راضی بودم، ترم آخر کارشناسی ارشد بود. خوب ورزش می‌کردم. دوست دارم به اون وزن برگردم. یکی از پروژه‎هایی که میخوام شروع کنم شاید توی این راه به خودم هم کمک کنه.</li>
+<li>تغذیه‌مو بهتر کنم. در حال حاضر اصلا خوب نیست. باید یه سری چیزا رو حذف کنم یا حداقل یاد بگیرم درست مصرف کنم نه این که هی بخورم.</li>
+<li>توی پروژه‌های متن‌باز بیشتر مشارکت داشته باشم. چند تا پروژه متن‌باز هم خودم باید بنویسم.</li>
+<li>حداقل یه سفر برم. هرچند بعد از سربازی زیاد نگشتم (تقریبا هیچ‌جا) و تا حدودی به این وضع عادت کردم و ممکنه تغییر وضعیت واسم سخت باشه :دی.</li>
+<li>ورزش رو به یه عادت تبدیل کنم. حتی پیاده‌روی هم خوبه.</li>
+<li>یه سری عادت بد دارم که خوبه تغییرشون بدم. بسه دیگه.</li>
+<li>به یه درآمد مشخص‌تر برسم. یکی از مشکلاتی که توی این چند سال داشتم همین بود. کار کردن به عنوان آزادکار مشکلات خاص خودشو داره. باید ببینم با این راه میشه ادامه داد یا بهتره آگهی‌های استخدامی رو چک کنم. اگه باید به فکر استخدام باشم، مشهد یا تهران رو باید انتخاب کنم که باز سختی‌های خودشونو دارن.</li>
+<li>حداقل 10 تا کتاب باید بخونم. این یه قراره که دو ساله داره اجرا میشه. البته سال اول 7 تا کتاب خوندم فقط.</li>
+<li>امیدوارم مباحث و تکنولوژی‌هایی که دارم کار می‌کنم رو بهتر یاد بگیرم. حداقل 2 3 تا موضوع و تکنولوژی جدید هم یاد بگیرم.</li>
+<li>هر هفته حداقل یه پست توی این وبسایت بنویسم.</li>
+<li>طراحی با مداد، تصویرسازی و گرافیک رو جدی‌تر دنبال کنم. از اون موارد نادریه که خودم توش اعتماد به نفس دارم. ولی زیاد روش وقت نمی‌ذارم. انیمیشن هم دوست دارم و امیدوارم کنار گرفیک بتونم روش کار کنم.</li>
+<li>برنامه خوابمو منظم‌تر کنم. چند ساله خیلی داغونه.</li>
+<li>مینیمال‌تر بشم.</li>
+<li>در کل برای بشریت یا حداقل همین ایران خودمون یا حداقل خونواده مفید باشم.</li>
+</ul>
+<p>لیست طولانی شد. یه نفر نیست بهم بگه «نونت نبود، آبت نبود، این لیست چی بود دیگه؟». والا.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/1398-goals/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=اهداف ۱۳۹۸&body=https://mrmowji.com/1398-goals/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

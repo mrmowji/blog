@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم Geostorm</title>
+  <meta name="description" content="یا خود خدا. هالیوود جان. برادر. پسر گل. این چه کاریه؟ چرا توی بیشتر فیلم‌هات باید کلیشه وجود داشته باشه؟ اصن چرا پشت سر هم باید فیلم بسازیم که اینقدر داغون از آب در بیاد؟ Geostorm رو دیدم و از کرده‌ی خود دلداغم. برادرا و خواهرا. نبینید. گفته باشم." />
+  <meta property="og:title" content="فیلم Geostorm">
+  <meta property="og:description" content="یا خود خدا. هالیوود جان. برادر. پسر گل. این چه کاریه؟ چرا توی بیشتر فیلم‌هات باید کلیشه وجود داشته باشه؟ اصن چرا پشت سر هم باید فیلم بسازیم که اینقدر داغون از آب در بیاد؟ Geostorm رو دیدم و از کرده‌ی خود دلداغم. برادرا و خواهرا. نبینید. گفته باشم.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم Geostorm" />
+  <meta name="twitter:description" content="یا خود خدا. هالیوود جان. برادر. پسر گل. این چه کاریه؟ چرا توی بیشتر فیلم‌هات باید کلیشه وجود داشته باشه؟ اصن چرا پشت سر هم باید فیلم بسازیم که اینقدر داغون از آب در بیاد؟ Geostorm رو دیدم و از کرده‌ی خود دلداغم. برادرا و خواهرا. نبینید. گفته باشم." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم Geostorm</h1>
+<article>
+  <p>این فیلم، محصول سال 2017س. رتبه‌ی این فیلم توی وبسایت IMDb، به طور متوسط <strong>5.3</strong> هست ولی خودم بهش <strong>1</strong> می‌دم، این 1 به خاطر جلوه‌های ویژه‌س وگرنه صفر می‌دادم. جالبه بدونید توی وبسایت Rotten Tomatoes، رتبه‌ی این فیلم <strong>14 از 100</strong>ه، یعنی داغونه.</p>
+<p>اگه فیلم رو ندیدید توصیه می‌کنم ادامه‌ی متن رو نخونید، چون داستان فیلم رو لو می‌ده. البته توصیه‌ی من به شما جوانان، برادران و خواهران اینه که <strong>اصلا این فیلم رو نبینید</strong>. اگه فیلم رو دیدید شاید خوندن ادامه‌ی متن براتون مفید باشه.</p>
+<p>کلمه‌ی <strong>Geostorm</strong> به معنی <strong>طوفان زمینی</strong>، احتمالا فقط توی عنوان این فیلم استفاده شده و هیچ منبعی مبنی بر این که این واقعه آب‌وهوایی می‌تونه در عمل رخ بده وجود نداره (من پیدا نکردم).</p>
+<p>داستان از این قراره که اوضاع آب‌وهوای کره‌ی زمین داغون میشه؛ سیل، طوفان و ... و ملت به این نتیجه می‌رسن که نمیشه هر کشور به تنهایی واسه خودش به دنبال راه حل باشه. چند تا کشور با هم شروع به ساخت یک شبکه از ماهواره‌ها توی فضا می‌کنن. این شبکه روی جو کره‌ی زمین قرار می‌گیره و آب‌وهوای زمین رو کنترل می‌کنه. به این شکل که میشه با استفاده از این شبکه طوفان‌ها رو از بین برد یا مثلا یه منطقه از زمین رو گرم یا سرد کرد. یک مقر فضایی (سفینه) هم هست که وظیفه‌ی مدیریت این شبکه رو به عهده داره و توش هم متخصصین رشته‌های مختلف زندگی می‌کنن.</p>
+<p>این پروژه‌ی خفن که اسمشو گذاشتن <strong>Dutch Boy</strong> (همون پتروس فداکار)، با سرپرستی یه شخصی به اسم Jake Lawson مدیریت و ساخته شده. برادر این Jake، به اسم Max یکی از کارکنان درجه بالای دولت آمریکاس که روی این پروژه هم نظارت می‌کنه.</p>
+<p>اما یه سری از مشاهدات:</p>
+<ul>
+<li>بازیگرها نسبتا افتضاحن. به جز نقش اول (همین هم به زور)، نمیشه با بقیه کاراکترها ارتباط برقرار کرد.</li>
+<li>کاراکترها مثل آدم شکل نمی‌گیرن. درست نمی‌شناسیمشون. فیلم همینجوری میره جلو بدون این که بعضیا رو دقیقا بشناسیم.</li>
+<li>انگیزه‌های کاراکترهای شرور توی این فیلم واقعا پیش پا افتاده و مسخره‌ن. «خوب فلانی کل دنیا رو می‌خواد بگیره، اون هم پول زیادی می‌خواد. حله آقا، اکشن!»</li>
+<li>پایان داستان، تقریبا قبل از این که فیلم به نیمه برسه لو می‌ره. حداقل توی حدس‌هایی که می‌زنید هست.</li>
+<li>محمود کشف می‌کنه که سیستم پروژه ویروسی شده! دقیقا چطور متوجه شد و این که چرا به هیچ‌کسی نمی‌گه؟ عکس‌العمل‌ها و بازی‌ها طوری بود که نشون می‌داد قبل از برداشتن اطلاعات از اون ماهواره می‌دونسته همچین قضیه‌ای هست، ولی چرا به کسی نگفته؟ قرار بوده چه زمانی به بقیه بگه؟</li>
+<li>Max یه چیزی رو کشف می‌کنه و در عمل نباید اون رو با کسی به اشتراک بذاره و به کسی اعتماد کنه ولی می‌بینیم همینجوری میره و با یکی از متخصصینی که زیر دستش کار می‌کنن در موردش صحبت می‌کنه و کل ماجرا رو بهش میگه. همین قضیه اعتماد کردن رو در مورد Jake هم داریم. وقتی Jake هر جور شده یه هارددرایو رو به دست میاره و نباید در موردش به کسی بگه. ولی خیلی راحت به Ute Fassbinder میگه.</li>
+<li>شخص نفوذی توی سفینه سعی می‌کنه Jake رو 2 بار بکشه ولی نمی‌دونم چرا اونو به همون روشی که محمود رو کشت نمی‌کشه یا حداقل یه راه راحت‌تر رو انتخاب کنه. اصلا چرا وقتی روی زمینه نمی‌کشنش؟ حتما باید بره توی فضا که اون شخص نفوذی زپرتی اونو بکشه؟</li>
+<li>کلیشه توی این فیلم بیداد می‌کنه. اشخاص شرور با انگیزه‌های مسخره، زن جذاب و حرفه‌ای و آشنا به فنون رزمی، دختربچه‌ای که خیلی باهوش است و ... درررررر Geostormmmmmm.</li>
+<li>Holoframe چیه؟ هیچ قسمتی از فیلم ما رو با این تکنولوژی آشنا نمیکنه. فقط می‌بینیم ملت ازش استفاده می‌کنن.</li>
+<li>Sarah Wilson کلا بعد از یه بار متقاعد نشدن متقاعد میشه. نقشش همینه فقط. این که نامزد Max باشه و Max بتونه سریع اونو متقاعد کنه. وگرنه میشد این نقش رو حذف کرد.</li>
+<li>تاکسی‌ای که رئیس‌جمهور توش باشه کلا ضد رعدوبرقه. اشخاصی که نباید بمیرن به طرز معجزه‌آسایی نمی‌میرن. در همه‌ی شرایط زنده می‌مونن.</li>
+<li>یه سری جوک هم ردوبدل میشه که اصلا ضروری نیستن. در واقع کاملا بی‌مزه‌ن. البته شاید به خاطر کلیشه‌ای و قابل حدس بودن این جوک‌ها به نویسنده‌هاش بخندید. بعضی از دیالوگ‌ها هم همین وضع رو دارن.</li>
+<li>اما در مورد خود طوفان جهانی. یه جایی از فیلم میگن که این طوفان از تلاقی چند طوفان در جاهای مختلف جهان رخ میده. شاید به همین دلیله که آخرای فیلم یه شمارش معکوس واسه وقوع Geostorm می‌بینیم. ولی این یه مشکل داره. اول این که دوباره می‌بینیم که همون ثانیه‌های آخر موفق میشن این Geostorm رو مهار کنن. یعنی چی؟ یعنی این که طوفان‌ها به نزدیک‌ترین فاصله از هم رسیدن ولی به هم نرسیدن. خوب این که یعنی کلا اون ناحیه‌ی زیر خودشونو حداقل داغون کردن. چیزی نمی‌مونه که. توی نقشه هم دیده میشه که بیشتر جهان قرمزه. از اون طرف اون شخص نفوذی یه جا می‌گه جاهای خوب کره‌ی زمین رو واسه خودشون نگه داشتن. اگه طوفان زمینی رخ بده که به اون مکان‌ها هم میرسه. سفینه رو هم که داغون کردید.</li>
+<li>نمی‌دونم چرا این عملیات شرورانه رو یک دفه انجام ندادن؟ چرا قبلش باید افعانستان و هنگ‌کنگ رو داغون کنن که افرادِ خوب متوجه بشن و برن عواملش رو پیدا کنن و به سزای اعمالشون برسونن؟ این هم شد نقشه؟</li>
+<li>آخرش هم همه به خوبی و خوشی در کنار هم زندگی می‌کنن (در حالی بیش از نصف کره‌ی زمین داغون شده). باور کنید اگه همچین اختراعی نمی‌کردن تلفاتش کمتر بود.</li>
+<li>خیلی از جزئیات این که دقیقا این پروژه چطور کار می‌کنه توضیح داده نمیشه. همین باعث میشه تخیلات به کار رفته توی داستان این فیلم، بیشتر شبیه جادو جمبل باشه تا یه سری حقایق علمی. بهمون میگن همچین چیزی هست دیگه. ما هم باید قبول کنیم و فیلم رو ببینیم.</li>
+</ul>
+<p>تنها نکته‌ی جالب این فیلم این بود که اتفاقات جوی که اول فیلم در موردش توضیح میده توی <strong>سال 2019 (یعنی امسال)</strong> رخ می‌دن. ما هم توی عید و بعدش کلی سیل داشتیم.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/geostorm-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم Geostorm&body=https://mrmowji.com/geostorm-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

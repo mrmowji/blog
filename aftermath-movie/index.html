@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم Aftermath</title>
+  <meta name="description" content="فیلم «عواقب» فیلم بدی نیست. ولی خیلی خیلی هم خوب نیست. به نظرم ارزش یه بار دیدن رو داره. داستان، کند پیش میره ولی لازمه. برای کسایی که انگلیسی‌شون سطح بالا نیست خیلی خوبه." />
+  <meta property="og:title" content="فیلم Aftermath">
+  <meta property="og:description" content="فیلم «عواقب» فیلم بدی نیست. ولی خیلی خیلی هم خوب نیست. به نظرم ارزش یه بار دیدن رو داره. داستان، کند پیش میره ولی لازمه. برای کسایی که انگلیسی‌شون سطح بالا نیست خیلی خوبه.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم Aftermath" />
+  <meta name="twitter:description" content="فیلم «عواقب» فیلم بدی نیست. ولی خیلی خیلی هم خوب نیست. به نظرم ارزش یه بار دیدن رو داره. داستان، کند پیش میره ولی لازمه. برای کسایی که انگلیسی‌شون سطح بالا نیست خیلی خوبه." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم Aftermath</h1>
+<article>
+  <p>فیلم Aftermath (عواقب) رو چند وقت پیش دیده بودم. دوباره نشستم دیدم. فقط خواستم نقد درستی رو در موردش بنویسم.</p>
+<p>این فیلم درام که محصول ۲۰۱۷س و <strong>بر اساس یه داستان واقعی</strong> ساخته شده،
+<a href="https://www.imdb.com/title/tt4581576/" target="_blank">
+توی IMDb
+</a>
+رتبه‌ی <strong>۵٫۷</strong> رو به طور میانگین گرفته. من بهش ۶ میدم. از اون فیلم‌هاییه که نه شدیدا توصیه می‌کنم ببینید و نه توصیه می‌کنم نبینید. <strong>شاید ارزش یه بار دیدن رو داشته باشه</strong>. ولی احتمالش کمه که بخواید بیشتر از یه بار ببینید. از معدود فیلم‌هاییه که رتبه‌ی من بهش از میانگین رتبه‌ی IMDb بیشتره. ۶ دادم چون بهتر از متوسط بود.</p>
+<p>اگه ترجیح می‌دید هیچ چیزی از داستان لو نره، بهتره دیگه ادامه ندید. ولی اگه اشکال نداره یه کوچولو لو بره تا هشدار بعدی که پایین‌تره بخونید.</p>
+<p>داستان این فیلم در مورد زندگی دو شخصه که بعد از یه سانحه‌ی هوایی به صورت موازی دنبال میشن. یکیشون بخشی از علته، یکیشون بازمانده. در واقع از همون اولین فریم‌های فیلم (توی تیتراژ) که صدای هواپیما پخش میشه، شاید بیننده متوجه بشه با چه نوع فیلمی طرفه. یعنی احتمالا چیز خاصی رو لو ندادم.</p>
+<p>شخص اول فیلم (Roman با بازی Arnold Schwarzenegger) یه مرد ۶۰ ۷۰ ساله‌س که دختر باردار و همسرش رو توی برخورد دو هواپیما از دست میده. در واقع کل افراد داخل دو هواپیما از بین میرن. Roman خیلی به اصول پایبنده، توی حرفه‌ی خودش خیلی درسته. اخلاق‌مداره و مسلما ترجیح میده بقیه هم همینطور باشن.</p>
+<p>اون طرف داستان، یه کنترلر ترافیک هوایی (یا همون شخصی که توی برج مراقبت فرودگاه مسئوله) رو داریم به اسم Jake یا Jacob (با بازی Scoot McNairy).</p>
+<p><strong>بقیه‌ی متن، خیلی لو میده.</strong></p>
+<p>سانحه، به دلیل مجموعه‌ای از خطاهای انسانی رخ میده و مجموعه‌ای از عواقب رو رقم می‌زنه. با این حال، شخصی که بیشترین مسئولیت رو بهش نسبت میدن Jakeه و حالا باید با این اوضاع کنار بیاد.</p>
+<p>رئیس Jake و وکیل شرکت در نهایت بهش پیشنهاد می‌کنن از اون شهر بره و کلا اسم و شغلشو عوض کنه.</p>
+<p>بعد از یک سال، Roman که قضیه رو فراموش نکرده، هنوز دنبال یه شخصه که فقط برای اتفاقی که افتاده ازش عذرخواهی کنن و ابراز تاسف کنن. در نهایت وقتی هیچ کسی این حق انسانی Roman رو ارضا نمیکنه، Roman با یه چاقو Jake رو به قتل می‌رسونه (شخصی که همه چیز رو از دست میده، هر کاری ازش برمیاد). ۱۱ سال رو توی زندان می‌گذرونه. بعد از آزادیش، پسر Jake که با هدف کشتن Roman تعقیبش می‌کنه، بیخیال میشه و ولش میکنه بره.</p>
+<h2>ویژگی‌های مثبت</h2>
+<ul>
+<li>فیلم بر اساس داستان واقعیه. البته این یه سلیقه‌ی شخصیه. من ژانر واقعی رو دوست دارم کلا. دلیل هم نمیشه فیلمی که توی این ژانر ساخته میشه خوب باشه. یا حتی اون داستان واقعی میتونه جذاب نباشه. ولی به نظرم این داستان، حرفی برای گفتن داشت. حداقل، اتفاقات کلی، بر اساس واقعیتن.</li>
+<li>فیلم Aftermath برای کسایی که از لغات پیچیده و قلمبه‌سلمبه بدشون میاد خیلی خوبه. به نظرم کلماتی که توی دیالوگ‌ها به کار میرن خیلی ساده انتخاب شدن و نیازی به زیرنویس هم ممکنه نداشته باشید.</li>
+<li>موسیقی متن رو دوست داشتم. تقریبا با روایت هماهنگ بود. از اون موسیقی‌هاییه که حتما باید دانلود کنم و داشته باشم.</li>
+<li>فیلم‌برداری و تصویرسازی به نظرم خوب بود. بخصوص صحنه‌ی برخورد و سقوط (هر چند در حد ۱۰ ۱۵ ثانیه) رو خیلی خلاصه و مناسب به تصویر کشیده بودن. یا صحنه‌ای که Roman بعد از شنیدن خبر، بیهوش میشه.</li>
+<li>نمادسازی توی یکی از سکانس‌ها عالی بود. Roman یه گردنبند مروارید به دخترش داده بود. توی محل سانحه پیداش می‌کنه. یه سال بعد، بر اساس همون گردنبند و به یاد جانباختگان، توی همون محل، گوی‌هایی رو روی زمین گذاشتن. جواهراتی که از دست میدیم و باید به یادشون باشیم.</li>
+<li>وقتی برای اولین بار با Jake آشنا میشیم، از دید من یکی از بهترین دیالوگ‌های بین یه زوج رو می‌بینیم. دیالوگی که در مورد یه عروسک خرسه به اسم اسماعیل که Jake (یا یعقوب) توی بچگیش داشته.</li>
+<li>توی لحظه‌های مختلفی از فیلم، احتمالا این سوال رو از خودتون می‌پرسید که اگه شما جای فلان شخص بودید چه کاری می‌کردید. این نوع درگیر کردن ذهن به نظرم یه امتیاز مثبته. این نوع سوال‌ها مفیدن.</li>
+</ul>
+<h2>ویژگی‌های منفی</h2>
+<ul>
+<li>فیلم بر اساس یه داستان واقعیه، ولی جزئیاتی که توی فیلم می‌بینیم ذهن رو خیلی درگیر می‌کنن. مثلا چرا برای تعمیر و نگهداری یه خط تلفن توی برج مراقبت، باید چند دقیقه تلفن قطع بشه یا سیگنال‌ها ضعیف بشن؟ چرا وکیل‌ها اونقدر بی‌شعور و بی‌احساسن؟ چرا هیشکی عذرخواهی نمیکنه؟ چرا وقتی میرن برای پاکسازی محل سانحه، با این که چندین ساعت گذشته، هنوز اجساد رو از داخل هواپیما در نیاوردن؟ نمی‌دونم این موارد در واقعیت هم همین‌طور بودن یا نه. یه جوری بود انگار فیلم‌نامه رو صرفا برای این که داستان جور در بیاد اینطور نوشته بودن.</li>
+<li>در ادامه‌ی مورد بالا،
+<a href="https://en.wikipedia.org/wiki/Aftermath_(2017_film)#Critical_response" target="_blank">
+یه سری تناقضات هم بین اعترافات قاتل در واقعیت و شخصیت‌پردازی‌های این فیلم وجود داره
+</a>
+و شاید همین تناقضات، دلیل اصلی مشکلاتی باشن که توی پاراگراف قبلی نوشتم. بیننده برای این که ببینه چی درسته و چی غلط باید درگیر پژوهش بشه. خوب نیست. وقتی میگیم «بر اساس یک داستان واقعی» چقدرش باید واقعی باشه؟</li>
+<li>بازی‌ها رو شاید بشه گفت در حداکثر ۷۰ درصد سکانس‌ها خوب بودن. بازی آرنولد توی این درام بهتر از بازی توی فیلم‌های قدیمی‌ترش بود. یعنی شاید مثل من، این بازی رو ازش انتظار نداشته باشید. بهترین از دید من، Scoot McNairy بود.</li>
+<li>خود موسیقی خیلی خوب بود ولی تکرارش به نظرم زیاد بود.</li>
+<li><strong>باسن آرنولد</strong> رو نشون نمی‌دادن هم اتفاق خاصی نمی‌افتاد. یعنی هر جور شده باید یه باسن نشون بدن. ول کنید دیگه.</li>
+<li>سکانس به قتل رسیدن Jake خیلی جای کار داشت. یعنی باورپذیر نبود. می‌تونست خیلی راحت بره توی خونش و در رو ببنده و بعد زنگ بزنه به پلیس. نیازی به جروبحث دم در نبود. وقتی همچین شخصی میره یه اسلحه میخره تا از خودش دفاع کنه، نباید با بازماندگانی که آدرسشو گیر آوردن و اونجوری جلوی در خونش سبز میشن درگیر بشه.</li>
+<li>پایان فیلم، زیاد نچسبید. احتمالا به خاطر بازی ضعیف پسره بود. یا نحوه‌ی انتقال پیام، یا اصن همون سعی در انتقال پیام. یا شاید دلیلش این بود که در واقعیت،
+<a href="https://en.wikipedia.org/wiki/Vitaly_Kaloyev" target="_blank">
+شخص متناظر با Roman
+</a>
+به یه قهرمان محلی تبدیل میشه که تونسته انتقام خودشو بگیره، نه این که پشیمون باشه.</li>
+</ul>
+<p>داستان، کند پیش میره ولی از دید من اینجا یه ضعف نیست. خیلیا کند بودن رو نقد کرده بودن. نیاز این فیلم همینه. زندگی بعد از همچین اتفاقاتی سریع جلو نمیره. قرار نیست بزن‌بزن باشه. باید بذارید هضم بشه (البته اگه تونستید).</p>
+<p>در مجموع به نظرم می‌تونست بهتر باشه. وقایع اخیر ایران هم شاید توی دیدگاهتون نسبت به این فیلم تاثیر داشته باشن.</p>
+<a href="https://en.wikipedia.org/wiki/2002_%C3%9Cberlingen_mid-air_collision" target="_blank">
+می‌تونید در مورد وقایعی که توی ۲۰۰۲ (آلمان) اتفاق افتادن و این فیلم بر اساسش ساخته شده بیشتر بخونید.
+</a>
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/aftermath-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم Aftermath&body=https://mrmowji.com/aftermath-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

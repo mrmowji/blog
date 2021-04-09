@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم 10 Cloverfield Lane</title>
+  <meta name="description" content="یکی از بدترین فیلم‌های ژانر ترسناک. توصیه می‌کنم وقت نذارید." />
+  <meta property="og:title" content="فیلم 10 Cloverfield Lane">
+  <meta property="og:description" content="یکی از بدترین فیلم‌های ژانر ترسناک. توصیه می‌کنم وقت نذارید.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم 10 Cloverfield Lane" />
+  <meta name="twitter:description" content="یکی از بدترین فیلم‌های ژانر ترسناک. توصیه می‌کنم وقت نذارید." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم 10 Cloverfield Lane</h1>
+<article>
+  <p>فیلم 10 Cloverfield Lane، محصول 2016 آمریکا.
+توی وبسایت IMDb، رتبه‌ی 7.2 رو به طور میانگین گرفته. من بهش 2 میدم و با این امتیاز میره توی لیست فیلم‌هایی که توصیه می‌کنم نبینید.
+به نظرم ارزش یه بار دیدن رو هم نداره واقعا.</p>
+<p>ویژگی‌های مثبت فیلم، دوربین و موسیقی متنش هستن به نظرم. البته موسیقیش خیلی تکرار میشه انگار.
+ژانر داستان، ترسناکه. کلا ژانر بدی نیست ولی این فیلم دیگه خیلی ماستا رو با قیمه‌ها قاطی کرده.</p>
+<p>ادامه‌ی متن ممکنه داستان فیلم رو لو بده. اگه فیلم رو ندیدید بهتره دیگه ادامه ندید. اگه دیدید شاید خوندن بقیه‌ی متن براتون مفید باشه.</p>
+<p>یه زن به اسم میشل (Michelle) که به دلیل دعوا با همسر/دوست‌پسرش  تصمیم می‌گیره اون و کلا شهر رو ترک کنه، توی جاده تصادف می‌کنه و توی یه اتاق
+از یه پناهگاه زیرزمینی به هوش میاد. این پناهگاه هم توی منطقه‌ی 10 Cloverfield قرار داره.</p>
+<p>شاید بشه چند بخش رو برای فیلم در نظر گرفت.</p>
+<ol>
+<li>از ابتدای فیلم تا زمانی که میشل تصادف می‌کنه.</li>
+<li>از زمانی که میشل به هوش میاد تا زمانی که می‌فهمه واقعا بیرون از پناهگاه یه خبرایی هست.</li>
+<li>اون مدتی که همه چیز گل و بلبله. لب کارون.</li>
+<li>از زمانی که میشل می‌فهمه این شخصی که نجاتشون داده (هوارد یا Howard) واقعا یه مشکلاتی داره تا زمانی که موفق به فرار میشه.</li>
+<li>بعد از فرار تا «تولد یک ابرقهرمان». خودم هم خندم گرفت.</li>
+</ol>
+<p>شاید بشه گفت 4 بخش اول نسبتا خوب میره جلو. اون تعلیقی که وجود داره و اون حدس‌هایی که زده میشه و رد میشن جالبن.
+ولی باز هم جذابیتش زیاد نیست به نظرم.
+وقتی وارد بخش 5 میشیم تقریبا داغون میشه همه چیز. البته این تعداد زیاد تغییر فار لزوما بد نیستا. اینجا بد شده.</p>
+<ul>
+<li>چرا هوارد پای زخمی میشل رو بسته به زنجیر؟ اون که بعدش میاد باز می‌کنه. البته شاید برمی‌گرده به روانی بودن شخصیت. ولی عجیب بود.</li>
+<li>چرا مثل آدم توضیح نمیدی بهش که چه اتفاقی افتاده؟ چرا فیلم‌های هالیوودی اینجوری سعی می‌کنن کش بدن؟</li>
+<li>میشل سعی می‌کنه هوارد رو همون اولای فیلم با عصاش ناکار کنه. واسه این کار میره پشت دیوار قایم میشه و منتظر می‌مونه. جالب اینجاست
+هر کی در اتاق رو باز کنه تقریبا کل اتاق رو می‌تونه ببینه. یعنی اگه دختره روبرو نباشه پس پشت دیواره. جای دیگه‌ای
+واسه مخفی شدن نیست دیگه. نمی‌دونم چطور می‌خواست با این نقشه‌ش موفق بشه.</li>
+<li>میشل و دومین پناهنده به اسم امت (Emmett) سعی می‌کنن لباس ضد آلودگی بسازن. یا خدا.
+جالب اینجاست که اینو هم در نظر گرفتن که هوارد متوجه نمیشه. موقعی هم که دارن کار می‌کنن در اتاق کلا بازه. فقط بر اساس صدای توی راهرو
+رفت‌و‌آمد هوارد رو رصد می‌کنن. چی بگم.</li>
+<li>وقتی میشل می‌خواد لباس رو قایم کنه، ماسک لباس رو می‌بره میذاره توی دریچه‌ی کولر. بذار زیر بالش خوب. بذار زیر همون تشک. کولر آخه؟</li>
+<li>این که شخصیت اول داستان خودش توی کار لباس دوختنه خیلی خیلی دیگه خاصه. دقیقا همون شخصیه که لازمه تا بتونه فرار کنه. البته همونطور که می‌بینیم هیچ
+آلودگی هم توی هوا وجود نداره. ولی خوب.</li>
+<li>Iron Man اینجوری نتونسته بود برای فرار خودش لباس درست کنه.</li>
+<li>بازی‌ها زیاد خود نبود. ولی توی بعضی موارد عجیبه. مثلا میشل 2 دقیقه بعد از اینکه هوارد امت رو جلوی چشمش می‌کشه، با دونستن این که بعدش قراره جسد رو بندازه
+توی اسید، داره لباس خودش رو نهایی می‌کنه. نه لرزشی. نه رعشه‌ای. کاملا راسخ. در همه حال. یا با این که می‌دونن احتمالا خیلیا مردن همشون می‌خندن و خوشن.</li>
+<li>هوارد که اون زیرزمین رو ساخته فکر نکرده چند تا ماسک و لباس مخصوص هم بخره؟</li>
+<li>دیالوگ‌های هالیوودی در اوج ترس و ناباوری: «Oh come on.» الآن وقت مسخره‌بازیه؟ میان پاره‌پوره‌ت می‌کنن بدبخت.</li>
+<li>میشل که کمتر از 10 دقیقه‌س با مریخی‌ها آشنا شده،
+در دقیقه‌ی ۹۰ می‌تونه یکی از سرکردگان رژیم منحوس مریخی رو با یه کوکتل مولوتوف دست‌ساز
+از جنس مشروبات الکلی ناب که داخل ماشین به صورت اتفاقی پیدا می‌کنه منحدم کنه.
+حتی کبریت هم اونجا بود. یا خدا. آقای کارگردان؟ طبیعیه. روزانه هزار مورد اینجوری داریم.</li>
+<li>آخرش هم که میشل که به قول خودش همیشه فرار می‌کرده، تبدیل میشه به یک جنگنده، قهرمان، پهلوان، دلاور. بابا جان بذار عرقت خشک بشه. فکراتو بکن.
+شاید توی روز اون مریخی‌ها ترسناک باشنا.</li>
+<li>واقعا بعید نمی‌دونستم که اون آخرای فیلم که میشل داشت توی جاده رانندگی می‌کرد همینجوری الکی بیفته توی چاله، صرفا برای اینکه یه راه دیگه برای
+ترس و تعلیق رو هم تست کرده باشن. ول کنید دیگه.</li>
+<li>صدای در اتاق چرا اونجوری بود؟ انگار صدای جیغ یه دختر رو هم باهاش قاطی کردن عمدا. که چی آخه؟ کر شدیم.</li>
+</ul>
+<p>خلاصه این که نبینید.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/10-cloverfield-lane-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم 10 Cloverfield Lane&body=https://mrmowji.com/10-cloverfield-lane-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

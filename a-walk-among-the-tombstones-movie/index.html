@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم A Walk Among the Tombstones</title>
+  <meta name="description" content="فیلم‌های لیام نیسون انگار کلا همینجورین. یه فیلم معمولی با یه پایان بسیار بد. شاید توصیه نکنم بهتر باشه." />
+  <meta property="og:title" content="فیلم A Walk Among the Tombstones">
+  <meta property="og:description" content="فیلم‌های لیام نیسون انگار کلا همینجورین. یه فیلم معمولی با یه پایان بسیار بد. شاید توصیه نکنم بهتر باشه.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم A Walk Among the Tombstones" />
+  <meta name="twitter:description" content="فیلم‌های لیام نیسون انگار کلا همینجورین. یه فیلم معمولی با یه پایان بسیار بد. شاید توصیه نکنم بهتر باشه." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم A Walk Among the Tombstones</h1>
+<article>
+  <p>همونطور که مشخصه پست‌های مربوط به نقد فیلم توی این وبلاگ داره زیاد میشه. دلیلش هم مرخصی عیده :) کار دیگه‌ای جواب نمیده.</p>
+<p>فیلم A Walk Among the Tombstones، محصول 2014 آمریکا.
+توی وبسایت IMDb، رتبه‌ی 6.5 رو به طور میانگین گرفته. من بهش 3 میدم و با این امتیاز میره توی لیست فیلم‌هایی که توصیه می‌کنم نبینید. به نظرم بدتر از متوسطه.</p>
+<p>موسیقی متن به نظرم خوبه. تکرار داره ولی خیلی تو ذوق نمی‌زنه. دوربین هم همینطور. بازی‌ها بد نیست. بازیگرها خوب انتخاب شدن.
+ژانر داستان، درام و جناییه. جنایی از ژانرهای مورد علاقه‌ی منه.</p>
+<p>داستان فیلم که بر اساس یه رمانه و بین سال‌های 1991 و 1999 اتفاق میفته در مورد یه نیروی پلیس مشکل‌ساز و زیاد‌الخمره (به اسم مت/Matt) که بنا به دلایلی استعفا میده و هشت سال بعد توسط یه شخص برای پیگیری گم شدن همسرش به صورت خصوصی استخدام میشه.</p>
+<p>نشانه‌هایی از
+<a href="https://en.wikipedia.org/wiki/Year_2000_problem">Y2K</a> هم توی فیلم به چشم می‌خوره. در موردش صحبت هم می‌کنن.
+هر چند ممکنه ربطی به اصل داستان نداشته باشه ولی با توجه به سالی که توش هستیم شاید برای نزدیک شدن به اون حال و هوا بد نبود.</p>
+<p>لیام نیسون که احتمالا با فیلم‌های Taken می‌شناسیدش نقش اول این فیلمه و همون کارآگاهه‌س.</p>
+<p>تیتراژ فیلم شاید یکی از متفاوت‌ترین تیتراژهایی باشه که دیدم. خیلی خوب به تصویر کشیده شده. در واقع موضوع اصلی فیلم توی همین تیتراژ مشخص میشه. دو نفر که به دخترها/زن‌ها تجاوز می‌کنن و بعدش به طرز فجیعی می‌کشنشون.</p>
+<p>ادامه‌ی متن ممکنه داستان فیلم رو لو بده. اگه فیلم رو ندیدید بهتره دیگه ادامه ندید. اگه دیدید شاید خوندن بقیه‌ی متن براتون مفید باشه.</p>
+<p>به نظر می‌رسه بعد 8 سال، مت هنوز با اتفاقاتی که افتاده کنار نیومده و به جلسات گروهی (که افراد با مشکلات مشابه یا هر نوع مشکلی دور هم
+جمع میشن و در موردش صحبت می‌کنن) نیاز داره. مت به عنوان یه کارآگاه خصوصی بدون لایسنس فعالیت می‌کنه و توی این ۸ سال به مشروبات الکلی برنگشته.</p>
+<p>توی یکی از همون جلسات گروهی، یه شخص معتاد با مت آشنا میشه و با توجه به این که پیشینه‌ی مت رو می‌دونه ازش می‌خواد توی پیدا کردن همسر برادرش (به اسم کنی/Kenny) کمک کنه. در واقع همسرشو دزدیدن.</p>
+<p>متوجه میشیم که در واقع کنی اون پولی رو که گروگان‌گیرها خواستن رو پرداخت کرده ولی اونا همسرشو کشتن. همینطور می‌فهمیم که چون کنی یه
+دلال مواد مخدره و نتونسته به پلیس‌ها اطلاع بده مجبور شده با مت تماس بگیره. گروگان‌گیرها هم به همین دلیل همسر کنی رو انتخاب کردن.</p>
+<p>مت بالاخره موافقت می‌کنه که پرونده رو دنبال کنه. شواهد اولیه به جایی ختم نمیشن. انتظار داشتم بشن واقعا؟</p>
+<p>در حین تحقیق توی یه کتابخونه، مت با TJ که یه پسر نوجوون سیاه‌پوسته آشنا میشه. TJ استعداد زیادی داره و با اینترنت توی تحقیقات به مت کمک می‌کنه.
+توی همین تحقیقات پرونده‌ی مشابهی که چند سال پیش اتفاق افتاده رو هم پیدا میکنن. پرونده‌ی زنی که توی تیتراژ می‌بینیم.</p>
+<p>داستان با دنبال کردن سه پرونده‌ی قبلی و یه پرونده‌ی جدید در زمان حال میره جلو.</p>
+<p>آخرش هم می‌تونن اون دو نفر روانی رو در جریان آخرین پرونده پیدا کنن و گروگان رو نجات بدن. او دو نفر و همینطور کنی و برادرش کشته میشن و
+TJ خودش رو به عنوان یه ابرقهرمان با نماد داس (TJ یه کم‌خونی داسی‌شکل داره) تصور می‌کنه و تمام.</p>
+<p>فیلم خیلی قلمبه سلمبه نیست. دیالوگ عجیب‌وغریبی نداره. داستان خطیه تقریبا.</p>
+<p>چه مشکلاتی از دید من داره؟</p>
+<ul>
+<li>فیلم‌های مشابهی رو از بازیگر نقش اول دیدید احتمالا.</li>
+<li>از یه جایی به بعد فیلم قابل‌پیش‌بینی میشه. یعنی توی حدس‌هایی که می‌زنید اون چیزی که اتفاق میفته هم هست.</li>
+<li>توی تحقیقات میدانی اولیه، تعداد زیادی از شاهدین دیدن که قربانی سوار یه ون شده. با دو نفر. خیلی بعید بود این قضیه. ملت بیکارن فقط مشتری‌ها رو دنبال می‌کنن.</li>
+<li>قاتلین داستان چرا ماسک نمی‌زنن؟ توی خیابون هم خیلی طبیعی کارشونو می‌کنن. آخر فیلم هم ماسک نمی‌زنن.</li>
+<li>چرا اصن اون روانی‌ها اون کارها رو می‌کنن؟ قبلش توی DEA بودن انگار. یهو منقلب میشن؟ چرا هیچ پیشنیه‌ای در مورد این قضیه به ما داده نمیشه؟</li>
+<li>اینکه داستان باید توی اون بازه‌ی زمانی خاص (دهه‌ی 90) رخ بده به نظرم ضرورتی نداشت. درسته بر اساس یه رمان نوشته شده ولی خوب باید دید
+ضرورتش چیه. صرفا به این خاطر که مت به TJ توی کارهای اینترنتی نیازمند بشه؟ رفرنس‌هایی که توی فیلم به اون دهه داریم هم فقط دنبال کردن رو
+الکی پیچیده کرده بود.</li>
+<li>در ادامه‌ی مورد بالا خیلی راحت میشد کاراکتر  TJ رو از داستان حذف کرد. به نظرم همه جا
+میشد نقش‌های این کاراکتر رو با گزینه‌های معقولانه‌تری جایگزین کرد.</li>
+<li>نحوه‌ی جلو بردن داستان تا قبل از 20 دقیقه‌ی آخر ممکنه گیج‌کننده باشه. با این که فقط ۳ قربانی قبلی رو داریم دنبال می‌کنیم ولی توی بعضی از مواقع شخصا گیح میشدم که الآن در مورد کدوم دارن صحبت می‌کنن. انگار یه کلاف بود.</li>
+<li>بعضی از جزئیات فیلم زیادی خاصن و شخصا نتونستم ارتباطشون رو با داستان متوجه بشم. مثلا زن یکی از دلال‌های مواد مخدر که روس هم هستن مریضه و با دم‌ودستگاه زنده‌س. دلیلش چیه واقعا؟ یا این که TJ یه طراح بااستعداده.</li>
+<li>میشه گفت تقریبا 20 دقیقه‌ی آخر فیلم افتضاحه. یعنی مهم‌ترین قسمت فیلم. از کجا شروع کنم! دلال‌های مواد کلا یه نفر رو دارن که می‌تونه تک‌تیرانداز باشه. اون هم فقط توی روز. بهترین گزینه‌ی بعدی میشه برادر کنی که معتاده! چی؟! نقش بد داستان که یه جورایی روانیه از این که
+مت ازش نمی‌ترسه شگفت‌زده میشه. کلیشه‌ای نیست؟ TJ در حین تیراندازی توی قبرستون سوار ون میشه. چرا واقعا؟ چه مرگته؟ بچه‌ها کلا باید یه گندی
+بزنن توی فیلم‌ها. اصن چرا دارودسته‌ی دلال‌های مواد نرفتن کلا قبرستون رو محاصره کنن؟ حداقل یه ماشین آماده می‌داشتن که اگه فرار کردن برن دنبالشون. اینطور نیست که اون دو تا روانی بعد از این قضیه بازنشسته بشن. بگذریم. کنی و مت وارد خونه‌ی اون دو تا روانی میشن. یکیشون قبلا دومی رو کشته. می‌بندنش به لوله‌ی شوفاژ. کنی با شیشه میزنه تو سرش. بیهوش میشه. بعد میره زیرزمین. خیلی آروم. یعنی خیلی آروم و آهسته. اینقدر کش میده که طرف توی طبقه بالا به هوش میاد. چه خبره؟ چه مرگتونه باباجان؟ مت برمی‌گردونه توی خونه. می‌بینه طرف به لوله بسته نیست. میره زیرزمین. می‌بینه کنی کشته شده. حقته مردک. تمام اتفاقاتی که از اینجا به بعد توی زیرزمین میفتن واقعا افتضاحن. یعنی خیلی بد فیلم‌نامه رو نوشتن. این که طرف پشت سرشو نگاه نمی‌کنه و همینجوری میره جلو. این که روانیه نمیاد از یه ابزار کشنده‌تر برای کشتن مت استفاده کنه. درسته روانیه ولی توی انتخاب ابزار بعید می‌دونم مشکلی داشته باشه. هر چیزی که بتونه به مت اجازه بده تا نجات پیدا کنه خوبه.</li>
+<li>توی همون 15 دقیقه‌ی آخرای فیلم صدای یکی از افراد جلسات گروهی رو می‌شنویم که داره 12 گام رو برای ما قرائت می‌کنه. مشکلی که داره اینه
+که خیلی سخت میشه اون گام‌ها رو به صحنه‌ها ربط داد و اصلا سخته که بشه اون گام‌ها رو توی ذهن نگه داشت. به نظر یه سری چیز بی‌ربط میان
+که فقط بیان میشن.</li>
+<li>لیام نیسون در حال تهدید کردن پشت تلفن! همون شخصیت Taken رو برداشتن گذاشتن اینجا.</li>
+<li>اون تعلیقی که توی فیلم از اول وجود داره خیلی زود با نشون دادن چهره‌ی دو روانی داستان از بین میره. ممکنه از خودتون بپرسید پس چرا از اول داشتن چهره‌ها رو ناقص نشون میدادن. خودم هم نمی‌دونم. ولی احتمالا وسطای کار متوجه شدن نیازی به این کار نیست :دی در کل عجیب بود.</li>
+<li>شاید تنها کاراکترهایی که میشد براشون ناراحت شد لوسیا بود و اون شخصی که خودشو از بالای پشت بوم پرت کرد پایین. بقیه کلا شخصیت‌های جالبی نداشتن.
+حتی اون ماموران DEA. حتی TJ.</li>
+</ul>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/a-walk-among-the-tombstones-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم A Walk Among the Tombstones&body=https://mrmowji.com/a-walk-among-the-tombstones-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

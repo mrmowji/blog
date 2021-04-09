@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DIY vs. PnP در توسعه‌ی نرم‌افزار</title>
+  <meta name="description" content="چرا برای من گزینه‌ی PnP همیشه جواب نمیده؟ چرا بعضی وقتا باید خودمون توسعه رو جلو ببریم به جای این که ابزارهای موجود استفاده کنیم؟" />
+  <meta property="og:title" content="DIY vs. PnP در توسعه‌ی نرم‌افزار">
+  <meta property="og:description" content="چرا برای من گزینه‌ی PnP همیشه جواب نمیده؟ چرا بعضی وقتا باید خودمون توسعه رو جلو ببریم به جای این که ابزارهای موجود استفاده کنیم؟">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="DIY vs. PnP در توسعه‌ی نرم‌افزار" />
+  <meta name="twitter:description" content="چرا برای من گزینه‌ی PnP همیشه جواب نمیده؟ چرا بعضی وقتا باید خودمون توسعه رو جلو ببریم به جای این که ابزارهای موجود استفاده کنیم؟" />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>DIY vs. PnP در توسعه‌ی نرم‌افزار</h1>
+<article>
+  <p>وقتی بچه بودید احتمالا خیلی به ساختن چیزمیزای مختلف علاقه داشتید (من داشتم). یه چسب آبکی و تعدادی مقوا واسم حکم بازی رو داشت. البته همیشه در دسترس نبود.</p>
+<p>یادمه یه بار یه خونه‌ی دوطبقه‌ی کارتنی ساخته بودم که می‌تونستید از توی دودکشش یه تیله رو بندازید و تیله پس از طی یه سری مارپیچ از در طبقه‌ی همکف میومد بیرون.</p>
+<p>یه بار خونه‌ی خواهرم بودیم. از این خط‌کش‌های خیاطی داشت، دو تا. یه کارتن خالی پودر ماشین لباس‌شویی هم بود. باهاشون دو تا دروازه‌ی کوچیک ساختم. حتی طرح تور هم داشتن :دی یه توپ پینگ‌پنگ هم جور کردیم. برای هر دروازه، یه نفر پشتشون می‌نشست. باید با خط‌کش‌ها مثل بیلیارد توپ رو از جلوی دروازه‌ی خودمون شوت می‌کردیم به سمت دروازه‌ی حریف. لذت این بازی رو نمی‌تونم توصیف کنم :دی بعدا که پسرعموم این بازی ما رو دید، رفت واسمون یه فوتبال‌دستی گرفت. یعنی جزو خرکیف‌ترین انسان‌های اون لحظه بودم. هیچ‌وقت فراموش نمی‌کنم.</p>
+<p>کارهای اینجوری زیاد انجام دادیم هممون. شاید بشه گفت لذتش توی این بود که خودمون همه کارشو می‌بردیم جلو. احتمالا واسه همینه که چیزهایی که از صفر خلق میشن ارزش بیشتری برام دارن. شاید برای همینه که Lego زیاد منو جذب نمی‌کنه. نه این که خوشم نیاد. ولی اونجوری نیست که بخوام برم ۲ میلیارد قطعه‌شو بخرم و یه چیزی درست کنم. اینو هم بگم که اینو با پازل هم اشتباه نگیرید.</p>
+<p>خلاصه این که میشه برای بعضی از کارها دو راه رو در پیش گرفت. یا از صفر شروع کنیم و صرفا از یه سری ابزار ساده استفاده کنیم (که بهش میگن DIY یا Do It Yourself). یا این که از آیتم‌های آماده استفاده کنیم و توی کارمون قرار بدیم (که بهش میگن PnP یا Plug And Play). توی راه دوم، کارتون خیلی راحت و سریع‌تر میره جلو. ولی خوب همیشه بهترین راه نیست. لازمه بگم که PnP کاربرد زیادی داره و شخصا منکرش نیستم. مثلا همین وصل کردن ماوس و کیبورد به کامپیوتر و کار کردن باهاشون توی همین دسته قرار می‌گیره. حتی نصب کردن اپلیکیشن هم توی همین دسته‌س.</p>
+<p>من اینجا می‌خوام این دو روش رو توی حوزه‌ی توسعه‌ی نرم‌افزار با هم مقایسه کنم. ولی شاید بشه به بقیه‌ی حوزه‌ها هم بسط داد.</p>
+<p>برای من DIY توی توسعه‌ی نرم‌افزار یعنی منطقی که لازم هست رو خودم با استایل خودم از صفر بزنم. یا حتی توسعه‌ی یه نرم‌افزار که نرم‌افزارهای مشابهش اون چیزی رو که من می‌خوام انجام نمیدن (خیلی پیش میاد این مورد). PnP هم میشه این که از یه سری کتابخونه، فریم‌ورک یا هر چیز دیگه‌ای که می‌تونه توی پروژه بشینه استفاده کنم. احتمالا همه‌ی برنامه‌نویس‌ها هر دو راه رو رفتن.</p>
+<p>برای بعضی از موارد واقعا PnP جواب میده و حتی تنهاترین (منطقی‌ترین) جوابه. مثلا وقتی شما می‌خواید از یه الگوریتم کدگذاری روی پسوردهاتون قبل از این که توی بانک اطلاعاتی ذخیره بشن استفاده کنید، شدیدا توصیه میشه که خودتون نرید از اول کد اون الگوریتم رو بزنید. چون همیشه باگ ممکنه وجود داشته باشه و همین امر باعث آسیب‌پذیری بیشتر سیستم بشه.</p>
+<p>یا حتی الگوریتم‌های ساده‌تر رو در نظر بگیرید. مثلا مرتب‌سازی‌ها، جستجوها (که خیلی کاربرد دارن) و ... احتمالا توی این موارد هم بشه بدون هیچ‌گونه نگرانی ابزارهای موجود رو به پروژه اضافه کرد و حالشو برد.</p>
+<p>ولی برای بعضی از موارد خیلی راحت نمیشه این کار رو انجام داد. یا ممکنه اول کار خیلی از انتخابی که انجام دادیم راضی باشیم ولی کم‌کم که جلو بریم متوجه بشیم نیازی به این کار نبود و در واقع کارمون رو سخت‌تر کردیم.</p>
+<p>برای مثال، وقتی از کتابخونه‌ها یا فریم‌ورک‌هایی استفاده می‌کنیم که خیلی بر اساس سلیقه و نظر سازنده‌ش جلو رفتن (اصطلاحا Opinion-Based هستن) با این مشکلات روبرو میشیم. نمونه‌ی بارزش کتابخونه‌های مربوط به UI هستن.</p>
+<p>وقتی شما از این کتابخونه‌ها استفاده می‌کنید معمولا دو راه دارید. یا باید روشی که اون کتابخونه میره رو به صورت پیش‌فرض قبول کنید و به این شکل نیازی به سفارشی کردنش نداشته باشید (مثلا رنگ دکمه‌ها، ابعاد المان‌ها، خط زیر تکستباکس‌ها و ...) و یا باید دست به کار بشید و المان‌های خودتون رو با توجه به طراحی پروژه تغییر بدید.</p>
+<p>توی حالت اول، پروژه‌تون خیلی خیلی شبیه بقیه‌ی پروژه‌هایی میشه که از همین روش استفاده کردن. نمونه‌ش مشکلی بود که Bootstrap ایجاد کرده. خیلیا صرفا با همون استایل‌های پیش‌فرضش میرن جلو و همین باعث میشه همه‌شون شبیه هم باشن.</p>
+<p>توی حالت دوم، شما باید یه زبان جدید رو یاد بگیرید و اون زبانی هست که اون کتابخونه برای خودش تعریف کرده. برای بعضی از این کتابخونه‌ها، این زبان به شدت بد طراحی شده و کار سفارشی کردن UI با اون زبان خیلی خیلی سخت و پیچیده‌س.</p>
+<p>مشکل بعدی که وجود داره اینه که اگه اون کتابخونه یه مشکل اساسی داشته باشه، شما باید صبر کنید تا نسخه‌ی بعدیش بیاد و ازش استفاده کنید. برای مثال ما الآن داریم از Material UI توی پروژه‌ی شرکتی که هستم استفاده می‌کنیم. نسخه‌ی ما از این کتابخونه، مشکلات زیادی داره ولی خوب نسخه‌ی بعدیش هنوز نیومده بیرون. از طرفی نسخه‌ی بعدیش با این که مشکلات فعلی ما رو احتمالا برطرف می‌کنه ولی تغییرات زیادی رو هم توی کدمون اعمال می‌کنه. یعنی نسخه‌ی جدید صرفا برای اصلاح باگ‌ها نمیاد بیرون. در کنارش ویژگی‌های قبلی هم تغییر می‌کنن.</p>
+<p>اینجاس که کارمون خیلی سخت میشه. احتمالا شما هم با این مشکلات مواجه بودید.</p>
+<p>اگه دقت کنیم، می‌تونیم ابزارهای حوزه‌ی نرم‌افزار رو به دو دسته تقسیم کنیم.</p>
+<p>یه دسته اون‌هایی که همه (کول‌ّ جهان) روش اتفاق نظر دارن، مثل همون ابزارهایی که به الگوریتم‌های خاصی مربوطن. الگوریتم‌ها همونان. فقط باید دقیق‌ترین و احتمالا سریع‌ترین پیاده‌سازی رو انتخاب کنیم. اگه هم اشتباه انتخاب کنیم خیلی راحت می‌تونیم جایگزین کنیم.</p>
+<p>دسته‌ی دوم هم اونایی که خیلی به طرز فکر سازنده‌ش وابسته‌ن. مثل همون ابزارهای UI. توی این موارد شاید بهتر باشه خودمون از اول انجامش بدیم (DIY). برای همینه که ابزارهایی مثل TailwindCSS خیلی سریع فراگیر شدن. چون شما رو محدود به چیز خاصی نمی‌کنن. خیلی هم راحت می‌تونید تغییرش بدید که به نظرم خیلی کم پیش میاد.</p>
+<p>هر وقت احساس کردید دارید محدود میشید (واقعی یا حسی) بدونید که یه جای کار داره می‌لنگه.</p>
+<p>با ابزارهای اساسی شروع کنید. کم‌کم ابزارهای جدید رو بر اساس نیاز به کار ببرید. مثلا برای شروع پیاده‌سازی UI، غیر از HTML/CSS و JavaScript به چیزی نیاز ندارید. لازم نیست هزار نوع ابزار رو به کار ببرید تا یه صفحه‌ی ساده رو نمایش بدید. جالب اینجاست که بعد از یه مدت برای هر ابزار هم هزار نوع ابزار کمکی میاد. چه شود!</p>
+<p>در آخر هم باید بگم که همه‌ی این چیزا معمولا یه جایی کاربرد خودشون رو پیدا می‌کنن وگرنه تا الآن منسوخ شده بودن. ولی شخصا با نوع دومشون مشکل دارم. به نظرم فقط باید وقتی لازمن استفاده بشن. و وقتی خودمون می‌تونیم پیاده‌شون کنیم یعنی این که احتمالا اصلا لازم نمیشن. شاید بهتر این باشه که از ایده‌هاشون استفاده کنیم تا این که کلشون رو بیاریم توی کار. «چرخ رو دوباره اختراع نکن» اینجا مصداق نداره. چرخی که به اندازه‌ی اختراعش باید صرف بهبود و سفارشی کردنش بکنیم همون بهتر که از اول اختراع بشه، با ذهنیتی که خودمون داریم، بر اساس نیازهای خودمون، با عمر بیشتر.</p>
+<p>این مقاله رو بر اساس برداشت خودم از شرایط فعلی، شرایط قبلی، و
+<a href="https://bastianallgeier.com/notes/diy" target="_blank">مقاله‌ای که Bastian Allgeier توی وبلاگش نوشته بود</a>
+نوشتم.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/diy-vs-pnp/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=DIY vs. PnP در توسعه‌ی نرم‌افزار&body=https://mrmowji.com/diy-vs-pnp/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

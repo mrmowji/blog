@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>مراحل پایین آمدن از خر شیطان</title>
+  <meta name="description" content="باور کنید بعضی وقت‌ها گیر الکی نباید بدید. بپذیرید. وفق بدید. لذت‌بخش‌تر میشه. البته همیشه این کار رو نکنید. با این نصایح، بدبخت شدید به من هیچ ربطی نداره." />
+  <meta property="og:title" content="مراحل پایین آمدن از خر شیطان">
+  <meta property="og:description" content="باور کنید بعضی وقت‌ها گیر الکی نباید بدید. بپذیرید. وفق بدید. لذت‌بخش‌تر میشه. البته همیشه این کار رو نکنید. با این نصایح، بدبخت شدید به من هیچ ربطی نداره.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="مراحل پایین آمدن از خر شیطان" />
+  <meta name="twitter:description" content="باور کنید بعضی وقت‌ها گیر الکی نباید بدید. بپذیرید. وفق بدید. لذت‌بخش‌تر میشه. البته همیشه این کار رو نکنید. با این نصایح، بدبخت شدید به من هیچ ربطی نداره." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>مراحل پایین آمدن از خر شیطان</h1>
+<article>
+  <p>حداقل یه سال میشه که ذهنم رو درگیر بعضی از مسائل نمی‌کنم و سعی می‌کنم چیزی که هست رو بپذیرم. البته در مورد همه چیز نمی‌تونم با همین دید برم جلو. ولی خوب، کمال‌گرایی یا کله‌شقی هم یه حدی داره. حالا می‌خواد خر شیطون باشه، یا خر ملانصرالدین. اصن خر هر خری که می‌خواد باشه. خیر سرم مدافع حقوق حیواناتم. ولی جدا این «خر شیطان» یعنی خود خر، شیطان تشریف دارن یا خری که متعلق به شیطانه؟</p>
+<figure>
+<img src="/assets/images/content/devils-donkey.jpg" alt="خر عصبانی در حال جفتک زدن">
+<figcaption>
+لازم نیست حتما اینطوری بیاید پایین.
+(<a href="https://www.amazon.co.uk/Angry-Donkey-Vinyl-Sticker-Stickers/dp/B00IGLW1ZC">منبع</a>)
+</figcaption>
+</figure>
+<p>این نوشته، در مورد حرفه‌ی توسعه‌ی نرم‌افزار و برنامه‌نویسیه. ولی میشه به همه چیز نسبت داد.</p>
+<p>از وقتی یادم میاد توی دنیای کامپیوتر و نرم‌افزار بحث و جدل‌های زیادی در مورد تکنولوژی‌های مختلف و مسائل مشابه وجود داشته. مثلا زبان برنامه‌نویسی C# بهتره یا Java. ویندوز بهتره یا لینوکس. طالبی یا استامبولی. اینا مسائلین که همیشه یه عده باید سمت راست باشن و یه عده سمت چپ.</p>
+<p>الآن هم درسته که زبان C# رو ترجیح میدم و دوست داشتم همیشه با همین زبان کار کنم، ولی خوب نمیشه دیگه. تا ابد که نمیشه با این وسواس فکری زندگی کرد. آره، اگه توی محیط هم چیزی رو دیدید که از این طرز فکرتون حمایت می‌کنه خوبه. ولی اگه شما جزو اقلیت باشید زیاد جالب نیست. مساله‌ی مهمی هم نیست واقعا. شاید وسواس توی بعضی از مسائل خیلی هم خوب و حیاتی باشه ولی توی این مورد اینطور نیست. حداقل برای من نیست.</p>
+<p>بعد از این که دیدم کار زیادی با C# و ASP.NET Core وجود نداره، تصمیم گرفتم کوچ کنم به JavaScript. خوشبختانه از همون ۶ ۷ سال پیش که اومدم سمت وب، با این زبان کار کردم. بازار کارش نسبت به بقیه‌ی زبان‌ها و تکنولوژی‌ها خیلی بهتره. هر چند زبان خوبی نیست به نظرم، ولی خوب، پول داره!</p>
+<p>می‌دونم بهتره برنامه‌نویسی رو یاد بگیریم و نه یه زبان خاص رو. ولی بالاخره یه چیزایی هست که انسان رو اذیت می‌کنه. مثلا تا قبل از نسخه‌ی ۷، زبان PHP در بعضی از جاها طراحی یکنواختی نداشت. مسلما می‌تونستید کار رو راه بندازید ولی اگه مثل من باشید همیشه این مشکلات توی ذهنتون می‌مونه. JavaScript هم از این مشکلات داره. شاید بیشتر. حالا به درجه‌ای رسیدم که سعی می‌کنم با این مشکلات هم کنار بیام.</p>
+<p>ببینید چی رو بیشتر نیاز دارن. شخصا بر این اساس اولویت‌بندی می‌کنم. به خاطر همین هم با این که قبلا با Vue کار کرده بودم و واقعا ازش خوشم میاد، تصمیم گرفتم برم React رو ادامه بدم. چرا؟ چون بازارش بهتره. سال بعد PHP رو بیشتر بخوان و هنوز بیکار باشم حتما میرم سمت اون زبان. به همین راحتی.</p>
+<p>اگه خودتون می‌تونید کاری بکنید که یه تکنولوژی بهتر بشه خوب این کار رو بکنید، یا حداقل به مسئولینش پیشنهاد بدید. ضرری نداره. اگه نه، گیر هم ندید. اگه هم می‌تونید یه تکنولوژی جدید با معیارهای خودتون خلق کنید این کار رو بکنید. هر چند خودم با این تنوع فعلی مشکل دارم و به نظرم زیاده. هیچ چیزی هیچ‌وقت در بهترین حالت خودش قرار نخواهد داشت (احتمالا). نمیشه همه رو خوشحال کرد.</p>
+<p>توی این حرفه باید طوری باشید که راحت بتونید توی یه لباس دیگه کار کنید. Loosely Coupled باشید. یاد بگیرید. خلق کنید. نقد کنید. بهتر کنید. هر روز میشه این کارها رو انجام داد.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/devils-donkey/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=مراحل پایین آمدن از خر شیطان&body=https://mrmowji.com/devils-donkey/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

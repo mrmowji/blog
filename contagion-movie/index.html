@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم Contagion</title>
+  <meta name="description" content="از جمله فیلم‌های مناسب این روزها. یه فیلم معمولی که شاید ارزش یه بار دیدن رو داشته باشه. البته حرف خاصی برای گفتن نداره." />
+  <meta property="og:title" content="فیلم Contagion">
+  <meta property="og:description" content="از جمله فیلم‌های مناسب این روزها. یه فیلم معمولی که شاید ارزش یه بار دیدن رو داشته باشه. البته حرف خاصی برای گفتن نداره.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم Contagion" />
+  <meta name="twitter:description" content="از جمله فیلم‌های مناسب این روزها. یه فیلم معمولی که شاید ارزش یه بار دیدن رو داشته باشه. البته حرف خاصی برای گفتن نداره." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم Contagion</h1>
+<article>
+  <p>فیلم Contagion (به معنی شیوع، سرایت)، محصول 2011 آمریکا.
+توی وبسایت IMDb، رتبه‌ی 6.7 رو به طور میانگین گرفته. من بهش 5 میدم و با این امتیاز میره توی لیست فیلم‌هایی که نه توصیه می‌کنم ببینید
+و نه توصیه می‌کنم نبینید. با توجه به شرایط حساس کنونی شاید ارزش یه بار دیدن رو داشته باشه.</p>
+<p>این فیلم رو همون سال‌های انتشار دیده بودم. ولی دوباره نشستم دیدمش.</p>
+<p>ویژگی‌های مثبت فیلم، دوربین و موسیقی متنش هستن به نظرم. موسیقیش خیلی تکرار میشه و ممکنه شما را یاد فیلم The Social Network بندازه.
+در مجموع بد نیست و خیلی برای این فیلم مناسبه. بازی‌ها به نظرم خیلی خوبن. بیشتر مجموعه بازیگرها از حرفه‌ای‌ها انتخاب شدن. بازیگری که احتمالا نشناسید کم داریم.
+ژانر داستان، درام و تریلره (یا هیجانی!).</p>
+<p>داستان خیلی نزدیک به واقعیته. در واقع نزدیک به چیزی هست که الآن هم داریم، کرونا. با این که خیلی قبل‌تر از پارسال ساخته شده ولی
+شباهت‌هاش با وضعیت حال حاضر جهان خیلی جالبه. یه ویروس خیلی کشنده‌تر از کرونا به اسم MEV-1 که مبداش هنگ‌کنگ هست کل جهان رو تهدید می‌کنه. فیلم با سرفه توی یه صفحه‌ی سیاه شروع میشه. اولین نوشته‌ای که توی فیلم می‌بینیم اینه: «Day 2». با توجه به روند فیلم و افزایش عدد ۲، میشه حدس زد قراره بعدا روز اول رو در یه جایی از فیلم نمایش بدن تا متوجه بشیم این ویروس کشنده از کجا و چطور شیوع پیدا کرده.</p>
+<p>میشه گفت نقش اول نداریم توی این فیلم. چندین داستان به صورت موازی جلو میرن.</p>
+<p>ادامه‌ی متن ممکنه داستان فیلم رو لو بده. اگه فیلم رو ندیدید بهتره دیگه ادامه ندید. اگه دیدید شاید خوندن بقیه‌ی متن براتون مفید باشه.</p>
+<p>چه مشکلاتی داشت؟</p>
+<ul>
+<li>همون اوایل فیلم که داریم با اولین قربانی‌ها آشنا میشیم، پسر جوونی که توی هنگ‌کنگ مبتلا میشه با حال بدش میره توی خیابون و با یه کامیون کوچیک تصادف می‌کنه. مشکل اینجاست که اون کامیون در حین بوق زدن و با فاصله‌ی نسبتا زیادی میاد میزنه به طرف. هیچ ترمزی در کار نیست. وقتی بوق میزنه یعنی دیده طرف رو. بهتر این می‌بود که فاصله‌ی خودرو رو کم می‌کردن. البته این یه مشکل حاد نیست. ولی توی خیلی از فیلم‌ها دیدم این وضعیت رو.</li>
+<li>کسایی که نماینده‌ی WHO رو توی هنگ‌کنگ گروگان می‌گیرن تا توی دریافت واکسن اولویت بیشتری داشته باشن به این فکر نکردن که ممکنه بهشون واکسن تقلبی بدن. در واقع کسی رو نداشتن که بتونن باهاش واکسن رو تست یا بررسی کنن. اگه هم داشتن موقع تحویل گروگان کاری از دستشون برنمیومد. خلاصه اینکه نقشه‌ی جالبی نبود.</li>
+<li>داستان چیز خاصی واسه گفتن نداره. میشه توی چند جمله خلاصه‌ش کرد. یه ویروس از هنگ‌کنگ شیوع پیدا می‌کنه. چند نفر می‌میرن. خیلیا هم نمی‌میرن. بعضیا می‌خوان از وضعیت به وجود اومده سواستفاده کنن. سازمان‌های مربوطه یه واکسن کشف می‌کنن. تمام. در مجموع خیلی معمولیه.</li>
+<li>با شخصیت‌ها نمیشه زیاد ارتباط برقرار کرد. حتی شاید نشه از مرگشون ناراحت شد. شاید هدف فیلم هم همین بوده باشه. نمی‌دونم. ولی پرش بین زیرداستان‌های متعدد این مشکلات رو هم داره.</li>
+<li>این فیلم شاید بیشتر درام باشه تا تریلر (هیجانی). موسیقی تا حدودی تونسته بود کمک کنه ولی موضوع، سرعت جلو رفتن فیلم، و معدود بودن سکانس‌هایی که واقعا یه فیلم رو به یه فیلم تریلر تبدیل کنن، ما رو با یه فیلم غیرتریلر روبرو کرده بود.</li>
+</ul>
+<p>احتمالا کوتاه‌ترین نقدی هست که تا به حال نوشتم.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/contagion-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم Contagion&body=https://mrmowji.com/contagion-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

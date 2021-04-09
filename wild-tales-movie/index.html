@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم Wild Tales</title>
+  <meta name="description" content="یکی از 250 فیلم برتر IMDb. زبان اسپانیایی، محصول 2014 کشور آرژانتین. خیلی خوش‌ساخت. روون. ژانر کمدی سیاه. انتخاب بازیگرها و بازی‌ها عالی. داستان‌ها کوتاه. فقط می‌تونم بگم حتما ببینید." />
+  <meta property="og:title" content="فیلم Wild Tales">
+  <meta property="og:description" content="یکی از 250 فیلم برتر IMDb. زبان اسپانیایی، محصول 2014 کشور آرژانتین. خیلی خوش‌ساخت. روون. ژانر کمدی سیاه. انتخاب بازیگرها و بازی‌ها عالی. داستان‌ها کوتاه. فقط می‌تونم بگم حتما ببینید.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم Wild Tales" />
+  <meta name="twitter:description" content="یکی از 250 فیلم برتر IMDb. زبان اسپانیایی، محصول 2014 کشور آرژانتین. خیلی خوش‌ساخت. روون. ژانر کمدی سیاه. انتخاب بازیگرها و بازی‌ها عالی. داستان‌ها کوتاه. فقط می‌تونم بگم حتما ببینید." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم Wild Tales</h1>
+<article>
+  <p>Wild Tales (قصه‌های وحشی) محصول 2014 کشور آرژانتین، یکی از بهترین فیلم‌هاییه که دیدم. خیلی راحت میشه بعد از یه مدت دوباره نشست و تماشا کرد و باز هم لذت برد. رتبه‌ی  این فیلم توی وبسایت IMDb به طور متوسط <strong>8.1</strong> از <strong>10</strong>ه و من بهش <strong>9</strong> میدم. فقط به این خاطر که بعضی از عکس‌العمل‌ها چندان واقعی به نظر نمی‌رسید؛ مثلا شخصیت داستان می‌تونست یه کار دیگه بکنه ولی نمی‌کرد. در حال حاضر، این فیلم جزو 250 فیلم برتر وبسایت IMDbه.</p>
+<p>توی این حجم از فیلم‌های هالیوودی که حداقل از نظر داستانی کیفیت خوبی ندارن، وجود همچین فیلم‌هایی واقعا امیدوارکننده‌س. شاید بشه گفت، میزان سرگرم شدن با این فیلم بیشتر از خیلی از فیلم‌های هالیوودی این دوره و زمونه‌س. هالیوود با هارت‌وپورت (جلوه‌های ویژه، تبلیغات زیاد و ...) مخاطب رو جذب می‌کنه، ولی سینمای بقیه‌ی کشورها معمولا با داستان و فیلم‌نامه. همین، خودش یه امتیاز مثبته.</p>
+<p>اگه از <strong>کمدی سیاه</strong> خوشتون میاد، این فیلم رو <strong>شدیدا توصیه می‌کنم</strong>؛ <strong>حتما ببینید</strong>. فیلم‌های ژانر کمدی سیاه، طنز رو با موضوعات سیاه، مثل خشونت، مرگ، قتل و ... قاطی می‌کنن. ممکنه بعضی از جاها واقعا بخندید ولی از اون خنده‌های همیشگی نیست.</p>
+<p>فیلم، 6 تا قصه رو روایت می‌کنه که با هم ارتباطی ندارن. موضوع همشون هم یه جورایی <strong>انتقام</strong> و رفتار نسبتا وحشیانه و غیرمتمدن انسان‌ها توی شرایط متفاوته. بعضی از این رفتارها ممکنه برای هر کسی پیش بیان یا ممکنه خیلی هم درست و منطقی به نظر بیان. حداقل من، خیلی راحت می‌تونستم خودمو بذارم جای بعضی از کاراکترهای فیلم و همون رفتار رو داشته باشم. طرف مقابل می‌تونه، جامعه، حکومت، دوستان، خونواده و ... باشه. هر اتفاقی ممکنه بیفته.</p>
+<p>از همون داستان اول که زیاد هم طول نمی‌کشه، متوجه میشید این فیلم قراره شما رو تا آخر بشونه سر جاتون. کوتاه بودن داستان‌ها، خودش یکی از دلایلیه که شما رو تا آخر فیلم نگه می‌داره. احتمالش خیلی کمه وسط فیلم ول کنید برید. خسته نمی‌شید. تنوع زیاده.</p>
+<p>تیتراژ فیلم هم که بعد از داستان اول شروع میشه، یه سری تصویر از حیوانات رو نشون میده که احتمالا بشه شخصیتشون رو توی داستان‌های فیلم پیدا کرد.</p>
+<p>انتخاب بازیگر و بازی شخصیت‌های اصلی واقعا عالیه. حتی بعضی از شخصیت‌های فرعی با این که نقش خیلی کوتاهی دارن، دقیقا همونجورین که باید باشن، مثلا باجه‌دارها توی داستان «بمب کوچک». میمیک صورت بازیگرها توی چند صحنه برای شخص خودم بی‌نقص بود. چهره‌ها خیلی به اون کاراکتری که دارن نشون میدن نزدیکن. البته کلا فیلم‌های اسپانیایی زبان یه استایل خاصی دارن، خیلی طبیعی‌ترن و بازیگرها روون صحبت می‌کنن. شاید خود زبون اسپانیایی هم برای مخاطب جذاب‌تر باشه.</p>
+<p>خود داستان‌ها هم خیلی روون پیش میرن. گذر زمان رو اصلا حس نمی‌کنید. با این که فیلم تقریبا 2 ساعته و 2 3 بار دیدمش، ولی اصلا جلو نمی‌زنم :دی تجربه‌ی خوشایندیه.</p>
+<p>توصیه‌ی آخر من به شما جوانان اینه که سینمای کشورهای غیر از آمریکا و انگلیس رو هم دنبال کنید. ارزشش رو داره. فیلم خوب هم پیدا کردید به من هم معرفی کنید.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/wild-tales-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم Wild Tales&body=https://mrmowji.com/wild-tales-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

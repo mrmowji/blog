@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>رد شدگانیم!</title>
+  <meta name="description" content="روزبه‌روز فرکانس رد شدنم داره بیشتر میشه. خدا بخیر بگذرونه :دی" />
+  <meta property="og:title" content="رد شدگانیم!">
+  <meta property="og:description" content="روزبه‌روز فرکانس رد شدنم داره بیشتر میشه. خدا بخیر بگذرونه :دی">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="رد شدگانیم!" />
+  <meta name="twitter:description" content="روزبه‌روز فرکانس رد شدنم داره بیشتر میشه. خدا بخیر بگذرونه :دی" />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>رد شدگانیم!</h1>
+<article>
+  <p>احساس می‌کنم روزبه‌روز، فرکانس رد شدنم داره بیشتر میشه. بیشتر در مورد کار و حرفه صحبت می‌کنم. در سایر موارد مثل روابط هم کلا از همون اول رد بودم :دی</p>
+<p>مثلا چند روز پیش، یکی از درخواست‌های شغلیم، ۱۰ دقیقه بعد از مصاحبه، به دلیل «دلایل دیگر» رد شد. قبل‌ترش، یه درخواست دیگه، به دلیل «نداشتن دانش فنی کافی» رد شد (بدون اینکه مصاحبه‌ای صورت بگیره). و موارد زیادی که به همین شکل رد شدن.</p>
+<p>من بعضی وقتا طراحی گرافیک کار می‌کنم. شاید از ۱۳۸۵. ولی از ۹۳ بیشتر و جدی‌تر دنبال می‌کنم.
+بیشتر کارهام هم طراحی لوگو و تایپوگرافیه.</p>
+<p>شاید اولین تجربه‌ی عجیبم توی طراحی گرافیک که به «رد شدن» ختم میشد، یه پروژه‌ی طراحی لوگو بود که یکی از دوستان منو معرفی کرده بود.
+<a href="/experience-1/">قبلا در موردش نوشتم.</a></p>
+<p>پارسال هم یه مورد جالب داشتم. یه پروژه‌ی طراحی UI توسط دوستم معرفی شد. منم شنگول قبول کردم. بعد از این که انجام دادم و فرستادم، و بعد از چند روز بی‌جوابی، کارفرما (در واقع، نماینده‌ی کارفرما) با یه لحن عجیب و نسبتا تند، کار رو کوبید. وقتی ازش دلیل می‌خواستیم که «عزیز من، پر و بالت سیاه و قشنگ، مشکل طرح‌ها چیه؟ بگو برطرف می‌کنیم» سکوت اختیار می‌کرد یا جواب‌های کاملا ناشیانه می‌داد. فقط می‌خواست پول کمتری بده.</p>
+<p>و اما بپردازیم به تجربه‌ی آخر و اصلی که باعث شد من این متن رو بنویسم. چیزی که باید در نظر گرفت اینه که همین تجربیات کوچیک و به‌ظاهر کم‌اهمیت، وقتی تکرار و تلمبار میشن می‌تونن خیلی مخرب باشن.</p>
+<p>یه ماه پیش یکی از لوگوهایی رو که طراحی کرده بودم، به چند تا صفحه توی اینستاگرام که صرفا برای معرفی کارهای بقیه ایجاد شدن فرستادم. یکیشون Like کرد. یکیشون هم گفت فایل‌های مختلفشو (سیاه‌وسفید و رنگی) بفرستم. فرستادم. خوشحال. بقیه‌ی صفحات که کلا هیچ واکنشی نشون ندادن.</p>
+<p>کار رو هم چون بازخورد بهتری داشت انتخاب کردم و تصمیم گرفتم بفرستم.</p>
+<figure>
+<img src="/assets/images/content/javan-foods-logo.png"
+  alt="لوگوی غذای جوان، که با حرف «ج»، بشقاب (دایره)، قاشق، چنگال، و لقمه، شکل گرفته.">
+<figcaption>
+لوگوی «غذای جوان» که «در سطح انتشار نبود».
+</figcaption>
+</figure>
+<p>گذشت و گذشت تا این که آقا گرگه، ببخشید، دیدم منتشر نمیشه و کارهای بقیه که جدیدتر بودن منتشر میشن. نامرد.</p>
+<p>امروز بهشون پیام دادم. خواستم بدونم دلیل منتشر نشدن اون کار چی بوده. چنین جوابی دریافت کردم:</p>
+<blockquote>
+<p>سلام. در سطح انتشار نبود.</p>
+</blockquote>
+<p>بله. و به این شکل، کورسوی امید ما به سوی کور شدن شتاب گرفت. چیز مهمی نبود البته. چون بالاخره خودم کارهایی که تا الآن توی اون صفحه منتشر شده بود رو دنبال می‌کردم. به جرات می‌تونم بگم شاید حداکثر ۵۰ درصدشون از نظر من ارزش انتشار داشتن یا چیزی بودن که بشه به عنوان یه لوگوی آموزنده بهشون نگاه کرد و بهتره همه یا درصد زیادی از مخاطب‌ها ببینن. به‌خصوص کارهای جدیدی که منتشر میشن شاید نسبت به کارهای قبلی در سطح پایین‌تری قرار داشته باشن.</p>
+<p>بعدتر که دلیل رد شدن رو جویا شدم، این جواب رو گرفتم:</p>
+<blockquote>
+<p>سطح فنی کار رو عرض کردم.</p>
+</blockquote>
+<p>یعنی از نظر فنی در سطحی نبوده که بتونن منتشر کنن. ولی خوب جزئیات رو نگفتن که دقیقا چه مشکل فنی داره. دیگه نرفتم مشکلات فنی طرح‌های پایین رو بهشون بگم. و من همچنان «سلیقه» رو به عنوان دلیل اصلی رد شدن کارم در ذهن نگه می‌دارم، تا وقتی که یه نفر بیاد در مقایسه با کارهای پایین بهم بگه مشکل اصلی لوگوی من چیه.</p>
+<p>حسادت نیست. چیزی نیست که به درجه‌ی حسادت برسه اصن. بحث نظر شخصیه. حتی اگه یه جشنواره‌ی بین‌المللی بود، باز هم همینو می‌گفتم؛ اونجا هم در نهایت نظر شخصیه که تعیین‌کننده‌س. خوشبختانه نظرات مشابه نظر من هم برای اون کارهایی که می‌گم ثبت شده بود.</p>
+<p>بعضی از کارهایی که توی اون صفحه منتشر شدن ولی از دید من مناسب نیستن، یا حداقل هیچ توضیحی در مورد مناسب بودنشون داده نشده:</p>
+<figure>
+<img src="/assets/images/content/ghoole-zaban-by-mehdi-sadeghi-yekta.jpg"
+  alt="غولی که بین کلمات «غول» و «زبان» ایستاده و می‌خنده، هر چند بیشتر شبیه زنبور یا مورچه‌س.">
+<figcaption>
+لوگوی غول زبان که شاید بیشتر شبیه مورچه یا زنبور باشه. توضیحی در مورد اینکه این غول قرار بوده مورچه یا زنبور باشه داده نشده. تایپوگرافیش خوبه نسبتا ولی یکنواخت نیست.
+</figcaption>
+</figure>
+<figure>
+<img src="/assets/images/content/jahan-by-mohammad-hasan-nematian.jpg"
+  alt="یه خطاطی پیچیده، احتمالا تلفیقی از نسخ">
+<figcaption>
+تایپوگرافی جهان، یا جهرک، یا جهراک، یا کبراک یا ... متاسفانه خوانایی پایینه.
+</figcaption>
+</figure>
+<figure>
+<img src="/assets/images/content/paya-book-by-mahmood-karimpoor.jpg"
+  alt="یه لوگو با سبک دست‌نویس که کلمه‌ی پایا داخل طرح اصلی درج شده.">
+<figcaption>
+لوگوی کتاب پایا. هنوز نتونستم ارتباطی رو پیدا کنم. نه طراح و نه اون صفحه توضیحی در مورد کار ندادن. در نگاه اول و شاید در نگاه‌های بعدی بیشتر شبیه لوگوی قلاب‌بافی باشه.
+</figcaption>
+</figure>
+<p>وقتی طرح پیچیده‌س و توضیحی هم در موردش داده نمیشه که چرا یه طرح باارزشه، مسلما افرادی مثل من پیدا میشن که کار رو نقد کنن، و لزوما همه‌ی کسایی که نقد می‌کنن بیکار نیستن (مثل من).</p>
+<p>حالا نتیجه چیه؟ این که <strong>توی رد یا پذیرفته شدن موارد اینچونینی، یکی از دلایل اصلی می‌تونه سلیقه باشه</strong>. حتی توی طراحی لوگو که خیلیا شاید با دید فنی و علمی بهش نگاه کنن یا اینطور انتظار میره. حتی توی استخدام. همیشه این احتمال رو بدید. اصن ممکنه طرف از شما خوشش نیاد.</p>
+<p>بنده هیچ پدرکشتگی هم با اون صفحه ندارم. صرفا سلیقه‌ها متفاوته. تنها چیزی که منو اذیت می‌کنه اینه که دلیل درستی برای رد شدن دریافت نکردم. حتی نگفتن «چون خودمون خوشمون نیومد» که بشه ربطش داد به سلیقه. میگن «در سطحش نیست»، این یعنی یه مشکلی توی طرح هست واقعا. این نوع بازخورد همیشه منو آزار میده. با این که عنوان شده «در سطح انتشار نبوده»، ولی مشخص نشده که چه چیزی در سطح انتشار «هست» که حداقل در آینده نه وقت خودم رو بگیرم و نه وقت خودشون رو. درست مثل رد شدنم توی اون درخواست شغلی یا بقیه‌ی تجربیاتی که بالاتر گفتم. خوب بگو دیگه. چرا؟ سخته توضیح بدید؟ کلا یه پاراگراف میشه. یه جمله اصلا. یک اشارت.</p>
+<p>کاش میشد زیاد حساس نشد. جالب نیست، ولی خوب، هست دیگه. در چنین مواقعی، تنها چیزی که می‌تونم پیشنهاد بدم اینه که مجراهای مختلف رو امتحان کنید. شاید هیچ مجرایی هم جواب نده. ولی امتحان کنید.</p>
+<p>مثلا من کارهامو توی چند وبسایت منتشر می‌کنم. قبل از عید، تصمیم گرفتم، وبسایت Reddit رو هم امتحان کنم. بعد از این که ۳ ۴ تا از کارهامو پست کردم، یکی از کارها تقریبا ۳۰۰۰ رای مثبت گرفت، سه نفر هم بهم جایزه دادن :)))) کم مونده بود سر به بیابان نَهم. من که کلا توی اینستاگرام بالاتر از ۱۲۰ ۱۳۰ Like نمی‌گرفتم یه دفه توی Reddit با همچین صحنه‌ای مواجه شدم. کلا Reddit بچه‌ی خوبیه. Reddit را دوست بدارید.</p>
+<p>مورد بعدی که خیلی بدیهیه و با این حال توی چند سال اخیر، کم‌کم، تمام اتم‌هام بهش یقین‌دار شدن (مثل یقه‌دار)، این بود که <strong>هیچ کسی کامل نیست و کسی وجود نداره که همه‌ی انسان‌ها از همه‌ی کارهاش یا اصن یه کارش خوششون بیاد</strong>. هر کسی رو می‌خواید در نظر بگیرید. کارگردان‌ها، فلاسفه، مخترعین، طراحان، خانواده‌ی آقای هاشمی و سایر بستگان. ضمنا مجلس ...</p>
+<p>حق دارید با یه چیزی حال نکنید. از این که خیلیا یه چیزی رو می‌پسندن ولی شما نمی‌پسندید نترسید. مخصوصا در زمینه‌ی طراحی گرافیک.</p>
+<p>پیرو ۲ پاراگراف قبلی و بحث اصلی این متن، این کار رو هم می‌ذارم خودتون قضاوت کنید:</p>
+<figure>
+<img src="/assets/images/content/gardesh-by-ghobad-shiva.jpg"
+  alt="واقعا هنوز نمی‌دونم چجوری این طراحی رو توضیح بدم.">
+<figcaption>
+لوگوی نشریه‌ی گردش - قباد شیوا (که یکی از شناخته‌شده‌ترین طراحان گرافیک ایرانه). مشخص نیست گردشه، گریسه، گریشه، گربش؟ گردک؟ گزک؟ واقعا از نظر خوانایی مشکل داره. ترکیب دو نوع المان متفاوت هم کار رو فقط پیچیده‌تر کرده به نظر من.
+</figcaption>
+</figure>
+<p>باور کنید این چیزایی که میگم همش انگیزه‌س. برید حالشو ببرید.</p>
+<p><strong>رد کردن رو توضیح بدید، حتی اگه دلیلتون کاملا شخصیه. دلیلتون فنی باشه هم مسلما برای بهبود شخص می‌تونه خیلی مفید باشه (اصن شاید لازمه). ذهن طرف مقابل رو الکی درگیر نکنید.</strong></p>
+<p>از من گفتن بود که حاصل شد. خوشحال میشم نظر شما رو هم بدونم. یه نفر بیاد کارهام رو نقد کنه هم خیلی حال می‌کنم. البته نقدی که درست و مفید باشه.</p>
+<p>فوقع ما وقع.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/rejected/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=رد شدگانیم!&body=https://mrmowji.com/rejected/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

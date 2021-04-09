@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>چطور در توییتر مینیمال باشیم؟</title>
+  <meta name="description" content="اگه توی توییتر فعال هستید و هر دفعه که ازش استفاده می‌کنید واستون اعصاب نمی‌مونه، این مطلب رو بخونید. ابزارها و راه‌هایی رو بهتون می‌گم که بتونید از این شبکه‌ی اجتماعی بهتر استفاده کنید." />
+  <meta property="og:title" content="چطور در توییتر مینیمال باشیم؟">
+  <meta property="og:description" content="اگه توی توییتر فعال هستید و هر دفعه که ازش استفاده می‌کنید واستون اعصاب نمی‌مونه، این مطلب رو بخونید. ابزارها و راه‌هایی رو بهتون می‌گم که بتونید از این شبکه‌ی اجتماعی بهتر استفاده کنید.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="چطور در توییتر مینیمال باشیم؟" />
+  <meta name="twitter:description" content="اگه توی توییتر فعال هستید و هر دفعه که ازش استفاده می‌کنید واستون اعصاب نمی‌مونه، این مطلب رو بخونید. ابزارها و راه‌هایی رو بهتون می‌گم که بتونید از این شبکه‌ی اجتماعی بهتر استفاده کنید." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>چطور در توییتر مینیمال باشیم؟</h1>
+<article>
+  <p>اینجا قراره مینیمال بودن در توییتر رو بررسی کنیم. ببینیم چطور میشه فقط به چیزایی که لازم هستن بپردازویم و بقیه‌ی چیزا را حذف کنویم.</p>
+<p>مواردی که بیان میشن صرفا تجربیات و نظرات شخصین و لزومی نداره همه این کار رو انجام بدن. ولی با توجه به این که خودم چندین ساله با مینیمالیسم حال می‌کنم و اثرات مثبتشو دیدم، تصمیم گرفتم با شما هم به اشتراک بذارم.</p>
+<p>این مقاله، احتمالا شروع جدی‌تری باشه برای مقالات مشابه. البته قبلا در مورد
+<a href="/email">یه ایمیل مینیمال</a>
+نوشتم.</p>
+<p><strong>همین اول کار بگم. منو Unfollow یا Mute نکنید.</strong></p>
+<figure>
+  <img src="/assets/images/content/don't-you-dare.gif" alt="جراتشو نداری!">
+</figure>
+<h2>نساختن حساب کاربری</h2>
+<p>خوب، بدیهی‌ترین و مینیمال‌ترین راه اینه که اصن حساب کاربری توی توییتر نسازید. والا! خیلیا همین راه رو انتخاب کردن. باور کنید کسی آسیبی ندیده. هیچ مشکلی پیش نمیاد.</p>
+<p>چیزی که باید در نظر بگیرید اینه که تا چه حد بهش احتیاج دارید. کافیه خیلی از افراد مشابه خودتون رو چک کنید و ببینید آیا حساب توییتر دارن یا خیر. مثلا من خودم همیشه فکر می‌کردم افرادی که توی اینستاگرام یا شبکه‌های دیگه خیلی مخاطب دارن، حتما توی توییتر هم یه حساب کاربری دارن. در حالی که اینطور نیست. شاید متمرکز شدن روی تنها یک شبکه بهتر باشه اصن.</p>
+<p>خلاصه این که تمام جوانب رو در نظر بگیرید و بعد برای ایجاد حساب کاربری اقدام کنید. مشاهدات من می‌گن تعداد مخاطباتون توی توییتر می‌تونه خیلی کمتر از تعداد مخاطب‌ها توی اینستاگرام یا لینکدین باشه.</p>
+<h2>حذف حساب کاربری</h2>
+<p>اومدیم و حساب کاربری رو ساختید. خوب، می‌تونید حذف کنید. خیلی ساده‌س. تقریبا تمام شبکه‌های اجتماعی این امکان رو دارن.</p>
+<p>از منوی اصلی توییتر (که می‌تونه More باشه یا یه دکمه‌ی ۳خط همبرگری)، گزینه‌ی Settings and Privacy رو انتخاب کنید. بعد قسمت Account رو باز کنید. انتهای اون قسمت، یه گزینه هست به اسم Deactivate your account. اونو بزنید. بقیه‌ی کارها مشخصه.</p>
+<p>ممکنه بپرسید این قسمت چه ربطی به حذف حساب کاربری داره. توییتر، گزینه‌ی مشخصی برای حذف حساب کاربری نداره. بعد از غیرفعال کردن حسابتون، توییتر ۳۰ روز بهتون مهلت میده که دوباره با وارد شدن به حساب، دوباره فعالش کنید. اگه بعد از غیرفعال‌سازی، ۳۰ روز بگذره و شما حسابتون رو دوباره فعال نکنید، توییتر، حسابتون رو حذف می‌کنه.</p>
+<h2>غیرفعال‌سازی حساب کاربری</h2>
+<p>این مورد رو توی بخش قبلی توضیح دادم. همونه.</p>
+<h2>دنبال نکردن کاربر</h2>
+<p>Unfollow یا دنبال نکردن! یکی از بهترین کارهاییه که توی بیشتر شبکه‌ها میشه انجام داد. اینجا، «دنبال نکردن» دو معنی داره: یکیش اینه که شخصی رو که قبلا دنبال کردید دیگه دنبال نکنید، و دومی اینه که تا وقتی که لازم نیست شخصی رو دنبال نکنید.</p>
+<p>مهم‌ترین چیزی که باید توی ذهنتون باشه اینه که تعارف رو بذارید کنار. تعارف رو بذارید کنار. تعارف رو بذارید کنار. اگه واقعا نباید طرف مقابل رو دنبال کنید، خیلی راحت دنبال نکنید. در بدترین حالت اگه خیلی حساس شدید روی این قضیه، می‌تونید خیلی محترمانه به طرف مقابل یه پیام بدید و بهش بگید که به فلان دلیل نمی‌تونید اونو دنبال کنید.</p>
+<p>به نظرم افراد زیادی رو دنبال نکنید.</p>
+<p>برای این که چه کسی رو دیگه دنبال نکنید یا از اول دنبال نکنید، موارد زیر رو در نظر بگیرید:</p>
+<ul>
+<li>کاربر، خیلی توییت می‌کنه. شاید بخواید حذفش کنید. حساب‌هایی هستن (دیدم خودم) که هر روز قریب به ۲ میلیارد توییت پست می‌کنن. آره، شوخی بود. ولی هستن اونایی که از دید شما در همین حد توییت می‌کنن. بزنید اون دکمه‌ی Unfollow رو.</li>
+<li>کاربر، خیلی از خودش تعریف می‌کنه. شخصا با این افراد ارتباط برقرار نمی‌کنم.</li>
+<li>کاربر، چرت‌وپرت می‌گه. بزنید اون دکمه قشنگه رو.</li>
+<li>کاربر، شما رو دنبال نمی‌کنه. ممکنه یکی از دلایلتون این باشه.</li>
+<li>کاربر، خیلی فعاله. نه این که پست بذاره، پست بقیه رو خیلی Like می‌کنه یا خیلی Retweet می‌کنه. در حال حاضر فقط میشه Retweetهای یک کاربر خاص رو مخفی کرد.</li>
+</ul>
+<h2>مخفی کردن کاربر یا کلمات</h2>
+<p>این مورد شاید بهترین ویژگی توییتر باشه که توی بیشتر شبکه‌های اجتماعی وجود نداره. مخفی کردن (Hide یا Mute) این امکان رو به شما میده که یه کاربر یا یه کلمه/عبارت خاص رو از صفحه‌ی اصلی توییترتون پاک کنید، دیگه نمی‌بینیدشون. خودم چندین مورد رو به این شکل مخفی کردم. شدیدا توصیه می‌کنم اگه می‌خواید از توییتر به طور مداوم استفاده کنید، روی این امکان، وقت بذارید و تا جایی که می‌تونید «ساکت» کنید.</p>
+<p>برای Mute کردن، چند راه وجود داره:</p>
+<ul>
+<li>برای ساکت کردن کاربر، می‌تونید از صفحه‌ی پروفایلش اقدام کنید. یه دکمه‌ی ۳نقطه وجود داره (همون More یا تنظیمات). اونو بزنید. یه گزینه هست Mute @Felani. خلاص.</li>
+<li>یه راه جامع‌تر که کلمات رو هم باهاش میشه ساکت کرد اینه: از منوی اصلی توییتر (که می‌تونه More باشه یا یه دکمه‌ی ۳خط همبرگری)، گزینه‌ی Settings and Privacy رو انتخاب کنید. بعد قسمت Privacy and Safety رو باز کنید. انتهای اون قسمت، یه گزینه هست به اسم Muted. اونو بزنید. دو گزینه برای کلمات ساکت‌شده و کاربران ساکت‌شده وجود داره. بقیه‌ی کارها مشخصه.</li>
+</ul>
+<h2>لیست کاربران</h2>
+<p>این مورد هم از اون ویژگی‌های حساب میشه که توی بیشتر شبکه‌های اجتماعی وجود نداره و احتمالا خیلیا در موردش نمی‌دونن.</p>
+<p>لیست‌ها بهتون این امکان رو میدن که حساب‌های کاربری رو دسته‌بندی کنید. مثلا یه لیست می‌سازید به اسم Graphic و هر حساب کاربری که (احتمالا با طراحی گرافیک مرتبطه و) دوست دارید توی اون لیست باشه رو بهش اضافه می‌کنید. حتی لازم نیست اون کاربرها رو دنبال کنید. نکته‌ی مثبت این ویژگی همینه.</p>
+<p>خیلیا رو دیدم حساب‌های کاربری افرادی رو دنبال می‌کنن که ازشون بیزارن. ازشون هم بپرسی در جواب میگن می‌خوایم در جریان توییت‌هاشون باشیم. مشکلی که وجود داره اینه که وقتی تعداد دنبال‌کنندگان یه کاربر زیاد میشه، احتمالا یه ذهنیت مثبت برای بقیه ایجاد می‌کنه. مثلا حساب توییتری بعضی از سران مملکت رو ببینید. پس اگه نمی‌خواید در به‌وجوداومدن این ذهنیت شریک باشید و با این حال می‌خواید اون کاربر رو دنبال کنید از لیست استفاده کنید.</p>
+<p>گزینه‌ی Lists توی منوی اصلی توییتر وجود داره. یا می‌تونید از منویی که توی صفحه‌ی پروفایل هر کاربر وجود داره استفاده کنید.</p>
+<p>من برای هر کاربر این کار رو می‌کنم:</p>
+<ul>
+<li>اگه کاربر رو بخوام حمایت کنم، حتما دنبالش می‌کنم.</li>
+<li>اگه لیست خاصی وجود داشت که با اون کاربر در ارتباط بود، کاربر رو به اون لیست اضافه می‌کنم.</li>
+<li>اگه نخوام توییت‌ها و فعالیت‌های کاربر رو توی صفحه‌ی اصلی ببینم، Mute می‌کنم.</li>
+</ul>
+<p>همین! قبلا بیشتر با توییتر حال می‌کردم. الآن خیلی به هم ریخته. احتمال این که دیگه توی این شبکه‌ی اجتماعی فعال نباشم هست. چیز خاصی هم نیست واقعا. نه افراد زیادی منو دنبال می‌کنن و نه افراد زیادی رو دنبال می‌کنم.</p>
+<p>تمام موارد بالا رو از دید یه کاربر دیگه که داره شما رو دنبال می‌کنه هم بررسی کنید. مثلا اگه زیاد توییت کردن فلانی، شما رو اذیت می‌کنه، خودتون هم زیاد توییت نکنید. واقعا من نمی‌دونم بعضیا اون همه توییت رو از کجا میارن. سعی کنید مفید باشید. مفید بودن توییت‌هاتون رو چک کنید.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/minimal-twitter/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=چطور در توییتر مینیمال باشیم؟&body=https://mrmowji.com/minimal-twitter/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

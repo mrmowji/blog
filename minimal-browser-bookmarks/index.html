@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>مینیمالیسم در بوکمارک‌های مرورگر</title>
+  <meta name="description" content="از همون بچگی از تعداد زیاد بوکمارک خوشم نمیومد. تصمیم گرفتم یه بار دیگه دقیق‌تر بهشون نگاه کنم و به این شکل بیشترشون رو تونستم حذف کنم." />
+  <meta property="og:title" content="مینیمالیسم در بوکمارک‌های مرورگر">
+  <meta property="og:description" content="از همون بچگی از تعداد زیاد بوکمارک خوشم نمیومد. تصمیم گرفتم یه بار دیگه دقیق‌تر بهشون نگاه کنم و به این شکل بیشترشون رو تونستم حذف کنم.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="مینیمالیسم در بوکمارک‌های مرورگر" />
+  <meta name="twitter:description" content="از همون بچگی از تعداد زیاد بوکمارک خوشم نمیومد. تصمیم گرفتم یه بار دیگه دقیق‌تر بهشون نگاه کنم و به این شکل بیشترشون رو تونستم حذف کنم." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>مینیمالیسم در بوکمارک‌های مرورگر</h1>
+<article>
+  <p>بعد از ۶ ماه دارم دوباره می‌نویسم. علاوه بر کرونا، اتفاقات زیادی افتاده که شاید فعلا حوصله‌ی بیانش نباشه. تنها چیزی که میشه در مورد این ۶ ماه گفت اینه که روزبه‌روز مینیمال‌تر شدم (طبق معمول).</p>
+<p>یکی از مشکلاتی که همیشه توی یادگیری داشتم این بوده که «خوب، الآن چی رو یاد بگیریم؟». یعنی خود موضوع یادگیری هم جای سوال داشته چه برسه به این که کدوم منبع، کتاب چاپی یا دیجیتال، و ...</p>
+<p>در راستای بحث یادگیری، بوکمارک کردن وبسایت‌ها یا صفحات وبی که از نظرم می‌تونستن مفید باشن، یکی از اصلی‌ترین کارهایی بود که انجام می‌دادم. پس از تحقیقات فراوان به این نتیجه رسیدم که به بیشتر اون بوکمارک‌ها احتیاجی ندارم.</p>
+<h2>چه مشکلاتی داشتم؟</h2>
+<ul>
+<li>
+<p>اولین مشکلش شاید این بود که شخصا خیلی کم پیش میومد اونا رو چک کنم اصن. شما رو نمی‌دونم ولی بوکمارک‌های من معمولا خاک می‌خوردن. مثل نوت‌برداریه. قبلا عادت داشتم نوت‌برداری کنم ولی بعد از یه مدت فهمیدم اصلا اون نوت‌ها رو چک نمی‌کنم.</p>
+</li>
+<li>
+<p>در ادامه‌ی مورد قبل، جالب‌تر این که ممکن بود در رابطه با یه موضوعی چند صفحه رو بوکمارک کرده باشم، ولی باز هم از جستجوی گوگل استفاده کنم تا اون چیزی رو که می‌خواستم پیدا کنم. اصن نمی‌دونستم ممکنه بوکمارک مربوطه رو داشته باشم. جستجوی گوگل خیلی برام طبیعی‌تره تا پیدا کردن یه صفحه توی بوکمارک‌ها. علاوه بر اون، بوکمارک‌ها فقط یه عنوان می‌تونن داشته باشن، یعنی جستجو بینشون ممکنه شما رو به صفحه‌ای که می‌خواید نرسونه.</p>
+</li>
+<li>
+<p>مشکل بعدی این بود که بعضی وقت‌ها که بوکمارک‌ها رو چک می‌کردم یه حس ناامیدی بهم دست می‌داد. اون حجم از اطلاعات رو من نمی‌دونم؟ با این که بعضی وقت‌ها سعی می‌کردم بوکمارک‌ها رو مطالعه و حذف کنم، باز هم موارد جدیدی بوکمارک میشدن. که البته کم پیش میومد بخونمشون.</p>
+</li>
+<li>
+<p>معمولا خودم بوکمارک‌ها رو به صورت دوره‌ای چک نمی‌کنم. همشون تلمبار میشن.</p>
+</li>
+</ul>
+<h2>چه کردم؟</h2>
+<p>اولش خواستم همه رو پاک کنم و بعد از نو شروع کنم. دیدم نه، بعضیاشون واقعا لازمن.</p>
+<ul>
+<li>
+<p>اونایی رو که راحت با یه جستجوی گوگل می‌تونم پیدا کنم رو حذف کردم. بیشترشون برمی‌گردن به صفحات مربوط به برنامه‌نویسی. قدرت خدا توی این زمینه چیزی کم نیست توی اینترنت و تقریبا همشون با گوگل پیدا میشن.</p>
+</li>
+<li>
+<p>چیزایی که در شرایط خاصی و بدون گوگل پیدا شدن رو نگه داشتم. مثلا دو سه تا وبلاگ که متعلق به توسعه‌دهنده‌های نرم‌افزار بودن و نه اسمشون توی ذهنم میموند که بعدا بخوام با گوگل پیداشون کنم و نه عنوان مقالاتشون و نه آدرسشون.</p>
+</li>
+<li>
+<p>صفحاتی رو که سخت پیدا شدن نگه داشتم. واسشون جون کنده بودم. مثلا من به فونت و طراحیش خیلی علاقه دارم. کلا هم توی کارهام فونت برام خیلی مهمه. تقریبا هر ماه میرم اون فونت‌های جدید (نسبت به ماه قبل) رو بوکمارک می‌کنم تا وقتی که هزینه‌شون جور بشه. اونایی که رایگانن رو همون لحظه دانلود می‌کنم قاعدتا.</p>
+</li>
+<li>
+<p>اونایی رو که قبلا صفحات اصلی وبسایتشون رو بوکمارک کردم هم حذف کردم. اینجور مواقع میشه داخل اون وبسایت مطلب مورد نظر رو پیدا کرد.</p>
+</li>
+<li>
+<p>صفحاتی که آدرسشون رو حفظم رو هم حذف کردم. این یه مزیت پنهان داره اون هم وقتیه که صفحات شبکه‌های اجتماعی رو بوکمارک کردید. اینجوری یه قدم از شبکه‌های اجتماعی دورتر میشید چون باید آدرسش رو تایپ کنید و دیگه خبری از دسترسی با یه کلیک نیست. شاید تاثیر داشته باشه :دی</p>
+</li>
+<li>
+<p>چیزایی رو که در حال حاضر برام مناسب نبود رو هم حذف کردم. مثلا صفحاتی که مربوط به طراحی گرافیک بودن. چون خیلی کمتر توی این زمینه فعالیت می‌کنم. یا صفحات مربوط به فریلنسری، چون دیگه فریلنسر نیستم.</p>
+</li>
+<li>
+<p>اون صفحاتی رو هم که دیگه به دردم نمی‌خوردن و علاقه‌ای به مطالعه‌شون نداشتم هم حذف کردم. بدیهیه.</p>
+</li>
+<li>
+<p>یه سری صفحات دیگه هم بودن که اگه حذف میشدن احتمالا فراموش می‌کردم باید باهاشون کار کنم. مثلا وبسایت Duolingo. یا پروژه‌هایی که روشون کار می‌کردم و قراره در آینده بیشتر کار کنم.</p>
+</li>
+<li>
+<p>از پوشه‌های تودرتو سعی کردم کمتر استفاده کنم تا بوکمارک‌هایی که باقی موندن بیشتر توی چشم بیان و حواسم بهشون باشه.</p>
+</li>
+</ul>
+<p>در نهایت یه همچین چیزی دارم. اسم‌گذاری بوکمارک‌هام یه دو سه سالی میشه اینجوریه. جمع‌وجورتره و راحت بهش عادت می‌کنید.</p>
+<figure>
+<img src="/assets/images/content/my-bookmarks-root.png" alt="پوشه‌های اصلی بوکمارک‌های من">
+<figcaption>
+در حال حاضر ۵ تا پوشه دارم. خود صفحه‌ی بوکمارک‌ها رو هم بوکمارک کردم (همون ستاره‌ی آبی). به ترتیب، M صفحاتی رو داره که مربوط به خودمه، E  صفحاتی رو داره که مربوط به شرکتی هست که توش کار میکنم (Ethica Data)، C صفحات مربوط به کدنویسی رو داره و حجم زیادی رو ازش کم کردم و الآن کمتر از ۱۰ صفحه توش هست، P مربوط به پروژه‌های شخصیمه، و D هم شامل همه‌ی صفحاتین که باید مطالعه بشن و توی پوشه‌های قبلی نمی‌گنجن.
+</figcaption>
+</figure>
+<p><strong>به این شکل، از ۷۵۹ بوکمارک به ۸۳ تا رسیدم.</strong> بعضی از مورخین، از این قضیه با عنوان «پاکسازی قرن» یاد می‌کنن.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/minimal-browser-bookmarks/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=مینیمالیسم در بوکمارک‌های مرورگر&body=https://mrmowji.com/minimal-browser-bookmarks/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>حیله‌های آماری</title>
+  <meta name="description" content="ببینید با آمار چه کارهایی میشه کرد. البته فقط ببینید. انجام ندید. رعد و برق می‌زنه به کمرتون." />
+  <meta property="og:title" content="حیله‌های آماری">
+  <meta property="og:description" content="ببینید با آمار چه کارهایی میشه کرد. البته فقط ببینید. انجام ندید. رعد و برق می‌زنه به کمرتون.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="حیله‌های آماری" />
+  <meta name="twitter:description" content="ببینید با آمار چه کارهایی میشه کرد. البته فقط ببینید. انجام ندید. رعد و برق می‌زنه به کمرتون." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>حیله‌های آماری</h1>
+<article>
+  <p>این مطلب رو چند سال پیش توی یه کتاب کنکور خوندم. دیدم جالبه گفتم بذارم فیض ببرید و گول نخورید.</p>
+<p>فرض کنید صبح یه روز شنبه از طریق پست، نامه‌ای دریافت می‌کنید که توش شرکتی که باهاش آشنایی ندارید، بیان می‌کنه که این شرکت پیش‌بینی‌های مربوط به بازار سهام رو با قیمت بالایی می‌فروشه. برای این که توانایی شرکت رو در پیش‌بینی نشون بده، پیش‌بینی می‌کنه که سهام یا پورتفولیوی خاصی توی یکی دو هفته‌ی آینده افزایش خواهد داشت. شما به این نامه پاسخ نمی‌دید، ولی بازار سهام رو زیر نظر خواهید داشت و متوجه میشید که پیش‌بینی شرکت درسته. شنبه‌ی بعدی یه نامه‌ی دیگه از همون شرکت با یه پیش‌بینی دیگه دریافت می‌کنید. توی این پیش‌بینی بیان شده که سهام به‌خصوصی در هفته‌ی آینده نزول خواهد داشت. دوباره این پیش‌بینی‌ها درست از آب در میان.</p>
+<p>این کار برای ۷ هفته تکرار میشه. هر روز شنبه، نامه‌ای از شرکت دریافت می‌کنید که با توجه به اون، همه‌ی اون ۷ پیش‌بینی درست خواهند بود. روز شنبه‌ی هفته‌ی هشتم یه نامه‌ی دیگه دریافت می‌کنید. این دفعه نامه میگه به ازای مبلغ بالایی، شرکت، پیش‌بینی دیگه‌ای رو بهتون میده که براش می‌تونید احتمالا پول خوبی از بازار سهام به دست بیارید. چطوری باید به این نامه پاسخ داد؟</p>
+<p>چون شرکت ۷ پیش‌بینی صحیح انجام داده به نظر می‌رسه که باید اطلاعات خاصی درباره‌ی بازار سهام داشته باشه و صرفا حدس نمی‌زنه. به هر حال احتمال درست بودن حدس‌ها درباره‌ی برآمدهای ۷ پرتاب یک سکه‌ی همگن فقط برابر با ۰/۰۰۸ هست. بنابراین اگر این شرکت فقط به حدس متوسل می‌شد با احتمال کمتر از ۰/۰۱ می‌تونست هر ۷ نتیجه رو درست پیش‌بینی کنه. چگونه چونین چیزی ممکن است؟</p>
+<p>سفسطه‌ای که اینجا داریم اینه که شما ممکنه فقط نتیجه‌ی تعداد کمی از پیش‌بینی‌هایی که این شرکت در طول ۷ هفته انجام داده رو دیده باشید.</p>
+<p>فرض کنید برای مثال این شرکت برنامه‌ی خودش رو برای ۲ به توان ۷، یعنی ۱۲۸، مشتری شروع کرده باشه. در اولین شنبه این شرکت برای نصف مشتری‌ها افزایش سهام را پیش‌بینی می‌کنه و برای بقیه کاهش سهام رو. شنبه‌ی دوم این شرکت ممکنه با ۶۴ مشتری که پیش‌بینیش براشون درست بوده مکاتبه کنه و دوباره برای نصف مشتری‌ها یک نوع پیش‌بینی رو ارسال می‌کنه و برای بقیه خلاف این پیش‌بینی رو. آخر هفته‌ی هفتم، شرکت (که متشکل از یک نفر با یک دستگاه تایپه) حتما یه مشتری خواهد داشت که براش تمام پیش‌بینی‌ها درست از آب دراومدن.
+با ادامه‌ی این روش با گروه‌های متفاوتی از ۱۲۸ مشتری و هر هفته با گروه جدیدی شروع به کار می‌کنه. اگه مشتری‌ها ساده باشن، پاسخ‌های مثبت زیادی برای اون شرکت ارسال خواهند شد.</p>
+<p>منبع: کتاب آمار و احتمال مدرسان شریف (نمی‌دونم چاپ چه سالی)</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/statistical-cunning/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=حیله‌های آماری&body=https://mrmowji.com/statistical-cunning/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
