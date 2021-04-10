@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم Unfriended: Dark Web</title>
+  <meta name="description" content="این فیلم از قسمت اولش خیلی بهتره. به نظرم ارزش یه بار دیدن رو داره. به واقعیت خیلی نزدیک‌تره." />
+  <meta property="og:title" content="فیلم Unfriended: Dark Web">
+  <meta property="og:description" content="این فیلم از قسمت اولش خیلی بهتره. به نظرم ارزش یه بار دیدن رو داره. به واقعیت خیلی نزدیک‌تره.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم Unfriended: Dark Web" />
+  <meta name="twitter:description" content="این فیلم از قسمت اولش خیلی بهتره. به نظرم ارزش یه بار دیدن رو داره. به واقعیت خیلی نزدیک‌تره." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم Unfriended: Dark Web</h1>
+<article>
+  <p>فیلم Unfriended: Dark Web، محصول 2018 آمریکا.
+توی وبسایت IMDb، رتبه‌ی 6.0 رو به طور میانگین گرفته. من بهش 8 میدم و با این امتیاز میره توی لیست بهترین
+فیلم‌هایی که دیدم.
+از قسمت اولش
+<a href="/unfriended-movie">که قبلا در موردش نوشتم</a>
+خیلی بهتره.
+این دو قسمت به هم ارتباطی ندارن ولی بعضی از ویژگی‌هاشون مشترکن که اینجا هم تکرار می‌کنم.</p>
+<p>ویژگی‌های مثبت فیلم، موضوع نسبتا جدیدش توی ژانر ترسناک و کیفیت ساختش با توجه به محیطی که توش هستیمه.
+شاید از دید من ژانر تریلر (هیجانی) بیشتر به این فیلم بخوره.
+بازی‌ها نسبتا خوبن و به نظرم انتخاب بازیگرها هم خوب انجام شده.
+داستان نزدیک به واقعیته و همین قضیه برام خیلی جالب بود. تخیلی نیست.
+توی تقریبا تمام فریم‌های فیلم، ما فقط داریم صفحه‌ی مانیتور یکی از بازیگرها رو می‌بینیم.</p>
+<p>شاید اگه به سریال Black Mirror علاقه داشته باشید، این فیلم رو هم بپسندید. اصن شاید می‌تونستن این فیلم
+رو به عنوان یه قسمت از اون سریال بسازن.</p>
+<p>داستان فیلم در مورد چند تا دوست جوونه که از طریق شبکه‌های اجتماعی با هم در ارتباطن.</p>
+<p>همون تیتراژ اول فیلم یه جورایی به ما میگه که این فیلم احتمالا به دنیای دیجیتال مربوطه. وقتی لوگوهای شرکت‌های دخیل در تولید فیلم رو نشون میدن یه سری نویز توی تصویر می‌بینیم. خودش می‌تونه بیانگر تاثیرات منفی دنیای دیجیتال باشه.</p>
+<p>ادامه‌ی متن ممکنه داستان فیلم رو لو بده. اگه فیلم رو ندیدید بهتره دیگه ادامه ندید. اگه دیدید شاید خوندن بقیه‌ی متن براتون مفید باشه.</p>
+<p>ماتیاس که شخص اول داستانه، یه لپ‌تاپ رو از یه کافه می‌دزده.
+چون چند هفته‌ای توی سبد «پیداشده‌ها» بوده به خودش همچین اجازه‌ای رو میده.</p>
+<p>لپ‌تاپ رو برای کار کردن روی یه اپ خاص که بیشتر برای دوست‌دختر کم‌توانش توسعه میده لازم داره. چون سرعت لپ‌تاپ خودش خیلی پایین‌تره.</p>
+<p>ماتیاس با دوستاش به صورت آنلاین چت گروهی توی اسکایپ راه میندازن تا یه «شب بازی» داشته باشن. همه چیز به نظر خوب میاد.
+ولی بعد از یه مدت می‌فهمیم که اون لپ‌تاپ متعلق به یه هکر حرفه‌ایه که توی
+<a href="https://en.wikipedia.org/wiki/Dark_web" target="_blank">Dark Web</a>
+فعالیت میکنه و
+درآمدش هم از همون طریقه.</p>
+<p>چون ماتیاس و بقیه‌ی دوستاش شاهد حساب میشن، توسط اون هکر و دارودسته‌ش به قتل می‌رسن. حتی بعضی از افراد نزدیک به اونا هم
+کشته میشن. همون آخراس که می‌فهمیم که این قضایا کلا یه بازی بوده که اون هکرها راه انداختن. لپ‌تاپ عمدا توی کافه
+جا گذاشته شده بود تا یه طعمه پیدا بشه. برای اونا هم «شب بازی» بود.</p>
+<p>فیلم خیلی خوب روی اشخاص وقت میذاره. کاراکترها اونقدر واقعی میشن که خیلی راحت باهاشون همراه و همدل میشید.
+به نظر خیلی دوست‌داشتنی میان (به جز احتمالا نقش اول). می‌تونیم براشون اهمیت قایل بشیم. این، همون چیزیه که داستان‌های ژانر ترسناک بهش نیاز دارن.
+خود داستان هم خیلی دور از واقعیت نیست و میشه درکش کرد. میشه تصور کرد که ممکنه برای هر کسی اتفاق بیفته.
+نه به این زودیا ولی خوب بالاخره.
+در مقایسه با قسمت اول فیلم دیگه نیروهای ماوراالطبیعه در کار نیستن.</p>
+<p>شاید خیلیا نتیجه‌ی داستان رو خیلی ناامیدکننده بدونن ولی این یه چیز منفی نیست به نظرم. این که دنیا داره به سمتی میره
+که شاید خیلیا روی خیلی از چیزا دیگه کنترل درستی نداشته باشن قابل تامله و باید بررسی بشه. دنیا داره تاریک‌تر میشه.</p>
+<p>چه مشکلاتی داشت؟</p>
+<ul>
+<li>کیفیت تصاویر افراد موقع چت خیلی خیلی خوبه. هیچ نوع تاخیر یا نویزی توشون نیست. نمی‌دونم آمریکا سرعت اینترنتش در این خوبه یا نه
+ولی خوب کلا یه جوری بود.</li>
+<li>بازی‌ها در بهترین حالت نیستن. این مشکل رو توی قسمت اول هم داشتیم. البته نسبت به اون فیلم، اینجا خیلی خیلی بهتره.
+ولی بازی‌ها اینطور نبودن که اسکار بگیرن. با این حال جاهایی که بازی‌ها ممکنه تو ذوق بزنه کمن.</li>
+<li>توی بعضی از سکانس‌ها دنبال کردن چند تا منبع ورودی اطلاعات سخته. مثلا پشت صحنه دارن حرف میزنن و به نظر هم حرفاشون مهم میاد.
+ولی اینور دارن چت می‌کنن و اون چت هم مهمه.</li>
+<li>این که هکرها می‌تونستن وقتی جلو وبکم میان یه سری نویز روی خودشون بندازن که خوب دیده نشن یه جوری بود.
+نه این که شدنی نباشه. ولی متوجه نشدم چرا لازمه. می‌تونستن کلا سیاه بپوشن که در واقع همین کار رو هم کرده بودن.</li>
+<li>هکرهایی که توی داستان داریم خیلی خارق‌العاده‌ن. شاید مهم‌ترین جنبه‌ی فیلم که ممکنه فیلم رو دور از واقعیت بکنه همین باشه.
+با این حال خودم زیاد باهاش مشکلی نداشتم. میشه اینطور تصور کرد که در آینده همچین افرادی رو هم خواهیم داشت.</li>
+<li>این که اون هکرها توی همه‌ی شهرها یه نیرو دارن هم یه جوری بود. یکی از دوستای ماتیاس (به اسم دیمون) توی لندن بود. ولی
+می‌بینیم که اونجا هم کلکشو می‌کنن.</li>
+</ul>
+<p>در مجموع، می‌تونم بگم یکی از بهترین فیلم‌های توی ژانر ترسناکه که تا به حال دیدم. خیلی خیلی از جفنگ‌هایی که هر روز توی این
+ژانر میاد بیرون فاصله داره به نظرم. روش فکر شده. توصیه می‌کنم حداقل یه بار ببینیدش.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/unfriended-dark-web-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم Unfriended: Dark Web&body=https://mrmowji.com/unfriended-dark-web-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
