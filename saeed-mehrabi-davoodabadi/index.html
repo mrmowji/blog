@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>سعید مهرابی داوودآبادی</title>
+  <meta name="description" content="سعید رو از دست دادیم." />
+  <meta property="og:title" content="سعید مهرابی داوودآبادی">
+  <meta property="og:description" content="سعید رو از دست دادیم.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="سعید مهرابی داوودآبادی" />
+  <meta name="twitter:description" content="سعید رو از دست دادیم." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>سعید مهرابی داوودآبادی</h1>
+<article>
+  <p>این هفته متوجه شدم یکی از هم‌کلاسی‌های کارشناسیم (باهنر کرمان) از دنیا رفته. سعید مهرابی داوودآبادی.</p>
+<p>شاید بشه گفت همه شوکه شدیم. ناراحتی بماند.</p>
+<p>روی متفاوت بودن سعید احتمالا همه‌ی بچه‌ها اتفاق نظر داشته باشن. این بشر رو هر وقت می‌دیدم لبخند میزد یا می‌خندید.
+خیلی آروم بود. یادم نمیاد یه بار عصبانی باشه اصن.
+وقتی هم ما داشتیم دنبال یه چیزی می‌گشتیم که چطور وقت رو باهاش تلف کنیم، سعید دنبال یه چیز دیگه توی آینده بود.
+نه این که وقت تلف کردن چیز بدی باشه. منظورم اینه که به نظر می‌رسید سعید از همون اول برنامه داشت و نتیجه‌شو هم دیدیم.</p>
+<p>سمینار برگزار می‌کرد. به بچه‌ها درس می‌داد. رفع اشکال می‌کرد. کلا توی عوالم خودش بود ولی اینطور نبود که کلا قید بقیه رو بزنه.
+حالا یه سری موارد دیگه هم هست که شاید بعضیا اونا رو با دید مسخره می‌دیدن. ولی الآن خوب می‌دونیم که اون چیزا هیچ اهمیتی نداشتن، نه به خاطر رفتنش. کلا هم هیچ اهمیتی نداشتن از اول.</p>
+<p><a href="https://www.reddit.com/r/CarletonU/comments/lbrxcx/contract_instructor_saeed_mehrabi_has_gone/" target="_blank">توی Reddit می‌تونید در مورد نظر دانشجوهاش و بقیه‌ی افرادی که باهاش در ارتباط بودن بخونید.</a> به نظرم بخونید.</p>
+<p>یادمه همون روزای اول کارشناسی، اگه اشتباه نکنم توی کلاس زبان، ازم خواست اسمشو به انگلیسی توی صفحه‌ی اول کتابش بنویسم.
+از دید اون احتمالا خوش‌خط بودم. واقعا فراموش نمی‌کنم اون لحظه رو.</p>
+<p>همون آخرای کارشناسی اپلای کرد واسه تحصیل در خارج از کشور. رفت کانادا. چند سال پیش هم شهروندیشو گرفت.</p>
+<p>این هفته علی توی گروه تلگرامی پیام
+<a href="https://ottawa.ctvnews.ca/missing-32-year-old-ottawa-man-a-former-contract-instructor-at-carleton-university-1.5291177" target="_blank">گم شدن</a>
+و بعدش
+<a href="https://globalnews.ca/news/7743997/ottawa-police-body-found-rideau-river/" target="_blank">پیدا شدن سعید</a>
+بعد از 2 ماه رو به اشتراک گذاشت.</p>
+<p>پریشب توی اینستاگرام داشتم صفحه‌ی سعید رو چک می‌کردم. قسمت تگ‌شده‌ها رو دیدم. پسرخاله‌ش عکس سعید رو گذاشته بود. مثل همیشه خندون.
+دیگه نمیشد جور دیگه‌ای فکر کرد. قطعی شده بود.</p>
+<p>این که همچین اتفاقی برای همچین شخصی میفته یعنی چی؟ اون همه انگیزه و اشتیاق چی؟ آخرش که چی؟
+مرگ طبیعی باز قابل هضم‌تره. البته نه مرگ همه. مرگ طبیعی بعضیا باز هم قابل هضم نیست.
+مرگ غیرطبیعی و اینجوری کلا درک نمیشه.</p>
+<p>من خودم آدم مثبت‌اندیشی نیستم. ولی شخص مثبت‌اندیشی رو از دست دادیم.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/saeed-mehrabi-davoodabadi/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=سعید مهرابی داوودآبادی&body=https://mrmowji.com/saeed-mehrabi-davoodabadi/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
