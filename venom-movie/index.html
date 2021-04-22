@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فیلم Venom</title>
+  <meta name="description" content="بدترین فیلم ابرقهرمانی. خودش داره داد می‌زنه «منو جدوی نگیرید»." />
+  <meta property="og:title" content="فیلم Venom">
+  <meta property="og:description" content="بدترین فیلم ابرقهرمانی. خودش داره داد می‌زنه «منو جدوی نگیرید».">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="فیلم Venom" />
+  <meta name="twitter:description" content="بدترین فیلم ابرقهرمانی. خودش داره داد می‌زنه «منو جدوی نگیرید»." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>فیلم Venom</h1>
+<article>
+  <p>فیلم Venom (زهر، سم)، محصول 2018 آمریکا.
+توی وبسایت IMDb، رتبه‌ی 6.7 رو به طور میانگین گرفته. من بهش 2 میدم و با این امتیاز میره توی لیست فیلم‌هایی که توصیه می‌کنم نبینید.
+به نظرم ارزش یه بار دیدن رو هم نداره واقعا.</p>
+<p>شاید تنها ویژگی مثبت فیلم، جلوه‌های ویژه‌ش باشه که اون هم در بهترین حالت خودش نبود ولی قابل تحمل بود.
+بازیگر نقش منفی داستان هم به نظرم خوب بازی می‌کنه.</p>
+<p>ژانر داستان، علمی-تخیلیه (از نوع ابرقهرمانی). همونطور که احتمالا می‌دونید توی چند سال اخیر مارول فیلم‌های موفقی (حداقل از نظر
+درآمد) ساخته. ولی این مورد که با همکاری سونی ساخته شده، افتضاحه از نظر من.</p>
+<p>فیلم خودش داره داد می‌زنه «منو جدی نگیرید».</p>
+<p>داستان فیلم تقریبا قابل پیش‌بینیه. فک کنم بعد از 30 دقیقه‌ی اول فیلم راحت بتونید حدس بزنید چه اتفاقاتی
+به صورت کلی میفته.</p>
+<p>فیلم در مورد یه سری موجودات فضاییه که توسط یه شرکت مرتبط با سلامت انسان به زمین وارد میشن.
+قراره از اون موجودات برای بالا بردن طول عمر بشریت یا درمان بیماری‌های لاعلاج استفاده کنن.
+حتی میشه ازشون برای زندگی انسان توی فضا هم استفاده کرد.</p>
+<p>قبل از ورود سفینه به زمین، یه مشکلاتی پیش میاد و اون سفینه سقوط می‌کنه. یکی از این موجودات به نحوی فرار می‌کنه.
+بقیه‌شونو می‌برن شرکت.</p>
+<p>این گونه‌ی جانوری رو توی فیلم مرد عنکبوتی هم دیده بودیم.</p>
+<p>ادامه‌ی متن ممکنه داستان فیلم رو لو بده. اگه فیلم رو ندیدید بهتره دیگه ادامه ندید. اگه دیدید شاید خوندن بقیه‌ی متن براتون مفید باشه.</p>
+<p>یکی از این موجودات به نوعی وارد بدن نقش اول فیلم (ادی با بازی تام هاردی) میشه و حالا رئیس اون شرکت با تام هاردی باید
+بجنگه. بی‌مزه تعریف می‌کنم چون واقعا بی‌مزه‌س.</p>
+<p>ادی تنها انسانیه که اون موجود می‌تونه توی بدنش زندگی کنه و پس نزنه. به این شکل ادی و اون موجود با همدیگه دوست میشن.
+اسم اون موجود هست ونوم.</p>
+<p>چه مشکلاتی داشت؟</p>
+<ul>
+<li>بازی تام هاردی طبق معمول اصلا خوب نیست. شاید تنها فیلمی که توش خوب بازی می‌کرد Mad Max بود. حتی بازیش توی Dark Knight Rises هم بد بود به نظرم. البته توی این فیلم تقریبا تمام بازی‌ها افتضاحن. انتخاب این شخص برای یه ابرقهرمان تخیلی به نظرم
+اشتباه بوده.</li>
+<li>جنبه‌ی طنز فیلم خیلی خیلی غیرضروری و اضافی بود. در واقع کلا گند زده بود به فیلم. طنز نبود اصن. انگار برای بچه‌ها
+فیلم رو ساخته باشن.</li>
+<li>شخصیت‌های خوب داستان خیلی خیلی لوسن. حتی نقش اول. چیزی ندارن که آدم بخواد جذبشون بشه. می‌مردن هم برام مهم نبود.</li>
+<li>نقش اول، کلا انسان خوبی هم نیست. خیلی راحت کار نامزدشو نابود می‌کنه. می‌تونست باهاش صحبت کنه قبل از این که گند بزنه. از جایی که خودش هم توش کار می‌کنه اخراج میشه. بعد انتظار دارید برام مهم باشه. جالب‌تر این که هم نامزدش و هم اون شغل سابق دوباره می‌پذیرنش.</li>
+<li>دیالوگ‌ها چیز خاصی ندارن واقعا.</li>
+<li>این که یکی از موجودات توی سقوط سفینه فرار می‌کنه و خودش پای پیاده میره شرکت خیلی خیلی الکی بود. خیلی راحت می‌تونستن
+فیلم‌نامه رو جوری بنویسن که اونو هم می‌برن شرکت و اونجا وارد بدن رئیس میشه. هیچ هدفی نداشت اون زیرداستان. شاید فقط می‌خواستن نشون بدن که اون موجود با بقیه‌ی هم‌گونه‌هاش متفاوته و منفی‌تره. ولی باز هم می‌تونستن توی شرکت اینو نشون بدن.
+همین موجود یه جایی از فیلم چند نفر رو با پرتاب قسمت‌های تیزی از بدن خودش می‌کشه. اصن هم نمی‌بینیم که آیا اون تکه‌ها
+به بدنش برمی‌گردن یا نه. اگه از بدنش کم می‌شن که یه جوریه.</li>
+<li>شرکت به اون مهمی و بزرگی دوربین مداربسته نداره که بفهمن چه کسی اومده و اون موجود رو برده.</li>
+<li>اصن نباید یه اجازه بگیرن که می‌خوان اون موجود فضایی رو وارد زمین کنن؟ و همچین اجازه‌ای هم داده شده؟</li>
+<li>یعنی توی اون همه اتفاقی که توی خیابانوای شهر افتاده یه فیلم گرفته نشد؟ آخر فیلم می‌بینیم که ادی خیلی راحت و به
+خوبی و خوشی به زندگیش ادامه میده. هیشکی نفهمیده ادی می‌تونه به یه موجود دیگه تبدیل بشه؟ حداقل اون دکتره که می‌دونه.
+یا اون نیروهای پیش که می‌دونن. کلی از اون افراد رو هم ادی درب و داغون کرد. یا اون خانم مغازه‌دار.
+انگار نه انگار.</li>
+<li>یا افراد اون شرکت که خیلی طبیعی بیشتر خیابونای شهرو نابود می‌کنن. پلیس کو؟</li>
+<li>نیروهای شرکت، ادی رو می‌گیرن و رئیس شرکت بهشون میگه بکشنش. جالب اینجاست که می‌برنش یه جایی خارج از شرکت که اونجا
+خلاصش کنن. یکی از مشکلاتی که توی بعضی از فیلم‌های هالیوودی می‌بینیم همینه. می‌خوان یه نفرو بکشن. اینقدر لفت میدن تا
+یه نفر بیاد نجاتش بده. چرا همونجا توی شرکت نمی‌کشنش؟ حداقل چرا اون بیرون سریع نمی‌کشنش؟</li>
+<li>بالاخره اون موجودات به بدن یه موجود زنده برای بقا نیاز دارن یا نه؟ انگار خیلی راحت می‌تونن توی یه ظرف دربسته هم زندگی کنن. یا مثلا می‌تونن بدن میزبان رو هم بخورن هر وقت گشنه شدن؟</li>
+<li>به نظر میرسه اون موجودات یه نقشه داشتن از اول. بیان زمین و بعد دوباره با سفینه برگردن به ستاره‌شون و بقیه‌ی فامیل رو هم
+بیارن زمین و دلی از عزا در بیارن. جدا از این که این موجودات تا الآن با چی تغذیه می‌کردن که حالا یه دفه به غذا نیاز دارن،
+خود نقشه هم مسخره‌س. چرا از همون اول همشون نرفتن توی سفینه. مسلما افراد شرکت زمینی
+تمایل داشته موجودات بیشتری رو بیاره با خودش. یا اصن چرا اون موجودات وقتی داشتن توی اون ستاره اون موجودات رو می‌گرفتن
+اون موجودات حمله نکردن تا وارد بدن افراد بشن و همون لحظه همشون با هم بیان زمین؟</li>
+<li>این که بعد از یه تیتراژ پایانی باز هم فیلم ادامه داره واقعا داره میره روی مخ دیگه. شورشو درآوردن.</li>
+</ul>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/venom-movie/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=فیلم Venom&body=https://mrmowji.com/venom-movie/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
