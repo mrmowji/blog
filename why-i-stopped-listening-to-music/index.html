@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20980483-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-20980483-2');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>چرا گوش دادن به موسیقی رو گذاشتم کنار؟</title>
+  <meta name="description" content="کرم داشتم. جوونی کردم. شما ببخش. عوضش امنیت دارم." />
+  <meta property="og:title" content="چرا گوش دادن به موسیقی رو گذاشتم کنار؟">
+  <meta property="og:description" content="کرم داشتم. جوونی کردم. شما ببخش. عوضش امنیت دارم.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="چرا گوش دادن به موسیقی رو گذاشتم کنار؟" />
+  <meta name="twitter:description" content="کرم داشتم. جوونی کردم. شما ببخش. عوضش امنیت دارم." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>چرا گوش دادن به موسیقی رو گذاشتم کنار؟</h1>
+<article>
+  <p>احتمالا خیلی از ماها با موسیقی بزرگ شدیم. موسیقی متن کارتون‌ها، فیلم‌های سینما ۱، سینما ۴، مرحوم مایکل جکسون، و ...</p>
+<p>از دید من موسیقی یکی از سخت‌ترین و عجیب‌ترین هنرهای موجوده. یعنی کسی که یه قطعه رو ایجاد می‌کنه، به نظرم واقعا ذهن عجیبی داره.
+مثلا طراحی و شاخه‌های مرتبطش (مثل گرافیک) به نظرم اینقدر سخت نمیان. اینکه یه آهنگساز چطور به یه قطعه میرسه برام خیلی
+خارق‌العاده‌س.</p>
+<p>از طرفی موسیقی رو یکی از تاثیرگذارترین نوع هنر و تجربه می‌دونم. و دقیقا به همین خاطره که دیگه ترجیح میدم بهش گوش ندم.</p>
+<p>مثلا توی ورزش. خیلیا توصیه میکنن گوش دادن به موسیقی خوبه. خوب، من هم چندین بار تست کردم این قضیه رو.
+چه اون موقعی که لاغر بودم و موسیقی بیشتر به وول خوردن‌های من می‌خورد، چه اخیرا که باید موسیقی کلاسیک ملایم گوش
+میدادم تا BPM آهنگ با سرعت من بخونه و بتونم درست تکون بخورم.
+ولی کلا اگه اون آهنگ به ریتم خودتون بخوره خیلی خوب میشه. واسه من خیلی وقته از دور خارج شده.</p>
+<p>از طرفی تاثیر موسیقی رو توی روح و روان هم نمیشه نادیده گرفت. هدف اصلیش در واقع همینه. تاثیر موسیقی روی من دو جوره.
+یا موسیقی منو میبره توی خیالپردازی و حال میده ولی لزوما سازنده نیست (جدیدا ترجیح میدم توی واقعیت زندگی کنم و وقت رو جور
+دیگه‌ای صرف کنم). یا منو میبره به گذشته یا آینده‌ی ناخوشایند و تا حدی تخلیه میکنه آدمو
+ولی اثرش شاید برای من مفید نیست. و من موسیقی زیاد گوش میدادم. روزی 2 3 ساعت حداقل، بدون در نظر گرفتن موسیقی برای ورزش و کاربردهای دیگه.</p>
+<p>هر کسی فرق میکنه. یه نفر دوست داره توی این حالت‌ها بمونه. من هم بدم نمیاد. ولی دیدم یه خروجی مفید ندارم ازش.
+هنوز هم توی متن فیلم و بقیه‌ی جاها ممکنه موسیقی رو بشنوم. ولی این که آهنگی رو روی گوشیم داشته باشم، نه دیگه. فقط یه لیست رو توی اسپاتیفای نگه داشتم برای موقعی که از خر شیطون میام پایین.</p>
+<p>توی این یه هفته شاید خیلی فکر و ذهنم راحت‌تر بوده. دغدغه‌ی دنبال کردن آهنگسازها رو هم ندارم دیگه. در جهت مینیمالیسم هم هست.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/why-i-stopped-listening-to-music/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=چرا گوش دادن به موسیقی رو گذاشتم کنار؟&body=https://mrmowji.com/why-i-stopped-listening-to-music/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
