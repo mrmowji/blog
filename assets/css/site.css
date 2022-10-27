@@ -71,7 +71,6 @@ header.home {
 
 .subtitle {
   font-size: 0.875rem;
-  opacity: 0.5;
 }
 
 .subtitle.home {
@@ -710,7 +709,6 @@ summary {
 
 .comments {
   border: 5px solid #616161;
-  font-size: smaller;
   padding: 15px;
 }
 
@@ -907,11 +905,11 @@ html {
     --color-background: #131313;
     --color-link: #4CBBE6;
     --color-link-hover: white;
-    --color-nav-link: #818181;
+    --color-nav-link: #8b8b8b;
     --color-nav-link-hover: white;
     --color-text: #f8f8f8;
     --color-cv-item-background: #444;
-    --filter-logo: invert(1);
+    --filter-logo: invert(1) opacity(0.95);
   }
 }
 
@@ -943,11 +941,11 @@ html.dark {
   --color-background: #131313;
   --color-link: #4CBBE6;
   --color-link-hover: white;
-  --color-nav-link: #818181;
+  --color-nav-link: #8b8b8b;
   --color-nav-link-hover: white;
-  --color-text: white;
+  --color-text: #f8f8f8;
   --color-cv-item-background: #444;
-  --filter-logo: invert(1);
+  --filter-logo: invert(1) opacity(0.95);
 }
 
 body {
