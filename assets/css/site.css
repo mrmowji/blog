@@ -817,6 +817,10 @@ summary {
   text-decoration: line-through;
 }
 
+#toggle-theme-button {
+  cursor: pointer;
+}
+
 @font-face {
   font-family: Vazir;
 
@@ -907,7 +911,7 @@ html {
     --color-link-hover: white;
     --color-nav-link: #8b8b8b;
     --color-nav-link-hover: white;
-    --color-text: #f8f8f8;
+    --color-text: #e3e3e3;
     --color-cv-item-background: #444;
     --filter-logo: invert(1) opacity(0.95);
   }
@@ -943,7 +947,7 @@ html.dark {
   --color-link-hover: white;
   --color-nav-link: #8b8b8b;
   --color-nav-link-hover: white;
-  --color-text: #f8f8f8;
+  --color-text: #e3e3e3;
   --color-cv-item-background: #444;
   --filter-logo: invert(1) opacity(0.95);
 }
