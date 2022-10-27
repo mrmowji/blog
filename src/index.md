@@ -32,7 +32,7 @@ title: مسترموجی
     مطلب نوشته شده.
     مطالب بر اساس زمان و به صورت نزولی مرتب شدن (جدیدترین پست‌ها بالاترن).
   </p>
-  <ul class="list-none compact">
+  <ul class="list-none compact posts-list">
   {%- for post in collections.post reversed -%}
     <li>
       <span>
