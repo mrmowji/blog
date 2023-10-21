@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BPD1VWEHS3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BPD1VWEHS3');
+  </script>
+
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ویدئوپلیری با قابلیت کلیک و انتخاب متن زیرنویس</title>
+  <meta name="description" content="آیا از مشاهده‌ی فیلم‌ها با زیرنویس و ندانستن معنی بعضی از کلمات خسته شده‌اید؟ آیا کلا خسته‌اید؟" />
+  <meta property="og:title" content="ویدئوپلیری با قابلیت کلیک و انتخاب متن زیرنویس">
+  <meta property="og:description" content="آیا از مشاهده‌ی فیلم‌ها با زیرنویس و ندانستن معنی بعضی از کلمات خسته شده‌اید؟ آیا کلا خسته‌اید؟">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="ویدئوپلیری با قابلیت کلیک و انتخاب متن زیرنویس" />
+  <meta name="twitter:description" content="آیا از مشاهده‌ی فیلم‌ها با زیرنویس و ندانستن معنی بعضی از کلمات خسته شده‌اید؟ آیا کلا خسته‌اید؟" />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>ویدئوپلیری با قابلیت کلیک و انتخاب متن زیرنویس</h1>
+<article>
+  <p>هنوز نمی‌دونم چرا بیشتر ویدئوپلیرها این قابلیت رو ندارن.</p>
+<p>همیشه برای خودم سخت بوده که بخوام یه فیلم رو با زیرنویس ببینم و معنی بعضی از کلمات و عبارات رو ندونم.
+چون باید به صورت دستی کلمات رو توی دیکشنری سرچ کنم و این کار خیلی وقت‌گیره. البته شاید خیلیا بگن همین تایپ کردن هم یه تمرینه.
+ولی من همزمان می‌خوام تا جایی که میشه از فیلم لذت ببرم و هم معنی کلمات رو بدونم.</p>
+<p>خلاصه اینکه پس از مدت‌ها ریاضت و رنج و بیماری روانی تصمیم گرفتم یه ویدئوپلیر تحت وب بسازم که این قابلیت رو داشته باشه.</p>
+<p>اسمش رو گذاشتم <a href="https://mrmowji.github.io/mplayer/">MPlayer</a>.
+نسخه‌ی اولیه‌ش خیلی ساده‌س. در این حد که شما فقط می‌تونید یه ویدئو با زیرنویسش رو از روی هارد انتخاب کنید.</p>
+<p>اگه روی زیرنویس کلیک کنید فیلم متوقف میشه. اگه یه افزونه برای ترجمه یا تعریف کلمات و عبارت هم روی مرورگرتون نصب کنید دقیقا همون چیزی میشه که من
+در موردش حرف می‌زنم.</p>
+<p>من از این افزونه‌ها استفاده می‌کنم:</p>
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb">Google Translate</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/my-dictionary/dlmmgckeognpojabkkcablldnlfnfgpo/related">My Dictionary</a></li>
+</ul>
+<p>همه‌ی افزونه‌ها ممکنه با این ویدئوپلیر کار نکنن و اون هم کاملا به این بستگی داره که افزونه رو چقدر استاندارد پیاده کرده باشن.
+از جزئیات پیاده‌سازی می‌گذرم.</p>
+<figure>
+  <img src="/assets/images/content/mplayer-and-the-ability-to-define-words-in-subtitles.png" alt="تعریف کلمه‌ی temper داخل زیرنویس فیلم انیمیشنی Elemental با استفاده از افزونه‌ی Power Thesaurus مرورگر">
+  <figcaption>ترجمه و تعریف کلمات زیرنویس در حال پخش فیلم</figcaption>
+</figure>
+<p>لوگوی این ویدئوپلیر هم بر اساس آیکن پخش و آیکن انتخاب متن طراحی شده.</p>
+<figure>
+  <img src="/assets/images/content/mplayer-logo.png" alt="یه آیکن پخش به رنگ سیاه و یه آیکن انتخاب متن به رنگ آبی که با سمت راست آیکن پخش تراز شده">
+  <figcaption>لوگوی MPlayer</figcaption>
+</figure>
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="https://twitter.com/intent/tweet?text=@mrmowji&url=https://mrmowji.com/mplayer/">
+      توییتر
+    </a>
+    /
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=ویدئوپلیری با قابلیت کلیک و انتخاب متن زیرنویس&body=https://mrmowji.com/mplayer/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
