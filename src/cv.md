@@ -233,8 +233,6 @@ description: رزومه‌ی من رو می‌تونید اینجا ببینید
       بیشتر کارهای بنده در حوزه‌ی گرافیک، از نوع تایپوگرافی یا لوگوی مینیمال هستند.
       علاقه‌ی زیادی به تصویرسازی، به‌ویژه کمیک، دارم.
       می‌توانید نمونه کارهای بنده را در
-      <a href="https://dribbble.com/mrmowji" target="_blank">Dribbble</a>
-      یا
       <a href="https://www.behance.net/mrmowji" target="_blank">Behance</a>
       ببینید.
     </li>
