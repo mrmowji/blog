@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BPD1VWEHS3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BPD1VWEHS3');
+  </script>
+
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+    </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>دلایل رد وگنیسم (و جوابشون) - قسمت اول</title>
+  <meta name="description" content="بخشی از دلایلی که ملت برای وگن نشدن میارن رو اینجا بخونید. برای هر کدوم، جوابش رو هم بخونید." />
+  <meta property="og:title" content="دلایل رد وگنیسم (و جوابشون) - قسمت اول">
+  <meta property="og:description" content="بخشی از دلایلی که ملت برای وگن نشدن میارن رو اینجا بخونید. برای هر کدوم، جوابش رو هم بخونید.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="دلایل رد وگنیسم (و جوابشون) - قسمت اول" />
+  <meta name="twitter:description" content="بخشی از دلایلی که ملت برای وگن نشدن میارن رو اینجا بخونید. برای هر کدوم، جوابش رو هم بخونید." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>دلایل رد وگنیسم (و جوابشون) - قسمت اول</h1>
+<article>
+  <p>چند وقته دارم توی منابع مختلف در مورد وگن بودم و حقوق حیوانات می‌خونم، می‌بینم، و ‌می‌شنوم.
+به‌خصوص به مصاحبه‌هایی که با مردم میشه علاقه دارم و برام جالبه که مردم با چه نوع دلایلی ترجیح میدن
+وگن نشن و در واقع توی ظلمی که به حیوانات میشه شریک باشن.</p>
+<p>قرار نیست کسی قضاوت بشه اینجا. خودم هم قبلا وگن نبودم. ولی اگه دلیل یا دلایل شما توی این صفحه
+هست، جوابی که بهش داده شده از دیدتون منطقیه، و همچنان به مصرف محصولات حیوانی ادامه میدید، شاید
+بهتره بیشتر به وضعیت فعلیتون فکر کنید.</p>
+<h1>آیا راه انسانی برای کشتن حیوانات وجود نداره؟</h1>
+<p>اصن «انسانی» و «کشتن» کنار هم می‌تونن قرار بگیرن؟ از دید شما «کشتن انسانی» یعنی چی؟
+خودتون باشید چطوری این کار رو انجام میدید که انسانی هم باشه؟
+نه. همونطور که راه انسانی برای کشتن خودت وجود نداره. مهم نیست چه نوع کشتنی باشه.
+مثلا اگه بعضیا می‌گن ۹۰ درصد خوک‌ها توی انگلیس با اتاقک‌های گاز دی‌اکسید کربن کشته میشن،
+منظورشون این نیست که اگه از برق یا تفنگ کشته بشن بهتره. تنها مزیتی که کشتن با تفنگ شاید داشته
+باشه سریع بودنش هست. در کلیت ماجرا تفاوتی ایجاد نمی‌کنه.</p>
+<h1>(مزه‌ی) محصولات حیوانی رو دوست دارم.</h1>
+<p>منظورت اینه که زجر دادن به حیوانات رو دوست داری؟
+مزه، توجیه خوبی برای کشتن یا نقض حقوق حیوانات نیست. مثل اینه که بگم مزه‌ی گوشت انسان به نظرم
+خیلی خوبه. اینجوری انسان‌خوارها رو باید قبول داشته باشیم (همونطور که توی بازی تاج و تخت هم بهشون
+اجازه دادن همراه مردم شمال دیوار حمله کنن).</p>
+<p>از اون طرف، الآن محصولات گیاهی جایگزین محصولات گوشتی دارن بیشتر میشن و مزه‌ی بعضی از این
+محصولات خیلی شبیه مزه‌ی متناظر گوشتیشون هست و حتی ممکنه بهتر هم باشه. به نظر خودم سالم‌تر هم هستن.
+پس مشکلی توی حذف نباید داشته باشید. مخصوصا اگه توی شهرهای بزرگی مثل تهران و مشهد زندگی می‌کنید.
+حتی اگه توی شهر کوچکی زندگی می‌کنید می‌تونید از فروشگاه‌های اینترنتی خرید کنید تا براتون ارسال کنن.</p>
+<h1>کاری از دست یه نفر برنمیاد.</h1>
+<p>برمیاد. مخصوصا وقتی که احتمالا تنها کاریه که میشه کرد. نه میشه از دولت انتظاری داشت و نه خود
+کارخونه‌ها و دامداری‌ها. منافع خودشون درگیره.</p>
+<h1>من خودم مخالفم حیوان‌آزاریم.</h1>
+<p>خوب پس قطعا وگن شدن گزینه‌ی مناسبیه. نخر. نخور. حمایت نکن از تولید‌کننده‌ها.</p>
+<h1>فری‌رینج و ارگانیک خوبن دیگه.</h1>
+<p>نه. در نهایت همون استثمار و کشتار وجود داره. چون شاید حیوونا توی اون شرایط تا یه مدتی راحت‌تر
+زندگی کنن دلیل نمیشه هر جور خواستیم بکشیمشون.
+حتی اگه داریم در مورد مرِغ‌های تخم‌گذار و گاو شیرده و ...
+که هدف اصلی پرورششون گوشت نیست صحبت می‌کنیم، باز هم اون حیوانات به کشتارگاه میرن. بدتر از اون، جوجه خروس‌ها که همون اول بعد از به دنیا اومدن کشته میشن. همین قضیه برای گاو نر هم صادقه تا حدودی.</p>
+<h1>به نظرم خوردن محصولات حیوانی (به‌خصوص گوشت) خیلی طبیعی‌تره.</h1>
+<p>اگه من بخوام یه سگ رو بکشم و بخورم چی؟ اگه منظورتون اینه که
+بیشتر به چیزی که توی طبیعت هست نزدیکه، باید بگم انسان
+از نظر فیزیولوژیکی بیشتر شبیه گیاهخوارهاست تا گوشت‌خوارها.
+توی طبیعت هم گیاهخوار داریم. پس گیاهخواری هم طبیعیه.</p>
+<h1>نمی‌دونم چرا چینی‌ها سگ می‌خورن.</h1>
+<p>خودت چرا گاو، مرغ، گوسفند، ماهی، و ... می‌خوری؟ چرا بعضی از حیوانات رو می‌خوری ولی بعضی از حیوانات رو نمی‌خوری؟
+به نظرت نباید مرز رو جایی بکشیم که اگه موجود زنده‌ای احساس داره نخوریمش و بهشون ظلم نکنیم؟</p>
+<h1>اگه گوشت رو توی آزمایشگاه پرورش بدن می‌خوری؟</h1>
+<p>شاید. شاید هم نه. ولی مشکلی ندارم کسی از اون محصولات استفاده کنه. نه قتلی اتفاق افتاده و نه استثمار.</p>
+<h1>بعضی از گونه‌های میمون که شبیه ما هستن گوشت‌ می‌خورن؟</h1>
+<p>بالاخره قراره خودمون رو با حیوانات مقایسه کنیم یا نه؟
+اگه می‌خوای مقایسه کنی، بعدا کامل‌تر در مورد اینکه ما شبیه کدوم دسته از حیوانات هستیم می‌نویسم.</p>
+<p>اگه هم نمی‌خوای مقایسه کنی، خوب، سوال کلا از پایه اشتباهه. ولی انسان عقل داره و می‌تونه فکر کنه. می‌تونه مجموعه اخلاق خودش رو داشته باشه.
+و چرا وقتی نیازی به گوشت نداریم داریم اینقدر موجود بی‌گناه رو
+زجر می‌دیم؟</p>
+<h1>اگه گیاهخوار بشیم این حیوانات نمی‌تونن توی طبیعت دووم بیارن</h1>
+<p>اینقدر نگران حیوانات بودی یعنی؟ دمت گرم باباجان.
+خوب به دنیا نیار. تولید نکن. مجبوری؟ حمایت نکن تا تولید نشن. حیواناتی که الآن هم زنده هستن عمر زیادی نخواهند داشت.
+و اینو هم در نظر بگیر که ما خودمون بعضی از این گونه‌ها رو
+به صورت ژنتیکی تغییر دادیم. وگرنه شاید می‌تونستن توی طبیعت خیلی راحت زندگی کنن.
+از طرفی کلی پناهنگاه برای حیوانات هست.
+از خودت شروع کن.</p>
+<h1>من خودم وجترینم.</h1>
+<p>خیلی هم خوبه. ولی توصیه می‌کنم بقیه‌ی محصولات حیوانی رو هم مصرف نکنی. بالاتر گفتم صنعت تخم‌مرغ و شیر چه کارهایی می‌کنن. فرق زیادی با صنعت گوشت ندارن. تنها چیزی که برای تولیدکننده مهمه سودی هست که از حیوانات می‌برن.
+حداقل برای شیر کلی جایگزین هست که سالم‌تر هم هستن.</p>
+<h1>چرا عقاید و نظراتت رو می‌خوای تحمیل کنی؟</h1>
+<p>من تحمیل نمی‌کنم. سعی می‌کنم اطلاع‌رسانی کنم. همونطور که خودم
+با یه مستند وگن شدم، به نظرم خیلی از انسان‌ها به این قضیه به اندازه‌ی کافی فکر نکردن.</p>
+<p>اگه در مورد اینکه دارن حیوانات رو خیلی الکی یه جایی می‌کشن چیزی می‌گفتن باز هم همین حرف رو می‌زدی؟ چه فرقی با کشتن فیل داره به نظرت؟</p>
+<h1>وگن شدن پول می‌خواد</h1>
+<p>جدی؟ یعنی لوبیا، عدس، برنج، گوجه، خیار، و ...
+از گوشت گرون‌ترن؟</p>
+<h1>به خاطر تو مصرفشون رو کم می‌کنم.</h1>
+<p>خیلی ممنون. ولی برای من این کار رو نکن. برای خود حیوانات انجام بده. و سعی کن متوقف کنی در نهایت.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=دلایل رد وگنیسم (و جوابشون) - قسمت اول&body=https://mrmowji.com/arguments-against-veganism-part-01/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    /
+    <a target="_blank"
+      href="https://instagram.com/mrmowji">
+      اینستاگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
