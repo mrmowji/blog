@@ -8,12 +8,12 @@ title: مسترموجی
     مجتبی جوان، برنامه‌نویس و طراح گرافیک
     </p>
     <nav>
-      <a href="https://instagram.com/mrmowji" target="_blank" rel="nofollow">Instagram</a>
       <a href="https://t.me/mrmowji" target="_blank" rel="nofollow">Telegram</a>
       <a href="https://linkedin.com/in/mrmowji" target="_blank" rel="nofollow">Linkedin</a>
-      <br>
       <a href="https://github.com/mrmowji" target="_blank" rel="nofollow">GitHub</a>
+      <br>
       <a href="http://youtube.com/@mrmowji" target="_blank" rel="nofollow">YouTube</a>
+      <a href="https://dribbble.com/mrmowji" target="_blank" rel="nofollow">Dribbble</a>
       <a href="https://behance.net/mrmowji" target="_blank" rel="nofollow">Behance</a>
       <br>
       <a href="/about">درباره</a>
