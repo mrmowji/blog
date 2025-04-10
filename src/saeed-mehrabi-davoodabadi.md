@@ -8,6 +8,14 @@ date: 2021-04-14
 
 این هفته متوجه شدم یکی از هم‌کلاسی‌های کارشناسیم (باهنر کرمان) از دنیا رفته. سعید مهرابی داوودآبادی.
 
+<figure>
+<img src="{{ website.assetsPath }}/images/content/saeed-mehrabi-davoodabadi.png"
+  alt="عکس پروفایل سعید توی لینکداین">
+<figcaption>
+خوش‌خنده
+</figcaption>
+</figure>
+
 شاید بشه گفت همه شوکه شدیم. ناراحتی بماند.
 
 روی متفاوت بودن سعید احتمالا همه‌ی بچه‌ها اتفاق نظر داشته باشن. این بشر رو هر وقت می‌دیدم لبخند میزد یا می‌خندید.
@@ -39,3 +47,11 @@ date: 2021-04-14
 مرگ غیرطبیعی و اینجوری کلا درک نمیشه.
 
 من خودم آدم مثبت‌اندیشی نیستم. ولی شخص مثبت‌اندیشی رو از دست دادیم.
+
+<figure>
+<img src="{{ website.assetsPath }}/images/content/saeed-mehrabi-davoodabadi-grave.jpg"
+  alt="سنگ قبر سعید">
+<figcaption>
+بدرود.
+</figcaption>
+</figure>
