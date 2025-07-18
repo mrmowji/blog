@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BPD1VWEHS3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BPD1VWEHS3');
+  </script>
+
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>خدافز ردیت، توییتر، و اینستاگرام</title>
+  <meta name="description" content="خداعیا، هزار مرتبه شکرت." />
+  <meta property="og:title" content="خدافز ردیت، توییتر، و اینستاگرام">
+  <meta property="og:description" content="خداعیا، هزار مرتبه شکرت.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="خدافز ردیت، توییتر، و اینستاگرام" />
+  <meta name="twitter:description" content="خداعیا، هزار مرتبه شکرت." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="google-site-verification" content="G-2JdKyfI7lyA00mbcUJAQT3IwsdaihN1f2gbiwHlC8" />
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>خدافز ردیت، توییتر، و اینستاگرام</h1>
+<article>
+  <p>خلاص! والا.</p>
+<p>یکی دو سال بود می‌خواستم از اینستاگرام بیام بیرون. بعد از تقریبا ۱۰ سال قبل عید محقق شد. البته اکانت رو هنوز پاک نکردم ولی غیرفعاله. البته یه بار برگشتم یه سری چیزمیز جا گذاشته بودم توی پیام‌ها.</p>
+<p>دلایلش هم فک کنم برای خیلیا بدیهیه و یا اونا هم ترک کردن یا به دلایل دیگه‌ای موندن. برای من هیچ توجیهی نمونده بود. خودم هم فعالیت می‌کردم و پست می‌ذاشتم ولی به اون چیزی که می‌خواستم نرسیدم واقعا.</p>
+<p>توییتر هم وضعیتش شبیه اینستاگرام بود برای من. ترک توییتر راحت‌تر بود و حساب رو پاک کردم، چون از اطرافیان تقریبا هیچ‌کس دیگه فعالیت نمی‌کنه اونجا.</p>
+<p>ردیت رو هم پاک کردم کامل. با اینکه توش تونسته بودم بازخورد بهتری بگیریم برای کارهام و اون ماهیت فروم‌طورش رو دوست داشتم، ولی اخیرا خیلی داشت اذیت می‌کرد.</p>
+<p>محتوای زرد (قهوه‌ای شاید)، بازیچه‌ی سیاست‌های کسب درآمدشون شدن، به سازشون رقصیدن، هر کاری برای لایک، کامنت‌های بیخود و بی‌نهایت، سروکله زدن با کسایی که اصن نمی‌شناسید، این که فکر می‌کنید دنیا همون چیزیه که بهتون نشون میدن (چون احتمالا پست‌های مشابه رو پسندیدید)، بازی‌های روانی، و هزار کوفت و زهرمار دیگه. نه تنها مفید نبود، بلکه مضر هم بود. واقعا نمی‌تونم به یه چیز اشاره کنم و بگم فلان چیز رو توی این شبکه‌های اجتماعی یاد گرفتم.</p>
+<p>واقعا راحت‌تر شدم. البته شاید بخشی از این تصمیمات تاثیرگرفته از مستند
+<a href="https://www.imdb.com/title/tt11464826/" target="_blank">The Social Dilemma</a>
+بوده باشه ولی خوشحالم که یک تصمیم آنی نبود. جوگیر نشدم. و راه بازگشتی هم برای  حداقل توییتر و ردیت  نذاشتم :دی</p>
+<p>الآن فقط توی یوتیوب و لینکدین و دو سه شبکه‌ی مربوط به طراحان هستم. لینکدین هم خوب خیلی رو مخه ولی فعلا هستم.</p>
+<p>اینو هم بگم ممکنه برای شما مفید باشه، ولی به نظرم یه ارزیابی بکنید از حضورتون و فایده‌ای که اون شبکه‌ها دارن. اون مستند رو هم توصیه می‌کنم.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=خدافز ردیت، توییتر، و اینستاگرام&body=https://mrmowji.com/quit-reddit-twitter-instagram/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
