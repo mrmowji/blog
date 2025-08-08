@@ -996,6 +996,28 @@ iframe {
   margin-bottom: 2rem;
 }
 
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.gallery li {
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.gallery li img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
 /*
 
 Monokai Sublime style. Derived from Monokai by noformnocontent http://nn.mit-license.org/

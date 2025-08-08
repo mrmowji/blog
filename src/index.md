@@ -13,7 +13,6 @@ title: مسترموجی
       <a href="https://github.com/mrmowji" target="_blank" rel="nofollow">GitHub</a>
       <br>
       <a href="http://youtube.com/@mrmowji" target="_blank" rel="nofollow">YouTube</a>
-      <a href="https://dribbble.com/mrmowji" target="_blank" rel="nofollow">Dribbble</a>
       <a href="https://behance.net/mrmowji" target="_blank" rel="nofollow">Behance</a>
       <br>
       <a href="/about">درباره</a>

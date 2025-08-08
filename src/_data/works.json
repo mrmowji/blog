@@ -1,0 +1,21 @@
+[
+    {
+        "image": "/assets/images/works/hope.png",
+        "alt": "Hope with its H carved as 5 lines on a prison wall",
+        "title": "Hope Typography",
+        "description": "",
+        "link": "",
+        "tags": ["Typography", "Graphic Design"],
+        "date": "2014-01-01",
+        "popularity": 100
+    },
+    {
+        "image": "/assets/images/works/hope.png",
+        "alt": "Hope with its H carved as 5 lines on a prison wall",
+        "description": "",
+        "link": "",
+        "tags": ["Typography", "Graphic Design"],
+        "date": "2014-01-01",
+        "popularity": 100
+    }
+]
