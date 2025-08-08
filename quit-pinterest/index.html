@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BPD1VWEHS3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BPD1VWEHS3');
+  </script>
+
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>خدافز پینترست، و نشانه‌هایی از بیهودگی</title>
+  <meta name="description" content="این هم داشت اذیت می‌کرد دیگه." />
+  <meta property="og:title" content="خدافز پینترست، و نشانه‌هایی از بیهودگی">
+  <meta property="og:description" content="این هم داشت اذیت می‌کرد دیگه.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="خدافز پینترست، و نشانه‌هایی از بیهودگی" />
+  <meta name="twitter:description" content="این هم داشت اذیت می‌کرد دیگه." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="google-site-verification" content="G-2JdKyfI7lyA00mbcUJAQT3IwsdaihN1f2gbiwHlC8" />
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>خدافز پینترست، و نشانه‌هایی از بیهودگی</h1>
+<article>
+  <p><a href="/quit-reddit-twitter-instagram">چند وقت پیش از چند شبکه‌ی اجتماعی اومدم بیرون.</a></p>
+<p>امروز هم تصمیم گرفتم از پینترست بیام بیرون و کلا حسابم رو پاک کنم. شاید پینترست رو بیشتر از بقیه‌ی شبکه‌های اجتماعی دوست داشتم.</p>
+<p>با این حال، خیلی برام مشهود بود که تقریبا همشون یه سری مشکل اساسی دارن. ممکنه این مشکلات فقط برای من مطرح باشه.</p>
+<p>از اسکرول بی‌نهایت و وقت گذروندن که بگذریم، می‌رسیم که بحث ذخیره کردن پست‌هایی که فکر می‌کنیم بعدا به دردتون می‌خوردن.
+البته این مورد توی شبکه‌های دیگه هم هست ولی پینترست برای همین ساخته شده اصن.</p>
+<p>من دیدم انگار دارم هر روز چند تا تصویر یا کلیپ کوتاه رو پین می‌کنم بدون اینکه برنامه‌ی خاصی برای برگشتن بهشون داشته باشم.
+و صفحه‌ی اصلی پینترست هم هی بهتون پیشنهاد میده. تقریبا ۱۰۰۰ پین داشتم که شاید هیچ‌وقت قبلا برنگشته بودم بهشون. فقط ذخیره کرده بودم. برای روز مبادا. به این قضیه می‌گن
+<a href="https://en.wikipedia.org/wiki/Digital_hoarding">Digital Hoarding</a>
+(انباشت دیجیتال)
+که یه نوع خاص از
+<a href="https://en.wikipedia.org/wiki/Hoarding_disorder">اختلال ذخیره‌سازیه (Hoarding Disorder)</a>.</p>
+<p>از طرفی، بر خلاف شبکه‌های دیگه که محتوای اصلی بر اساس چیزهایی هست که دنبال می‌کنید، تمرکز اصلی پینترست
+روی پیشنهادهاشه، مثل صفحه‌ی Explore اینستاگرام. و خیلی زود این صفحه از کنترل خارج میشه.</p>
+<p>و خوب هدف چیه؟ اینکه سرگرم بشیم یا ایده بگیریم یا هر دو؟ برای هر دو مورد شخصا ترجیح می‌دم خودم انتخاب کنم چی
+قراره ببینم نه اینکه یه سری چیز بهم خورونده بشه، شبیه تبلیغات. خیلی حس مصرف‌کنندگی به آدم دست میده. یه اصل توی روان‌شناسی هست به اسم پاداش متغیر (Variable Reward) که به همین قضیه و اسکرول بی‌نهایت اشاره می‌کنه. توی قمار هم هست. هر بار اسکرول می‌کنید نمی‌دونید
+چی گیرتون میاد و همین خودش یه جور مشوقه برای ادامه دادن.</p>
+<p>انگار دارن بهت تزریق می‌کنن. بهتره آدم کنترل داشته باشه. خودش انتخاب کنه چی ببینه. دنبال نمونه طرحید، جستجو کنید. دنبال فیلم و کلیپ هستید جستجو کنید. این که یه سری چیز میز تصادفی بیان جلوی دید شما، که هر کدوم احاساسات متفاوتی رو ممکنه برانگیخته کنن، به نظرم جالب نیست. مثل اینستاگرام که توی چند دقیقه هم ممکنه گریه کنید هم بخندید. خیلی شکننده‌س. بهش می‌گن
+شلاق عاطفی (Emotional Whiplash)
+که ممکنه تاثیرات منفی توی روحیه، استرس، و اضطراب داشته باشه. مفهوم ترن هوایی احساسی (Emotional Rollercoaster) هم نزدیکه به همین قضیه.</p>
+<p>در مورد ظاهر پینترست هم نگم بهتون. اون تم کانبان که عکس‌ها با همدیگه تراز نیستن واقعا رو مخه. چشم باید هی بالا پایین بشه تا ببینه چه خبره. برای یه عکس ممکنه لازمه باشه اسکرول کنید برید پایین تا کامل ببینیدش در حالی که یه عکس دیگه که همتراز بوده نیازی به اسکرول نداره. نمی‌دونم واقعا چه کسی این پیشنهاد رو داده بهشون و از اول همین بوده. شاید بقیه زیاد اذیت نمی‌شن با این قضیه.</p>
+<p>در مجموع، شاید برای همینه که گوگل خیلی خوبه. چیزی که دنبالش هستید رو بهتون میده. چیزی رو پیشنهاد نمیده. البته یه اپلیکیشن Google روی اندروید هست که پیشنهاد هم میده.</p>
+<p>شاید از این به بعد بهتره با انتخاب بریم جلو. من بیشتر پین‌هامو دانلود کردم و توی گوگل درایو آپلود کردم، محض احتیاط. هر چند
+احتمال می‌دم تا یه مدت طولانی بهشون سر نزنم. اکانت پینترست رو هم پاک کردم. خلاص‍</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=خدافز پینترست، و نشانه‌هایی از بیهودگی&body=https://mrmowji.com/quit-pinterest/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
