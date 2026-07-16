@@ -658,3 +658,190 @@ As far as baking goes there are many egg replacers [20:40] that you can buy at t
 
 If you've made it [20:49] this far thank you so much for watching and please share this video with family, friends, your classroom and on [20:55] social media. We need to get the truth out there because as Dr. Seuss said: [21:00] "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not."
 -> VALIDATED (Standard activist call to action and literary quote)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Title: DAIRY IS SCARY!
+
+====
+
+Channel: Erin Janus
+Channel Link: https://www.youtube.com/@ErinJanus
+
+====
+
+Link: https://www.youtube.com/watch?v=UcN7SGGoCNI
+
+====
+
+Description:
+Dairy is scary. Please share this video with anyone and everyone who still thinks dairy is just fine!
+
+★ Patreon   / erinjanus
+
+====
+
+Transcript:
+[0:00] Oh hey guys So since everyone is so busy these days I'm gonna explain to you how the dairy industry works in 5 minutes Like other female mammals, cows only lactate, or produce milk,
+-> VALIDATED (Mammalian biology baseline; lactation is a postpartum physiological process triggered by hormonal shifts following gestation to provide nutrition to offspring)
+
+[0:08] when they're pregnant or have a newborn to feed So the dairy industry inseminates or impregnates cows starting at the age of around 12 months over and over and over again so they keep making milk.
+-> VALIDATED (Agricultural and veterinary reality; dairy heifers are typically first bred via artificial insemination around 12 to 15 months of age and are re-bred annually post-calving to maintain peak lactation curves)
+
+[0:18] And it's a rather routine process You see, first the industry jacks off a bunch of bulls sometimes using a hand or help from an electrical ejaculator
+-> VALIDATED (Animal husbandry standards; semen collection from genetically valuable bulls routinely utilizes artificial vaginas or electroejaculation under veterinary supervision)
+
+[0:25] which is basically a giant cow dildo that goes into the anus of the bull until he blows.
+-> VALIDATED / COLORED (Factual veterinary technology, though described in highly provocative terms; an electroejaculator is a probe inserted rectally to deliver low-voltage electrical stimulation to the pelvic nerves, inducing ejaculation)
+
+[0:31] And that semen is collected and then inserted into the vagina of a female cow with a long tube usually while she's confined in what the industry calls, a rape rack.
+-> VALIDATED / COLORED (The biological procedure is accurate; artificial insemination involves inserting an insemination gun through the cervix into the uterine body. The term "rape rack" is highly charged animal-rights terminology, originally adapted from a historical quote by industrial farming proponents describing breeding stanchions or headlocks used to immobilize the animal)
+
+[0:39] And sometimes, they put their fist right into the anus of the female cow you know, to loosen the area.
+-> OVERSIMPLIFIED / CORRECTED (The physical action is validated, but the purpose is mischaracterized; technicians insert a gloved arm rectally not to "loosen the area," but to perform transrectal palpation, physically grasping and stabilizing the cervix through the thin rectal wall to safely guide the insemination rod into the uterus)
+
+[0:44] to make the process as effective as possible "What are you you feeling for in there?" "It's a bit jumpy." "I think I would be if someone did that to me."
+-> VALIDATED (Factual audio clip; documents a standard dialogue regarding rectal palpation, highlighting the physical invasiveness of the procedure)
+
+[0:58] Bringing it out, and massages a little bit Just to relax everything and help that semen go where it needs to go
+-> VALIDATED (Veterinary technique; gentle rectal massage of the reproductive tract is sometimes used to stimulate uterine tone or calm the animal during artificial insemination)
+
+[1:08] You must be responsible for a lot of calves Yes And when that baby cow is born it's pretty much immediately taken away from its mother and locked in a crate
+-> VALIDATED (Standard dairy operations; newborn calves are routinely separated from the dam within 12 to 24 hours of birth and placed in individual calf hutches or pens to prevent disease transmission and monitor milk intake)
+
+[1:16] because if it stayed around mom it would drink her milk and that shit's for us.
+-> VALIDATED (Production economics; maternal-filial separation is practiced so that the mother's milk can be diverted entirely into the commercial supply chain for human consumption)
+
+[1:26] And you see, a mother cow's bond with her young is very strong and affectionate and she sometimes cries out for days in search of her baby
+-> VALIDATED (Animal behavior and ethology; studies confirm that mother cows exhibit strong maternal bonds and demonstrate objective vocal, behavioral, and physiological signs of distress and searching behavior following calf separation)
+
+[1:33] [cow cries]
+-> VALIDATED (Authentic video/audio of maternal vocalization post-separation)
+
+[1:37] But nobody gives a shit.
+-> SUBJECTIVE (Rhetorical commentary on the systemic indifference of commercial agricultural models to maternal distress)
+
+[1:41] [cow cries]
+-> VALIDATED (Authentic video/audio of maternal vocalization post-separation)
+
+[1:45] If the baby is a male, his throat is slit, and he's sold for veal.
+-> VALIDATED (Agricultural supply chain; because male dairy calves cannot produce milk and do not convert feed to muscle efficiently enough for standard beef, they are routinely sold shortly after birth to be raised and slaughtered for the veal market)
+
+[1:49] And if it's a girl, she's raised to be a milk machine like Mom.
+-> VALIDATED (Agricultural supply chain; female dairy calves are retained and reared as replacement heifers to eventually enter the lactating herd)
+
+[1:52] So dairy cows are continuously repeatedly kept pregnant their whole lives to keep them lactating.
+-> VALIDATED (Production cycle; to optimize milk output, cows are placed on a tight annual production cycle consisting of a 10-month lactation period, overlapping with pregnancy, followed by a brief dry period before calving again)
+
+[1:57] This leads to premature aging, exhaustion, and mastitis, a painful yet common condition in dairy cows which is inflammation and sometimes infection of the udder.
+-> VALIDATED (Veterinary pathology; mastitis—caused by bacterial pathogens entering the teat canal—is one of the most common and painful inflammatory diseases affecting high-yielding dairy herds globally)
+
+[2:05] Pus and blood in the milk of dairy cows is also common, so it's usually filtered, but not completely.
+-> VALIDATED (Microbiological reality; mastitis infections result in the shedding of inflammatory products, blood, and white blood cells into the milk, which undergoes physical filtration on-farm and during processing)
+
+[2:10] Because in Europe, Australia, New Zealand and Canada, up to 40,000 somatic cells are legally allowed in every millimeter of cow's milk.
+-> CORRECTED (Factual regulatory error; the legal limit for somatic cell count (SCC) in raw milk in the European Union, Canada, Australia, and New Zealand is actually 400,000 cells per milliliter, not 40,000)
+
+[2:17] And in the United States, 750,000 somatic cells per milliliter. In Brazil, a million!
+-> VALIDATED (Regulatory standards; the legal limit for somatic cell count in Grade A raw milk in the United States is indeed 750,000 cells/mL, and historical regulatory limits in Brazil have reached up to 1,000,000 cells/mL depending on the region and tier)
+
+[2:22] And somatic cells, most of which in this case are white blood cells, are the same thing that erupt on the top of a big zit. So you could call it, pus.
+-> VALIDATED / COLORED (Immunological reality, presented with sensational framing; somatic cells in milk consist primarily of leukocytes (white blood cells) and epithelial cells. While leukocytes are the primary cellular component of pus, calling standard somatic cells "pus" is biologically informal and intended to provoke disgust)
+
+[2:30] The more bacteria inflammation and infection the higher the somatic cell count. But don't worry, there's a limit.
+-> VALIDATED (Veterinary diagnostics; somatic cell count is the globally accepted biomarker for assessing herd health, subclinical mastitis, and overall milk quality)
+
+[2:36] And when a dairy cow is finally too physically and emotionally exhausted to continue on she collapses.
+-> VALIDATED (Veterinary reality; physical exhaustion, severe metabolic disease, or injury can lead to a cow being unable to rise)
+
+[2:42] [cow moans]
+-> VALIDATED (Authentic video/audio of a recumbent cow in distress)
+
+[2:44] These cows are called 'downers', and they're dragged out by whatever means to be killed and sold for beef.
+-> VALIDATED / REGULATED (Veterinary and legal history; non-ambulatory cows are referred to as "downers." In the United States, USDA regulations strictly prohibit processing downer cattle for human consumption due to Bovine Spongiform Encephalopathy (BSE) risks, meaning they are humanely euthanized on-site, though historically they were frequently dragged and salvaged)
+
+[2:50] [cow cries]
+-> VALIDATED (Authentic video/audio of animal distress)
+
+[2:55] [cow cries]
+-> VALIDATED (Authentic video/audio of animal distress)
+
+[3:07] It's common in the industry even on organic dairy farms for cows to "go down" after about four or five years of continuous milk production
+-> VALIDATED (Herd longevity metrics; regardless of organic or conventional status, the average productive lifespan of a commercial dairy cow is roughly 4.5 to 5 years before she is culled)
+
+[3:16] But peak milk production declines around four to five years anyways so if the dairy cows are still standing, they're gonna be killed for hamburgers and beef regardless.
+-> VALIDATED (Production economics; a cow's milk yield typically peaks during her fourth or fifth lactation, after which herds proactively cull animals to maintain optimal farm-level efficiency)
+
+[3:23] You see, the dairy industry IS the meat industry.
+-> VALIDATED (Supply chain integration; the dairy and beef sectors are intrinsically linked, with culled dairy cows providing a substantial portion of the utility-grade beef and hamburger supply in major agricultural nations)
+
+[3:26] Almost every single dairy cow that you will ever buy milk that came from ends up being killed for meat.
+-> VALIDATED (Supply chain reality; virtually all commercial dairy cows are sent to slaughterhouses at the end of their productive lactating lives)
+
+[3:33] So if you're a vegetarian, you might want to think about this, because at least when you're being raised for meat you're just raised for meat and killed.
+-> SUBJECTIVE (Ethical comparison; presents a philosophical argument popular in vegan discourse that the life cycle of a dairy cow involves more cumulative physical and psychological trauma than that of a beef animal)
+
+[3:38] But when you're a dairy cow, you are sexually exploited and emotionally and physically exhausted until you can't take it anymore and then you're killed for meat.
+-> SUBJECTIVE (Philosophical framing of animal exploitation; uses human-centric ethical terminology ("sexual exploitation") to describe standard veterinary reproductive practices)
+
+[3:46] Sounds worse to me.
+-> SUBJECTIVE (Personal ethical evaluation)
+
+[3:47] And the natural lifespan of a cow that hasn't been completely exploited 20-25 years y'all.
+-> VALIDATED (Bovine biology; in non-commercial, sanctuary, or domestic backyard settings, cows can live 15 to 25 years)
+
+[3:53] And as far as the calcium and protein thing goes Study after study after study has shown that those consuming the highest quantities of dairy actually have the highest cases of bone fractures and osteoporosis.
+-> OVERSIMPLIFIED / DEBATED (Nutritional epidemiology; while some prominent observational studies (such as the Harvard Nurses' Health Study) found no significant reduction in bone fractures with high dairy intake, other meta-analyses and clinical trials suggest dairy calcium supports bone mineral density. The relation between dairy and fracture risk remains a highly complex, multi-factorial debate in nutritional science)
+
+[4:03] And there are dozens of amazing plant-based sources of calcium and protein.
+-> VALIDATED (Nutritional science; calcium-set tofu, fortified plant milks, cruciferous vegetables, legumes, and seeds serve as highly bioavailable sources of dietary calcium and protein)
+
+[4:07] So you really don't need to suck the tits of a cow.
+-> SUBJECTIVE / RHETORICAL (Provocative colloquial framing to emphasize the biological absurdity of interspecies lactation)
+
+[4:15] I mean the dairy industry has wormed their way in to education systems nutritional programs and media to convince us that we need to drink milk.
+-> VALIDATED (Lobbying and public policy; the dairy industry historically has spent billions of dollars on school lunch program integration, federal nutrition guidelines, and generic checkoff marketing campaigns like "Got Milk?")
+
+[4:23] But when you're in school learning about how good the milk is for you that's not because there was a panel of people who care about your health that determined that...
+-> OVERSIMPLIFIED (Socio-political context; while public health officials and pediatricians genuinely advocate for milk due to its nutrient density and ease of access for children, corporate dairy lobby groups heavily influence the legislative inclusion of milk in national nutritional programs)
+
+[4:29] That's cause the dairy industry paid lots of money for you and your children to hear message in school.
+-> VALIDATED (Historical policy; USDA commodity programs and agricultural checkoff funds are legally designed to promote consumption of domestic dairy products within public schools)
+
+[4:34] and on TV and on billboards and magazines and for your doctors who don't have to take more than a few hours of a nutrition course to tell you to 'drink your milk'.
+-> VALIDATED (Medical education baseline; standard medical school curricula in the United States and other Western nations historically allocate very few hours—often fewer than 20 total—to clinical nutrition training)
+
+[4:42] You see, rhino milk is for baby rhinos.
+-> VALIDATED (Biological baseline)
+
+[4:44] Dog's milk is for baby dogs.
+-> VALIDATED (Biological baseline)
+
+[4:45] Cat's milk for baby cats.
+-> VALIDATED (Biological baseline)
+
+[4:47] Rat milk is for baby rats.
+-> VALIDATED (Biological baseline)
+
+[4:49] And cow's milk is for humans? No. It's for baby cows. And vegans are crazy?
+-> VALIDATED (Evolutionary and biological reality; milk is species-specific, evolutionary tailored for the unique growth and immunological needs of a species' own infants. Humans are the only species that regularly consumes the lactation secretions of another species past weaning)
+
+[4:58] Dairy is fucking scary.
+-> SUBJECTIVE (Creator's thesis statement and video title)
+
+[5:18] Try almond milk, hemp milk, soy milk, flax milk, rice milk, brazil nut milk, macadamia milk, cashew milk Any milk but dairy milk.
+-> VALIDATED (Culinary alternatives; outlines the wide availability of plant-based milk alternatives)
+
+[5:29] Video written, directed and produced by Erin Janus "She's got a nice, beautiful slick coming out." "That's a very good sign."
+-> VALIDATED (Production credits and end-slate audio clip)
