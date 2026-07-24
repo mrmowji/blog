@@ -1101,3 +1101,11 @@ Monokai Sublime style. Derived from Monokai by noformnocontent http://nn.mit-lic
 .hljs-meta {
   color: #75715e;
 }
+
+.yt-embed {
+  width: 100%;          /* fill the container / screen */
+  height: auto;         /* let aspect-ratio set the height */
+  aspect-ratio: 16 / 9; /* keep the video shape */
+  border: 0;
+  max-width: 800px;     /* optional: stop it getting huge on wide screens */
+}
