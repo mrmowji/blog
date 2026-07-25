@@ -6843,3 +6843,303 @@ Fact-Check:
 
 
 
+Title: December 19, 2018
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=ktMHw78mwiw
+
+====
+
+Transcript:
+[0:00] I was listening to the Richville podcast and he had Dean Ornish on there and I highly recommend people going on there
+[0:08] and watching Dean speak because he is one of the forefathers of the plant-based movement and has done a lot of research for it it was interesting
+[0:15] because Dean said in the interview that he's done fighting he's been fighting for 40 years with people he has evidence
+[0:23] proving that his diet works I don't know if you know this but Dean Ornish's set up programs all across the country with
+[0:30] heart health we have here at Asheville a Ornish program for cardiac
+[0:37] rehabilitation and he's got lots of evidence that it works it's worked for 40 years and he's the debate Atkins all
+[0:44] the time and he said he's just tired of doing the fighting because people keep coming up with research that is flawed
+[0:52] there is absolutely zero evidence of these high-protein low-carb diets doing anything to reverse disease whereas we
+[1:00] have tons of good studies showing reversal of the disease with plant-based diets and I feel what he's saying there because I'm getting tired of fighting
+[1:08] every time I come up with a rebuttal of something that's out there a new paper comes out like there was another paper
+[1:16] that was just released recently I can't believe the ridiculousness of it they basically got together three groups of
+[1:23] people a vegetarian group a omnivore group and a vegan group they didn't study these people prospectively they
+[1:32] did what's called a cross-sectional study where they basically said what do you eat and then they did measurements on them so this is basically crazy
+[1:40] because they actually didn't even go into what the vegans are eating they know what the vegans aren't eating they're not eating meat but they don't know what they're eating in their diet
+[1:48] they could have sampled just a bunch of unhealthy vegans and missed out on healthy vegans the vegan
+[1:56] group had less muscle so their conclusion is that vegans in general have less muscle how could you do that with just a few people you can't have a
+[2:04] small n number of people that are randomly chosen and come up with an idea of what muscle mass is especially when you don't know what
+[2:12] these people are eating now it turns out the vegans had a higher home the Sistine level you get a high homocysteine level when you don't supplement with b12 we've
+[2:20] seen in several studies especially in the epic studies that if you don't supplement with b12 you could tend to have other problems that we've noticed
+[2:27] in in ethical vegans that don't seem to be as concerned about their health they tend not to supplement as much and they do get b12 deficiencies and other
+[2:35] diseases and when you look at their diet it's a really crappy diet with really low fiber it's not a whole food plant-based diet which is what dr.
+[2:45] Ornish and myself and the other doctors recommending and it's not what the healthy vegans that I see at all these VegFest that are running fast and
+[2:54] growing muscle are eating they're eating a complex whole food diet which is very very different than a junk food vegan
+[3:02] diet I don't know why we can't seem to get this point across and doing some terrible cross-sectional low-end study doesn't give you any conclusions on the
+[3:11] health of a whole food plant-based diet but the meat industry is desperate the dairy industry is desperate because
+[3:18] veganism is growing very very quickly and so they're coming up with any kind of junk study they can they do the same
+[3:26] thing with smoking if they could in somehow create and instill any kind of doubt they'll get people to still buy
+[3:33] their products and hopefully that doesn't work I'm very soon going to stop doing all this fighting because I know what diet works I see it on a day-to-day
+[3:42] basis in my patients and I see it in the literature with the real good science with the large end studies with the
+[3:49] mechanism of action studies with the rate of my controlled trials with the very good epidemiologic studies I know
+[3:56] what works and and constantly fighting with these ridiculous articles can really be frustrating which is why you don't see people like dr. Gregor and dr.
+[4:07] mcdougal doing that anymore because they're just want to go out there and just tell the truth the way they've seen it in the literature and I'm getting pretty close
+[4:15] to doing that but I'm also a easily ticked off guy because I see so
+[4:23] many people everyday that are sick because of the poor information out there so I'll probably keep fighting for a while but the bottom line is one
+[4:31] single study that gets printed in PubMed is not how we decide science we decide science through studies that are
+[4:39] replicated replicated in many different places I like to look at epidemiology and then look at mechanism of action and
+[4:48] then look at randomized control trials and have that all tie together so one just random study out of nowhere is not good science and you can't make any
+[4:57] conclusions from that
+
+====
+
+Fact-Check:
+[0:23] ...Dean Ornish's set up programs all across the country with heart health we have here at Asheville a Ornish program for cardiac rehabilitation and he's got lots of evidence that it works...
+-> VALIDATED / CLINICAL CARDIOLOGY (Ornish Program; Dean Ornish's Lifestyle Heart Trial demonstrated that lifestyle modifications can reverse coronary atherosclerosis, leading to the Ornish Program becoming the first intensive cardiac rehabilitation program approved by Medicare for reimbursement across various sites, including Asheville.)
+
+[0:52] ...there is absolutely zero evidence of these high-protein low-carb diets doing anything to reverse disease...
+-> MISLEADING / DIETETICS & METABOLISM (Low-Carbohydrate Diets; while low-fat plant-based diets have the strongest evidence for reversing angiographic coronary artery disease, high-protein and low-carbohydrate/ketogenic diets have demonstrated robust clinical evidence for reversing metabolic syndrome, hepatic steatosis, and inducing remission in type 2 diabetes.)
+
+[1:16] ...there was another paper that was just released recently... they didn't study these people prospectively they did what's called a cross-sectional study... the vegan group had less muscle...
+-> CONTEXTUALIZED / NUTRITIONAL EPIDEMIOLOGY (Cross-Sectional Methodology; cross-sectional studies observe exposures and outcomes simultaneously, meaning they cannot establish temporality, causation, or determine whether muscle mass differences were pre-existing, and small sample sizes lack the power to generalize physiological traits to entire dietary groups.)
+
+[2:12] ...the vegans had a higher homocysteine level you get a high homocysteine level when you don't supplement with b12 we've seen in several studies especially in the epic studies...
+-> VALIDATED / METABOLIC BIOCHEMISTRY (Vitamin B12 Deficiency; vitamin B12 is an essential coenzyme for methionine synthase, which converts homocysteine to methionine, and studies like EPIC-Oxford have confirmed that vegans who do not supplement with B12 exhibit significantly higher rates of deficiency and elevated plasma homocysteine levels.)
+
+[4:31] ...one single study that gets printed in PubMed is not how we decide science we decide science through studies that are replicated... epidemiology and then look at mechanism of action and then look at randomized control trials...
+-> VALIDATED / SCIENTIFIC METHODOLOGY (Evidence-Based Medicine; establishing clinical consensus requires the triangulation of prospective epidemiology to identify associations, cellular/physiological research to establish biological plausibility, and randomized controlled trials to verify direct causal relationships.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Title: December 21, 2018
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=O8YB_oUVfF8
+
+====
+
+Description:
+What am I reading
+
+====
+
+Transcript:
+[0:02] alright hey guys so um thought maybe I would touch on a few books that I've been reading and
+[0:09] that I really recommend because you should constantly be trying to expand your knowledge and when it comes to food
+[0:18] and eating there are so many books out there I've tried to read to as many of them as I can
+[0:25] so that I could get a pretty complete picture of what's out there I have read many of the Aikido books I actually
+[0:31] really like the Kido terian which is an interesting book by my buddy dr. Wilke
+[0:39] Cole and he does a pretty good job if you really want to look at ketosis but you're vegetarian personally I don't
+[0:47] think that our bodies want to be in ketosis I see patients we actually put our patient safety ptosis before surgery and they're in ketosis after surgery and
+[0:55] I'm not sure that I really like the way they feel or what I see in their labs it's a it's interesting to me that the
+[1:04] body seems to really not want to be in ketosis and in fact in ketosis you have to go very high fat and actually not high protein because your body so
+[1:11] desperately wants blood sugar and to fill up its glycogen stores that it will do a process called gluconeogenesis
+[1:18] where it actually turns the protein into sugar so it's weird but I think that
+[1:25] that's a pretty good book by dr. Cole if you are interested in the ketosis aspects generally not something I
+[1:33] typically support as you guys know but if you're gonna do it obviously doing it as a vegetarian is better this book is
+[1:43] fantastic by my buddies Julianne Hever and Ray Crowe nice brilliant people the
+[1:52] idiots guide to plant-based nutrition this is way beyond an idiot's guide this this book has got great recipes great
+[2:01] science and really looks at how to be a plant-based eater as a senior how to be
+[2:08] a plant-based eater as an athlete it what supplements to take it he goes into the details very very well
+[2:15] I highly recommend this book highly recommended there is an author that I absolutely love who I've seen speak
+[2:24] before her name is Daphne Millar and Daphne works a lot believe it or not one of her specialties is soil she actually
+[2:31] studies soil quite a bit she is a primary care doctor this book the jungle effect is actually very
+[2:39] interesting she took patients that had different diseases that she had seen and kind of took them back to their original
+[2:46] diets pharmacology is a really interesting book where she kind of goes
+[2:53] over how changing the way we farm can can really change our health which I really really really believe in you know
+[3:03] when people talk about so what you do a vegan diet being good for the environment you'll see a lot of people respond say well that's not true look at
+[3:10] this study and that's the what those studies are looking at show that if we were to go vegan but continue the exact same farming structure that we have
+[3:19] right now we would still be importing blueberries and and things like that it's not as as effective as we would like it to be but that's not how it
+[3:26] would be we would be repurposing land we would be reforesting we would take all those swaths of land that grow nothing
+[3:34] but wheat and soy to feed the animals and change it to produce that can actually be helpful
+[3:41] there should be an emphasis on more urban farms on local farms and so her book goes into all this in detail it's
+[3:49] really fantastic longevity diet is very interesting I've been interested in dr. Valter Longo x'
+[3:55] work he is a aging scientist and he's not vegan or vegetarian though he hits on a lot of the data we hit on when we
+[4:04] look at the plant-based diets which is that high protein may actually be a cause of Aging and that protein diets especially under the age
+[4:13] of 65 are protective for long-term health he goes into some of the blue zones and and why they're living healthy
+[4:20] there's a lot of science in his book he's famous for his fasting and he goes into that fasting what he calls a fast
+[4:28] mimicking diet which I've done his diet it's called the prolonged diet and I can't tell you much if it worked for me
+[4:36] or if it didn't I feel healthy at almost 49 years old I I don't think I could feel any better but can't really attribute that to the few times I've
+[4:44] done the prolonged diet the only thing I could tell you on how I felt on the prolonged diet was hungry but probably not as hungry is if you fast without the
+[4:52] fast mimicking diet but he's got some very interesting research most of it is animal research but there is some human research on the effects of fast
+[5:01] mimicking diet which he goes to in here and also just how to live a healthy diet and look at the cover how to live a healthy diet again it's plants I think
+[5:09] we know this but I think it's interesting coming from a guy who really isn't a plant-based advocate per se he's more a researcher a scientist who
+[5:17] studies Aging and has come to that conclusion and has a really good book so just a few of the books that I've been going through lately I've also been
+[5:25] going through as I've posted a couple times on some of the books about just not the nutrition aspects of food but
+[5:33] how can I get my patients to change their behavior and how can I get them to actually adopt a new lifestyle when it
+[5:41] comes to food and that's a whole different topic I could tell you that an apple is good for you but how do I get you to choose that Apple is a totally
+[5:50] different aspect and I'll get them more into that in the future as we here at mission health try to create what we
+[5:57] think is gonna be the perfect program to help people get healthy and part of that's not just to teach them what to
+[6:05] eat but how to change their behavior and want to eat that way so I will give you more of that later
+
+====
+
+Fact-Check:
+[1:10] ...your body so desperately wants blood sugar and to fill up its glycogen stores that it will do a process called gluconeogenesis where it actually turns the protein into sugar...
+-> VALIDATED / CELLULAR PHYSIOLOGY (Gluconeogenesis; during carbohydrate restriction, the liver and kidneys synthesize glucose from non-carbohydrate precursors—predominantly glucogenic amino acids derived from dietary or endogenous proteins—to maintain essential blood glucose levels.)
+
+[2:24] ...her name is Daphne Millar... she actually studies soil quite a bit she is a primary care doctor this book the jungle effect is actually very interesting...
+-> VALIDATED / MEDICAL BIOGRAPHY (Daphne Miller; Daphne Miller, MD, is indeed a board-certified family physician and clinical professor whose research and books, including "The Jungle Effect" and "Farmacology," focus on how soil ecology and sustainable farming practices directly impact human health.)
+
+[4:04] ...high protein may actually be a cause of Aging and that protein diets especially under the age of 65 are protective for long-term health...
+-> CONTEXTUALIZED / NUTRITIONAL GERONTOLOGY (Protein and aging; the research of Dr. Valter Longo indicates that *low* protein intake (not general protein diets) is associated with reduced IGF-1, cancer, and overall mortality in those under age 65, whereas higher protein intake only becomes protective and necessary to prevent frailty in individuals *over* the age of 65.)
+
+[4:52] ...he's got some very interesting research most of it is animal research but there is some human research on the effects of fast mimicking diet...
+-> VALIDATED / CLINICAL TRIALS (Fasting-mimicking diet; while early mechanistic findings were established in yeast and mice, Dr. Valter Longo and colleagues have published several randomized, controlled clinical trials in humans demonstrating that a fasting-mimicking diet improves biomarkers for cellular regeneration, metabolic health, and inflammation.)
+
+
+
+
+
+
+
+
+
+
+Title: January 5, 2019
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=lenGGIbS31o
+
+====
+
+Description:
+A thing, or two, about Paleo.
+
+====
+
+Transcript:
+[0:00] I as I see many of you have been having
+[0:06] a lot of arguments online about the
+[0:08] Paleo diet and there is this what
+[0:12] basically amounts to mental masturbation
+[0:15] over what paleo man ate because there
+[0:19] was not one Paleo diet people lived in
+[0:21] different areas of the world and a
+[0:23] different things there's not one diet in
+[0:25] the world right now there's diets based
+[0:27] on where you live
+[0:28] secondly the Paleo fossil record if you
+[0:33] look at the carbon material an
+[0:35] Australopithecus teeth if you look at
+[0:37] fossilized stool you'll find that most
+[0:40] paleo man a predominantly plants though
+[0:46] they did eat meat but I call this mental
+[0:50] masturbation because it doesn't matter
+[0:52] what paleo man a you could not possibly
+[0:55] eat a paleo diet there's no way that the
+[0:59] Paleo coconut bar the paleo bar that
+[1:01] salty was in any way paleo even the
+[1:04] fruit we eat now has been hybridized so
+[1:06] much it's not paleo and our goals are
+[1:09] totally different than the goals of
+[1:11] paleo man people seem to think that
+[1:14] whatever paleo man ate must be what the
+[1:17] human body needs to eat that's
+[1:19] absolutely not true
+[1:19] paleo man ate for survival it needed
+[1:24] calories
+[1:25] we don't need calories we need
+[1:27] anti-inflammation and avoidance of
+[1:30] carcinogens it's a very different goal
+[1:32] paleo man's goal was to survive to an
+[1:35] age or he could procreate our goal is to
+[1:38] survive to an age where we could see our
+[1:41] pro creations procreation graduate high
+[1:44] school these are very very different
+[1:46] goals and require different diets so
+[1:49] right now I am meeting with my team
+[1:51] regularly we're trying to design the
+[1:53] best lifestyle program to make people
+[1:58] healthy so that they could avoid
+[1:59] medications or minimize their
+[2:01] medications and live a long healthy life
+[2:03] not just a life where you grow to 100 to
+[2:06] live in a nursing home but where your
+[2:09] vital all through your life and I'll
+[2:11] tell you as I look through
+[2:12] all the research and stuff the one thing
+[2:13] that doesn't occur in my brain is well
+[2:15] what was a caveman eating because it has
+[2:18] no relevance on what I want my patients
+[2:21] to eat I want my patients to be able to
+[2:24] first of all eat in a convenient manner
+[2:26] eat in a manner that tastes good to them
+[2:29] because paleo man didn't care about
+[2:30] taste they cared about survival we do
+[2:32] care about taste our food has to taste
+[2:34] good else we won't eat it and most
+[2:37] importantly what I'm looking at is what
+[2:39] foods create anti-inflammation what
+[2:42] foods have been associated with
+[2:43] reduction and diabetes heart disease and
+[2:45] the leading causes of death in the world
+[2:48] and what foods mostly to longevity and
+[2:52] that's what I am designing and so we can
+[2:55] talk all we want about whether brain
+[2:57] size was developed by roots and tubers
+[3:00] which I believe that's what causes brain
+[3:03] size because there was no way they could
+[3:04] eat enough meat in order to stimulate
+[3:07] brain development or whether brain
+[3:10] development came from me which is what a
+[3:11] lot of people say certainly our
+[3:13] longevity our lifespan and our
+[3:16] population grew like crazy once we
+[3:18] started farming that was the real and
+[3:20] then in advance but again none of this
+[3:23] matters what matters is what is best to
+[3:27] your body right now and that seems to be
+[3:29] a predominantly plant-based diet
+
+====
+
+Fact-Check:
+[0:19] ...there was not one Paleo diet people lived in different areas of the world and a different things...
+-> VALIDATED / ANTHROPOLOGY (Paleolithic Diet Diversity; anthropological and archaeological evidence shows that Pleistocene hominins had highly diverse, opportunistic diets dictated by local geography, climate, and seasonality rather than a single, uniform diet)
+
+[0:28] ...the Paleo fossil record if you look at the carbon material an Australopithecus teeth if you look at fossilized stool you'll find that most paleo man a predominantly plants...
+-> VALIDATED / PALEOANTHROPOLOGY (Hominin Paleodiet; carbon isotope analysis of dental enamel from early hominins like Australopithecus and the study of fossilized coprolites from Paleolithic humans show a heavy dietary reliance on plants, seeds, and tubers, supplemented by meat)
+
+[1:01] ...Even the fruit we eat now has been hybridized so much it's not paleo...
+-> VALIDATED / AGRICULTURAL SCIENCE (Selective Breeding of Fruit; modern commercial fruits have been selectively bred and hybridized over millennia to maximize sugar content, water content, and size while significantly reducing fiber, seeds, and bitter compounds compared to their wild ancestral counterparts)
+
+[1:32] ...paleo man's goal was to survive to an age or he could procreate our goal is to survive to an age where we could see our pro creations procreation graduate high school...
+-> SUBJECTIVE / EVOLUTIONARY BIOLOGY (Evolutionary Selective Pressures; while natural selection primarily favors traits that promote reproductive success and offspring survival, the comparison of ancestral evolutionary "goals" to modern human social desires is a rhetorical framing rather than a testable scientific claim)
+
+[2:55] ...whether brain size was developed by roots and tubers which I believe that's what causes brain size because there was no way they could eat enough meat in order to stimulate brain development...
+-> CONTEXTUALIZED / PALEOANTHROPOLOGY (Evolution of Hominin Brain Size; the dietary driver of hominin brain expansion remains an active debate, with the "starch/tuber hypothesis" arguing cooked carbohydrates fueled the brain, while the "expensive tissue hypothesis" posits that high-quality animal proteins and fats were critical)
+
+[3:13] ...certainly our longevity our lifespan and our population grew like crazy once we started farming...
+-> MISLEADING / ANTHROPOLOGY (Neolithic Transition Health; while the agricultural revolution triggered rapid population growth due to increased birth rates, early farming communities actually experienced a decline in individual health, nutritional variety, and lifespan/longevity compared to hunter-gatherers)
+
+[3:23] ...none of this matters what matters is what is best to your body right now and that seems to be a predominantly plant-based diet...
+-> VALIDATED / NUTRITIONAL SCIENCE (Plant-Based Diets and Health; broad consensus among major global health organizations confirms that diets rich in minimally processed plant foods and low in red and processed meats are consistently associated with a reduced risk of chronic diseases and increased lifespan)
+
