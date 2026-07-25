@@ -6843,3 +6843,561 @@ Fact-Check:
 
 
 
+Title: December 19, 2018
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=ktMHw78mwiw
+
+====
+
+Transcript:
+[0:00] I was listening to the Richville podcast and he had Dean Ornish on there and I highly recommend people going on there
+[0:08] and watching Dean speak because he is one of the forefathers of the plant-based movement and has done a lot of research for it it was interesting
+[0:15] because Dean said in the interview that he's done fighting he's been fighting for 40 years with people he has evidence
+[0:23] proving that his diet works I don't know if you know this but Dean Ornish's set up programs all across the country with
+[0:30] heart health we have here at Asheville a Ornish program for cardiac
+[0:37] rehabilitation and he's got lots of evidence that it works it's worked for 40 years and he's the debate Atkins all
+[0:44] the time and he said he's just tired of doing the fighting because people keep coming up with research that is flawed
+[0:52] there is absolutely zero evidence of these high-protein low-carb diets doing anything to reverse disease whereas we
+[1:00] have tons of good studies showing reversal of the disease with plant-based diets and I feel what he's saying there because I'm getting tired of fighting
+[1:08] every time I come up with a rebuttal of something that's out there a new paper comes out like there was another paper
+[1:16] that was just released recently I can't believe the ridiculousness of it they basically got together three groups of
+[1:23] people a vegetarian group a omnivore group and a vegan group they didn't study these people prospectively they
+[1:32] did what's called a cross-sectional study where they basically said what do you eat and then they did measurements on them so this is basically crazy
+[1:40] because they actually didn't even go into what the vegans are eating they know what the vegans aren't eating they're not eating meat but they don't know what they're eating in their diet
+[1:48] they could have sampled just a bunch of unhealthy vegans and missed out on healthy vegans the vegan
+[1:56] group had less muscle so their conclusion is that vegans in general have less muscle how could you do that with just a few people you can't have a
+[2:04] small n number of people that are randomly chosen and come up with an idea of what muscle mass is especially when you don't know what
+[2:12] these people are eating now it turns out the vegans had a higher home the Sistine level you get a high homocysteine level when you don't supplement with b12 we've
+[2:20] seen in several studies especially in the epic studies that if you don't supplement with b12 you could tend to have other problems that we've noticed
+[2:27] in in ethical vegans that don't seem to be as concerned about their health they tend not to supplement as much and they do get b12 deficiencies and other
+[2:35] diseases and when you look at their diet it's a really crappy diet with really low fiber it's not a whole food plant-based diet which is what dr.
+[2:45] Ornish and myself and the other doctors recommending and it's not what the healthy vegans that I see at all these VegFest that are running fast and
+[2:54] growing muscle are eating they're eating a complex whole food diet which is very very different than a junk food vegan
+[3:02] diet I don't know why we can't seem to get this point across and doing some terrible cross-sectional low-end study doesn't give you any conclusions on the
+[3:11] health of a whole food plant-based diet but the meat industry is desperate the dairy industry is desperate because
+[3:18] veganism is growing very very quickly and so they're coming up with any kind of junk study they can they do the same
+[3:26] thing with smoking if they could in somehow create and instill any kind of doubt they'll get people to still buy
+[3:33] their products and hopefully that doesn't work I'm very soon going to stop doing all this fighting because I know what diet works I see it on a day-to-day
+[3:42] basis in my patients and I see it in the literature with the real good science with the large end studies with the
+[3:49] mechanism of action studies with the rate of my controlled trials with the very good epidemiologic studies I know
+[3:56] what works and and constantly fighting with these ridiculous articles can really be frustrating which is why you don't see people like dr. Gregor and dr.
+[4:07] mcdougal doing that anymore because they're just want to go out there and just tell the truth the way they've seen it in the literature and I'm getting pretty close
+[4:15] to doing that but I'm also a easily ticked off guy because I see so
+[4:23] many people everyday that are sick because of the poor information out there so I'll probably keep fighting for a while but the bottom line is one
+[4:31] single study that gets printed in PubMed is not how we decide science we decide science through studies that are
+[4:39] replicated replicated in many different places I like to look at epidemiology and then look at mechanism of action and
+[4:48] then look at randomized control trials and have that all tie together so one just random study out of nowhere is not good science and you can't make any
+[4:57] conclusions from that
+
+====
+
+Fact-Check:
+[0:23] ...Dean Ornish's set up programs all across the country with heart health we have here at Asheville a Ornish program for cardiac rehabilitation and he's got lots of evidence that it works...
+-> VALIDATED / CLINICAL CARDIOLOGY (Ornish Program; Dean Ornish's Lifestyle Heart Trial demonstrated that lifestyle modifications can reverse coronary atherosclerosis, leading to the Ornish Program becoming the first intensive cardiac rehabilitation program approved by Medicare for reimbursement across various sites, including Asheville.)
+
+[0:52] ...there is absolutely zero evidence of these high-protein low-carb diets doing anything to reverse disease...
+-> MISLEADING / DIETETICS & METABOLISM (Low-Carbohydrate Diets; while low-fat plant-based diets have the strongest evidence for reversing angiographic coronary artery disease, high-protein and low-carbohydrate/ketogenic diets have demonstrated robust clinical evidence for reversing metabolic syndrome, hepatic steatosis, and inducing remission in type 2 diabetes.)
+
+[1:16] ...there was another paper that was just released recently... they didn't study these people prospectively they did what's called a cross-sectional study... the vegan group had less muscle...
+-> CONTEXTUALIZED / NUTRITIONAL EPIDEMIOLOGY (Cross-Sectional Methodology; cross-sectional studies observe exposures and outcomes simultaneously, meaning they cannot establish temporality, causation, or determine whether muscle mass differences were pre-existing, and small sample sizes lack the power to generalize physiological traits to entire dietary groups.)
+
+[2:12] ...the vegans had a higher homocysteine level you get a high homocysteine level when you don't supplement with b12 we've seen in several studies especially in the epic studies...
+-> VALIDATED / METABOLIC BIOCHEMISTRY (Vitamin B12 Deficiency; vitamin B12 is an essential coenzyme for methionine synthase, which converts homocysteine to methionine, and studies like EPIC-Oxford have confirmed that vegans who do not supplement with B12 exhibit significantly higher rates of deficiency and elevated plasma homocysteine levels.)
+
+[4:31] ...one single study that gets printed in PubMed is not how we decide science we decide science through studies that are replicated... epidemiology and then look at mechanism of action and then look at randomized control trials...
+-> VALIDATED / SCIENTIFIC METHODOLOGY (Evidence-Based Medicine; establishing clinical consensus requires the triangulation of prospective epidemiology to identify associations, cellular/physiological research to establish biological plausibility, and randomized controlled trials to verify direct causal relationships.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Title: December 21, 2018
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=O8YB_oUVfF8
+
+====
+
+Description:
+What am I reading
+
+====
+
+Transcript:
+[0:02] alright hey guys so um thought maybe I would touch on a few books that I've been reading and
+[0:09] that I really recommend because you should constantly be trying to expand your knowledge and when it comes to food
+[0:18] and eating there are so many books out there I've tried to read to as many of them as I can
+[0:25] so that I could get a pretty complete picture of what's out there I have read many of the Aikido books I actually
+[0:31] really like the Kido terian which is an interesting book by my buddy dr. Wilke
+[0:39] Cole and he does a pretty good job if you really want to look at ketosis but you're vegetarian personally I don't
+[0:47] think that our bodies want to be in ketosis I see patients we actually put our patient safety ptosis before surgery and they're in ketosis after surgery and
+[0:55] I'm not sure that I really like the way they feel or what I see in their labs it's a it's interesting to me that the
+[1:04] body seems to really not want to be in ketosis and in fact in ketosis you have to go very high fat and actually not high protein because your body so
+[1:11] desperately wants blood sugar and to fill up its glycogen stores that it will do a process called gluconeogenesis
+[1:18] where it actually turns the protein into sugar so it's weird but I think that
+[1:25] that's a pretty good book by dr. Cole if you are interested in the ketosis aspects generally not something I
+[1:33] typically support as you guys know but if you're gonna do it obviously doing it as a vegetarian is better this book is
+[1:43] fantastic by my buddies Julianne Hever and Ray Crowe nice brilliant people the
+[1:52] idiots guide to plant-based nutrition this is way beyond an idiot's guide this this book has got great recipes great
+[2:01] science and really looks at how to be a plant-based eater as a senior how to be
+[2:08] a plant-based eater as an athlete it what supplements to take it he goes into the details very very well
+[2:15] I highly recommend this book highly recommended there is an author that I absolutely love who I've seen speak
+[2:24] before her name is Daphne Millar and Daphne works a lot believe it or not one of her specialties is soil she actually
+[2:31] studies soil quite a bit she is a primary care doctor this book the jungle effect is actually very
+[2:39] interesting she took patients that had different diseases that she had seen and kind of took them back to their original
+[2:46] diets pharmacology is a really interesting book where she kind of goes
+[2:53] over how changing the way we farm can can really change our health which I really really really believe in you know
+[3:03] when people talk about so what you do a vegan diet being good for the environment you'll see a lot of people respond say well that's not true look at
+[3:10] this study and that's the what those studies are looking at show that if we were to go vegan but continue the exact same farming structure that we have
+[3:19] right now we would still be importing blueberries and and things like that it's not as as effective as we would like it to be but that's not how it
+[3:26] would be we would be repurposing land we would be reforesting we would take all those swaths of land that grow nothing
+[3:34] but wheat and soy to feed the animals and change it to produce that can actually be helpful
+[3:41] there should be an emphasis on more urban farms on local farms and so her book goes into all this in detail it's
+[3:49] really fantastic longevity diet is very interesting I've been interested in dr. Valter Longo x'
+[3:55] work he is a aging scientist and he's not vegan or vegetarian though he hits on a lot of the data we hit on when we
+[4:04] look at the plant-based diets which is that high protein may actually be a cause of Aging and that protein diets especially under the age
+[4:13] of 65 are protective for long-term health he goes into some of the blue zones and and why they're living healthy
+[4:20] there's a lot of science in his book he's famous for his fasting and he goes into that fasting what he calls a fast
+[4:28] mimicking diet which I've done his diet it's called the prolonged diet and I can't tell you much if it worked for me
+[4:36] or if it didn't I feel healthy at almost 49 years old I I don't think I could feel any better but can't really attribute that to the few times I've
+[4:44] done the prolonged diet the only thing I could tell you on how I felt on the prolonged diet was hungry but probably not as hungry is if you fast without the
+[4:52] fast mimicking diet but he's got some very interesting research most of it is animal research but there is some human research on the effects of fast
+[5:01] mimicking diet which he goes to in here and also just how to live a healthy diet and look at the cover how to live a healthy diet again it's plants I think
+[5:09] we know this but I think it's interesting coming from a guy who really isn't a plant-based advocate per se he's more a researcher a scientist who
+[5:17] studies Aging and has come to that conclusion and has a really good book so just a few of the books that I've been going through lately I've also been
+[5:25] going through as I've posted a couple times on some of the books about just not the nutrition aspects of food but
+[5:33] how can I get my patients to change their behavior and how can I get them to actually adopt a new lifestyle when it
+[5:41] comes to food and that's a whole different topic I could tell you that an apple is good for you but how do I get you to choose that Apple is a totally
+[5:50] different aspect and I'll get them more into that in the future as we here at mission health try to create what we
+[5:57] think is gonna be the perfect program to help people get healthy and part of that's not just to teach them what to
+[6:05] eat but how to change their behavior and want to eat that way so I will give you more of that later
+
+====
+
+Fact-Check:
+[1:10] ...your body so desperately wants blood sugar and to fill up its glycogen stores that it will do a process called gluconeogenesis where it actually turns the protein into sugar...
+-> VALIDATED / CELLULAR PHYSIOLOGY (Gluconeogenesis; during carbohydrate restriction, the liver and kidneys synthesize glucose from non-carbohydrate precursors—predominantly glucogenic amino acids derived from dietary or endogenous proteins—to maintain essential blood glucose levels.)
+
+[2:24] ...her name is Daphne Millar... she actually studies soil quite a bit she is a primary care doctor this book the jungle effect is actually very interesting...
+-> VALIDATED / MEDICAL BIOGRAPHY (Daphne Miller; Daphne Miller, MD, is indeed a board-certified family physician and clinical professor whose research and books, including "The Jungle Effect" and "Farmacology," focus on how soil ecology and sustainable farming practices directly impact human health.)
+
+[4:04] ...high protein may actually be a cause of Aging and that protein diets especially under the age of 65 are protective for long-term health...
+-> CONTEXTUALIZED / NUTRITIONAL GERONTOLOGY (Protein and aging; the research of Dr. Valter Longo indicates that *low* protein intake (not general protein diets) is associated with reduced IGF-1, cancer, and overall mortality in those under age 65, whereas higher protein intake only becomes protective and necessary to prevent frailty in individuals *over* the age of 65.)
+
+[4:52] ...he's got some very interesting research most of it is animal research but there is some human research on the effects of fast mimicking diet...
+-> VALIDATED / CLINICAL TRIALS (Fasting-mimicking diet; while early mechanistic findings were established in yeast and mice, Dr. Valter Longo and colleagues have published several randomized, controlled clinical trials in humans demonstrating that a fasting-mimicking diet improves biomarkers for cellular regeneration, metabolic health, and inflammation.)
+
+
+
+
+
+
+
+
+
+
+Title: January 5, 2019
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=lenGGIbS31o
+
+====
+
+Description:
+A thing, or two, about Paleo.
+
+====
+
+Transcript:
+[0:00] I as I see many of you have been having
+[0:06] a lot of arguments online about the
+[0:08] Paleo diet and there is this what
+[0:12] basically amounts to mental masturbation
+[0:15] over what paleo man ate because there
+[0:19] was not one Paleo diet people lived in
+[0:21] different areas of the world and a
+[0:23] different things there's not one diet in
+[0:25] the world right now there's diets based
+[0:27] on where you live
+[0:28] secondly the Paleo fossil record if you
+[0:33] look at the carbon material an
+[0:35] Australopithecus teeth if you look at
+[0:37] fossilized stool you'll find that most
+[0:40] paleo man a predominantly plants though
+[0:46] they did eat meat but I call this mental
+[0:50] masturbation because it doesn't matter
+[0:52] what paleo man a you could not possibly
+[0:55] eat a paleo diet there's no way that the
+[0:59] Paleo coconut bar the paleo bar that
+[1:01] salty was in any way paleo even the
+[1:04] fruit we eat now has been hybridized so
+[1:06] much it's not paleo and our goals are
+[1:09] totally different than the goals of
+[1:11] paleo man people seem to think that
+[1:14] whatever paleo man ate must be what the
+[1:17] human body needs to eat that's
+[1:19] absolutely not true
+[1:19] paleo man ate for survival it needed
+[1:24] calories
+[1:25] we don't need calories we need
+[1:27] anti-inflammation and avoidance of
+[1:30] carcinogens it's a very different goal
+[1:32] paleo man's goal was to survive to an
+[1:35] age or he could procreate our goal is to
+[1:38] survive to an age where we could see our
+[1:41] pro creations procreation graduate high
+[1:44] school these are very very different
+[1:46] goals and require different diets so
+[1:49] right now I am meeting with my team
+[1:51] regularly we're trying to design the
+[1:53] best lifestyle program to make people
+[1:58] healthy so that they could avoid
+[1:59] medications or minimize their
+[2:01] medications and live a long healthy life
+[2:03] not just a life where you grow to 100 to
+[2:06] live in a nursing home but where your
+[2:09] vital all through your life and I'll
+[2:11] tell you as I look through
+[2:12] all the research and stuff the one thing
+[2:13] that doesn't occur in my brain is well
+[2:15] what was a caveman eating because it has
+[2:18] no relevance on what I want my patients
+[2:21] to eat I want my patients to be able to
+[2:24] first of all eat in a convenient manner
+[2:26] eat in a manner that tastes good to them
+[2:29] because paleo man didn't care about
+[2:30] taste they cared about survival we do
+[2:32] care about taste our food has to taste
+[2:34] good else we won't eat it and most
+[2:37] importantly what I'm looking at is what
+[2:39] foods create anti-inflammation what
+[2:42] foods have been associated with
+[2:43] reduction and diabetes heart disease and
+[2:45] the leading causes of death in the world
+[2:48] and what foods mostly to longevity and
+[2:52] that's what I am designing and so we can
+[2:55] talk all we want about whether brain
+[2:57] size was developed by roots and tubers
+[3:00] which I believe that's what causes brain
+[3:03] size because there was no way they could
+[3:04] eat enough meat in order to stimulate
+[3:07] brain development or whether brain
+[3:10] development came from me which is what a
+[3:11] lot of people say certainly our
+[3:13] longevity our lifespan and our
+[3:16] population grew like crazy once we
+[3:18] started farming that was the real and
+[3:20] then in advance but again none of this
+[3:23] matters what matters is what is best to
+[3:27] your body right now and that seems to be
+[3:29] a predominantly plant-based diet
+
+====
+
+Fact-Check:
+[0:19] ...there was not one Paleo diet people lived in different areas of the world and a different things...
+-> VALIDATED / ANTHROPOLOGY (Paleolithic Diet Diversity; anthropological and archaeological evidence shows that Pleistocene hominins had highly diverse, opportunistic diets dictated by local geography, climate, and seasonality rather than a single, uniform diet)
+
+[0:28] ...the Paleo fossil record if you look at the carbon material an Australopithecus teeth if you look at fossilized stool you'll find that most paleo man a predominantly plants...
+-> VALIDATED / PALEOANTHROPOLOGY (Hominin Paleodiet; carbon isotope analysis of dental enamel from early hominins like Australopithecus and the study of fossilized coprolites from Paleolithic humans show a heavy dietary reliance on plants, seeds, and tubers, supplemented by meat)
+
+[1:01] ...Even the fruit we eat now has been hybridized so much it's not paleo...
+-> VALIDATED / AGRICULTURAL SCIENCE (Selective Breeding of Fruit; modern commercial fruits have been selectively bred and hybridized over millennia to maximize sugar content, water content, and size while significantly reducing fiber, seeds, and bitter compounds compared to their wild ancestral counterparts)
+
+[1:32] ...paleo man's goal was to survive to an age or he could procreate our goal is to survive to an age where we could see our pro creations procreation graduate high school...
+-> SUBJECTIVE / EVOLUTIONARY BIOLOGY (Evolutionary Selective Pressures; while natural selection primarily favors traits that promote reproductive success and offspring survival, the comparison of ancestral evolutionary "goals" to modern human social desires is a rhetorical framing rather than a testable scientific claim)
+
+[2:55] ...whether brain size was developed by roots and tubers which I believe that's what causes brain size because there was no way they could eat enough meat in order to stimulate brain development...
+-> CONTEXTUALIZED / PALEOANTHROPOLOGY (Evolution of Hominin Brain Size; the dietary driver of hominin brain expansion remains an active debate, with the "starch/tuber hypothesis" arguing cooked carbohydrates fueled the brain, while the "expensive tissue hypothesis" posits that high-quality animal proteins and fats were critical)
+
+[3:13] ...certainly our longevity our lifespan and our population grew like crazy once we started farming...
+-> MISLEADING / ANTHROPOLOGY (Neolithic Transition Health; while the agricultural revolution triggered rapid population growth due to increased birth rates, early farming communities actually experienced a decline in individual health, nutritional variety, and lifespan/longevity compared to hunter-gatherers)
+
+[3:23] ...none of this matters what matters is what is best to your body right now and that seems to be a predominantly plant-based diet...
+-> VALIDATED / NUTRITIONAL SCIENCE (Plant-Based Diets and Health; broad consensus among major global health organizations confirms that diets rich in minimally processed plant foods and low in red and processed meats are consistently associated with a reduced risk of chronic diseases and increased lifespan)
+
+
+
+
+
+
+
+
+
+Title: We MUST act NOW
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=8vRlfaU2QVc
+
+====
+
+Transcript:
+[0:00] so I'm posting quite a bit today but I'm
+[0:03] kind of fired up because we are really
+[0:06] at a critical time right now
+[0:08] and let me tell you this it is not a
+[0:10] coincidence that our health the health
+[0:16] of our population is tied to the health
+[0:19] of the planet and both of them are at a
+[0:23] critical issue right now our health
+[0:26] system cannot possibly care for the
+[0:31] amount of disease that's coming in and
+[0:33] that will be coming in the future
+[0:35] cardiac disease is our leading source of
+[0:38] death it's ashli epidemic obesity is
+[0:41] rising at epidemic rates so is diabetes
+[0:44] the central issue facing us as a country
+[0:48] our solvency our economy is gonna be
+[0:52] dependent on how we treat illness the
+[0:59] major crisis we have right now is not on
+[1:00] a stupid southern border it is the
+[1:03] health of our population
+[1:05] meanwhile there are now predictions that
+[1:09] there will be no fish in the sea by 2048
+[1:12] we have climate change happening at
+[1:15] alarming rates alarming rates now and I
+[1:19] published today on my Instagram a
+[1:22] article by The Lancet that is an amazing
+[1:26] article which is a large meta-analysis
+[1:29] looking over multiple prospective
+[1:32] studies and randomized control trials in
+[1:35] you got to understand that when we do
+[1:37] these large studies when when scientists
+[1:39] look at these large studies they control
+[1:40] four different factors and so you really
+[1:42] almost take away the benefits of a
+[1:46] plant-based diet and then look because
+[1:48] for instance they'll control for weight
+[1:50] well if you control for weight that's
+[1:51] one of the great ways that a plant-based
+[1:53] diet helps you but they want to try to
+[1:56] even things out and even after doing all
+[1:59] this control that study found what they
+[2:01] said was a striking correlation between
+[2:03] the amount of good carbohydrates you eat
+[2:05] the amount of fiber the amount of whole
+[2:07] grains and the non-communicable disease
+[2:11] that we encounter such as heart disease
+[2:13] and diabetes now you can understand for
+[2:16] group of Sciences to be doing a study
+[2:19] and use the word striking that is a very
+[2:22] very rare and they even say in that
+[2:24] study even though they're looking for
+[2:26] the most part in correlations allow you
+[2:27] to look at randomized controlled trials
+[2:29] they did say that it suggests that the
+[2:31] correlations are actually positive you
+[2:34] almost never hear that when a scientist
+[2:37] releases a study that's looking at
+[2:40] epidemiology because in epidemiology we
+[2:43] are looking at correlation though you
+[2:44] can't understand where there's smoke
+[2:46] there's fire this is just one study
+[2:48] there's been multiple studies like this
+[2:50] multiple studies and at the same time
+[2:53] today there was a report released by the
+[2:57] epic eating group which is 30 of the
+[3:00] world's premier scientists on food and
+[3:03] environment and health and after
+[3:06] reviewing all of the science and the
+[3:10] data they've concluded as the World
+[3:12] Health Organization has concluded as the
+[3:16] IPPC has concluded and that is that we
+[3:21] have to do something about the way we
+[3:24] eat in order to protect our environment
+[3:26] we have to eat less mean we have to the
+[3:30] only way that our planet will survive is
+[3:32] us to eat a predominantly plant-based
+[3:35] diet this has nothing to do with
+[3:36] veganism this has to do with changing
+[3:39] the way we eat because there is such a
+[3:40] huge demand right now for animal protein
+[3:43] and that huge demand for animal protein
+[3:46] drives big corporations to try to sell
+[3:49] animal protein in order to meet that
+[3:52] demand
+[3:53] they have to create what are called
+[3:54] Capo's these controlled feeding
+[3:57] operations where millions even billions
+[3:59] of animals are stuffed into a small
+[4:02] little area now because they're stuffed
+[4:04] into a small little area they tend to
+[4:05] get diseases and you do eat diseased
+[4:07] animals every time you eat something
+[4:10] that's coming from a cake for which by
+[4:11] the way is the vast majority of the food
+[4:14] that you eat the vast majority and so it
+[4:17] turns out that Capo's are the number-one
+[4:20] you
+[4:21] of antibiotics and that antibiotics does
+[4:24] get into our system they also need to
+[4:28] feed these animals and so in order to
+[4:30] feed these animals we have to group
+[4:31] large monocultural crops because we're
+[4:34] not feeding these animals a whole varied
+[4:36] diet we're feeding them corn and grain
+[4:39] and soy and so the vast majority of the
+[4:42] crops when you're driving through
+[4:43] Nebraska and all you see is this grain
+[4:44] everywhere the vast majority of that is
+[4:47] going to feed these animals now in order
+[4:51] to grow monocultural crops that's not a
+[4:52] healthy way of raising your soil or
+[4:55] suppose I have a whole bunch of
+[4:56] different crops and if one crop dies
+[4:58] because it gets a bug or something then
+[5:01] the other crops can grow but when you
+[5:02] grow up monoculture crop if one bug hits
+[5:05] you you lose all your crops so therefore
+[5:07] what you have to do you've got to spray
+[5:08] pesticides and those pesticides leak
+[5:11] into our soil in GP for instance just
+[5:14] destroys the soil destroys it our
+[5:18] topsoil is wasting away
+[5:20] there's no not even earthworms can live
+[5:23] in our soil anymore in that GP then
+[5:26] soaks into our soul gets into our rivers
+[5:29] and destroys the life in our rivers and
+[5:31] then gets into our oceans and destroys
+[5:33] the life of our oceans meanwhile these K
+[5:37] foes with these billions of animals
+[5:39] stuffed in there produce billions of
+[5:42] tons of waste and that waste gets into
+[5:47] our soil and our that waste gets they
+[5:50] build these waste lakes and that seeps
+[5:52] into our rivers and it kills off our
+[5:54] rivers and causes algae blooms that
+[5:57] further kill off things and the animals
+[5:59] produce co2 and methane in huge amounts
+[6:02] huge amounts we this is not a
+[6:05] sustainable way of feeding ourselves and
+[6:09] feeding the world it's just not
+[6:10] sustainable I mean while we're out
+[6:12] fishing the oceans and we fish the
+[6:14] oceans with trawlers that have tons of
+[6:16] bycatch so they throw away the bycatch
+[6:18] but if you're throwing away the bycatch
+[6:19] that's the food to other animals and
+[6:21] there and you've totally destroyed the
+[6:23] ecosystem we've gone into destroying
+[6:25] ecosystems everywhere we are in the
+[6:27] sixth mass massive extinction of life
+[6:30] now we're losing species daily and all
+[6:35] of this really can't change if we shift
+[6:38] to a predominantly plant-based diet if
+[6:40] we really instead of funding Tyson or
+[6:43] funding the producers and giving
+[6:48] incentives to farmers to produce the
+[6:50] food that will go to feed these Capo's
+[6:52] if instead we were giving that to small
+[6:55] farms to local farms if we were using
+[6:59] our dollar as a vote in buying
+[7:01] plant-based food so that we changed the
+[7:04] demand to more plans and more plant
+[7:06] based food and even took that demand
+[7:08] further demanded non-gmo crops demanded
+[7:11] no pesticides demanded that we got
+[7:13] organic food demanded that we had
+[7:16] regenerative farming and permaculture
+[7:19] and we could do that we have the power
+[7:22] to do that but we have to do that we
+[7:23] have to do it now because our health our
+[7:26] financial health in the health of our
+[7:29] population and the health of our world
+[7:31] is absolutely dependent on us doing it
+[7:34] right now right now it is now time and
+[7:37] do it do it for yourself do it for your
+[7:40] health and do it for your kids our kids
+[7:44] are going to inherit an absolute
+[7:47] disaster and I think we owe it to them
+[7:50] to turn this around now because the the
+[7:53] truth of the matter is we could
+[7:54] completely turn it around we could
+[7:55] change everything we could feed the
+[7:57] world we could change our health but
+[8:03] it's gonna take action we can't just
+[8:05] look at these feeds and look at these
+[8:06] stories and just forget about it the
+[8:08] science is absolutely clear the time for
+[8:10] debating is gone the time for action is
+[8:13] now
+
+
+
+[1:09] ...there will be no fish in the sea by 2048 we have climate change happening at alarming rates...
+-> VALIDATED / ECOLOGICAL METRICS (Marine depletion timelines; references the widely publicized 2006 macro-ecological study by Worm et al. in *Science* projecting global commercial fishery collapses by 2048 under business-as-usual trends, framing ecosystem collapse as an immediate existential threat)
+
+[1:22] ...an article by The Lancet that is an amazing article which is a large meta-analysis looking over multiple prospective studies and randomized control trials...
+-> VALIDATED / EPIDEMIOLOGICAL EVIDENCE (The 2019 Reynolds et al. *Lancet* meta-analysis; references the landmark systematic review commissioned by the WHO that evaluated carbohydrate quality, demonstrating that high intakes of dietary fiber and whole grains significantly lower the incidence of all-cause and cardiovascular mortality)
+
+[1:48] ...for instance they'll control for weight well if you control for weight that's one of the great ways that a plant-based diet helps you...
+-> CONTEXTUALIZED / METABOLIC CONFOUNDERS (Statistical over-controlling critique; notes a common methodological challenge in nutritional epidemiology where adjusting for intermediary biomarkers like body mass index ($BMI$) or weight can artificially attenuate the apparent protective effect of high-fiber diets against non-communicable diseases)
+
+[2:53] ...today there was a report released by the epic eating group which is 30 of the world's premier scientists on food and environment and health...
+-> VALIDATED / INSTITUTIONAL CONSENSUS (The EAT-Lancet Commission; references the 2019 report by the EAT-Lancet Commission on Healthy Diets from Sustainable Food Systems, which convened global experts to establish scientific targets for a healthy "planetary health diet" built on minimizing animal protein)
+
+[3:54] ...they have to create what are called Capo's these controlled feeding operations where millions even billions of animals are stuffed into a small little area...
+-> VALIDATED / INDUSTRIAL PROTOCOLS (CAFO operations; accurately identifies Concentrated Animal Feeding Operations ($CAFOs$) as the structural driver of industrial animal agriculture, designed to maximize biomass throughput per square foot via confinement)
+
+[4:17] ...it turns out that Capo's are the number-one use of antibiotics and that antibiotics does get into our system...
+-> CONTEXTUALIZED / MICROBIOLOGY (Agricultural antimicrobial resistance; notes that the vast majority of medically important antibiotics are allocated to livestock for prophylactic disease prevention in crowded conditions, though human exposure occurs primarily via environmental runoff and resistant bacterial strains rather than direct residual ingestion)
+
+[4:30] ...in order to feed these animals we have to grow large monocultural crops... we're feeding them corn and grain and soy...
+-> VALIDATED / ECOLOGICAL CONVERSION EFFICIENCY (Trophic calorie loss; highlights that intensive livestock farming relies on heavy arable land allocation for feed crops, causing substantial thermodynamic calorie conversion losses compared to direct human consumption of crops)
+
+[5:08] ...you've got to spray pesticides and those pesticides leak into our soil in GP for instance just destroys the soil...
+-> CONTEXTUALIZED / AGROCHEMICAL CRITIQUE (Glyphosate impacts; refers to the extensive use of broad-spectrum herbicides like glyphosate ($GP$) in industrial monoculture, which alters soil microbial communities and drives chemical runoff into adjacent aquatic ecosystems)
+
+[5:47] ...they build these waste lakes and that seeps into our rivers... and causes algae blooms...
+-> VALIDATED / ENVIRONMENTAL PATHOLOGY (Agricultural eutrophication; accurately describes the mechanics of open waste lagoons in pig and dairy operations, where nitrogen and phosphorus runoff triggers massive aquatic eutrophication ($algae\ blooms$), resulting in hypoxic dead zones)
+
+[6:12] ...we fish the oceans with trawlers that have tons of bycatch so they throw away the bycatch...
+-> VALIDATED / MARINE ECOLOGY (Bottom trawling mechanics; references commercial fishing practices where large-scale nets indiscriminately capture non-target marine species ($bycatch$), leading to massive ecological disruption and food web collapse when discarded dead or dying)
+
+[6:27] ...we are in the sixth massive extinction of life now we're losing species daily...
+-> VALIDATED / CONSERVATION BIOLOGY (The Anthropocene extinction; aligns with biological consensus identifying the current epoch as the Holocene/Anthropocene mass extinction event, driven primarily by human land-use conversion, habitat fragmentation, and global biodiversity loss)
+
+[7:16] ...demanded that we had regenerative farming and permaculture...
+-> CONTEXTUALIZED / INTERNARRATIVE RHETORIC (Transition to holistic agriculture; shifts the advocacy frame from simple personal dietary choices to macro-level structural reform, promoting closed-loop agricultural paradigms like permaculture and regenerative farming to restore depleted topsoil matrices)
+
+
+
+
+
+
+
+
+
