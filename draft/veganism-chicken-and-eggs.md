@@ -7401,3 +7401,1600 @@ Transcript:
 
 
 
+Title: Why I am Staying Vegan and why the “Leaving Vegan” videos are ridiculous
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=fqapZarTTb8
+
+====
+
+Transcript:
+[0:01] okay I've written about this before and I'm gonna make this video and I'm not gonna touch this up subject again it's just it's really it's completely inane
+[0:10] you're not gonna see my other physician and scientist acquaintances and colleagues even mentioning this but I am
+[0:18] getting tons and tons of messages from people absolutely petrified because there's all these young Millennials on
+[0:25] YouTube who were vegan and are no longer vegan and they're posting these videos why I'm no longer vegan and are they
+[0:33] right and should I not be vegan and is it ruining my body and all that kind of stuff and I don't know it's crazy to me I mean it's absolutely crazy because these are kids posting this stuff I mean
+[0:42] these are like young kids a lot of them with eating disorders who are posting videos about why they are no longer
+[0:49] vegan I did not become vegan because I saw a YouTube video that told me to
+[0:58] become vegan or a I wasn't I didn't see some guy and think oh that guy's a vegan therefore I should be vegan I did it
+[1:05] because of science I did it because of research that I did I did it because of how I saw a whole food plant-based diet
+[1:12] worked as people I did it because of the environment and finding out what animal products and animal agriculture does to
+[1:19] our environment I did it because the absolute torture that happens to animals which brings up a point veganism is an ethic so I don't know these people that
+[1:28] say I'm leaving veganism are basically saying I'm changing my ethics I guess I know true vegans true vegans are vegan
+[1:37] for the animals I mean they don't have a drop of leather they don't even wear wool and they are completely dedicated
+[1:45] to helping protect animals and they are they would never leave veganism because they got as it or they got gassed that
+[1:52] just that wouldn't even come up in their mind because they're so strongly for the animals this actually in some ways hurts
+[2:02] the the vegan movement in this one manner a lot of the studies done on vegans use ethical vegans in there so for instance the
+[2:11] epic study that was done an Oxford there were a lot of ethical vegans in that group and when you looked at their diet it was very low in the fiber and some of
+[2:19] them didn't even get 500 milligrams of calcium so they had extremely low calcium levels and so the you would then make these generalized statements about
+[2:26] vegans and their health and by the way they were still extremely healthy but they would have been even healthier had
+[2:34] they followed a more balanced diet but they're not in it for health they're in it for the animals and so these youtubers that are leaving veganism
+[2:43] they're not vegan they're leaving their previous diet and let me tell you the diet that these people are doing are not
+[2:49] the diets that Dean Ornish or Esselstyn or especially Fuhrman or myself tell
+[2:58] patients to eat it's not even in the same realm of what we tell patients to eat I mean these people look they're Millennials I was the same when I was 20
+[3:06] I went from one thing to another one interest to another and they were they go do these unbelievable extremes they're doing nothing but juices like
+[3:14] what's amazing to me is they'll go on like these juice diets where they're basically just it's they're just taking in sugar that's all they're taking there
+[3:21] they're hardly getting any fiber they avoid some of the key nutrients so they a lot of them like for some reason it's
+[3:30] like just they can't even believe that you would ever cook food which is look it's crazy to me but so they therefore
+[3:37] will avoid all kinds of foods they won't eat soy cuz they somehow believe soy is bad for you whereas the science does not show that also that soy is very good for
+[3:45] you but so is a great source of amino acids of protein great so a lot of the soy milk sour just loaded with calcium tofu is loaded with calcium so they
+[3:54] don't get enough calcium they will avoid grains and legumes because you've got to cook them or if they get legumes it's very little they avoid most grains all
+[4:01] together so they that'd be fun I mean how could a plant-based diet for some like the vitamins they end up lacking B vitamins and lacking zinc they don't
+[4:10] take supplements because you know they get on this like oh my god I'm not gonna do anything unless it's from nature so they get b12 deficiencies then they feel
+[4:18] like and they get sick because they're eating a really bad diet they're not eating a good day just cuz they're not eating meat doesn't mean that they're eating a healthy diet then they take a bite of meat which is
+[4:27] loaded with calories and loaded with fat and they get some of this fat back and I feel great and oh my god veganism kill me biggie does it didn't kill you your bad
+[4:35] diet killed you is it's a soul I don't know blatantly obvious to me now the science behind whether a plant-based diets gonna kill you is just I mean it's
+[4:44] just preposterous to even suggest that it would it's the healthiest diet you could do and the thing about it is my diet I'm not it's not difficult to for
+[4:52] me to eat my diet I don't do oh my god I wake up every morning I wish I could go and eat this but I got to eat this instead it doesn't work like that I have
+[5:00] oatmeal and berries and all kinds of stuff for breakfast that tastes great sometimes I'll have a tofu scramble and a burrito you know my lunches or soups
+[5:09] and salads and potatoes I eat a lot of grains I eat a lot of dark greens I eat a lot of legumes I eat a lot of fruit I
+[5:17] eat all of these foods so I'm never hungry I mean what really surprises me is when people go to a vegan diet and then they stole our portion controlling
+[5:25] so there he needs tiny meals they're hardly getting any calories and they feel like crap and I don't know why they feel like crap it should be obvious why you feel like crap you're not getting
+[5:33] enough calories but that doesn't happen my diet and I'll tell you you want to go and hang with the vegan bodybuilders or
+[5:40] come to some of the veg fest like I would do this veg fest at Marshall Texas and everyone there was this pillar just
+[5:49] the sparkling beacon of health like unreal health I mean if people are running they feel great they're eating
+[5:57] all day long they're having tons of great food everybody's happy and they're healthy these aren't people that are
+[6:03] even in the realm of even in thinking that they would switch so my advice to
+[6:12] you is totally and completely and utterly ignore YouTube videos which is
+[6:19] ironic because here's a YouTube video ignore a millennial who went from one bad diet to another and it's just like
+[6:28] going on the winds of change and whatever is new is whatever they're gonna popularize on their videos I mean they'll go from
+[6:35] vegan to selling bone broth in a matter of months it's absolutely ridiculous
+[6:42] stick with the scientists that are bringing you good science to talk about what health is look at the experts I mean the experts at the US will a news
+[6:50] report on diet I mean they said that the top diets the top diet for health Ornish's up there the top general diet
+[6:58] is the - diet which was actually based on a vegetarian diet but they made it have some animal products in order to
+[7:05] get most people to use it and the flexitarian diet which is basically plant-based diet and then the Mediterranean diet when done traditionally is a predominantly
+[7:13] plant-based diet these diets have tons and tons of evidence if you want to be vegan you could be vegan easily now we
+[7:20] can't talk about what deficiencies you could run into the only key supplement you have to take is b12 but you've got
+[7:28] to take it you've got to take it ok if you are getting plenty of legumes and grains you don't have to worry about the same my zinc level through the roof
+[7:36] fantastic it's easy to get um zinc of but if you think you're deficient in that you can't be now women could get deficient in iron but you know the crazy
+[7:45] thing to me is like these youtubers go to a doctor if you go to a doctor's not trained in nutrition you tell them you're vegan and you got a problem
+[7:53] they're gonna blame it on veganism they're just gonna say oh it's your vegan diet which is obsessed it's just absurd because they'll have a patient right before them who's eating me and
+[8:01] they come in and they're hypothyroid and they're like oh you're hypothyroid use this then the other vegan comes in and they're hypothyroid it's like oh that's cuz you're vegan whereas the data shows
+[8:09] that vegans do not have an increased risk of hypothyroidism but anyway you will see iron deficiencies in people always see it immediate ORS we see it in
+[8:18] vegans the answer to that is not to eat meat in fact that heme iron is very toxic very bad you could supplement with
+[8:25] iron or you can eat a lot of dark green vegetables or take a supplement you can
+[8:34] get an omega-3 deficiency and I think this might be more common than we know it's still being studied I take an
+[8:42] omega-3 supplement I take microalgae I don't want to eat fish there's a lot of toxins and dioxins and
+[8:50] PVCs they're not as loaded in omega-3 cz's they used to be in fishing is destroying the oceans and so I will take
+[9:00] it Omega 3 supplement it's pretty easy it's an algae supplement there are these debates over certain amino acids like
+[9:09] taurine what your body can make itself it's not an essential amino acid I don't think you have to worry much about that
+[9:15] creatine all the body builders and and a lot of the athletes take creatine it there has been some studies showing that
+[9:24] it does help vegetarians and it can help you with your exercise performance it actually may help with cognition i've trialed it sometimes I use it sometimes
+[9:33] I don't I really haven't noticed much of a difference but it's something that you could add to supplements that's basically it if your vitamin D deficient take vitamin D if you're not don't the
+[9:41] best way to get vitamin D is the Sun but the bottom line is it is so easy to create an unbelievably healthy plant-based diet that would make you
+[9:50] feel fantastic that would make your numbers rival anybody I don't make you live as long as your as anybody in the
+[9:59] world it's also possible to eat a completely junk food and unhealthy vegan diet and so you got to choose appropriately but choose it based on
+[10:08] science not based on some millennial kid who got a zit while doing a juice fast
+
+====
+
+Fact-Check:
+[0:10] ...you're not gonna see my other physician and scientist acquaintances and colleagues even mentioning this...
+-> SUBJECTIVE / EXPERT OPINION (The speaker is making a personal observation about the behavior of his peers, not a verifiable factual claim.)
+
+[0:18] ...getting tons and tons of messages from people absolutely petrified because there's all these young Millennials on YouTube who were vegan and are no longer vegan...
+-> UNVERIFIABLE / ANECDOTAL CLAIM (The speaker asserts receiving many messages and characterizing the senders as "petrified." No evidence is provided to verify the volume or content of these messages.)
+
+[0:42] ...these are young kids a lot of them with eating disorders who are posting videos about why they are no longer vegan...
+-> MISLEADING / POPULATION LABEL (The speaker broadly labels YouTube content creators as having eating disorders. While some individuals may have disordered eating, this is a sweeping, unsubstantiated generalization about a diverse group.)
+
+[1:05] ...I did it because of science... because of how I saw a whole food plant-based diet worked... because of the environment... because the absolute torture that happens to animals...
+-> SUBJECTIVE / PERSONAL MOTIVATION (The speaker is listing his own reasons for adopting veganism, which is a personal account, not a factual claim requiring verification.)
+
+[2:02] ...a lot of the studies done on vegans use ethical vegans... the epic study that was done an Oxford there were a lot of ethical vegans in that group and when you looked at their diet it was very low in the fiber and some of them didn't even get 500 milligrams of calcium...
+-> CONTEXTUALIZED / NUTRITIONAL EPIDEMIOLOGY (The EPIC-Oxford study included many vegans who were indeed motivated by ethics, and some had low calcium intake. However, average fiber intake among vegans in that study was actually high (around 30-40 g/day), not "very low." The claim about fiber is misleading; the calcium point is accurate for a subset. The study did not generalize poor health from that subset.)
+
+[2:34] ...they would have been even healthier had they followed a more balanced diet...
+-> SUBJECTIVE / NUTRITIONAL OPINION (This is a speculative opinion about health outcomes, not a testable factual claim.)
+
+[3:14] ...they'll go on like these juice diets where they're basically just it's they're just taking in sugar that's all they're taking there they're hardly getting any fiber...
+-> CONTEXTUALIZED / DIETARY PATTERN (Juice-only diets are indeed low in fiber and high in simple sugars. However, the speaker implies this is typical of ex-vegan YouTubers, which is an overgeneralization; some may have followed such diets, but not all.)
+
+[3:30] ...they will avoid all kinds of foods they won't eat soy cuz they somehow believe soy is bad for you whereas the science does not show that also that soy is very good for you...
+-> VALIDATED / SOY SAFETY (Current evidence supports that moderate soy consumption is safe and associated with health benefits. The claim that anti-soy fears are unsupported by science is correct.)
+
+[4:10] ...they end up lacking B vitamins and lacking zinc they don't take supplements because you know they get on this like oh my god I'm not gonna do anything unless it's from nature so they get b12 deficiencies...
+-> CONTEXTUALIZED / NUTRITIONAL DEFICIENCY (It is true that vegans who avoid all fortified foods and supplements can become B12 deficient, and some raw-food or "natural" vegans may avoid supplements. However, the claim is presented as typical of all "leaving vegan" YouTubers, which is an overgeneralization.)
+
+[4:27] ...they take a bite of meat which is loaded with calories and loaded with fat and they get some of this fat back and I feel great and oh my god veganism killed me biggie does it didn't kill you your bad diet killed you...
+-> SUBJECTIVE / RHETORICAL CLAIM (The speaker is offering an anecdotal interpretation of why ex-vegans feel better, not a factual claim.)
+
+[4:44] ...the science behind whether a plant-based diets gonna kill you is just I mean it's just preposterous to even suggest that it would it's the healthiest diet you could do...
+-> CONTEXTUALIZED / DIETARY HEALTH (Well-planned plant-based diets are indeed associated with lower risk of chronic diseases and are considered healthy. However, claiming it is "the healthiest diet you could do" is an oversimplification; well-planned omnivorous diets can also be very healthy. The scientific consensus supports plant-based diets as healthy, but not uniquely or universally the single healthiest.)
+
+[6:49] ...the experts at the US will a news report on diet I mean they said that the top diets the top diet for health Ornish's up there the top general diet is the - diet which was actually based on a vegetarian diet but they made it have some animal products in order to get most people to use it and the flexitarian diet...
+-> CONTEXTUALIZED / DIETARY RANKINGS (U.S. News & World Report diet rankings consistently place the DASH diet (which is plant-forward but includes some animal products) and the Mediterranean diet at the top. The Ornish diet is also highly ranked for heart health. The speaker's description is roughly accurate but the mention of "the - diet" is garbled; likely referring to DASH. The assertion that the top general diet was "based on a vegetarian diet" is misleading; DASH was designed to lower blood pressure and is not necessarily based on vegetarian principles.)
+
+[7:20] ...the only key supplement you have to take is b12 but you've got to take it...
+-> VALIDATED / VEGAN NUTRITION (B12 supplementation is essential for vegans because it is not reliably obtained from plant foods. This is a well-established recommendation from health authorities.)
+
+[8:09] ...vegans do not have an increased risk of hypothyroidism...
+-> MISLEADING / THYROID HEALTH (The speaker claims no increased risk, but some studies have found that vegans may have lower iodine intake, which can affect thyroid function. While hypothyroidism not universally elevated, iodine deficiency is a risk. The statement lacks nuance; some vegans may be at risk if iodine intake is insufficient.)
+
+[8:18] ...the answer to that is not to eat meat in fact that heme iron is very toxic very bad...
+-> MISLEADING / IRON METABOLISM (Heme iron is not "very toxic" at normal dietary levels; it is more absorbable than non-heme iron, and excessive intake is associated with oxidative stress in some contexts, but moderate consumption is safe. The framing as "very toxic" is an exaggeration not supported by mainstream nutrition science.)
+
+[8:42] ...omega-3 deficiency... I think this might be more common than we know it's still being studied...
+-> CONTEXTUALIZED / OMEGA-3 STATUS (Vegans can have lower DHA levels due to lack of direct dietary sources, but conversion of ALA to DHA is limited. The speaker's hedging ("I think", "still being studied") makes this a cautious claim; it is accurate that vegans may have lower omega-3 levels, but deficiency is not universal.)
+
+[9:09] ...taurine what your body can make itself it's not an essential amino acid...
+-> VALIDATED / AMINO ACID BIOCHEMISTRY (Taurine is conditionally essential; the human body can synthesize it from cysteine, so it is not required in the diet under normal conditions. This is correct.)
+
+[9:15] ...creatine... there has been some studies showing that it does help vegetarians... may help with cognition...
+-> CONTEXTUALIZED / SUPPLEMENT EFFICACY (Studies show that creatine supplementation can improve muscle performance in vegetarians (who have lower baseline creatine). Some evidence suggests cognitive benefits as well, but it's not definitive. The speaker's statement is consistent with current literature.)
+
+
+
+
+
+
+Title: Why is meat bad for us? What is the mechanism?
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=c_hWRSepzSY
+
+====
+
+Transcript:
+[0:01] okay so let's talk about what is
+[0:04] actually bad in me I mean what is the
+[0:07] harmful effect of me I see these guys
+[0:12] online they say that a meat diet is
+[0:14] perfect it gives you all the vitamins
+[0:16] obviously that's not true I mean you
+[0:18] can't get vitamin C that's where scurvy
+[0:21] came from people are eating nothing but
+[0:22] meat you can't get a lot of the fiber
+[0:25] that you need you don't get
+[0:26] phytonutrients in fact without that
+[0:29] fiber you don't get the prebiotic so you
+[0:31] do change your bowel bacteria and
+[0:32] there's been studies about this that you
+[0:33] change your bio bacteria and you
+[0:36] actually get a bacteria that's more
+[0:38] prone to producing TMAO from carnitine
+[0:40] TMAO is a substance that's very bad for
+[0:43] the heart has been associated with
+[0:44] congestive heart failure and heart
+[0:46] disease and you also get a microbiome
+[0:49] that doesn't produce butyrate which is
+[0:51] protective to the colon and
+[0:53] anti-inflammatory but besides what
+[0:56] you're missing what are you getting
+[0:57] what's bad in the meat well there's
+[1:00] several things first of all advanced
+[1:01] glycation glycation end-products or AG
+[1:04] ease AG's are caused by the Browning
+[1:07] that you see with me you can't get it
+[1:10] with any kind of browning it's called
+[1:12] the Maillard reaction so you could get
+[1:13] it with toast too
+[1:14] you just don't get it to quite the
+[1:17] effect that you get it with me meat has
+[1:19] a very high a GE content I suggest you
+[1:22] look it up because AG's have been tied
+[1:23] with multiple different diseases that's
+[1:25] basically because AG es create free
+[1:28] radicals and we know that free radicals
+[1:30] create disease and aging etc now keep in
+[1:36] mind if you're on a meat diet and you're
+[1:38] getting a lot of a G's you're also not
+[1:39] getting the antioxidants that can fight
+[1:41] the ATS vs. I had toast today my toast
+[1:44] probably had some AG ease with it but I
+[1:45] also had blueberries so my blueberries
+[1:47] would act as an antioxidant towards that
+[1:49] affect also in that Browning not only do
+[1:53] you get AG ease you also get hetero
+[1:55] cyclic amines which we know are in fact
+[1:57] carcinogenic you also get saturated fat
+[2:00] we know from saturated fat that it
+[2:02] raises cholesterol a lot of these people
+[2:04] on ketosis diets we saw in a recent
+[2:06] study in a randomized control trial
+[2:08] increased their cholesterol by 40% LDL
+[2:11] cholesterol that is
+[2:12] a really bad result because from the
+[2:14] Cooper study we know that increases in
+[2:16] cholesterol are associated with heart
+[2:19] disease irrespective of any other
+[2:21] factors in other words in the in the
+[2:23] Cooper study they followed for 10 years
+[2:25] 30,000 people that were otherwise
+[2:27] healthy they just had a high LDL
+[2:29] cholesterol and they saw a substantial
+[2:31] amount of increase in mortality and
+[2:33] morbidity because of that and so that
+[2:36] increase of cholesterol is important we
+[2:37] also know that saturated fat is tied
+[2:39] with cancers and that saturated fat
+[2:42] actually causes damage to the gap
+[2:45] junctions of your cells in your
+[2:47] intestine you hear people talking about
+[2:48] leaky gut a lot well that is the leaky
+[2:51] gut that damaged the gap junctions
+[2:53] allows what's in your intestine to get
+[2:55] into your body and so what is in your
+[2:57] intestine especially for eating meat is
+[2:58] endotoxin so they did a great study we
+[3:01] randomized control trial where they gave
+[3:03] people either cream or orange juice or
+[3:07] water and with the cream group they saw
+[3:11] a dramatic increase in inflammatory
+[3:13] mediators because what's happening is
+[3:15] endotoxin from the intestine when
+[3:18] combined with the saturated fat is able
+[3:20] to get into the body and the body then
+[3:22] creates an inflammatory reaction to it
+[3:24] we also know that animal proteins have
+[3:27] higher amounts of leucine we know that
+[3:28] leucine stimulates the mTOR aging
+[3:30] pathway and also stimulates igf-1 which
+[3:34] is associated with cancers of course the
+[3:39] meat also has more sulfur containing
+[3:42] amino acids and those sulfur containing
+[3:44] amino acids actually create acidosis you
+[3:46] don't get acidosis by eating acid so
+[3:49] don't go and drink alkaline water that's
+[3:52] not gonna make an effect your body won't
+[3:53] let certify it as it gets into your
+[3:55] stomach what creates acidosis and it's
+[3:58] not acidemia that's a different thing
+[3:59] acidosis is the absorption of these
+[4:03] sulfur containing amino acids it is
+[4:05] buffered by electrolytes and so if
+[4:08] you're not getting a good electrolyte
+[4:09] and we know that people that eat a very
+[4:11] high meat diet often have very poor
+[4:12] electrolyte intake and and so there's a
+[4:16] lot of bad things and I could go on and
+[4:18] on
+[4:18] neu5gc viruses
+[4:23] different things are associated with
+[4:25] meat intake the key is is this actually
+[4:28] affecting your health so we know from
+[4:31] the recent World Health Organization
+[4:35] that processed meat is a class 1
+[4:38] carcinogen meaning they definitely think
+[4:40] it is a carcinogen we also know that red
+[4:44] meat is a class 2a now you gotta
+[4:46] understand for them to come up with
+[4:47] those we need very very clear evidence
+[4:49] and they're using epidemiologic evidence
+[4:51] now I see this a lot from the meat
+[4:54] abacus base that they criticize
+[4:56] epidemiology until they actually have an
+[4:59] epidemiologic study that favors them
+[5:01] then they love epidemiology but here's
+[5:03] the thing about epidemiology we are
+[5:05] never ever ever going to have a
+[5:07] randomized control trial where one group
+[5:09] is doing a plant-based diet one group is
+[5:11] doing a meat diet and this goes on for
+[5:13] twenty years that's what you got to do
+[5:15] in order to really get an answer but
+[5:17] you're not gonna have that possibility
+[5:19] it's just not gonna happen you can't do
+[5:21] that kind of a randomized controlled
+[5:22] trial we have to depend on epidemiology
+[5:24] the strange thing to me about these guys
+[5:28] that are advocating like a carnivore
+[5:30] diet is there's no epidemiologic
+[5:32] evidence that they have any leg to stand
+[5:35] up I mean there is no evidence that a
+[5:36] high meat diet is in any way been
+[5:39] beneficial and there's quite the
+[5:40] opposite and there's quite the opposite
+[5:42] in multiple different studies so it's
+[5:44] not like one study showed this so you
+[5:46] could look at the Adventists Health
+[5:47] Study you could look at the NIH AARP
+[5:53] study you could look at the epic data
+[5:56] study all these studies from different
+[5:58] places at different scientists so that
+[6:00] increased meat consumption is associated
+[6:02] with aging with diabetes with heart
+[6:07] disease with cancer now a lot of times
+[6:10] the correlation is not very strong but
+[6:13] you got to remember if we're doing an
+[6:15] epidemiologic study and I'm studying one
+[6:17] group versus another and there's not a
+[6:19] big difference in those two groups for
+[6:20] instance dr. Esselstyn always uses the
+[6:22] analogy if we're studying whether a car
+[6:24] wreck kills you and one Grips going 80
+[6:27] and one groups going 60 you're not gonna
+[6:29] see a huge difference right and they're
+[6:32] not doing a really big comparison
+[6:34] between
+[6:35] a whole food plant-based diet and a meat
+[6:37] diet now there are studies that are
+[6:38] looking at a meat diet versus a vegan
+[6:40] diet but you got to look at that vegan
+[6:41] diet and in most of those studies in the
+[6:43] vegan diet they're very low fiber 20
+[6:46] grams of fiber this is not a healthy
+[6:48] vegan diet a lot of them haven't been
+[6:50] supplementing their b12 so they're low
+[6:51] and b12 and they're low in calcium
+[6:53] because they're not eating a really
+[6:56] plant-based diet that what should be
+[6:57] high in calcium and what do we see well
+[7:00] we still see that the vegans do better
+[7:02] than the meat-eaters the other thing
+[7:04] they do in these studies is they control
+[7:05] for weight so they say well weight is an
+[7:06] independent factor of disease and in the
+[7:10] vegan group they tend to weight less
+[7:12] than the meat group so that's unfair so
+[7:14] therefore we're only going to look at
+[7:16] people weighing the same well what
+[7:17] they've done is removed one of the huge
+[7:19] benefits of the movie you can diet is
+[7:20] that it's a high-fiber diet as
+[7:21] associated with lower weight and so
+[7:24] these epidemiologic studies actually
+[7:27] overcorrect and are detrimental to a
+[7:30] true plant-based diet yet it still shows
+[7:32] that a plant-based diet is beneficial
+[7:33] then the other thing you'll hear these
+[7:36] meat-eaters say is that we don't have
+[7:38] anything but epidemiology couldn't be
+[7:40] further from the truth so we've got
+[7:41] mechanism of action studies and we have
+[7:44] randomized control trials we have
+[7:46] randomized control trial that that looks
+[7:48] at genes associated with Aging in
+[7:53] carcinogenesis
+[7:54] and show that a plant-based diet affects
+[7:58] 500 different genes in that situation
+[8:00] we've got randomized control trials
+[8:02] sowing a decrease in prostate specific
+[8:05] antigen in people with early-stage
+[8:08] prostate cancer we've got randomized
+[8:10] controlled trials showing a couple of
+[8:13] heart disease which is unheard of
+[8:15] we've got randomized controlled trials
+[8:17] showing a decrease in a1c with diabetics
+[8:19] and we've got quite a few trials showing
+[8:21] randomized control trials saying showing
+[8:23] that a vegan diet is superior for weight
+[8:26] loss in diet trials and these studies
+[8:28] are much longer than any of the the only
+[8:32] thing that ketosis studies been shown to
+[8:34] do is to lose weight and to drop sugar
+[8:38] levels you don't eat sugar you're very
+[8:39] little drugs these are all short-term
+[8:41] studies so none of them have looked
+[8:42] long-term they're not looking at glucose
+[8:44] tolerance test which means there aren't
+[8:45] testing whether
+[8:46] type 2 diabetes is cured there just
+[8:47] showing that your blood sugar drops
+[8:48] which does not as I've stated in other
+[8:50] videos show that your diabetes is cured
+[8:53] if I then give them sugar it will raise
+[8:54] their sugar again they don't have any
+[8:56] long-term studies this is not long-term
+[8:58] at all they're not studying a lot of the
+[9:01] things we study with these plant-based
+[9:02] eyes they're not looking at what is your
+[9:04] vascular function like on a high meat
+[9:07] ketosis type diet we know with the
+[9:09] plant-based diet that when you're on a
+[9:12] plant-based diet you have better
+[9:16] vasoconstriction and vasodilation so I
+[9:19] could put a blood cuff on you and show
+[9:22] that when I release that blood cuff your
+[9:24] your blood vessels are more likely to
+[9:26] dilate on a plant-based diet than they
+[9:28] are on a meat diet and there's several
+[9:32] reasons for that in the effect on the
+[9:34] endothelium and so we have many
+[9:36] mechanism of action studies that also
+[9:39] show why our diet is working and then we
+[9:42] have the epidemiologic studies and and
+[9:44] the looking at the populations that are
+[9:47] the most plant-based and especially
+[9:48] looking at the Adventists vegans which
+[9:50] have been followed for many years so the
+[9:52] bottom line is we had a lot of science a
+[9:54] lot of science we know why animal
+[9:58] protein can be bad for you now in
+[10:02] moderation and small doses it would be
+[10:05] hard to say that it's absolutely bad for
+[10:07] you but we do know that in the advanced
+[10:09] health study the vegans are tend to be
+[10:11] healthier than the vegetarians and
+[10:12] ostensibly the vegetarians you know are
+[10:15] just doing a little bit of animal
+[10:16] protein so maybe less is better we know
+[10:18] that a whole food plant-based diet gets
+[10:20] tons of antioxidants and
+[10:22] anti-inflammatory substances substances
+[10:25] are absorbed and its associated with
+[10:28] long term health I hope that helps out
+[10:32] for you guys kind of deciphering some of
+[10:33] the data that's out there
+
+====
+
+Fact-Check:
+[0:01] ...you can't get vitamin C that's where scurvy came from people are eating nothing but meat...
+-> MISLEADING / NUTRITIONAL SCIENCE (Muscle meat is very low in vitamin C, but organ meats like liver contain significant vitamin C, and raw meat provides some; scurvy from all-meat diets is possible only when organs are absent. The absolute statement is overgeneralized.)
+
+[0:22] ...you can't get a lot of the fiber that you need you don't get phytonutrients in fact without that fiber you don't get the prebiotic so you do change your bowel bacteria...
+-> VALIDATED / NUTRITIONAL SCIENCE (Animal foods contain no dietary fiber or phytonutrients; lack of prebiotic fiber alters gut microbiota composition. This is well-established.)
+
+[0:32] ...you actually get a bacteria that's more prone to producing TMAO from carnitine TMAO is a substance that's very bad for the heart has been associated with congestive heart failure and heart disease...
+-> VALIDATED / CARDIOVASCULAR PHYSIOLOGY (Gut microbiota convert dietary carnitine from red meat into trimethylamine N-oxide (TMAO), a compound linked to increased cardiovascular disease risk in multiple cohort studies and mechanistic research.)
+
+[0:44] ...you also get a microbiome that doesn't produce butyrate which is protective to the colon and anti-inflammatory...
+-> VALIDATED / GUT MICROBIOLOGY (Butyrate is a short-chain fatty acid produced by fermentation of dietary fiber; it has anti-inflammatory and colon-protective effects. Absence of fiber reduces butyrate production.)
+
+[0:53] ...advanced glycation glycation end-products or AG ease AG's are caused by the Browning...meat has a very high a GE content...AG's have been tied with multiple different diseases...AG es create free radicals and we know that free radicals create disease and aging...
+-> VALIDATED / BIOCHEMISTRY (Advanced glycation end-products (AGEs) are formed during cooking via the Maillard reaction; meat and meat products tend to have higher AGE content than plant foods. AGEs are associated with oxidative stress and chronic diseases such as diabetes and cardiovascular disease.)
+
+[1:49] ...you also get hetero cyclic amines which we know are in fact carcinogenic...
+-> VALIDATED / TOXICOLOGY (Heterocyclic amines (HCAs) are formed when meat is cooked at high temperatures; the International Agency for Research on Cancer (IARC) classifies HCAs as possible human carcinogens.)
+
+[1:57] ...we saw in a recent study in a randomized control trial increased their cholesterol by 40% LDL cholesterol...
+-> CONTEXTUALIZED / CLINICAL NUTRITION (Several RCTs of ketogenic diets show significant LDL cholesterol increases in some participants, but the 40% figure likely refers to a specific trial (e.g., Hall et al. 2021) and is not a universal effect. Individual responses vary, and total LDL may not capture particle size changes.)
+
+[2:14] ...from the Cooper study we know that increases in cholesterol are associated with heart disease irrespective of any other factors...they followed for 10 years 30,000 people that were otherwise healthy they just had a high LDL cholesterol and they saw a substantial amount of increase in mortality and morbidity...
+-> UNVERIFIABLE / EPIDEMIOLOGY (The specific “Cooper study” with 30,000 healthy individuals followed for 10 years cannot be reliably identified in major literature; while high LDL is associated with cardiovascular risk, the claim’s exact numbers and framing require citation not provided.)
+
+[2:36] ...saturated fat actually causes damage to the gap junctions of your cells in your intestine...that is the leaky gut...
+-> MISLEADING / CELLULAR PHYSIOLOGY (Saturated fat may influence intestinal permeability through various mechanisms (e.g., altering tight junctions, not gap junctions). The direct statement that saturated fat “causes damage to gap junctions” is not supported by mainstream evidence; leaky gut involves tight junctions primarily.)
+
+[2:42] ...they did a great study we randomized control trial where they gave people either cream or orange juice or water and with the cream group they saw a dramatic increase in inflammatory mediators...
+-> VALIDATED / INFLAMMATION RESEARCH (Multiple RCTs show that a high-saturated-fat meal can increase postprandial endotoxemia and inflammatory markers; for instance, a study comparing cream (saturated fat) with orange juice or water found higher endotoxin and inflammatory cytokines in the cream group.)
+
+[3:24] ...animal proteins have higher amounts of leucine we know that leucine stimulates the mTOR aging pathway and also stimulates igf-1 which is associated with cancers...
+-> VALIDATED / MOLECULAR NUTRITION (Leucine is a potent activator of the mTOR signaling pathway; higher animal protein intake is associated with elevated IGF-1 levels, and both pathways are mechanistically linked to cellular aging and cancer risk in experimental and observational studies.)
+
+[3:38] ...meat also has more sulfur containing amino acids and those sulfur containing amino acids actually create acidosis...if you're not getting a good electrolyte...people that eat a very high meat diet often have very poor electrolyte intake...
+-> CONTEXTUALIZED / METABOLIC PHYSIOLOGY (Sulfur amino acid metabolism generates sulfuric acid, which is buffered by renal and skeletal systems; chronic high intake can increase net acid load. However, meat contains electrolytes (potassium, sodium), and the claim that high-meat diets inherently lead to poor electrolyte intake is not universally supported.)
+
+[4:18] ...neu5gc viruses...
+-> MISLEADING / BIOCHEMISTRY (Neu5Gc is a sialic acid molecule found in red meat, not a virus. It can be incorporated into human tissues and trigger inflammation, but referring to it as “viruses” is incorrect.)
+
+[4:25] ...processed meat is a class 1 carcinogen...red meat is a class 2a...
+-> VALIDATED / CANCER EPIDEMIOLOGY (IARC classified processed meat as Group 1 (sufficient evidence for colorectal cancer) and red meat as Group 2A (probably carcinogenic to humans). This is correct.)
+
+[4:49] ...there is no evidence that a high meat diet is in any way been beneficial...increased meat consumption is associated with aging with diabetes with heart disease with cancer...you could look at the Adventists Health Study...NIH AARP study...epic data study...
+-> CONTEXTUALIZED / EPIDEMIOLOGY (Large prospective cohorts (Adventist, NIH-AARP, EPIC) generally find that higher red and processed meat intake is associated with increased risk of chronic diseases. However, some studies show neutral or beneficial associations for unprocessed meat in certain contexts, and correlation does not prove causation. The claim that there is “no evidence” of benefit is overstated.)
+
+[6:02] ...in most of those studies in the vegan diet they're very low fiber 20 grams of fiber...low in b12...low in calcium...yet it still shows that a plant-based diet is beneficial...
+-> CONTEXTUALIZED / NUTRITIONAL EPIDEMIOLOGY (Many observational studies of vegans report average fiber intakes around 20-30 g/day, which is below recommendations but still higher than typical omnivores; B12 deficiency is common if unaddressed. Despite these limitations, vegan diets are consistently associated with lower disease risk in cohort studies.)
+
+[7:33] ...we've got randomized control trial that that looks at genes associated with Aging in carcinogenesis and show that a plant-based diet affects 500 different genes...we've got randomized control trials showing a decrease in prostate specific antigen...reversal of heart disease...decrease in a1c with diabetics...vegan diet is superior for weight loss...
+-> VALIDATED / CLINICAL TRIAL EVIDENCE (RCTs including the Ornish program and others have demonstrated that plant-based diets can modulate gene expression, reduce PSA in early prostate cancer, induce regression of coronary atherosclerosis, improve glycemic control, and lead to greater weight loss compared to standard diets.)
+
+[8:02] ...ketosis studies...all short-term studies...none of them have looked long-term...they're not looking at glucose tolerance test...they're not studying...vascular function...
+-> CONTEXTUALIZED / DIETARY RESEARCH (Many ketogenic diet RCTs are short-term (<1 year) and focus on weight and glycemic parameters; long-term data on cardiovascular outcomes and glucose tolerance are limited. However, some longer observational studies exist, and the critique is partially valid but omits emerging evidence.)
+
+[9:07] ...on a plant-based diet you have better vasoconstriction and vasodilation...your blood vessels are more likely to dilate on a plant-based diet than they are on a meat diet...
+-> VALIDATED / VASCULAR PHYSIOLOGY (Plant-based diets are associated with improved endothelial function, measured by flow-mediated dilation, compared to diets high in meat and saturated fat. This is supported by multiple RCTs and mechanistic studies.)
+
+[9:32] ...in the Adventist health study the vegans are tend to be healthier than the vegetarians...
+-> VALIDATED / LONGEVITY STUDIES (The Adventist Health Study-2 found that vegans have lower BMI, lower rates of hypertension, diabetes, and some cancers compared to lacto-ovo vegetarians and omnivores.)
+
+
+
+
+
+
+
+Title: Veganism is not a diet
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=iVgerHW92rM
+
+====
+
+Transcript:
+[0:01] all right an important topic to talk
+[0:03] about and think about and that is that
+[0:06] veganism is not a diet it is an ethic
+[0:10] it's an ethical thought and ethical
+[0:13] process it's the idea that we feel that
+[0:17] animals deserve rights that at least
+[0:22] that equal to the pets that we take care
+[0:25] of and that if we don't need to take
+[0:28] advantage of them and in some vegans
+[0:31] Minds even if we need to take advantage
+[0:32] of them that we shouldn't but certainly
+[0:34] we don't need to anymore very different
+[0:36] than a whole food plant-based diet so
+[0:38] when I'm teaching my patients what to
+[0:40] eat and when I go over diets with my
+[0:42] patients I teach a whole food
+[0:44] plant-based diet it is not vegan I don't
+[0:47] make any claim that they have to be
+[0:49] vegan because to me that's an ethic so
+[0:52] what I'm doing with my patients is
+[0:53] trying to turn your plates around
+[0:54] because the American diet is dominated
+[0:56] by animal protein with very very little
+[0:59] fiber we're getting double the amount of
+[1:01] protein we need and a third of the
+[1:03] amount of fiber we need so that's what
+[1:05] I'm working on with my patients because
+[1:07] I've got evidence-based medicine to
+[1:09] prove that it works I'm also judged on
+[1:10] my results and so I got to make sure
+[1:12] that I make these patients healthy I
+[1:14] need to make sure that their referral
+[1:15] doctors see a drop in their cholesterol
+[1:18] I need for the patient for their weight
+[1:20] to go down I need for them to feel
+[1:21] better
+[1:22] I also need them to be successful and be
+[1:24] able to stick with the diet and so I do
+[1:27] a whole food plant-based diet that is
+[1:29] mainly fruits vegetables beans nuts
+[1:32] seeds and legumes and starches but if
+[1:35] they had a little fish or something like
+[1:37] that it's it's okay but I try to stay
+[1:39] more towards the fiber but I'm not
+[1:42] talking ethics with them no I started my
+[1:44] own diet changes because I had high
+[1:48] cholesterol because I was overweight so
+[1:50] that's how I I studied I said I'm
+[1:51] overweight I'm sick but I know about
+[1:55] science so let me study the science and
+[1:56] that's how I got to a whole food plant
+[1:59] for myself but I was eating fish in the
+[2:03] beginning I was eating a little chicken
+[2:04] and I was eating dairy and then my
+[2:06] mercury level went up and my cholesterol
+[2:08] didn't go down as much as I wanted and
+[2:10] so I moved towards a vegan diet
+[2:12] basically for my help but while I was
+[2:16] giving talks around the country I was
+[2:18] meeting the animal activists and they
+[2:21] were showing me what was happening to
+[2:23] animals and you know it just disgusted
+[2:26] me that you know we could take advantage
+[2:29] of animals this way and so I developed
+[2:32] an ethic that I didn't want to harm
+[2:35] animals if I don't have to and I also
+[2:39] met a lot of environmental experts as we
+[2:44] were giving these talks and going to
+[2:47] talks around the country especially one
+[2:48] Harvard that really really got to me as
+[2:50] he explained to me what our food choices
+[2:56] affect our health but they affect that
+[2:58] health of the environment and of course
+[2:59] very interested in how we can do that
+[3:02] and so it became it I think to me that
+[3:04] I'm not gonna wear leather shoes I'm not
+[3:07] going to have leather in my car seats I
+[3:09] mean I'm gonna do everything I can and
+[3:12] I'm not gonna be perfect no-one's
+[3:13] perfect out there I'm gonna do
+[3:14] everything I can to not vote with my
+[3:17] dollar to participate in these
+[3:19] industries that basically torture
+[3:23] animals and hurt our environment that's
+[3:26] my ethic there are people that have
+[3:29] different ethics I know some people that
+[3:31] are basically vegan unless they hunt the
+[3:33] food and then they go and hunt the food
+[3:35] and they kill it themselves and they
+[3:38] feel like that is their ethic that if
+[3:40] they do
+[3:41] hands and you know that's our ethic we
+[3:43] could debate ethics there's no absolute
+[3:46] right or wrong I don't think anybody can
+[3:48] make an ethical statement that they
+[3:50] controlled animal feeding operation is
+[3:53] ethical it just just that would be call
+[3:59] but the important point is when someone
+[4:01] tells me they're eating a vegan diet I
+[4:03] don't know what they're eating it's not
+[4:05] a diet but they could be eating Oreos
+[4:07] like eating nothing but fruit we can't
+[4:11] do a study on vegan diet very well when
+[4:13] they look at the the epic Oxford people
+[4:17] and they looked at the vegans the vegans
+[4:19] did very well they're very healthy and
+[4:21] generally healthier than the meat eaters
+[4:23] but there were some vegans that weren't
+[4:26] getting at least 500 grams of calcium a
+[4:28] day and we're eating less than 20 grams
+[4:30] of fiber a day so have what are they
+[4:31] eating them in our eating junk food if
+[4:33] they're not getting 20 grams of fiber a
+[4:34] day on a whole food plant-based I did
+[4:36] easily get 20 grams of fiber a day when
+[4:38] they compared the epic Oxford vegans to
+[4:40] the advanced Health Study vegans
+[4:42] completely and utterly different health
+[4:45] was also that the Adventist vegans were
+[4:48] much healthier than me
+[4:50] epic vegans and simply because they were
+[4:53] eating more fruits and vegetables
+[4:55] likewise vegan is not a religion either
+[4:58] if there's no guru there's no book that
+[5:00] says this is the rules of veganism that
+[5:02] you have to follow a lot of it is up
+[5:04] doing interpretation of what you feel
+[5:06] like but when we're looking at data
+[5:07] about what's healthy and what's not it's
+[5:10] very hard to look at what a vegan diet
+[5:12] is because that varies so much between
+[5:14] different people so just something to
+[5:16] think
+
+====
+
+Fact-Check:
+[0:01] ...veganism is not a diet it is an ethic...animals deserve rights that at least equal to the pets...if we don't need to take advantage of them...we shouldn't...
+-> SUBJECTIVE / ETHICAL DEFINITION (The speaker defines veganism as an ethical stance based on animal rights. This aligns with common definitions from organizations like the Vegan Society, but the specific framing of "rights equal to pets" is the speaker's personal ethical view, not a universally agreed factual claim.)
+
+[0:54] ...the American diet is dominated by animal protein with very very little fiber...we're getting double the amount of protein we need and a third of the amount of fiber we need...
+-> MISLEADING / PUBLIC HEALTH NUTRITION (The claim about protein is roughly accurate—average U.S. protein intake is about 1.5–2 times the RDA—but the fiber claim is incorrect. The average American consumes about 15 g of fiber per day, while recommended intake is 25–38 g, so intake is roughly half, not one-third. The "third" figure exaggerates the shortfall.)
+
+[2:39] ...our food choices affect our health but they affect the health of the environment...
+-> VALIDATED / ENVIRONMENTAL IMPACT (The connection between food choices and environmental effects (e.g., greenhouse gas emissions, land use, water use) is well-supported by scientific assessments such as those from the United Nations FAO, the EAT-Lancet Commission, and life‑cycle analyses of different diets.)
+
+[3:59] ...when someone tells me they're eating a vegan diet I don't know what they're eating...they could be eating Oreos...can't do a study on vegan diet very well...
+-> VALIDATED / DIETARY VARIABILITY (Vegan diets can include ultra‑processed foods like Oreos (which are free of animal ingredients), so simply labeling a diet "vegan" does not guarantee nutritional quality. This heterogeneity is a well‑known challenge in nutrition epidemiology, acknowledged in research on vegan dietary patterns.)
+
+[4:13] ...when they look at the epic Oxford people...the vegans did very well...generally healthier than the meat eaters but there were some vegans that weren't getting at least 500 grams of calcium a day and were eating less than 20 grams of fiber a day...
+-> CONTEXTUALIZED / NUTRITION EPIDEMIOLOGY (The EPIC‑Oxford study found vegans to have lower risks for several chronic diseases, but the specific calcium figure is misstated—he likely meant 500 mg (milligrams), not 500 g. Some EPIC‑Oxford vegans did have low calcium intakes (<500 mg/day) and fiber below 20 g/day, which is consistent with the study's reported nutrient distributions. The oversight in units does not invalidate the underlying observation.)
+
+[4:38] ...when they compared the epic Oxford vegans to the advanced Health Study vegans...completely and utterly different health...Adventist vegans were much healthier...simply because they were eating more fruits and vegetables...
+-> VALIDATED / EPIDEMIOLOGICAL COMPARISON (Research comparing cohorts—e.g., EPIC‑Oxford (UK) vs. Adventist Health Study‑2 (USA)—consistently shows Adventist vegans have lower BMI, lower mortality, and better metabolic health. The difference is attributed partly to higher fruit/vegetable intake and lower consumption of processed vegan foods. Numerous peer‑reviewed studies support this finding, though other lifestyle factors (exercise, smoking, etc.) also contribute.)
+
+
+
+
+
+
+
+
+
+Title: How does atherosclerosis begin
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=U7DQW__uNW8
+
+====
+
+Transcript:
+[0:00] so I'm supposed to have a debate with
+[0:02] Bart today but he didn't call I think he
+[0:07] may be held up I've canceled on him
+[0:10] before so we'll get it scheduled I'm
+[0:11] actually I'm very interested to do this
+[0:13] debate because I don't know if you guys
+[0:16] saw Bart's video about me it was very
+[0:18] negative and him and I have had some
+[0:20] very good conversations online and we
+[0:22] kind of agreed that there's a lot of
+[0:24] grandstanding that happens in these
+[0:25] social media things I'm very interested
+[0:27] in a lot of points he makes because I
+[0:29] just haven't seen any science to back it
+[0:33] and but just because I haven't seen it
+[0:35] doesn't mean it doesn't exist so I'm
+[0:37] fairly interested to have this
+[0:39] conversation with Bart because it's so
+[0:40] different than what I've been studying
+[0:42] and what I've been seeing and I'm very
+[0:43] open minded to looking at different
+[0:45] things I mean there are definitely some
+[0:47] positive ketosis studies I definitely
+[0:50] see where ketosis can help I have put
+[0:52] patients on ketosis diets before I have
+[0:56] been utilizing the vegetarian ketosis
+[0:58] diet from time to time with different
+[1:00] patients though I don't feel like it's
+[1:02] the ketosis that seems to help them more
+[1:05] like there's not much they can eat so
+[1:08] they stick on this one type of food it's
+[1:10] called food a situation and because of
+[1:11] that they eat less but when I'm looking
+[1:13] now at the pathophysiology I'm really
+[1:16] trying to get into the mechanisms of
+[1:17] disease because epidemiology is fairly
+[1:20] clear I could show you epidemiology that
+[1:22] a high-fiber diet decreases mortality I
+[1:27] can show you that vegetarian diet has a
+[1:29] decreased risk of mortality but these
+[1:33] are epidemiology I know people online
+[1:35] hate epidemiology it definitely has its
+[1:38] negatives I criticize it all the time
+[1:42] epidemiology gives me kind of a window
+[1:45] into what could be a problem but then I
+[1:48] have to look for mechanisms of action
+[1:50] and I've that's what I've been looking
+[1:51] at a lot lately and when you look for
+[1:54] instance at heart disease I mean we say
+[1:56] okay cholesterol causes heart disease it
+[1:58] might not be that cholesterol cars is
+[2:00] what causes heart disease is certainly
+[2:01] part of heart disease because when I go
+[2:04] in and do a surgery on someone's vessel
+[2:07] like I used to do I used to do some
+[2:09] vascular surgery
+[2:11] I'm pulling out cholesterol out of their
+[2:15] vessels
+[2:16] there's cholesterol that is getting sub
+[2:19] endothelial that's where the problem is
+[2:23] happening but how does that cholesterol
+[2:25] get something to Theal that's what we've
+[2:26] got to study if you look at autopsy
+[2:30] studies on children they already have
+[2:32] what's called a thorough m'as they have
+[2:34] it starts at a young age of little
+[2:37] cholesterol plaques of seven athili all
+[2:39] cholesterol plaques and those tend to
+[2:41] build and what's causing that building
+[2:44] well what's causing the cholesterol to
+[2:46] get into the first place it turns out
+[2:48] that maybe flow mediated so for instance
+[2:50] changes in flow and dynamics can damage
+[2:53] the endothelium or it can be that all
+[2:56] the sudden the endothelium have certain
+[2:58] receptors on it that cause white blood
+[3:01] cells to connect to these shear areas
+[3:06] and then work their way into the sub
+[3:10] endothelial layer where they could set
+[3:12] up inflammation and what causes that to
+[3:14] happen it may be that it's a problem
+[3:18] with nitric oxide that these endothelial
+[3:22] cells are not producing nitric oxide
+[3:24] properly and there's an enzyme that
+[3:26] creates nitric oxide and we know that
+[3:28] that enzyme has a cofactor in that
+[3:32] cofactor called tetra hydro patent if it
+[3:38] is under significant oxidative stress it
+[3:44] will interfere with the production of
+[3:46] nitric oxide and actually can form free
+[3:49] radicals so what would cause that to
+[3:51] happen look what is the source of having
+[3:57] this oxidative stress well there's many
+[3:58] different things that cause oxidative
+[3:59] stress we know for instance that if I
+[4:01] give you sugar water I mean just
+[4:03] breathing oxygen causes oxidative stress
+[4:05] I think Barth pointed that out in one of
+[4:07] the his videos but what's interesting is
+[4:09] if I give you sugar water that will
+[4:12] create oxidative stress if I give you
+[4:14] orange juice you don't get that
+[4:15] oxidative stress and why not well
+[4:17] because there's flavonols and vitamin C
+[4:20] and things in the orange tree
+[4:21] that protect against that oxidative
+[4:23] stress and so one of the things I worry
+[4:25] about with people doing a meat diet is
+[4:29] where are you getting your antioxidants
+[4:31] Bart said in one of his videos that you
+[4:33] can't absorb a antioxidants that's not
+[4:35] what I have seen in my studies and so
+[4:38] I'd be interested in that because we've
+[4:40] we've shown definitely that you could
+[4:41] absorb antioxidants in that with
+[4:44] blueberries you get 40% of the
+[4:46] antioxidants into you and and and so
+[4:50] it's dose dependent eat more blueberries
+[4:51] you get more antioxidants but those like
+[4:54] antioxidants are important because you
+[4:56] need to get rid of it that stress the
+[4:59] other thing is that fats can get
+[5:01] oxidized especially when you're eating
+[5:03] meat especially red meat because it's
+[5:06] got heme iron and an e-minor tends to
+[5:08] oxidize fat's the other thing that
+[5:10] happens is this endotoxin absorption so
+[5:14] when you look at endotoxin absorption
+[5:17] there's a suggestion that it could be
+[5:20] saturated fat causing gap junction in
+[5:22] these cells that's will allow endotoxin
+[5:26] to get into the system we know that
+[5:28] immediate errs are certainly more what's
+[5:31] called LPS lipopolysaccharide endotoxins
+[5:33] in their bowel and that somehow gets
+[5:36] into their system
+[5:38] the other thought is that on a high meat
+[5:40] diet I keep going back and forth to the
+[5:42] microbiome but if you are eating a more
+[5:49] animal protein based diet and you're not
+[5:52] getting a lot of fiber you will start to
+[5:55] create more bile producing or we call it
+[6:01] by low filling by all-loving bacteria in
+[6:05] your small bowel these bacteria are not
+[6:07] producing short chain fatty acids so
+[6:10] you're saving drop in your short chain
+[6:11] fatty acid and a drop in your butyrate
+[6:13] and we know people on animal-based diet
+[6:15] if you look at them they do have a drop
+[6:17] in their butyrate producing microbiome
+[6:22] and if you have a drop and butyrate
+[6:23] butyrate actually feeds the enterocytes
+[6:27] the actual cells that line the intestine
+[6:29] and if you're not feeding them they
+[6:30] can't produce mucin and that does have
+[6:33] an affair
+[6:33] on the exposure that your intestinal
+[6:36] wall gets and it can't have it a feeling
+[6:38] an effect on gap junction but what's
+[6:41] interesting when you look at flow
+[6:42] mediated dilation so what that is is if
+[6:45] I give someone food and I measure how
+[6:47] well their blood vessel dilates after
+[6:50] it's been constricted it changes with
+[6:53] food and that's crazy
+[6:54] like a single meal could change the way
+[6:55] your blood flow is affected and it could
+[7:00] therefore change some of these shear
+[7:03] forces inside our vessels so for
+[7:06] instance they did a great study by keo
+[7:08] keo gh in 2005 and 2007 he's done
+[7:13] multiple studies looking at flow
+[7:14] mediated dilation and different foods
+[7:16] and you saw that people on a low-carb
+[7:18] diet had worsening of their flow
+[7:22] mediated dilation but what was most
+[7:24] interesting is he did a study where he
+[7:26] gave people muffins and that muffin
+[7:28] could either have saturated fat in it or
+[7:30] it could have monounsaturated fat or
+[7:33] polyunsaturated fat and the muffins with
+[7:35] the saturated fat were the only ones
+[7:37] that actually caused a change in flow
+[7:39] media dilation and what's interesting is
+[7:41] I typically think okay if it's an
+[7:45] endotoxin thing then the end of toxin is
+[7:48] probably coming from the food that
+[7:49] you're eating not from our bowels
+[7:51] because most of that endotoxin is down
+[7:52] in the colon and we're seeing an effect
+[7:54] sooner than you would for food to get
+[7:56] all the way there :
+[7:57] but we're seeing an effect with this
+[7:59] muffin within a few hours and that
+[8:03] muffin isn't meat so it doesn't have the
+[8:05] endotoxin it so what is the effect so it
+[8:08] has to be something to do with the
+[8:09] saturated fact causing an actual change
+[8:13] in the absorption of endotoxin in our
+[8:16] body or it's because saturated fat comes
+[8:20] in and it gets oxidized
+[8:23] either way it's hard to say but what we
+[8:25] do know is that once you have oxidized
+[8:28] fat and you've got shear forces so
+[8:31] you're changing your flow mediated
+[8:35] dilation which means your your this is
+[8:37] acting on an endothelial level and
+[8:39] you're getting that fat to then be
+[8:43] absorbed by macrophage
+[8:45] what's causing that well that goes back
+[8:47] to this TMAO so when we eat carnitine or
+[8:51] choline if you are a meat-eater then you
+[8:55] have bacteria in your bowels that will
+[8:57] break down your choline or your
+[9:01] carnitine into tri methyl amine which
+[9:04] then goes to your liver and becomes TMAO
+[9:05] what we know about tml is it's got
+[9:07] several functions it may compete with
+[9:09] arginine so that you're not producing
+[9:12] nitrous oxide so you're not getting into
+[9:14] the-- lleol relaxing factor and so
+[9:16] you're getting problems with your blood
+[9:19] vessels clamping it also prevents
+[9:22] reverse cholesterol from your
+[9:26] macrophages so it blocks the ability of
+[9:29] the macrophages to get rid of
+[9:32] cholesterol and that may be a big part
+[9:36] of it and also stimulates macrophages to
+[9:37] secrete different chemicals that draw
+[9:42] more macrophages into the area and that
+[9:47] also causes macrophages to take up
+[9:50] cholesterol so basically what's
+[9:53] happening now is you've got people we're
+[9:55] having changes in the flow through our
+[9:57] vessels causing shear forces on those
+[10:01] vessels those vessels start to put up
+[10:05] receptors that cause white blood cells
+[10:08] to join in that area to then get into
+[10:11] the cell and once they're into the cell
+[10:13] they start causing inflammation which
+[10:15] draws more cells into that area and
+[10:17] these cells start to take in cholesterol
+[10:19] so that atheroma becomes a big plaque
+[10:22] that could get a little cap on it that
+[10:25] cap breaks now you really have exposure
+[10:27] to the blood cells and you actually
+[10:28] cause clotting factors and you get a
+[10:30] clot and then you have a serious problem
+[10:33] so it's a very very complex issue that's
+[10:35] impossible to discuss with one paper
+[10:39] it's a much much bigger process but it's
+[10:44] going on and we know that through
+[10:46] randomized control trials and we know
+[10:48] that it's having an effect and we know
+[10:49] that
+[10:50] epidemiology
+
+====
+
+Fact-Check:
+[2:30] ...if you look at autopsy studies on children they already have what's called a thorough m'as they have...little cholesterol plaques of seven athili all cholesterol plaques...
+-> VALIDATED / CARDIOVASCULAR PATHOLOGY (The claim that autopsy studies show early atherosclerotic lesions (fatty streaks) in children is well-documented, e.g., the PDAY study and Bogalusa Heart Study.)
+
+[3:18] ...there's an enzyme that creates nitric oxide and we know that that enzyme has a cofactor...tetra hydro patent if it is under significant oxidative stress it will interfere with the production of nitric oxide and actually can form free radicals...
+-> VALIDATED / CELLULAR PHYSIOLOGY (Endothelial nitric oxide synthase (eNOS) requires tetrahydrobiopterin (BH4); under oxidative stress BH4 becomes oxidized, causing eNOS uncoupling and production of superoxide instead of NO. This is a well-established mechanism.)
+
+[4:01] ...if I give you sugar water that will create oxidative stress if I give you orange juice you don't get that oxidative stress...because there's flavonols and vitamin C...that protect against that oxidative stress...
+-> CONTEXTUALIZED / CLINICAL NUTRITION (Acute ingestion of sugar water (glucose) induces postprandial oxidative stress, and studies show that co-ingestion of orange juice (rich in flavonoids and vitamin C) can attenuate that response. The claim is accurate in that specific acute context, but it does not mean orange juice universally eliminates all oxidative stress in all conditions.)
+
+[4:44] ...with blueberries you get 40% of the antioxidants into you...
+-> UNVERIFIABLE / NUTRITIONAL BIOAVAILABILITY (The bioavailability of specific antioxidant compounds (e.g., anthocyanins) from blueberries is typically very low (often <2%), and no reliable study supports a 40% absorption rate for total antioxidants. The figure is likely a misrepresentation or refers to a specific measure like plasma antioxidant capacity increase, not actual absorption.)
+
+[5:01] ...fats can get oxidized especially when you're eating meat especially red meat because it's got heme iron and an e-minor tends to oxidize fat's...
+-> VALIDATED / FOOD CHEMISTRY (Heme iron in red meat is a pro-oxidant that can catalyze lipid peroxidation, a well-described chemical mechanism.)
+
+[5:14] ...endotoxin absorption...saturated fat causing gap junction in these cells...will allow endotoxin to get into the system...immediate errs are certainly more...LPS...in their bowel...
+-> VALIDATED / METABOLIC ENDOTOXEMIA (Saturated fat can increase intestinal permeability by modulating tight junctions, allowing lipopolysaccharide (LPS) translocation. This is a recognized pathway in metabolic endotoxemia, supported by rodent and human studies.)
+
+[5:49] ...if you are eating a more animal protein based diet...not getting a lot of fiber you will start to create more bile producing...bacteria...these bacteria are not producing short chain fatty acids...drop in your butyrate...people on animal-based diet...have a drop in their butyrate producing microbiome...
+-> VALIDATED / GUT MICROBIOLOGY (Low-fiber, high-animal-protein diets reduce the abundance of fiber-fermenting bacteria that produce short-chain fatty acids like butyrate; this is consistently shown in dietary intervention studies.)
+
+[6:23] ...butyrate actually feeds the enterocytes...if you're not feeding them they can't produce mucin...
+-> VALIDATED / INTESTINAL PHYSIOLOGY (Butyrate is the primary energy source for colonocytes and stimulates mucin production; deficiency impairs the mucus barrier. This is textbook knowledge.)
+
+[6:42] ...flow mediated dilation...a single meal could change the way your blood flow is affected...
+-> VALIDATED / VASCULAR PHYSIOLOGY (Postprandial changes in flow-mediated dilation (FMD) are well documented; acute consumption of high-fat or high-carbohydrate meals can transiently impair endothelial function.)
+
+[7:08] ...they did a great study by keo keo gh in 2005 and 2007...people on a low-carb diet had worsening of their flow mediated dilation...
+-> UNVERIFIABLE / CLINICAL TRIAL (The specific study and its results cannot be confirmed without citation. While some studies show adverse effects of low-carb/high-fat diets on FMD, others show no change or improvement. The claim as stated is not verifiable from the transcript alone.)
+
+[7:24] ...he did a study where he gave people muffins...with saturated fat...monounsaturated fat or polyunsaturated fat and the muffins with the saturated fat were the only ones that actually caused a change in flow mediated dilation...
+-> VALIDATED / ACUTE NUTRITION INTERVENTION (Multiple controlled trials demonstrate that acute ingestion of saturated fat (e.g., from butter or palm oil) impairs flow-mediated dilation, whereas mono- or polyunsaturated fats do not. This is a reproducible finding.)
+
+[8:43] ...this TMAO so when we eat carnitine or choline if you are a meat-eater then you have bacteria in your bowels that will break down your choline or your carnitine into tri methyl amine which then goes to your liver and becomes TMAO...
+-> VALIDATED / BIOCHEMISTRY (Gut microbiota metabolize dietary carnitine and choline to trimethylamine, which is oxidized in the liver to trimethylamine N-oxide (TMAO). This pathway is well-established in the literature.)
+
+[9:07] ...what we know about tml is it's got several functions it may compete with arginine so that you're not producing nitrous oxide...you're getting problems with your blood vessels clamping...
+-> VALIDATED / VASCULAR BIOLOGY (TMAO has been shown to reduce endothelial nitric oxide production by competing with arginine for cellular uptake or by inhibiting eNOS, leading to impaired vasodilation. This is supported by mechanistic studies.)
+
+[9:22] ...it also prevents reverse cholesterol from your macrophages...blocks the ability of the macrophages to get rid of cholesterol...
+-> VALIDATED / LIPID METABOLISM (TMAO inhibits reverse cholesterol transport by reducing cholesterol efflux from macrophages via downregulation of key transporters like ABCA1. This is a well-characterized pro-atherogenic effect.)
+
+[9:37] ...stimulates macrophages to secrete different chemicals that draw more macrophages into the area and that also causes macrophages to take up cholesterol...
+-> VALIDATED / ATHEROSCLEROSIS MECHANISM (TMAO promotes monocyte adhesion, macrophage activation, and foam cell formation. These effects have been demonstrated in vitro and in animal models.)
+
+
+
+
+
+
+
+
+
+Title: Demand for meat and dairy is down, expect a response
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=TKM3pJq_B1Q
+
+====
+
+Transcript:
+[0:01] so the dairy industry is down billions
+[0:05] of dollars over a billion dollars red
+[0:09] meat is down considerably processed
+[0:11] meats down considerably you got fast
+[0:13] food chains that are starting to talk
+[0:15] about veggie burgers and these changes
+[0:17] are happening for several reasons
+[0:20] they're happening because our health is
+[0:21] terrible and they're just tons and tons
+[0:24] and tons of studies showing that a
+[0:26] predominantly plant-based diet can
+[0:29] greatly improve your health
+[0:30] it's happening because animal
+[0:32] agriculture is the number one threat to
+[0:36] our environment and people are concerned
+[0:41] about our future now because of this
+[0:44] there is gonna be a response you gotta
+[0:45] expect a response the meat industry the
+[0:48] dairy industry they're not gonna go down
+[0:50] without a fight and so you're gonna hear
+[0:52] crazy things you're gonna hear things
+[0:55] like animal agriculture is good for the
+[0:58] environment now there are many ways that
+[1:03] they can phrase that so that they're not
+[1:07] lying I don't know if you know Joel
+[1:09] Salatin is but he's a good person to
+[1:11] look up because he's figured out a way
+[1:12] of doing animal agriculture and doing it
+[1:16] in a very sustainable model he rotates
+[1:21] crops
+[1:21] he has cows and chickens that help
+[1:25] fertilize the land and it is a
+[1:29] regenerative model and it is good for
+[1:31] the soil and but here's the catch you
+[1:33] can't feed the country or the world with
+[1:38] that model go and see what Joel Salatin
+[1:41] meats cost it's extremely expensive it
+[1:47] is demands a huge amount of land and
+[1:52] you're not gonna be able to fulfill the
+[1:55] meat requests from the rest of the world
+[2:00] nor are you gonna be able to meet the
+[2:02] demands of our own country with that
+[2:04] and so what we have adopted is a
+[2:07] horribly terrible model which is called
+[2:11] a k' phone or a controlled and a
+[2:14] graffiti operation where we have a huge
+[2:18] density of animals we are feeding them
+[2:20] what they don't naturally eat they are
+[2:24] producing huge amounts of waste which we
+[2:27] bury in these waste lakes that then seep
+[2:30] into our rivers and our water supply
+[2:35] next thing you know you've got arugula
+[2:38] with e.coli on it I mean how does a
+[2:40] plant have a intestinal bacteria on it
+[2:44] well it's because of this and it of
+[2:48] course you've heard that these animals
+[2:51] produce a huge amount of co2 and methane
+[2:53] and we have to do huge amounts of
+[2:57] deforestation in order not only to
+[3:01] accommodate all these animals but also
+[3:04] to accommodate farms that grow nothing
+[3:07] but or mainly food to feed these animals
+[3:11] we're creating a middleman and so that
+[3:13] makes no sense whatsoever and so these
+[3:20] ideas they'll they'll cite for instance
+[3:22] an article that show that switching to a
+[3:24] plant-based diet will make no difference
+[3:25] but that study you got to look at really
+[3:27] carefully because they didn't think to
+[3:30] themselves or they didn't want to think
+[3:32] to themselves that if we weren't eating
+[3:34] meat we would get reforestation and how
+[3:36] that could help they were assuming that
+[3:39] we would meet the calorie needs with
+[3:42] plants the way we get plants now which
+[3:46] is they would have to travel far
+[3:48] distances they weren't thinking about
+[3:49] repurposing farms they weren't thinking
+[3:51] about changes in farming that we would
+[3:54] do for plant-based diet such as no-till
+[3:57] farming to increase yields vertical
+[3:59] farms and and hydroponics and so it's
+[4:03] it's a complete farce to think that
+[4:05] switching to a
+[4:06] based diet would be bad for the
+[4:09] environment it's it's just insane and
+[4:13] and we don't have to go vegan you can
+[4:18] accommodate funds like Joel Salatin if
+[4:23] that's what you prefer but you're not
+[4:25] gonna feed the world with that and and
+[4:27] and certainly switch to a plant-based
+[4:29] diets gonna help on the health end
+[4:31] obviously I've gone over over and over
+[4:35] with you how healthy plant-based diet E
+[4:37] is and then you'll hear someone say
+[4:39] plant-based diets are bad for you vegans
+[4:43] are sick where are they getting this
+[4:45] there's no studies showing vegans or
+[4:47] sick vegans aren't out there dying
+[4:48] they're out there thriving and so
+[4:51] they'll cite a study like the forty five
+[4:52] and over study in in Australia or an
+[4:55] Austrian study that was done similar
+[4:57] where I mean get this this study had
+[5:01] thousands of thousands of people in it
+[5:03] and they they did a questionnaire where
+[5:10] they asked people whether they were
+[5:11] vegetarian not vegan by the way
+[5:13] vegetarian or whether they ate meat they
+[5:16] never followed the patients again but
+[5:17] they looked at death records many years
+[5:19] later and they said well there's more
+[5:22] vegetarians dying and therefore the
+[5:23] vegetarian diet is worse for you so you
+[5:26] got to understand if you have thousands
+[5:29] upon thousands of meat eaters that
+[5:30] you're following and then you're
+[5:31] following a small tiny group of
+[5:33] vegetarians okay a tiny little group and
+[5:35] you're comparing the two you can't do
+[5:37] that that's not an accurate comparison
+[5:38] secondly they had no idea how long those
+[5:42] vegetarians have been vegetarian have
+[5:45] they just become vegetarian where they
+[5:46] put on a vegetarian diet because they
+[5:48] had heart disease what did their
+[5:50] vegetarian diet consists of were they
+[5:51] eating Oreos were they eating milk were
+[5:54] they eating dairy were they vegan they
+[5:56] didn't have any of that information most
+[5:58] importantly were they vegetarian when
+[6:01] they eventually died they don't know
+[6:04] that in this study worse off I know a
+[6:07] person who was in the study and they
+[6:10] were a in the
+[6:12] eating category they went vegetarian
+[6:15] later because their doctor put him on a
+[6:17] vegetarian diet because I had a heart
+[6:19] disease their heart disease got better
+[6:20] and so their longevity is count is
+[6:24] counted as a benefit to the meat based
+[6:27] group rather than a vegetarian it's
+[6:29] preposterous preposterous to say that
+[6:32] that vegans are doing badly or are sick
+[6:36] there's no evidence to support that
+[6:39] meanwhile we have evidence from the
+[6:42] Adventists Health Study which is the
+[6:44] largest study that's looked at vegans
+[6:45] long times to the vegans and the pesco
+[6:48] vegetarians are the healthiest people in
+[6:50] the world
+[6:52] the epic Oxford study shows very healthy
+[6:56] vegans as does the Heidelberg and the
+[7:01] home shopper study there's many
+[7:02] different studies tons of studies
+[7:04] showing that the more plants you eat
+[7:06] obviously is gonna make you healthy so
+[7:09] so the evidence before a predominantly
+[7:13] plant-based diet that's everywhere for a
+[7:16] vegan diet that's very strong then
+[7:18] they'll pick up every kind of deficiency
+[7:20] they can think of for a bigot dive
+[7:21] they'll see like you're gonna be vitamin
+[7:23] A deficient well yes plants do not have
+[7:25] preformed vitamin a they have
+[7:27] carotenoids now it turns out if you look
+[7:28] at the studies of taking preformed
+[7:30] vitamin A it's not good for you so they
+[7:32] say well we get it from me well with
+[7:34] your vitamin A you're also getting heme
+[7:37] iron you're getting saturated fat if
+[7:41] you're cooking up your meat you're
+[7:42] getting hit or a cyclic amines just
+[7:44] enlightening I do f1m tour all those
+[7:46] kind of bad things with it meanwhile
+[7:48] we're eating a carrot we're getting
+[7:49] baited carotenoids they say we can't
+[7:51] convert it to vitamin A where is this
+[7:54] evidence that vegans are suffering from
+[7:56] vitamin A deficiency where is it where's
+[7:58] the night blindness that vegans are
+[8:00] suffering from it just doesn't exist
+[8:02] they're saying that vegans are zinc
+[8:03] deficient that is not true you've got to
+[8:06] eat a varied plant-based diet it can't
+[8:09] just be vegetables it can't just be
+[8:11] fruit you should be getting some nuts
+[8:13] you should be getting some seeds you
+[8:14] should be getting some legumes so if you
+[8:16] go on a very restrictive diet like these
+[8:19] 20-something youtubers yes you could get
+[8:21] those deficiencies if you're eating
+[8:23] a very diet you don't need to now there
+[8:27] are things that you will be deficient in
+[8:28] if you go on a vegan diet and you can't
+[8:31] get them from from animals so if you
+[8:33] were on a predominantly plant-based diet
+[8:34] but you ate some animal food you could
+[8:37] potentially get all the nutrients you
+[8:39] need personally I'm vegan because I
+[8:42] could get vitamin b12 deficiency so I
+[8:46] could go and eat you know meat once a
+[8:48] week to get b12 but I don't want to eat
+[8:51] meat I don't want to eat it
+[8:52] to contribute in any way to the
+[8:54] environmental effects that went into
+[8:56] that animal coming to my plate I
+[9:00] certainly don't want to have anything to
+[9:02] do with the absolute torture that these
+[9:05] animals have to go through to get to my
+[9:07] plate I'm not going out and shooting an
+[9:08] animal myself so I'm gonna take a little
+[9:11] pill I take a multivitamin I use joel
+[9:13] Furman's multivitamins and he doesn't
+[9:16] pay me to say that he defined doesn't
+[9:17] even know that I use them but I like
+[9:19] them it's got some b12 in it it has some
+[9:23] vitamin D in case I'm not on the Sun but
+[9:27] usually I'm in the Sun so I get adequate
+[9:29] vitamin D and it's got some iodine
+[9:33] I mean vegans do need to be certain that
+[9:36] they're getting vitamins and iodine and
+[9:39] I mean if you're getting table salt
+[9:41] you're getting iodine but I like to make
+[9:42] sure I get my iodine and other than that
+[9:47] I don't need much else I do take omega-3
+[9:50] supplement I take it from algae because
+[9:52] first of all most of the fish we eat
+[9:54] nowadays is farmed fish that has much
+[9:57] higher PCBs and dioxins another bad
+[10:01] thing for you if you're getting it from
+[10:02] the ocean it's gonna be high in heavy
+[10:05] metals my mercury level went sky-high
+[10:07] when all those pesco vegetarian and I
+[10:11] don't want those things so I'm gonna get
+[10:12] my omega-3 from algae and I take that as
+[10:15] a supplement so the only supplements I
+[10:16] take are omega-3 in a multivitamin
+[10:18] that's it and that allows me to have
+[10:22] absolute health I'm not deficient in
+[10:23] anything I check my labs all the time as
+[10:26] you probably know my cholesterol level
+[10:28] was sky-high
+[10:30] and has come down and the crazy thing
+[10:33] about all this is that people seem to be
+[10:35] worried about the nutrients in a
+[10:38] plant-based diet it's absurd I I see so
+[10:42] much nutrient deficiency in people
+[10:44] eating every other diet but plant-based
+[10:46] diets all the people I've ever seen for
+[10:48] plant-based diets have every nutrient
+[10:50] met it's absolutely absurd there's been
+[10:56] many studies that show that that
+[10:58] plant-based eaters get much higher
+[11:00] micronutrients and in vitamins in
+[11:04] general and this has been documented and
+[11:06] I've documented in my book and certain
+[11:08] things so bottom line is that you may
+[11:14] expect that there's gonna be a lot of
+[11:17] response to this dropping demand for
+[11:21] meat and dairy and it's gonna come in
+[11:22] the form of a lot of falsehoods and a
+[11:26] lot of those fossils will have a kernel
+[11:28] of truth to them but that kernel of
+[11:31] truth is taken and blown out of
+[11:34] proportion as a scare tactic and next
+[11:38] thing you know veganism is bad for the
+[11:41] environment and bad for your health and
+[11:42] that has that's like saying water isn't
+[11:47] wet so keep in mind that you know
+[11:53] there's information out there there's
+[11:55] science out there they're scientists
+[11:57] you're not gonna see people like me or
+[11:59] joel fuhrman or dean ornish or any of
+[12:04] the doctors and the plain baseman you're
+[12:07] not gonna see them coming out this
+[12:08] YouTube video about how they're suddenly
+[12:09] eating red meat it's just not gonna
+[12:13] happen you're gonna see it from a
+[12:14] youtuber who does nothing but fruit but
+[12:16] you're not gonna see it from a study
+[12:19] professional who is eating a very
+[12:21] plant-based diet and is following a very
+[12:23] happy health conscious life and
+[12:26] ethically considered life so I hope that
+[12:29] helps
+
+====
+
+Fact-Check:
+[0:01] so the dairy industry is down billions of dollars over a billion dollars red meat is down considerably processed meats down considerably...
+-> CONTEXTUALIZED / MARKET TRENDS (The speaker claims the dairy industry is down "billions" and red/processed meat sales are down considerably. US dairy sales have declined in volume but not necessarily billions in revenue; plant-based alternatives are growing but conventional dairy still holds large market share. Red meat consumption per capita has declined slightly in the US over the past decade, but total meat production has risen. The claim is broadly directionally correct but oversimplifies complex market data. Source: USDA ERS, Nielsen data.)
+
+[0:20] they're happening because our health is terrible and they're just tons and tons of studies showing that a predominantly plant-based diet can greatly improve your health
+-> VALIDATED / NUTRITIONAL EPIDEMIOLOGY (A large body of evidence from prospective cohort studies and randomized trials supports that plant-based diets are associated with lower risk of cardiovascular disease, type 2 diabetes, and some cancers. The claim that "tons of studies" show health improvement is well-supported. Source: WHO, American Heart Association, Adventist Health Studies.)
+
+[0:30] it's happening because animal agriculture is the number one threat to our environment and people are concerned about our future
+-> MISLEADING / ENVIRONMENTAL IMPACT (Animal agriculture is a major contributor to greenhouse gas emissions, land use, water use, and biodiversity loss, but calling it the "number one threat" is an oversimplification. Various analyses rank fossil fuel combustion as the largest contributor to climate change. The FAO estimates livestock contributes ~14.5% of global GHG emissions. Other threats like deforestation for agriculture (including animal feed) are serious, but not definitively #1. Source: FAO, IPCC.)
+
+[1:03] there are many ways that they can phrase that so that they're not lying I don't know if you know Joel Salatin is but he's a good person to look up because he's figured out a way of doing animal agriculture and doing it in a very sustainable model... here's the catch you can't feed the country or the world with that model go and see what Joel Salatin meats cost it's extremely expensive it demands a huge amount of land...
+-> VALIDATED / AGRICULTURAL SCALABILITY (Joel Salatin's regenerative, pasture-based model is well-documented. However, it produces meat at higher cost and lower volume than conventional CAFOs. Studies indicate that scaling such methods to meet current global meat demand would require significantly more land and resources. Source: research by Bard College, Food and Water Watch, academic papers on rotational grazing yields.)
+
+[2:04] what we have adopted is a horribly terrible model which is called a CAFO or a concentrated animal feeding operation where we have a huge density of animals... producing huge amounts of waste which we bury in these waste lakes that then seep into our rivers and our water supply
+-> VALIDATED / ENVIRONMENTAL HEALTH (CAFOs produce large volumes of manure that can contaminate waterways via runoff or lagoon leaks. Numerous EPA and academic studies document groundwater pollution, algal blooms, and human health risks from CAFO waste. Source: EPA, CDC, Union of Concerned Scientists.)
+
+[2:35] next thing you know you've got arugula with e.coli on it I mean how does a plant have a intestinal bacteria on it well it's because of this
+-> VALIDATED / FOOD SAFETY (E. coli O157:H7 outbreaks linked to leafy greens have been traced to fecal contamination from livestock operations nearby. The 2018 Yuma romaine lettuce outbreak was linked to CAFO runoff. Source: FDA, CDC outbreak investigations.)
+
+[2:51] these animals produce a huge amount of co2 and methane and we have to do huge amounts of deforestation in order not only to accommodate all these animals but also to accommodate farms that grow nothing but or mainly food to feed these animals
+-> VALIDATED / LAND USE CHANGE (Animal agriculture is a major driver of deforestation, especially in the Amazon for soy and cattle. Livestock produces methane (enteric fermentation) and CO2 from land use change. The FAO states livestock is the largest agricultural source of greenhouse gases. Source: FAO, World Resources Institute.)
+
+[3:22] they'll cite for instance an article that show that switching to a plant-based diet will make no difference but that study you got to look at really carefully because they didn't think to themselves that if we weren't eating meat we would get reforestation... they were assuming that we would meet the calorie needs with plants the way we get plants now...
+-> CONTEXTUALIZED / COMPARATIVE ENVIRONMENTAL ANALYSIS (Some studies that find minimal environmental benefit from dietary shifts often use static land-use assumptions or ignore carbon sequestration from reforestation. More comprehensive models show significant reductions in GHG, land use, and water use from plant-based diets. The speaker's critique is valid but can be oversimplified. Source: Poore & Nemecek (2018), Springmann et al. (2016).)
+
+[4:37] you'll hear someone say plant-based diets are bad for you vegans are sick where are they getting this there's no studies showing vegans or sick vegans aren't out there dying they're out there thriving
+-> CONTEXTUALIZED / PUBLIC HEALTH NUTRITION (Most large-scale studies show vegans and vegetarians have lower all-cause mortality and chronic disease risk. However, some poorly conducted studies have suggested neutral or negative effects. The speaker's claim that "no studies show vegans are sick" is too absolute; there are outlier studies and potential nutritional risks (e.g., B12 deficiency) if diets are not well-planned. Source: Adventist Health Study-2, EPIC-Oxford, Academy of Nutrition and Dietetics.)
+
+[4:51] they'll cite a study like the forty five and over study in in Australia or an Austrian study that was done similar... this study had thousands of thousands of people in it and they asked people whether they were vegetarian not vegan... they never followed the patients again but they looked at death records many years later and they said well there's more vegetarians dying...
+-> CONTEXTUALIZED / STUDY METHODOLOGY CRITIQUE (The speaker refers to the "45 and Up Study" (Australia) and an Austrian health study. These studies did find higher mortality in vegetarians compared to meat-eaters, but suffered from confounding: vegetarians were more likely to be unhealthy at baseline (e.g., sick vegetarians). The critique about lack of follow-up and dietary changes is valid. Subsequent reanalyses adjusting for health status reversed the findings. Source: Bamia et al. (2013), Key et al. (2014).)
+
+[5:58] most importantly were they vegetarian when they eventually died they don't know that in this study worse off I know a person who was in the study and they were in the meat eating category they went vegetarian later because their doctor put him on a vegetarian diet because I had a heart disease their heart disease got better and so their longevity is count is counted as a benefit to the meat based group rather than a vegetarian it's preposterous
+-> MISLEADING / EPIDEMIOLOGICAL BIAS (The speaker's anecdote is possible but not representative. The "45 and Up" study did attempt to control for baseline health, but residual confounding remains. The claim that such misclassification completely invalidates the study is an overstatement. Epidemiologists use sensitivity analyses to address this. Source: Original study papers, critical reviews.)
+
+[6:39] we have evidence from the Adventists Health Study which is the largest study that's looked at vegans long times to the vegans and the pesco vegetarians are the healthiest people in the world the epic Oxford study shows very healthy vegans as does the Heidelberg and the home shopper study
+-> VALIDATED / NUTRITIONAL EPIDEMIOLOGY (The Adventist Health Study-2 (AHS-2) found that vegans have lower BMI, lower risk of hypertension, diabetes, and all-cause mortality compared to non-vegetarians. EPIC-Oxford shows vegans have lower IHD risk. The "Heidelberg" and "home shopper" (likely EPIC-Norfolk or similar) studies support these findings. Source: Orlich et al. (2013), Appleby et al. (2016).)
+
+[7:20] they'll say like you're gonna be vitamin A deficient well yes plants do not have preformed vitamin a they have carotenoids now it turns out if you look at the studies of taking preformed vitamin A it's not good for you... they say we can't convert it to vitamin A where is this evidence that vegans are suffering from vitamin A deficiency where is it where's the night blindness that vegans are suffering from it just doesn't exist
+-> MISLEADING / NUTRITIONAL PHYSIOLOGY (Vegans can convert beta-carotene to vitamin A, but conversion efficiency varies. Clinical vitamin A deficiency is rare in developed countries among well-nourished vegans, but can occur if diets are low in carotenoids or if there are absorption issues. The claim that vegans never suffer from night blindness is too absolute; cases have been reported in poorly planned vegan diets. Preformed vitamin A from supplements is not inherently harmful at reasonable doses. Source: Institute of Medicine, case reports in JAMA.)
+
+[8:02] they're saying that vegans are zinc deficient that is not true you've got to eat a varied plant-based diet... if you go on a very restrictive diet like these 20-something youtubers yes you could get those deficiencies
+-> CONTEXTUALIZED / DIETARY ZINC STATUS (Zinc bioavailability from plant foods is lower due to phytate, but vegans can achieve adequate zinc intake with proper planning (soaking, sprouting, including legumes, nuts, seeds). Overt deficiency is rare in well-planned vegan diets. The speaker's qualification is important. Source: Academy of Nutrition and Dietetics position paper on vegan diets.)
+
+[8:27] there are things that you will be deficient in if you go on a vegan diet and you can't get them from from animals so if you were on a predominantly plant-based diet but you ate some animal food you could potentially get all the nutrients you need personally I'm vegan because I could get vitamin b12 deficiency... I take a multivitamin... it's got some b12 in it it has some vitamin D... iodine... vegans do need to be certain that they're getting vitamins and iodine... I do take omega-3 supplement I take it from algae
+-> VALIDATED / VEGAN NUTRITIONAL SUPPLEMENTATION (It is well-established that vitamin B12 is not reliably obtainable from unfortified plant foods; vegans must supplement or consume fortified foods. Iodine and vitamin D may also need supplementation depending on diet and sun exposure. Omega-3 DHA/EPA from algae is a valid alternative to fish oil. Source: Position of the Academy of Nutrition and Dietetics: Vegetarian Diets.)
+
+[9:52] most of the fish we eat nowadays is farmed fish that has much higher PCBs and dioxins another bad thing for you if you're getting it from the ocean it's gonna be high in heavy metals my mercury level went sky-high when all those pesco vegetarian and I don't want those things
+-> CONTEXTUALIZED / SEAFOOD CONTAMINANTS (Fish and seafood can contain PCBs, dioxins, and heavy metals like mercury. Farmed fish can have higher levels of some contaminants depending on feed, but levels vary. The claim that "most fish we eat nowadays is farmed" is correct globally for some species (e.g., salmon), but not all. The speaker's personal experience is anecdotal. Source: EPA, FDA fish consumption advisories, FAO aquaculture statistics.)
+
+[10:22] I'm not deficient in anything I check my labs all the time as you probably know my cholesterol level was sky-high and has come down...
+-> SUBJECTIVE / PERSONAL HEALTH (The speaker's personal health outcomes are not generalizable. Many individuals see cholesterol reduction on plant-based diets, but this claim is an anecdote, not a scientific assertion.)
+
+[10:42] I see so much nutrient deficiency in people eating every other diet but plant-based diets all the people I've ever seen for plant-based diets have every nutrient met it's absolutely absurd there's been many studies that show that plant-based eaters get much higher micronutrients...
+-> MISLEADING / DIETARY COMPARISON (While some studies show higher intake of certain micronutrients (vitamin C, fiber, magnesium) in plant-based diets, other nutrients (B12, zinc, calcium) may be lower if not planned. Claiming that "all" plant-based eaters have every nutrient met is false; deficiencies can occur in any diet. The speaker's anecdotal observation is not evidence. Source: NHANES data, EPIC-Oxford nutrient intake comparisons.)
+
+
+
+
+
+
+Title: Misconstruing Science
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=i1TSJyRIbj4
+
+====
+
+Description:
+You have to look beyond the abstract
+
+====
+
+Transcript:
+[0:02] amazing to me the way the media will
+[0:05] pick up a science article and run with
+[0:07] it this one is especially interesting to
+[0:11] me dietary carbohydrate restriction
+[0:14] improves metabolic syndrome independent
+[0:17] of weight loss this is done out of Ohio
+[0:20] State University and it's done by
+[0:23] serious scientists these are not pseudo
+[0:26] experts they're definitely scientists
+[0:28] and the actual structure of the study is
+[0:31] excellent what they did is they took
+[0:35] several obese people who had a diagnosis
+[0:38] of metabolic syndrome and they put him
+[0:40] on different diets and they moved around
+[0:43] those diets and those diets were either
+[0:44] a low carb a moderate carb or a high
+[0:46] carb what's interesting is they didn't
+[0:52] do it's not like they cheated it's not
+[0:54] like the study was done incorrect
+[0:56] incorrectly it's the way they read into
+[0:59] the article and when you go on PubMed
+[1:02] all you do is you read just the
+[1:04] conclusions right but that's not what
+[1:06] you should read you should read a whole
+[1:08] article including the supplements so
+[1:12] that you know what's going on because in
+[1:13] the study first of all they disproved a
+[1:17] lot of theories that happen with low
+[1:21] carb for instance they kept people on
+[1:23] the same calories so whether you're on a
+[1:26] low-carb and then you switch to the high
+[1:28] carb diet your calories stay the same
+[1:30] now a lot of people seem to theorize
+[1:33] that if you go on a low-carb diet you
+[1:35] miraculously lose weight regardless of
+[1:37] calories categorically not true in this
+[1:40] study there was no difference in weight
+[1:42] loss whatsoever between the groups
+[1:44] there also was no difference in insulin
+[1:46] resistance all right so there's a lot of
+[1:49] people think if you go on low-carb diet
+[1:51] your insulin resistance goes away now
+[1:53] the blood sugar did drop and of course
+[1:56] the authors celebrated the fact that the
+[1:58] blood truck as sugar dropped as part of
+[2:00] it evidence that they are curing
+[2:01] metabolic syndrome but these patients
+[2:03] still have the same insulin resistance
+[2:05] the authors also celebrate the fact that
+[2:08] they say there's more fat oxen
+[2:10] well of course there's more fat
+[2:11] oxidation what that means is you got a
+[2:13] low carb person they're not eating any
+[2:14] carbs they have to oxidize fat in order
+[2:17] to get energy now the interesting thing
+[2:18] is low carb proponents seem to say that
+[2:23] because you're eating low carbon you're
+[2:26] oxidizing fat you're gonna get less fat
+[2:28] in your cells you're gonna get less fat
+[2:31] in your liver not the case in this study
+[2:34] I'm sure the authors were somewhat
+[2:35] disappointed but there was no difference
+[2:37] in visceral fat between the different
+[2:41] groups now there was a difference in the
+[2:46] amount of triglycerides in the blood now
+[2:49] the cholesterol there was no significant
+[2:51] difference though they did it's almost
+[2:53] like the authors were like oh we didn't
+[2:54] find this but we did find this which is
+[2:56] called pea fishing or pea hacking where
+[2:59] you look at a million different
+[3:01] variables and try to find anything
+[3:02] that's significant and they jump on the
+[3:04] Samantha's significance so while there
+[3:06] was no difference in cholesterol levels
+[3:08] there was a significant difference in
+[3:10] certain triglycerides but this is where
+[3:15] I need to introduce you into a strong
+[3:17] man a strong man is if I'm gonna do a
+[3:19] study and I gotta prove something is
+[3:21] better than something else one way that
+[3:23] I can almost make sure that my my dad is
+[3:25] gonna show that is by setting up a
+[3:27] strong mia meaning setting up an
+[3:28] experimental group that is just horribly
+[3:31] bad and so their high carb group
+[3:33] remember this is an obese population
+[3:35] they took these obese people and this is
+[3:37] the high carb diet that they were on so
+[3:40] this is an example so for breakfast
+[3:42] cinnamon life cereal with vanilla almond
+[3:47] milk egg beaters Gouda cheese and some
+[3:51] orange juice snack pretzels and grape
+[3:54] juice lunch a potato with ham and
+[3:56] broccoli it's not butter sour cream
+[4:00] cheddar cheese and marshmallow fluff
+[4:04] that's right
+[4:05] I gave them marshmallow fluff so you've
+[4:10] got this group that while they're a high
+[4:12] carb they're also eating sugar and
+[4:17] they're eating fat and saturated fat yes
+[4:21] they're eating less saturated fat
+[4:22] then the low-carb group but there's only
+[4:26] it's almost you know dr. Esselstyn likes
+[4:28] to give the the scenario that if you're
+[4:29] looking at someone going at 55 miles an
+[4:32] hour to car and crashing into a wall and
+[4:33] someone going 65 miles an hour crashed
+[4:35] into a wall you're gonna get a pretty
+[4:36] similar type result even though that
+[4:39] there's a difference in that span of the
+[4:41] way it is here I mean you've got these
+[4:43] people that are overweight already at
+[4:46] metabolic syndrome and you're giving
+[4:47] them saturated fat and on top of that
+[4:49] you're giving them sugar and if you're
+[4:51] giving them sugar and their insulin
+[4:53] resistant they are gonna get a very high
+[4:54] insulin response and that high insulin
+[4:56] response is going to translate into
+[4:59] higher triglycerides the problem being
+[5:03] that in general I would say this study
+[5:09] didn't show much at all
+[5:10] there was a increase in the particle
+[5:13] size of the cholesterol but does that
+[5:14] really make a difference probably not
+[5:16] there was lower triglycerides than the
+[5:19] experimental group at the experimental
+[5:20] group was a complete strongman there was
+[5:24] increased fat oxidation
+[5:26] that's absolutely expected but that did
+[5:27] not translate into either lower weight
+[5:29] lower insulin resistance or decreased
+[5:35] fat in your organs and so in in general
+[5:38] I don't think this study showed much to
+[5:40] support their hypothesis and that's
+[5:44] important because what they say in their
+[5:48] conclusion seems to suggest that they
+[5:50] came up with this huge finding of all
+[5:53] these benefits with the low carb diet
+[5:54] and that's what the media ran with and
+[5:56] you could tell why they found that
+[5:58] because this study was funded by the
+[6:01] Dairy Association and the authors get
+[6:04] money from Atkins they get money from
+[6:05] Verta health which is a big low-carb
+[6:08] program that is heavily funded and so
+[6:12] they had definite confirmation bias
+[6:17] there's no question about it and I think
+[6:20] they performed a very good study I think
+[6:23] they did have some slight findings and
+[6:25] if you want to say that a low-carb diet
+[6:27] is better than a high carb junk food
+[6:29] diet I have at
+[6:31] but don't extrapolate this high carb
+[6:34] diet to a high carb whole food
+[6:36] plant-based diet which is exactly what's
+[6:38] done on a daily basis
+[6:39] hope that helps
+
+====
+
+Fact-Check:
+[0:14] ...dietary carbohydrate restriction improves metabolic syndrome independent of weight loss this is done out of Ohio State University...  
+-> UNVERIFIABLE / STUDY ATTRIBUTION (The claim that this specific study was conducted at Ohio State University cannot be confirmed without access to the original paper. The study likely exists (e.g., Volek et al., 2009 or later), but the institutional affiliation is a factual detail that requires verification.)
+
+[1:13] ...they kept people on the same calories... there was no difference in weight loss whatsoever between the groups...  
+-> UNVERIFIABLE / CLINICAL TRIAL RESULT (The claim that the study found no difference in weight loss when calories were controlled is a specific result that cannot be verified without the study’s full data. While calorie-matched comparisons often show similar weight loss, the statement as a factual claim about this particular study is unverifiable from the transcript alone.)
+
+[1:40] ...there also was no difference in insulin resistance... the blood sugar did drop...  
+-> UNVERIFIABLE / CLINICAL TRIAL RESULT (The claim that the study found no improvement in insulin resistance despite lower blood glucose is a specific outcome that cannot be verified without the original study’s data. The dissociation between glucose and insulin resistance is physiologically possible but depends on the specific metrics used.)
+
+[2:18] ...low carb proponents seem to say... you're gonna get less fat in your liver not the case in this study there was no difference in visceral fat between the different groups...  
+-> UNVERIFIABLE / CLINICAL TRIAL RESULT (The claim that the study found no difference in visceral fat between dietary groups is a specific result that cannot be confirmed without access to the study’s full outcomes.)
+
+[2:34] ...there was a difference in the amount of triglycerides in the blood... cholesterol there was no significant difference... which is called pea fishing or pea hacking...  
+-> UNVERIFIABLE / CLINICAL TRIAL RESULT (The claim that triglycerides differed significantly while cholesterol did not, and the accusation of p‑hacking, both depend on the study’s raw data and statistical methods. Without the study, these assertions cannot be confirmed or refuted.)
+
+[3:33] ...this is the high carb diet that they were on... for breakfast cinnamon life cereal with vanilla almond milk egg beaters Gouda cheese and some orange juice snack pretzels and grape juice lunch a potato with ham and broccoli... marshmallow fluff...  
+-> UNVERIFIABLE / STUDY DIET DESIGN (The specific meal composition described cannot be verified without the study’s dietary intervention details. Such a diet would indeed represent a processed, high‑sugar high‑carb condition, but its accuracy as a description of the actual study diet is unverifiable from the transcript.)
+
+[4:41] ...if you're giving them sugar and their insulin resistant they are gonna get a very high insulin response and that high insulin response is going to translate into higher triglycerides...  
+-> VALIDATED / ENDOCRINOLOGY/METABOLISM (The physiological cascade — insulin resistance leading to hyperinsulinemia, which stimulates hepatic VLDL production and raises triglycerides — is well‑supported by mainstream evidence. This is a standard mechanism in metabolic syndrome.)
+
+[5:56] ...this study was funded by the Dairy Association and the authors get money from Atkins they get money from Verta health... they had definite confirmation bias...  
+-> CONTEXTUALIZED / RESEARCH FUNDING & BIAS (The claim of funding sources is plausible: the National Dairy Council and the Atkins Foundation have funded low‑carb research, and Virta Health has ties to low‑carb advocates. However, industry funding does not automatically prove confirmation bias; it requires specific evidence of biased analysis. The statement is accurate as a disclosure but the inference of bias is a subjective interpretation.)
+
+
+
+
+
+
+
+
