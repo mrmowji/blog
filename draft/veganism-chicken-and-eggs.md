@@ -8998,3 +8998,779 @@ Fact-Check:
 
 
 
+Title: Miley Cyrus, Omega 3, and veganism
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=R7S6Tg_JQoU
+
+====
+
+Description:
+Miley is eating fish. Should you freak out? Is being vegan bad for your brain? Should you go eat sushi? 🤦‍♂️. My quick, off the cuff thoughts, for what it’s worth. Long day in OR so excuse hat hair and tired eyes. Maybe I need fish ; )
+
+====
+
+Transcript:
+[0:01] and so miley cyrus isn't vegan anymore
+[0:04] and all of a sudden people are freaking
+[0:06] out
+[0:07] and are all over the internet
+[0:11] running to go and buy fish it's always
+[0:14] weird to me because
+[0:16] first of all veganism is not a diet
+[0:20] i don't do veganism to be healthy is it
+[0:23] healthy yes but do i do it to be healthy
+[0:25] no in fact if you look at it
+[0:29] some of the long-term studies of my
+[0:30] favorite study in the adventist health
+[0:32] study
+[0:33] shows vegans live exceedingly long
+[0:35] healthy life but guess who's healthier
+[0:37] than them the pesco vegetarians
+[0:39] and there is a reason for that
+[0:43] it turns out that omega-3s are important
+[0:46] to our body
+[0:47] and we are learning more and more about
+[0:49] this there was a
+[0:50] recent trial with high-dose
+[0:52] pharmaceutical grade
+[0:54] fish oil that did show a reduction in
+[0:57] cardiac mortality in people with high
+[0:59] triglycerides
+[1:01] we also know from several trials that
+[1:03] people with
+[1:04] low dha and epa which are
+[1:07] long-chain omega-3 fatty acids
+[1:11] tend to actually have their brain shrink
+[1:13] over time
+[1:14] there have been studies showing that
+[1:16] supplementation with omega-3
+[1:18] can help with concentration
+[1:23] in people that are having problems and
+[1:26] dha and epa deficient
+[1:28] and get this vegetarians and vegans
+[1:31] can easily be epa and dha deficient even
+[1:34] if you're taking flaxseed eating flax
+[1:35] seed and chia seeds because that
+[1:36] produces
+[1:37] ala but your body has to turn ala to dpa
+[1:40] and epa
+[1:42] dha and epa and it has about a 10
+[1:45] efficiency in doing so
+[1:49] and so that can create a problem and
+[1:51] that may be
+[1:52] why we see
+[1:54] [Music]
+[1:55] the better survival in in pescetarians
+[1:59] in the adventist health study
+[2:01] likewise the vegan diet is not perfect
+[2:04] we don't get a lot of b12 and so
+[2:06] if you don't take b12 you can get higher
+[2:08] homocysteine levels you get higher
+[2:09] homocysteine levels
+[2:11] you are at increased risk of having a
+[2:13] stroke or a heart attack
+[2:17] so miley cyrus said that she couldn't
+[2:21] concentrate
+[2:23] and she's now eating fish and she could
+[2:26] concentrate
+[2:27] first of all look this screams a little
+[2:30] bit of like a nocebo placebo effect in
+[2:32] other words enough people say
+[2:34] she complains oh my god i can't
+[2:35] concentrate people say it's because
+[2:36] you're vegan
+[2:37] she said oh my god maybe it's because
+[2:38] i'm vegan now she's set up to think that
+[2:40] she really can't concentrate
+[2:42] and then she eats some fish and she gets
+[2:43] this kind of plastic oh my god i'm sharp
+[2:46] now i'm
+[2:46] i'm sharp it could have been because of
+[2:50] depression
+[2:51] it could have been a poor sleep cycle
+[2:52] maybe there's drugs involved
+[2:54] you know this really is not a scientific
+[2:56] study this end of one miley cyrus now
+[2:59] eating fish feeling better
+[3:02] number two look if miley was really
+[3:06] worried about it
+[3:08] all you do is you supplement it does
+[3:09] turn out that
+[3:11] if you really want to get to the natural
+[3:13] source of long-chain
+[3:15] amino omega-3s
+[3:18] they come from algae the fish is a
+[3:19] middleman for for
+[3:21] the omega-3s why not go straight to the
+[3:24] source
+[3:25] so just take an algae supplement there
+[3:27] have been some good studies showing that
+[3:29] the long-chain omega-3s the
+[3:32] dha and epa that you get from algae is
+[3:35] as good a supplement as taking fish oil
+[3:38] and
+[3:38] works just fine
+[3:41] but let's go a little bit further
+[3:46] why are people freaking out that miley
+[3:48] cyrus
+[3:49] is no longer vegan are you vegan
+[3:53] because miley cyrus is vegan or do you
+[3:56] think that miley cyrus is some kind of
+[3:57] expert on health and therefore
+[3:59] she drops it because of health issues
+[4:00] therefore you've got to drop it because
+[4:02] of health issues
+[4:05] no one should be vegan just because of
+[4:07] health i don't tell my patients to go
+[4:09] vegan i tell them to go plant-based i do
+[4:10] say eat fish or
+[4:12] supplement because i do think omega-3
+[4:16] is important but i'm vegan not because
+[4:19] of my health i'm vegan
+[4:20] because fishing absolutely destroys
+[4:23] environments it's a horrible horrible
+[4:27] stress
+[4:28] on the environment there's bycatch
+[4:30] involved
+[4:33] and i don't want to be a part of that
+[4:36] industry i don't want to contribute to
+[4:37] it in any way shape or form
+[4:40] now if i had no choice well i would
+[4:43] start fishing and catch my own fish
+[4:45] and eat it but i do have a choice i
+[4:48] could take an omega-3 supplement which i
+[4:49] do
+[4:50] every single night now i don't have to
+[4:53] worry about
+[4:54] being part of that industry and that's
+[4:56] what being vegan is about
+[4:58] some people don't think fish feel pain
+[5:00] fish definitely feel pain they've got a
+[5:02] central nervous system
+[5:03] i don't feel like i need to contribute
+[5:05] to their pain and that's why i'm vegan
+[5:07] and i could do it in a very healthy
+[5:08] manner
+[5:09] because i'm a whole food plant-based
+[5:11] eater that supplements omega-3
+[5:14] i have no need for fish in that regard
+[5:16] at one point i was pescitarian
+[5:18] and i had very high mercury levels and
+[5:20] so i can avoid that too
+[5:22] simply by taking algae omega-3 same goes
+[5:26] with b12
+[5:27] i take a b12 supplement now some people
+[5:30] will say
+[5:31] a vegan diet is not a natural diet we
+[5:34] should eat a paleo diet like paleo man 8
+[5:37] because that is the perfect diet for
+[5:38] longevity and that that's always look
+[5:40] that's crazy to me because that
+[5:42] assumes that natural selection gives a
+[5:44] damn about you growing old and being
+[5:46] healthy so that you can watch your kids
+[5:47] grow up etc
+[5:49] natural selection doesn't give a damn
+[5:51] about that all natural selection cares
+[5:53] about
+[5:53] is that you live to the age of
+[5:56] procreation so you can spread the dream
+[5:57] after that
+[5:58] natural selection doesn't care so to say
+[6:00] that primitive man or what we evolved to
+[6:02] eat
+[6:03] has anything to do with longevity is
+[6:04] just flat out wrong
+[6:07] what's better to do is look around the
+[6:09] world at the cultures that
+[6:10] live long healthy lives and look at
+[6:14] multi-variant analyses
+[6:16] and what is associated with longevity
+[6:19] and you'll see over and over again it's
+[6:20] fruits vegetables and beans that is
+[6:22] what's associated with longevity
+[6:24] now blue zones are not vegan for the
+[6:26] most part except for the four percent of
+[6:28] the
+[6:28] seventh-day adventists that are that are
+[6:30] vegan but they do eat a predominantly
+[6:32] plant-based diet
+[6:34] they do eat some fish some of them do
+[6:36] eat some dairy though most of that comes
+[6:38] you know from goats but the point being
+[6:42] is that you could emulate
+[6:43] their diet for the most part and
+[6:46] if you have an ethic where you don't
+[6:48] want to eat meat or fish
+[6:51] you could eat that diet and get the
+[6:53] benefits
+[6:55] by supplementing and some people think
+[6:57] supplementing
+[6:59] is somehow not healthy but the
+[7:02] research says otherwise you could live a
+[7:04] long healthy life as a vegan
+[7:06] without contributing to pain and
+[7:09] suffering
+[7:10] and to destruction of environments
+[7:14] but you do have to supplement and i
+[7:16] think miley cyrus could have easily
+[7:18] supplemented it and be fine
+[7:20] uh but if she chooses not to do that
+[7:22] that's fine you be you don't worry about
+[7:24] what social media influencers and
+[7:27] celebrities have to say
+
+====
+
+Fact-Check:
+[0:01] "and so miley cyrus isn't vegan anymore..."
+-> CONTEXTUALIZED / LIFESTYLE & NUTRITION (This is a factual reference to a public event, but the context and reasons are not fully verified. The claim that Miley Cyrus quit veganism is based on her public statements, but the exact timing and motivations are not specified here. Verdict: Contextualized because the event is real but the framing (health vs. ethics) is speculative.)
+
+[0:16] "veganism is not a diet... I don't do veganism to be healthy... some of the long-term studies of my favorite study in the adventist health study shows vegans live exceedingly long healthy life but guess who's healthier than them the pesco vegetarians..."
+-> CONTEXTUALIZED / NUTRITION & LONGEVITY (This claim references the Adventist Health Study, a real, long-term observational study. The claim that pesco-vegetarians have better survival than vegans is supported by some analyses of this study, but it is not a universal finding and is subject to confounders. Verdict: Contextualized because the study exists and supports a nuanced view, but the claim oversimplifies the data.)
+
+[0:43] "omega-3s are important to our body... there was a recent trial with high-dose pharmaceutical grade fish oil that did show a reduction in cardiac mortality in people with high triglycerides..."
+-> VALIDATED / CARDIOLOGY (This refers to the REDUCE-IT trial, a well-known, peer-reviewed trial that found high-dose icosapent ethyl (a pharmaceutical-grade EPA) reduced cardiovascular events in patients with elevated triglycerides. The claim is accurate as stated, though the term "fish oil" is imprecise. Verdict: Validated.)
+
+[1:01] "we also know from several trials that people with low dha and epa... tend to actually have their brain shrink over time..."
+-> CONTEXTUALIZED / NEUROSCIENCE (There is evidence linking low DHA/EPA levels to brain atrophy, but the claim that this is a direct causal finding from "several trials" is overstated. Most evidence is observational. Verdict: Contextualized because the association exists but the causal claim is not as strong as stated.)
+
+[1:14] "there have been studies showing that supplementation with omega-3 can help with concentration in people that are having problems and dha and epa deficient..."
+-> CONTEXTUALIZED / COGNITIVE SCIENCE (Some studies show benefits of omega-3 supplementation for attention in deficient populations, but the evidence is mixed and not universally confirmed. The claim is plausible but not definitive. Verdict: Contextualized because it reflects a plausible but not conclusively proven benefit.)
+
+[1:28] "vegetarians and vegans can easily be epa and dha deficient even if you're taking flaxseed... because that produces ala but your body has to turn ala to dpa... and it has about a 10 efficiency in doing so..."
+-> VALIDATED / NUTRITIONAL BIOCHEMISTRY (This is factually correct: ALA conversion to EPA/DHA is inefficient, commonly cited at less than 10% for EPA and even lower for DHA. This is well-established in nutritional science. Verdict: Validated.)
+
+[1:49] "that may be why we see the better survival in pescetarians in the adventist health study..."
+-> CONTEXTUALIZED / EPIDEMIOLOGY (This is a plausible hypothesis but not a proven mechanism. The Adventist Health Study shows an association, but linking it specifically to omega-3 deficiencies is speculative. Verdict: Contextualized because the reason is not definitively established.)
+
+[2:01] "the vegan diet is not perfect... we don't get a lot of b12 and so if you don't take b12 you can get higher homocysteine levels... you are at increased risk of having a stroke or a heart attack..."
+-> VALIDATED / NUTRITION & CARDIOLOGY (It is established that B12 deficiency raises homocysteine, which is a risk factor for cardiovascular disease. Vegan diets are low in B12 without supplementation. This is medically accurate. Verdict: Validated.)
+
+[2:17] "so miley cyrus said that she couldn't concentrate... and she's now eating fish and she could concentrate... this screams a little bit of like a nocebo placebo effect..."
+-> SUBJECTIVE / PSYCHOSOCIAL ANALYSIS (This is the speaker's interpretation of Miley Cyrus's experience, not a testable claim. The nocebo/placebo effect is a real phenomenon, but applying it to this specific case is speculative. Verdict: Subjective.)
+
+[2:49] "it could have been because of depression... could have been a poor sleep cycle... maybe there's drugs involved..."
+-> SUBJECTIVE / SPECULATIVE HEALTH (These are unverified alternative explanations offered by the speaker, not grounded in direct evidence. Verdict: Subjective.)
+
+[3:02] "if miley was really worried about it... all you do is you supplement... if you really want to get to the natural source of long-chain amino omega-3s they come from algae... why not go straight to the source..."
+-> VALIDATED / OMEGA-3 SOURCING (It is scientifically accurate that the original source of long-chain omega-3s (EPA/DHA) is marine algae, not fish. Fish accumulate it through the food chain. This is factually correct. Verdict: Validated.)
+
+[3:25] "there have been some good studies showing that the long-chain omega-3s... that you get from algae is as good a supplement as taking fish oil..."
+-> VALIDATED / SUPPLEMENTATION (Several studies show algae-derived DHA/EPA is bioequivalent to fish oil in terms of bioavailability and efficacy. This is a supported claim. Verdict: Validated.)
+
+[3:41] "why are people freaking out that miley cyrus is no longer vegan... are you vegan because miley cyrus is vegan or do you think that miley cyrus is some kind of expert on health..."
+-> SUBJECTIVE / SOCIETAL COMMENTARY (This is an opinion about social behavior and influencer influence, not a checkable fact. Verdict: Subjective.)
+
+[4:05] "no one should be vegan just because of health... i don't tell my patients to go vegan i tell them to go plant-based..."
+-> SUBJECTIVE / MEDICAL OPINION (This is the speaker’s personal clinical advice, not universal medical consensus. Verdict: Subjective.)
+
+[4:20] "i'm vegan... because fishing absolutely destroys environments... there's bycatch involved..."
+-> VALIDATED / ENVIRONMENTAL IMPACT (Commercial fishing does cause significant environmental damage, including bycatch and habitat destruction. This is supported by environmental science. Verdict: Validated.)
+
+[4:58] "fish definitely feel pain they've got a central nervous system..."
+-> CONTEXTUALIZED / ANIMAL COGNITION (Scientific consensus is that fish are capable of nociception and pain-like responses, though the subjective experience is debated. The claim is broadly supported but not universally agreed upon in every detail. Verdict: Contextualized.)
+
+[5:16] "at one point i was pescitarian and i had very high mercury levels..."
+-> UNVERIFIABLE / PERSONAL HEALTH HISTORY (This is a personal anecdote that cannot be verified from the transcript or external sources. Verdict: Unverifiable.)
+
+[5:26] "i take a b12 supplement..."
+-> SUBJECTIVE / PERSONAL PRACTICE (This is a personal statement with no checkable claim. Verdict: Subjective.)
+
+[5:31] "a vegan diet is not a natural diet... we should eat a paleo diet... that assumes that natural selection gives a damn about you growing old... natural selection doesn't care about that all natural selection cares about is that you live to the age of procreation..."
+-> VALIDATED / EVOLUTIONARY BIOLOGY (This is scientifically accurate: natural selection primarily operates to ensure reproduction, not post-reproductive longevity. The critique of paleo diet claims is well-founded. Verdict: Validated.)
+
+[6:07] "what's better to do is look around the world at the cultures that live long healthy lives... you'll see over and over again it's fruits vegetables and beans that is what's associated with longevity..."
+-> CONTEXTUALIZED / EPIDEMIOLOGY (While plant-based diets are associated with longevity in many studies, the claim that it is "over and over again" the same foods is oversimplified. Longevity is multifactorial, including lifestyle, genetics, and social factors. Verdict: Contextualized.)
+
+[6:24] "blue zones are not vegan for the most part except for the four percent of the seventh-day adventists that are vegan but they do eat a predominantly plant-based diet..."
+-> VALIDATED / BLUE ZONE RESEARCH (Blue Zone populations, including Adventists, are predominantly plant-based but not entirely vegan. The 4% vegan figure among Adventists is cited in some studies. This is a reasonable summary. Verdict: Validated.)
+
+[6:42] "you could emulate their diet for the most part and... you could eat that diet and get the benefits by supplementing..."
+-> SUBJECTIVE / NUTRITIONAL ADVICE (This is practical advice, not a verifiable factual claim. Verdict: Subjective.)
+
+[6:55] "some people think supplementing is somehow not healthy but the research says otherwise..."
+-> CONTEXTUALIZED / SUPPLEMENTATION (The claim that supplementation is generally safe and beneficial is context-dependent. Some supplements are safe and helpful, but not all, and not universally. The claim is too broad. Verdict: Contextualized.)
+
+[7:04] "you could live a long healthy life as a vegan... without contributing to pain and suffering and to destruction of environments..."
+-> SUBJECTIVE / ETHICAL & NUTRITIONAL (This is a personal ethical and nutritional stance, not a purely factual claim. While possible, it is not universally guaranteed. Verdict: Subjective.)
+
+[7:14] "but you do have to supplement... i think miley cyrus could have easily supplemented it and be fine... but if she chooses not to do that that's fine you be you..."
+-> SUBJECTIVE / OPINION (This is an opinion about Miley Cyrus's choices and supplement necessity. Verdict: Subjective.)
+
+
+
+
+
+
+
+
+
+
+
+
+Title: Response to article on Vegan bone health
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=lwZsoxu_CnM
+
+====
+
+Description:
+Let’s discuss the latest paper from the EPIC database. Excuse me eating while working. Not enough hours in day. Short version: this is a database from 90’s. Average fiber intake is 20 gm so not healthiest plant based eaters. Meat eaters got more vitamin D. Also (forgot to mention in video) used hormone replacement therapy up to 50% more. Both associated with stronger bones. Other studies have shown that plant based eaters have
+
+====
+
+Transcript:
+[0:01] i wanted to quickly discuss
+[0:03] an article that came out yesterday that
+[0:06] is being
+[0:08] pushed around on media and stuff and a
+[0:10] lot of vegans are saying oh is this a
+[0:12] ridiculous study it's not a ridiculous
+[0:14] study legitimate study
+[0:17] one study is the vegetarian of vegan
+[0:18] diets and risk of total and
+[0:20] site-specific fractures
+[0:22] done by the epic oxford
+[0:25] database by some really top researchers
+[0:28] in the field of nutritional science this
+[0:30] is not a biased study
+[0:32] this is not supported by meat and dairy
+[0:35] although
+[0:36] you'll see a lot of carnivore sites
+[0:37] running with this right now
+[0:39] funny they love to run with an article
+[0:42] when it's against veganism but if i show
+[0:44] them an epic data study that shows for
+[0:46] instance that
+[0:47] vegans have less heart disease or that
+[0:49] they have less of certain cancers
+[0:51] far less diverticulitis and diverticular
+[0:55] related illnesses etc etc then
+[0:57] epidemiology is terrible the studies are
+[0:59] terrible but now that it works in their
+[1:01] benefit oh my god this is great
+[1:03] but it is not a bad study now you got to
+[1:05] understand they use the epic
+[1:07] oxford database now this database
+[1:10] includes
+[1:11] 60 000 people roughly 60 000 people
+[1:14] that were accrued in the 90s and have
+[1:17] been followed for many years since
+[1:19] they used food frequency questionnaires
+[1:21] they've questioned these people
+[1:22] at five year intervals of note this
+[1:25] study was an intent to treat
+[1:27] in other words they've got a person they
+[1:29] know what they ate
+[1:30] five years ago or 10 years ago or 15
+[1:32] years ago they don't know what they're
+[1:33] eating right now
+[1:35] so we don't know if their diet has
+[1:36] changed over time
+[1:38] um and that's obviously a possibility uh
+[1:41] but still they do a pretty good job as
+[1:43] good a job as they're going to get an
+[1:44] epidemiologic study
+[1:46] to study these things and in the study
+[1:49] they found
+[1:49] that vegans had a higher risk of
+[1:53] hip fractures and fractures in general
+[1:56] uh vegetarians and fish eaters also had
+[1:58] a higher risk than
+[2:00] meat eaters now this is an interesting
+[2:02] topic when we get to fractures
+[2:04] bone mineral density because there are
+[2:06] papers on both sides of this issue
+[2:10] there are papers that show that
+[2:13] the more meat you eat the more fractures
+[2:15] you get
+[2:16] there are papers that show that the more
+[2:19] protein you eat
+[2:20] the less fractures you get though there
+[2:21] was a huge uh
+[2:23] meta-analysis and systematic review that
+[2:26] was done recently that showed that
+[2:27] protein didn't seem to make a huge
+[2:29] difference
+[2:29] in in
+[2:32] bone status and the risk of bone
+[2:34] fractures so this is a very complex
+[2:36] topic
+[2:37] there's many things to factor in there's
+[2:39] many different
+[2:40] reasons that you would get bone
+[2:42] fractures and so that's really important
+[2:43] but i do think this article should draw
+[2:46] vegan's
+[2:47] attention and it should make us think
+[2:49] about things and let me go through
+[2:50] the article a little bit better they're
+[2:52] using this database now again
+[2:55] this database started accruing in the
+[2:58] 90s
+[2:58] that was people that the vegans they're
+[3:00] looking at now were vegan
+[3:02] before veganism was cool these are not
+[3:05] the
+[3:06] vegan influencers you see with six-pack
+[3:09] abs
+[3:10] in in athletes all right they
+[3:13] were doing veganism before there were a
+[3:16] lot of vegan supplements they were
+[3:18] before we even knew they were
+[3:19] supplements that we actually know what
+[3:21] these people were eating because
+[3:23] they've been studied before uh here's
+[3:25] the epic oxford lifestyle
+[3:26] characteristics and nutrient intakes
+[3:28] of these patients and we know that these
+[3:31] epic oxford people
+[3:34] only get the vegans only get about 20
+[3:36] grams of fiber 20 to 22
+[3:39] which is higher than the meat eaters but
+[3:41] not a lot higher they get about 19
+[3:44] and we also know that they get lower
+[3:47] protein intake
+[3:48] than the meat eaters they do eat soy but
+[3:52] don't
+[3:52] they don't tend to get a lot of soy
+[3:55] that's important because
+[3:56] when you look at the adventist health
+[3:58] study they actually looked at this very
+[4:00] carefully and they did not see
+[4:01] an increased risk of fractures when
+[4:03] people were eating
+[4:05] and drinking soy they felt like soy was
+[4:07] a good alternative to milk so if you're
+[4:09] not doing milk
+[4:10] and you're taking in soy in the epic
+[4:12] style studies they did
+[4:14] look at soy and while there was more soy
+[4:17] intake in the
+[4:18] vegan group it's less than in the
+[4:20] adventist health group
+[4:22] and they have found before that there's
+[4:25] a much less
+[4:26] intake of calcium uh in the epic
+[4:30] group so typically vegans we eat a lot
+[4:33] of dark green vegetables
+[4:34] kale which is big now but wasn't back in
+[4:36] the 90s and we found that
+[4:38] that allows us to get more than adequate
+[4:40] calcium
+[4:41] in the prior epic study done on uh
+[4:44] fractures they found that if you got
+[4:46] over 500 milligrams of calcium
+[4:49] there was no increased risk of fractures
+[4:51] uh
+[4:52] and we know that most of the epic people
+[4:54] are
+[4:55] really not eating as healthy a diet as
+[4:58] we recommend
+[4:59] we know that they're fairly low on
+[5:00] vitamin d too
+[5:02] the current study does not differentiate
+[5:05] vitamin d
+[5:06] intake and we know that vitamin d is
+[5:07] very important
+[5:09] in calcium absorption so there's many
+[5:12] different factors in here that we have
+[5:14] to look at but
+[5:15] let's look at the study so they looked
+[5:17] at different groups
+[5:19] meat eaters fish eaters vegetarians and
+[5:21] vegans again this is an old database but
+[5:23] then they looked at
+[5:25] hospital records to see if there was
+[5:26] fractures and they looked at those
+[5:28] results and found
+[5:29] a considerable increased risk in vegans
+[5:33] now
+[5:33] at first they did not
+[5:37] do controls for weight so they looked at
+[5:40] body mass
+[5:41] index as a whole and
+[5:44] did not compare in other words they did
+[5:46] not compare a
+[5:48] healthy skinny meat eater to an
+[5:50] overweight
+[5:51] vegan the reason they didn't do that is
+[5:53] there aren't a lot of overweight vegans
+[5:55] in fact when they started
+[5:57] uh trying to control for weight it was
+[6:00] really difficult because there weren't
+[6:01] that many patients to do a match between
+[6:03] the meat eaters and the plant-based
+[6:05] eaters because the plant-based
+[6:06] based eaters just weigh less now
+[6:08] understand this
+[6:10] the more you weigh the more dense your
+[6:11] bones are because your body has to
+[6:13] support that weight
+[6:14] so just by being overweight you actually
+[6:16] build stronger bones and
+[6:17] being overweight you actually cushion
+[6:20] your bones this is actually true so if
+[6:22] you fall you're less likely to break a
+[6:23] bone
+[6:24] and so there's been studies shown before
+[6:25] that higher bmi
+[6:27] in and of itself leads to less fractures
+[6:30] and so then meat years
+[6:31] weighing more should have less fractures
+[6:33] to begin with but
+[6:35] when they controlled for weight
+[6:38] the vegans still had a higher fracture
+[6:41] rate and then when they controlled for
+[6:43] protein in day two
+[6:45] the vegan still had a higher
+[6:48] fracture rate and so that's interesting
+[6:51] why after all of those controls do
+[6:53] vegans
+[6:54] still have an issue again there's
+[6:56] multiple problems these aren't healthy
+[6:58] eating vegans in general i don't know
+[7:01] anything about their supplementation
+[7:02] they didn't look at vitamin d
+[7:04] they did control for calcium intake but
+[7:07] they didn't
+[7:08] tell us about vitamin d so i don't know
+[7:10] vitamin d and how that factors into this
+[7:14] but let's say we know in general that in
+[7:17] england there's a vitamin d
+[7:19] problem we know from the study before
+[7:20] that meat eaters tend to get more
+[7:22] vitamin d
+[7:23] and the pescetarians because they are
+[7:25] getting fish that does have higher
+[7:26] vitamin d
+[7:27] but we could say that the meat eaters
+[7:29] are getting more vitamin d and therefore
+[7:30] getting more calcium absorption
+[7:32] and so vitamin d may be a big factor
+[7:34] that's missing in the study
+[7:36] there's another factor though that i
+[7:38] want vegans to think about
+[7:40] and that is vitamin k specifically k2
+[7:44] so we know that plant-based eaters
+[7:45] actually do fairly well with vitamin k
+[7:48] and we know that vitamin k is important
+[7:50] for bone health because dark green
+[7:52] leafy vegetables have vitamin k but
+[7:56] they lack vitamin k2
+[7:59] and that's important there's actually
+[8:00] been studies on vitamin k2
+[8:03] and we are starting to notice that
+[8:04] vitamin k2 is an important
+[8:06] factor in actually utilizing the calcium
+[8:09] that you absorb and putting it into
+[8:11] bones
+[8:12] vegans don't get much vitamin k2 at all
+[8:16] it's pretty much found in
+[8:20] cheese in eggs
+[8:23] you're going to find it in any fermented
+[8:25] food so there's going to be some in
+[8:27] sauerkraut if you're doing a lot of
+[8:28] sauerkraut that's good
+[8:30] nato which is a a fermented food
+[8:33] it's a typical japanese food it tastes
+[8:36] it is
+[8:37] disgusting to me it may have k2 i don't
+[8:39] want any part of it
+[8:40] uh but k2 may be the factor because what
+[8:43] these
+[8:43] investigators are saying is we've
+[8:45] controlled for
+[8:46] weight we've control for protein we've
+[8:48] controlled for calcium why are we still
+[8:50] seeing
+[8:51] if we take a meat eater but they are the
+[8:53] same weight and they're eating the same
+[8:55] calcium
+[8:56] and they're eating the same protein as a
+[8:57] plant-based eater why does the
+[8:58] plant-based eater
+[8:59] still have a higher risk of fracture
+[9:03] and the answer there may be the k2
+[9:06] now typical plant-based vitamins for
+[9:10] vegans are supplemented with k2 i we
+[9:13] don't have
+[9:13] any information on whether this epic
+[9:15] data group is doing any k2
+[9:17] supplementation just like we don't know
+[9:19] about the vitamin d supplementation
+[9:21] uh in previous studies they have looked
+[9:23] at vitamin d
+[9:24] intake i don't know if they were looking
+[9:25] at supplements with that vitamin d
+[9:26] intake but it was much lower in the
+[9:28] vegans than it was
+[9:29] in the meat eaters so it could be
+[9:31] vitamin 2 it could be k2
+[9:35] it really is hard to say but
+[9:39] again let me emphasize this extremely
+[9:41] strongly
+[9:43] we're not vegan for health when i am
+[9:46] instructing my patients i don't tell
+[9:48] them to go vegan i tell them to eat a
+[9:50] predominantly plant-based diet
+[9:52] i tell them they could have four to six
+[9:54] eggs a week i tell them that
+[9:56] fish three times a week is healthy uh
+[9:59] i tell them that game food is gonna be
+[10:01] better than
+[10:04] the kfo raised meat
+[10:07] so when you're doing veganism it's not
+[10:11] like you're
+[10:12] you're doing it for health it tends to
+[10:14] be extremely healthy but you have to
+[10:15] take studies like this into account and
+[10:18] if there are
+[10:19] deficits in a vegan diet you do have to
+[10:21] supplement so for instance you got to
+[10:22] take b12
+[10:23] you should take an omega-3 and you
+[10:25] should take a multivitamin i think that
+[10:27] that includes k2 based on my review of
+[10:29] the literature
+[10:30] so i think this study is important i do
+[10:32] think it
+[10:33] does show a potential problem uh within
+[10:36] unsupplemented vegan diet
+[10:38] but again there's a lot of problems with
+[10:40] the study we don't know if these people
+[10:42] were still vegan we don't know their
+[10:43] vitamin d we don't know their k2
+[10:46] and so there are some probably
+[10:48] inaccuracies in general
+[10:49] the epic vegans have done a lot worse
+[10:51] than vegans in other studies such as the
+[10:53] adventist health
+[10:54] so you have to take that all with a
+[10:55] grain of salt the study is in no way
+[10:58] a knife through the heart but at the
+[11:00] same time it is something that you need
+[11:01] to pay attention to
+
+====
+
+Fact-Check:
+[0:17] "one study is the vegetarian of vegan diets and risk of total and site-specific fractures done by the epic oxford database by some really top researchers..."
+-> CONTEXTUALIZED (Nutritional Epidemiology; The claim refers to a specific EPIC-Oxford study on vegetarian/vegan diets and fracture risk, but the speaker omits the study's findings on nutrient intake and confounding factors, presenting it as definitive while later noting limitations; the verdict is contextualized because the study exists and is legitimate, but the speaker's framing of "not biased" and "top researchers" oversimplifies the methodological debates.)
+
+[0:47] "vegans have less heart disease or that they have less of certain cancers far less diverticulitis and diverticular related illnesses..."
+-> VALIDATED (Nutritional Science; The claim is consistent with established epidemiological literature showing lower rates of ischemic heart disease, certain cancers (e.g., colorectal), and diverticular disease in vegans compared to meat-eaters, as documented in large cohort studies like EPIC-Oxford and Adventist Health Study.)
+
+[1:07] "this database includes 60 000 people roughly 60 000 people that were accrued in the 90s and have been followed for many years since they used food frequency questionnaires they've questioned these people at five year intervals..."
+-> VALIDATED (Epidemiological Methods; The EPIC-Oxford cohort is a prospective study with ~60,000 participants recruited in the 1990s, followed via questionnaires at intervals; the description of the database and methodology aligns with published descriptions of the study design.)
+
+[1:25] "this study was an intent to treat in other words they've got a person they know what they ate five years ago or 10 years ago or 15 years ago they don't know what they're eating right now..."
+-> CONTEXTUALIZED (Study Design; The speaker correctly identifies that the study uses baseline dietary data (from food frequency questionnaires) and does not track dietary changes over time, which is a limitation. However, the term "intent-to-treat" is misapplied—this is not a randomized trial but an observational cohort; the speaker's point about outdated dietary data is valid but the label is technically inaccurate.)
+
+[1:49] "they found that vegans had a higher risk of hip fractures and fractures in general uh vegetarians and fish eaters also had a higher risk than meat eaters..."
+-> VALIDATED (Epidemiological Findings; This matches the findings of the 2023 EPIC-Oxford study published in BMC Medicine, which reported higher risks of total and site-specific fractures (including hip) in vegans, and higher risk in vegetarians and fish-eaters compared to meat-eaters, though the risk was most pronounced in vegans.)
+
+[2:10] "there are papers that show that the more meat you eat the more fractures you get there are papers that show that the more protein you eat the less fractures you get..."
+-> VALIDATED (Bone Health Research; This is accurate—the literature is mixed, with some studies linking high meat/protein intake to increased fracture risk (e.g., due to acid load) and others showing a protective effect of protein on bone density; the speaker accurately notes the contradictory evidence.)
+
+[2:23] "there was a huge uh meta-analysis and systematic review that was done recently that showed that protein didn't seem to make a huge difference in in bone status and the risk of bone fractures..."
+-> VALIDATED (Meta-Analysis; A 2020 systematic review and meta-analysis in the *Journal of Bone and Mineral Research* concluded that protein intake has no significant effect on fracture risk, aligning with the speaker's claim.)
+
+[3:34] "only get the vegans only get about 20 grams of fiber 20 to 22 which is higher than the meat eaters but not a lot higher they get about 19..."
+-> UNVERIFIABLE (Nutritional Data; While EPIC-Oxford data show vegans consume more fiber than meat-eaters, the specific figures (20-22g vs 19g) are not cited in the transcript and may be approximate or outdated; without direct source verification, the exact numbers cannot be confirmed.
+
+[3:47] "they get lower protein intake than the meat eaters they do eat soy but don't they don't tend to get a lot of soy..."
+-> VALIDATED (Nutritional Data; EPIC-Oxford studies have shown vegans have lower total protein intake compared to meat-eaters, and soy consumption among vegans in the cohort is lower than in the Adventist Health Study, which is consistent with published data.)
+
+[3:56] "when you look at the adventist health study they actually looked at this very carefully and they did not see an increased risk of fractures when people were eating and drinking soy they felt like soy was a good alternative to milk..."
+-> VALIDATED (Epidemiological Findings; The Adventist Health Study-2 has reported no increased fracture risk among vegans, with some analyses suggesting soy consumption may be protective, contrasting with EPIC-Oxford findings, which the speaker correctly highlights.)
+
+[4:26] "they have found before that there's a much less intake of calcium uh in the epic group..."
+-> VALIDATED (Nutritional Data; Prior EPIC-Oxford analyses have documented lower calcium intake in vegans compared to meat-eaters, which is consistent with the speaker's claim and relevant to fracture risk.)
+
+[4:41] "in the prior epic study done on uh fractures they found that if you got over 500 milligrams of calcium there was no increased risk of fractures..."
+-> UNVERIFIABLE (Specific Study Finding; The speaker references a specific threshold (500mg) but does not cite the exact study; while some EPIC-Oxford analyses have examined calcium intake and fracture risk, the specific cutoff of 500mg is not widely reported in literature and requires verification.
+
+[5:00] "we know that they're fairly low on vitamin d too the current study does not differentiate vitamin d intake..."
+-> CONTEXTUALIZED (Nutritional Deficiency; The claim that EPIC-Oxford vegans are low on vitamin D is plausible given UK latitude and dietary patterns, and the new study did not assess vitamin D intake; however, the speaker's assertion is based on prior data and not directly verified in the transcript.
+
+[5:29] "found a considerable increased risk in vegans now at first they did not do controls for weight so they looked at body mass index as a whole and did not compare..."
+-> VALIDATED (Statistical Analysis; The EPIC-Oxford 2023 study initially did not adjust for BMI in some analyses, but the final adjusted models did include BMI, and the increased risk persisted, which the speaker later acknowledges—accurate description of the study's methodology.)
+
+[5:55] "there aren't a lot of overweight vegans in fact when they started uh trying to control for weight it was really difficult because there weren't that many patients to do a match..."
+-> UNVERIFIABLE (Population Characteristics; While it's plausible that vegan participants have lower BMI, the specific claim about difficulty matching is not directly cited; EPIC-Oxford data do show lower BMI in vegans, but the matching issue is a methodological detail that may be inferred rather than verified.
+
+[6:14] "just by being overweight you actually build stronger bones and being overweight you actually cushion your bones this is actually true so if you fall you're less likely to break a bone..."
+-> VALIDATED (Biomechanics; Higher body weight is associated with increased bone mineral density due to mechanical loading, and higher BMI is protective against fractures in some studies, consistent with the speaker's claim.
+
+[6:27] "there's been studies shown before that higher bmi in and of itself leads to less fractures..."
+-> VALIDATED (Epidemiology; A large body of evidence, including meta-analyses, shows higher BMI is associated with reduced hip fracture risk, though the relationship is complex for other fracture types.
+
+[6:35] "when they controlled for weight the vegans still had a higher fracture rate and then when they controlled for protein in day two the vegan still had a higher fracture rate..."
+-> VALIDATED (Study Findings; The EPIC-Oxford study reported that after adjusting for BMI and other covariates, vegans still had higher fracture risk; the speaker accurately describes the persistence of the association.
+
+[7:04] "they did control for calcium intake but they didn't tell us about vitamin d so i don't know vitamin d and how that factors into this..."
+-> CONTEXTUALIZED (Study Limitations; The study did adjust for dietary calcium but did not measure or adjust for vitamin D status, which is a valid limitation; the speaker correctly identifies this gap.
+
+[7:17] "we know in general that in england there's a vitamin d problem..."
+-> VALIDATED (Public Health; The UK has a well-documented vitamin D deficiency issue, particularly in winter, due to latitude and limited sunlight, as recognized by public health bodies like Public Health England.
+
+[7:21] "meat eaters tend to get more vitamin d and the pescetarians because they are getting fish that does have higher vitamin d..."
+-> VALIDATED (Nutritional Science; Meat and fish (especially oily fish) are natural sources of vitamin D, and EPIC-Oxford data have shown higher vitamin D intake in meat-eaters and fish-eaters compared to vegetarians and vegans.
+
+[7:44] "plant-based eaters actually do fairly well with vitamin k and we know that vitamin k is important for bone health because dark green leafy vegetables have vitamin k but they lack vitamin k2..."
+-> VALIDATED (Nutritional Science; Vitamin K1 is abundant in leafy greens, while vitamin K2 is primarily found in animal products and fermented foods; K2 is critical for activating proteins that direct calcium to bones, and vegans may be deficient.
+
+[8:00] "there's actually been studies on vitamin k2 and we are starting to notice that vitamin k2 is an important factor in actually utilizing the calcium that you absorb and putting it into bones..."
+-> VALIDATED (Biochemistry; Vitamin K2 (menaquinone) is essential for activating osteocalcin, which binds calcium to bone matrix, and observational studies suggest K2 may reduce fracture risk, though more RCTs are needed.
+
+[8:12] "vegans don't get much vitamin k2 at all it's pretty much found in cheese in eggs..."
+-> VALIDATED (Nutritional Content; Vitamin K2 is concentrated in animal-based foods like cheese, eggs, and some meats, with plant sources limited to fermented foods like natto; this aligns with dietary databases.
+
+[8:43] "we've controlled for weight we've control for protein we've controlled for calcium why are we still seeing if we take a meat eater but they are the same weight and they're eating the same calcium and they're eating the same protein as a plant-based eater why does the plant-based eater still have a higher risk of fracture..."
+-> SUBJECTIVE (Scientific Reasoning; This is the speaker's interpretive question, reflecting a plausible mechanism (vitamin K2) but not a proven conclusion; it is a hypothesis based on the study's residual risk.
+
+[9:13] "we don't have any information on whether this epic data group is doing any k2 supplementation just like we don't know about the vitamin d supplementation..."
+-> CONTEXTUALIZED (Data Availability; The EPIC-Oxford study did not measure supplement use for K2 or vitamin D, so the speaker correctly notes this uncertainty, which is a limitation of the study.
+
+[9:27] "it was much lower in the vegans than it was in the meat eaters so it could be vitamin 2 it could be k2 it really is hard to say..."
+-> SUBJECTIVE (Hypothesis; The speaker is speculating on potential causes (vitamin D or K2) for the residual fracture risk without definitive evidence, which is an opinion based on available data.
+
+[9:43] "we're not vegan for health when i am instructing my patients i don't tell them to go vegan i tell them to eat a predominantly plant-based diet..."
+-> SUBJECTIVE (Medical Advice; This is the speaker's personal clinical recommendation, not a factual claim, but it reflects a common dietary guidance stance.
+
+[10:15] "you have to take studies like this into account and if there are deficits in a vegan diet you do have to supplement so for instance you got to take b12 you should take an omega-3 and you should take a multivitamin i think that that includes k2 based on my review of the literature..."
+-> SUBJECTIVE (Supplementation Advice; While B12 supplementation is medically necessary for vegans, omega-3 and multivitamin recommendations are based on the speaker's interpretation of evidence, not universally established guidelines.
+
+[10:49] "the epic vegans have done a lot worse than vegans in other studies such as the adventist health so you have to take that all with a grain of salt..."
+-> CONTEXTUALIZED (Comparative Findings; The speaker correctly notes that EPIC-Oxford vegans show worse fracture outcomes than Adventist Health Study-2 vegans, which may reflect lifestyle differences (e.g., less healthy diets, lower supplement use), but the comparison is valid and highlights variability.
+
+[10:58] "the study is in no way a knife through the heart but at the same time it is something that you need to pay attention to..."
+-> SUBJECTIVE (Interpretation; This is the speaker's editorial assessment of the study's implications, which is an opinion rather than a verifiable claim.
+
+
+
+
+
+
+
+
+
+
+
+
