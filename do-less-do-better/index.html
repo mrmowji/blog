@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BPD1VWEHS3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-BPD1VWEHS3');
+  </script>
+
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>کمتر انجام بده، بهتر انجام بده</title>
+  <meta name="description" content="آیا این طرز فکر واقعا بهتره؟" />
+  <meta property="og:title" content="کمتر انجام بده، بهتر انجام بده">
+  <meta property="og:description" content="آیا این طرز فکر واقعا بهتره؟">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="کمتر انجام بده، بهتر انجام بده" />
+  <meta name="twitter:description" content="آیا این طرز فکر واقعا بهتره؟" />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="google-site-verification" content="G-2JdKyfI7lyA00mbcUJAQT3IwsdaihN1f2gbiwHlC8" />
+  <link rel="stylesheet" href="/assets/css/site.min.css" />
+  <script src="/assets/js/site.min.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>کمتر انجام بده، بهتر انجام بده</h1>
+<article>
+  <p>حداقل یکی از این دو تا شعار رو میشه توی زندگی دنبال کرد: «کمتر انجام بده. بهتر انجام بده.» یا «هر چی بیشتر بهتر.».</p>
+<p>وقتی کمتر رو یه جا متمرکز می‌شی، می‌تونی ۱۰۰٪ انرژیت رو بذاری رو ساختن یه چیز جدید و باحال. این خوبه.</p>
+<p>ولی چون همزمان درگیر کارای کمتری هستی، وقت بیشتری برای فکر کردن داری. بعضی وقتا این منجر میشه به بیش‌ازحد تحلیل کردن. سعی می‌کنی یه چیز عالی بسازی. و عالی، دشمن کار خوبه. مهم‌تر از عالی بودن، اینه که یه چیزی به اندازه‌ی کافی خوب بسازی.</p>
+<p>با این حال، همونطور که تقریبا کلا جهان می‌دونن، شکست یه بخش ضروری از ساختن چیزهای فوق‌العاده‌ست. شکست بهت یاد می‌ده چه چیزی جواب می‌ده و چه چیزی نه. کمکت می‌کنه تصمیم بگیری بعدش چی کار کنی. رها کن اون «عالی» رو.</p>
+<p>و بهتره که یه چیزی رو سریع بفرستی بیرون، بذاری شکست بخوره و زود درستش کنی، تا اینکه ماه‌ها وقت بذاری رو ساختن چیزی که آخرش به همون سرنوشت دچار می‌شه. مثلا در مورد محصولات، بذار بازار محصولت رو برات شکل بده.</p>
+<p>یه ویدیوی فوق‌العاده TED Talk درباره‌ی نوآوری هست به اسم <a href="https://www.youtube.com/watch?v=OLHh9E5ilZ4"><em>وقتی ایده‌ها سکس دارن</em></a>. خلاصه‌ش: نوآوری وقتی بیشتر اتفاق می‌افته که ایده‌ها با هم تلاقی داشته باشن، ترکیب بشن، و تکثیر بشن.</p>
+<p>وقتی روی چیزای کمتری تمرکز داری، چیزای کمتری تو ذهنت می‌چرخه و برخورد کمتری اتفاق می‌افته، و در نتیجه ایده‌ی جدید کمتری به وجود میاد. بیرون ریختن کلی ایده‌ی خوب، معمولا همزمان، می‌تونه توی درازمدت به نتایج بهتری برسه.</p>
+<p>پابلو پیکاسو میگه: «الهام وجود داره، ولی باید پیدات کنه وقتی داری کار می‌کنی.»</p>
+<p>برای واضح‌تر شدن باید بگم که من طرفدار چند کار همزمان نیستم. به این معنی که نباید واقعا دو تا کار رو همزمان بکنی. اصلا شاید از نظر فیزیکی شدنی نباشه.</p>
+<p>ولی اینکه چند تا پروژه همزمان رو میزت باشه؟ این می‌تونه خوب باشه.</p>
+<p>با همه این تفاسیر، من هنوزم معتقدم که یه جایی، باید وقت بذاری که کاملا روی یه پروژه تمرکز کنی و تمومش کنی. توی کتاب <em>کار عمیق</em> (که بعدا حتما درباره‌اش می‌نویسم) هم دقیقا به همین اشاره شده. اینکه برای کار عمیق و واقعی، باید وقت اختصاصی و بدون حواس‌پرتی داشته باشی.</p>
+<p>کل این قضیه منو یاد چندپتانسیلی‌ها (Multipotentialites) هم میندازه: آدمایی که کلی علاقه و استعداد مختلف دارن و نمی‌تونن خودشون رو به یه چیز محدود کنن. خودم رو همیشه یکی از همین‌ها می‌دونستم، حالا خوب یا بد. عاشق اینم که چیزای جدید یاد بگیرم، وارد حوزه‌های تازه بشم و کلی پروژه‌ی مختلف رو همزمان پیش ببرم.</p>
+<p>روی محصولات هم همینه. مثلا آیا گوشی‌های هوشمند جدید که تقریبا کارهای متفاوتی می‌کنن لزوما بدن؟ احتمالا برای خیلیا نه.
+ولی از اون طرف هم میشه گفت احتمالا دوربین‌های خیلی خفن که فقط عکس می‌گیرن یا فیلم می‌گیرن خیلی بهتر از دوربین گوشی‌ها هستن و شاید اصلا دوربین گوشی‌ها به اون درجه نرسن هیچ‌وقت.</p>
+<p>یه مثال دیگه‌ش تفاوت CPU و GPUه.
+اولی برای انجام دادن کارهای عمومی «خوبه».
+دومی برای انجام دادن یه سری کارهای خاص مثل بازی‌های کامپیوتری یا کارهای گرافیکی سنگین «عالیه».</p>
+<p>این روزا که بیشتر درگیر کار شدم، دیگه نمی‌تونم مثل قبل وقت زیادی رو صرف سرگرمی‌هایی کنم که نیاز به تمرکز ذهنی دارن. شاید دقیقا به خاطر همینه که اصل «کمتر انجام بده، بهتر انجام بده» اینقدر برام مهم شده. نه به این خاطر که نمی‌خوام کارای زیاد بکنم، بلکه به این خاطر که می‌خوام اون چیزی رو که انجام میدم، واقعا خوب انجامش بدم.</p>
+<p>با این حال، هنوز یه سری عادت‌های کوچیک ساختم که بیشترشون رو روزانه انجام می‌دم، حتی اگه شده خیلی کوچیک. بعضیاشون در راستای اون علایق مختلفم هست. و هنوزم یه لیست بلندبالا از علاقه‌مندی‌ها و چیزهایی دارم که می‌خوام تجربه کنم یا یاد بگیریم. ایشالا.</p>
+<p>خلاصه اینکه هیچ کدوم از این دو طرز فکر لزوما چیز بدی نیست.</p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=کمتر انجام بده، بهتر انجام بده&body=https://mrmowji.com/do-less-do-better/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
