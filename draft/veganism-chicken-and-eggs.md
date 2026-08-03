@@ -9774,3 +9774,491 @@ Fact-Check:
 
 
 
+Title: My problem with Jillian Michael’s commentary
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=d67eG0ct0Dw
+
+====
+
+Transcript:
+[0:02] i'm trying so hard lately to be peaceful and not get triggered but i got triggered yesterday because of a trainer from the show
+[0:11] the biggest loser named jillian michaels because she decided to comment on the studies that came out recently on a drug called ozempic
+[0:20] and my buddy spencer nadalski kind of went off on her and watching him go off on her made me
+[0:27] get triggered too and i'll just explain why real quickly because she knows you know she's a trainer she
+[0:35] was on the biggest loser i don't know if you ever watch that show but i hated that show just screaming at overweight people as if their children making them step on a
+[0:44] scale which is something they've feared their whole life with no shirt on all so that a public could sit there and
+[0:51] laugh at them hated that show and the way she treated patients on there was just so wrong
+[0:58] and what you've got to understand about her role as a trainer making people lose weight
+[1:05] is that the long-term success of her weight loss with people is extremely poor
+[1:12] extremely poor in fact they did a study out of johns hopkins looking at
+[1:19] the biggest loser and they found that the people that were on the biggest loser despite their dramatic weight loss regained
+[1:27] their weight now what's interesting is her criticism of the drug is that people don't need
+[1:34] medications to lose weight no she doesn't understand the genetics behind obesity she doesn't understand that some
+[1:43] people are hungrier than other people we know this from functional mri studies where they've placed people that are overweight in an mri scanner and they've
+[1:51] offered them food or showed the pictures of food and then compared to people with normal weight they get a very different response in places like the arcuate nucleus
+[1:59] uh we've seen different amounts of dopamine receptors we know that there's hormones like grayline and leptin and that some people are more affected by
+[2:07] that than others we know from adopted twin studies etc etc that there is a genetic uh part to obesity
+[2:16] and we know that unless you walk a mile in someone's shoes you just really don't understand the other thing she doesn't understand
+[2:23] and this is what really got me this is why i'm jumping on here is that her criticism of the drug is that people only lost a small amount
+[2:31] of weight each week half a pound a week over 60 weeks and this was a criticism to her she said
+[2:39] this is not dramatic they only lost a small amount of weight each week even though it ended up being 14 at 60 weeks which she doesn't understand
+[2:47] is that is an amazing number we don't want patients to lose a dramatic amount of weight in fact when you look at the biggest
+[2:55] loser study where they made those people lose a dramatic amount of weight over a short period of time they had permanent damage permanent damage to their metabolic rate
+[3:04] when you look at the study out of hopkins and you look at their resting metabolic rate before they entered into the biggest loser and then you look at it again when they
+[3:12] finish the biggest loser and then when they finished it 10 years later they still had damage to that metabolic rate
+[3:20] losing weight quickly through extreme measures is the worst way the worst way to lose weight slow
+[3:27] steady weight loss is what's key if a patient needs a medication to help them
+[3:34] control their hunger so that they can then make healthy food choices because you're much more likely to make healthy food choices if you're not that hungry why is that a
+[3:42] problem i have been dealing with obesity for 20 years and i will take anything i can get to help a patient
+[3:51] change their diet and if it means that they take a medication and that years later their 14
+[3:59] weight loss i'll take it now i will tell you that you got to be careful of these studies um these drug studies
+[4:06] always seem to me to look better on paper than they do when i actually start to utilize them in patients but still utilizing a tool to help
+[4:14] someone make healthy food choices is perfectly okay and only makes sense because when you look at long-term data
+[4:22] for instance in surgery you'll see that people that get surgery actually live longer why would i withhold a surgery or a medicine if it could
+[4:31] actually make people live longer in the end julian michaels she's never
+[4:39] really taking long care of a patient she's never sat across from a patient week by week month by month and year by year she's never
+[4:47] tracked her data on significant databases she hasn't reviewed the literature with obesity and in the end she really doesn't know much about obesity
+[4:56] and i really shouldn't care it's just that she has a very very big social media following and i
+[5:03] feel that the way that she approaches obesity really actually adds to weight bias and and it
+[5:12] and it puts someone who could potentially benefit from some of these treatments in a position where they feel like a failure if they if they
+[5:19] uh use it done with the ramp
+
+====
+
+Fact-Check:
+[0:11] "...she decided to comment on the studies that came out recently on a drug called ozempic..."
+-> CONTEXTUALIZED / DRUG EFFICACY (The claim implies Jillian Michaels commented on Ozempic studies; the verdict is contextualized because the transcript does not specify which studies or her exact remarks, but the subsequent criticism—focusing on half-pound weekly loss—matches publicized commentary about semaglutide trial results, though the context of "recent" is vague.)
+
+[0:35] "...she was on the biggest loser i don't know if you ever watch that show but i hated that show just screaming at overweight people..."
+-> SUBJECTIVE / SHOW CRITIQUE (The claim about the show's tone and treatment of participants is an opinion; no factual assertion is made that can be validated or falsified.)
+
+[1:05] "...the long-term success of her weight loss with people is extremely poor..."
+-> CONTEXTUALIZED / WEIGHT LOSS OUTCOMES (This is a general claim about Jillian Michaels' training results; the verdict is contextualized because while the Biggest Loser study (Fothergill et al., 2016) showed significant weight regain, it does not specifically isolate Michaels' methods from the show's overall program, and "extremely poor" is a subjective characterization.)
+
+[1:12] "...they did a study out of johns hopkins looking at the biggest loser and they found that the people that were on the biggest loser despite their dramatic weight loss regained their weight..."
+-> VALIDATED / METABOLIC ADAPTATION (The referenced study was conducted by Johns Hopkins researchers (Fothergill et al., 2016), and it found that after six years, participants regained most of their lost weight, with metabolisms slowing. The claim is accurate as stated.)
+
+[1:43] "...we know this from functional mri studies where they've placed people that are overweight in an mri scanner... compared to people with normal weight they get a very different response in places like the arcuate nucleus..."
+-> CONTEXTUALIZED / NEUROSCIENCE (The claim that functional MRI studies show differential brain responses in the arcuate nucleus is accurate, but the arcuate nucleus is a small hypothalamic structure that is difficult to isolate with standard fMRI resolution; studies typically report hypothalamic or striatal responses. Thus, the claim is broadly true but technically imprecise.)
+
+[2:01] "...we've seen different amounts of dopamine receptors..."
+-> VALIDATED / NEUROBIOLOGY (Research (e.g., Wang et al., 2001) has shown reduced dopamine D2 receptor availability in obese individuals compared to normal-weight controls, supporting this claim.)
+
+[2:07] "...we know that there's hormones like grayline and leptin and that some people are more affected by that than others..."
+-> VALIDATED / ENDOCRINOLOGY (The transcript likely misspells "ghrelin" as "grayline." The claim is accurate: ghrelin and leptin are key appetite-regulating hormones, and individual sensitivity varies based on genetic and hormonal differences, as supported by established endocrinology literature.)
+
+[2:16] "...we know from adopted twin studies etc etc that there is a genetic uh part to obesity..."
+-> VALIDATED / GENETICS (Adoption and twin studies (e.g., Stunkard et al., 1986) have consistently shown that genetic factors account for 40-70% of body mass index variance, confirming this claim.)
+
+[2:23] "...her criticism of the drug is that people only lost a small amount of weight each week half a pound a week over 60 weeks..."
+-> CONTEXTUALIZED / PHARMACOLOGY (The claim describes Jillian Michaels' criticism of semaglutide weight loss rate. The STEP-1 trial (2021) showed average weight loss of ~15% over 68 weeks, which equates to roughly 0.5-1 lb/week for many participants. The verdict is contextualized because the transcript does not verify her exact words, but the description matches published trial data.)
+
+[2:47] "...that is an amazing number we don't want patients to lose a dramatic amount of weight..."
+-> SUBJECTIVE / MEDICAL RECOMMENDATION (This is a medical opinion about ideal weight loss rates; while slow weight loss is generally recommended, the claim that half-pound per week is "amazing" is subjective and not a verifiable factual statement.)
+
+[2:55] "...when you look at the biggest loser study where they made those people lose a dramatic amount of weight over a short period of time they had permanent damage permanent damage to their metabolic rate..."
+-> MISLEADING / METABOLIC OUTCOMES (The claim states "permanent damage" to metabolic rate. The Fothergill et al., 2016 study showed decreased resting metabolic rate six years post-show, but the term "permanent" is not proven—no data beyond six years exists, and some adaptations may persist or resolve. The claim overstates the evidence.)
+
+[3:12] "...you look at their resting metabolic rate before they entered into the biggest loser and then you look at it again when they finish the biggest loser and then when they finished it 10 years later they still had damage to that metabolic rate..."
+-> FALSE / TIMELINE (The study (Fothergill et al., 2016) followed participants for six years post-show, not ten years. The claim incorrectly states "10 years later," which is not supported by the cited study or any other published research on this cohort.)
+
+[3:20] "...losing weight quickly through extreme measures is the worst way the worst way to lose weight slow steady weight loss is what's key..."
+-> CONTEXTUALIZED / WEIGHT LOSS GUIDELINES (This is a medical claim. While slow, steady weight loss is often recommended to preserve muscle mass and metabolic rate, the assertion that it is "the worst way" is an absolute statement. Guidelines (e.g., from the American Heart Association) recommend 1-2 lbs/week as safe, but this claim lacks nuance and is not universally accepted as the only valid approach.)
+
+[3:34] "...if a patient needs a medication to help them control their hunger so that they can then make healthy food choices because you're much more likely to make healthy food choices if you're not that hungry why is that a problem..."
+-> SUBJECTIVE / MEDICAL PHILOSOPHY (This is an argument in favor of pharmacologic intervention for obesity; it contains no checkable factual claim but is a reasoned opinion about the benefits of appetite suppression.)
+
+[3:51] "...i have been dealing with obesity for 20 years and i will take anything i can get to help a patient change their diet..."
+-> SUBJECTIVE / PERSONAL EXPERIENCE (This is a personal statement of professional experience, not a checkable factual claim.)
+
+[4:06] "...these drug studies always seem to me to look better on paper than they do when i actually start to utilize them in patients..."
+-> SUBJECTIVE / CLINICAL EXPERIENCE (This is an anecdotal personal opinion about drug efficacy in real-world practice, not a verifiable factual claim.)
+
+[4:22] "...when you look at long-term data for instance in surgery you'll see that people that get surgery actually live longer..."
+-> CONTEXTUALIZED / BARIATRIC SURGERY OUTCOMES (Long-term studies (e.g., the Swedish Obese Subjects study) show bariatric surgery patients have lower mortality rates compared to non-surgical controls. However, the claim "actually live longer" is an oversimplification—it's a mortality reduction, not a guarantee of extended lifespan for all individuals, and the effect depends on surgery type and patient comorbidities.)
+
+[4:31] "...why would i withhold a surgery or a medicine if it could actually make people live longer..."
+-> SUBJECTIVE / MEDICAL ETHICS (This is a rhetorical, opinion-based question, not a checkable factual claim.)
+
+[4:39] "...julian michaels she's never really taking long care of a patient she's never sat across from a patient week by week month by month and year by year..."
+-> UNVERIFIABLE / CAREER BACKGROUND (The claim about Jillian Michaels' clinical experience is unverifiable from the transcript. She is a certified personal trainer, not a physician, but whether she has "never" provided long-term patient care is not provable or disprovable based on available public information.)
+
+[4:47] "...she hasn't reviewed the literature with obesity and in the end she really doesn't know much about obesity..."
+-> SUBJECTIVE / EXPERTISE CRITIQUE (This is an opinion about Michaels' knowledge and engagement with obesity research. No specific factual claim is made that can be checked.)
+
+[5:03] "...she has a very very big social media following and i feel that the way that she approaches obesity really actually adds to weight bias..."
+-> SUBJECTIVE / SOCIAL IMPACT (This is an opinion about the impact of Michaels' public statements on weight bias; no verifiable factual claim is made.)
+
+[5:12] "...it puts someone who could potentially benefit from some of these treatments in a position where they feel like a failure if they if they uh use it..."
+-> SUBJECTIVE / PSYCHOLOGICAL IMPACT (This is an opinion about the psychological effect of Michaels' comments on potential patients, not a checkable factual claim.)
+
+
+
+
+
+
+
+
+
+
+Title: Vegan Wars
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=zURKaJTeBWw
+
+====
+
+Description:
+We need more nuance when debating health literature.
+
+====
+
+Transcript:
+[0:01] i just want to comment real quickly on the recent vegan wars because why wouldn't we war with each other uh and a lot of it is really nuanced and
+[0:08] it's being taken out of context but it has re social media and there seems to be a debate between
+[0:17] younger predominantly plant-based doctors in the older kind of old guard that really started the plant-based movement
+[0:26] at least the medical side of it and the debates to me are fairly interesting because there is legitimacy
+[0:32] on both sides um recently this really came to a head because dr greger
+[0:39] posted a video that said that there's no such thing as left main disease which is part of the heart a
+[0:46] vessel in the heart and that angioplasty doesn't work or stents don't work
+[0:54] and of course as usual he presented his data but as usual he was accused of leaving data out and that this was
+[1:02] cherry picking first of all the people on both sides of this are brilliant great doctors
+[1:09] um and they all want what's best i think for humanity and people in general um
+[1:16] i i know dr greger that i was at a meeting with dr greger once uh giving presentations and i saw him
+[1:23] with his arm around the lady in the back and i went over i was like what's going on he's like oh she's having a hypertensive attack i'm going to help her get to the
+[1:32] hospital i mean this guy really cares about people he is a genuinely good heart when he says that there's no left main
+[1:42] disease it can be problematic because there is a diagnosis of left main disease
+[1:50] heart disease and that diagnosis carries with it a poor prognosis so to say there's no left main disease
+[1:57] that means someone might have left main disease and say oh well dr greger says i don't have left main disease because there's no such thing as
+[2:05] left main disease and they don't get it treated untreated left main disease has a very high rate i think something like 50 mortality so um that could be extremely
+[2:14] problematic now dr greger does not mean that there is no left main disease what he means is that cardiovascular disease
+[2:22] is a disease of the whole heart of all the vessels in the body in other words people with erectile dysfunction have a problem
+[2:30] with their vessels and they can have a higher rate of heart disease because it is a systemic problem and i think that's what he's trying to say
+[2:39] what doctors like dr ballard who is a brilliant young doctor is trying to say is that this could be misleading to people because dr ballard is in an interesting
+[2:47] situation she's working at a predominantly plant-based institute and she's getting patients who are coming to see her about heart disease but they want to do a
+[2:56] plant-based diet a lot of them want to avoid medications now they want to avoid medications because they've heard from
+[3:02] dr esselstyn and dr uh ornish and dr greger that they can avoid it now are dr esselstyn and ornish and and
+[3:11] greg are wrong that you could avoid it no plant-based diet is a great way for decreasing heart disease are you guaranteed to avoid it no
+[3:20] definitely not could you possibly need statins and even if you're on a plant-based diet yes in fact i may need a statin my latest ldl is up
+[3:29] my cardiac heart scan looks great but i've got a familial hypercholesterolemia and i'm very comfortable with the fact that the data shows that i would be
+[3:36] better off on a statin even though i follow about a healthy diet as a human being can follow so there is a legitimate
+[3:46] problem with making it sound like plants are the absolute answer to everything those problems are twofold number one
+[3:54] for the patient because if they think that they can avoid medical therapy just by eating plants
+[4:01] they could be avoiding a potentially very helpful thing to help them live longer and alleviate symptoms
+[4:08] i treat people with medicines even though i also treat them with diet i treat people with surgery even though i also treat people with diet
+[4:15] and it's that mix that i think a doctor that is is schooled in both is really the ultimate in treatment process um
+[4:24] which is not to say that i think that you know plant-based diet can't prevent disease obviously obviously i believe it can i just don't
+[4:32] believe it's going to in everybody and that i do believe uh that there is a role for pharmaceuticals and there is a
+[4:39] role for surgery and there is a role for western medicine otherwise i wouldn't practice western medicine if i didn't think what i was doing didn't help people and obviously it does because i
+[4:47] see that in a day-to-day practice and that brings up another issue because there there's another complaint in all of this
+[4:55] that um people are saying that you know dr greger's never treated a patient and that's partly true too
+[5:05] i i can't emphasize this enough you could read all the papers you want i'm constantly reading papers there's always a paper on my desk that i am reading
+[5:12] and i read it in context with what i do in my clinical practice and what i see in my clinical practice because
+[5:20] there are times that i read something like that just isn't what i see in a clinical practice and in clinical practice and experience
+[5:28] really does play into this a lot i i value my phd uh colleagues that are putting out the research because i can't
+[5:35] sit there and do research all day i gotta treat patients but at the same time i don't take what they say absolutely
+[5:41] as it i also rely on clinical expertise both mine and my colleagues and so this is all pretty nuanced
+[5:51] dr greger's not wrong dr ballardo's certainly not wrong they are both right um they are both
+[6:00] excellent caring physicians they just have a little bit of a different perspective and if we looked at this from nuance if if people were able to look at this with nuance we this
+[6:09] wouldn't be an issue but people aren't able to do that there's you know people are like oh my god um
+[6:15] [Music]
+[6:17] the cardiologists are saying that dr greger's wrong because he said there's no such thing as left main disease therefore i will not believe anything dr greger ever said that's
+[6:25] ridiculous likewise for people to say oh well these doctors like dr davis and dr
+[6:33] ballardo are uh paid for by pharmacy and therefore they're just trying to push their medic i mean come on that's ridiculous too uh
+[6:42] so use some nuance these wars are a little bit manufactured in the social media world there are legitimate concerns uh
+[6:51] on both sides of the field so you know just listen to these with good judgment
+[6:58] hope this helped
+
+====
+
+Fact-Check:
+[0:39] "dr greger posted a video that said that there's no such thing as left main disease... and that angioplasty doesn't work or stents don't work"
+-> CONTEXTUALIZED / Medical claim (Cardiology; Dr. Greger’s original video, titled "The Most Important Artery" or similar, argued that the concept of "left main disease" as a localized blockage requiring stenting is oversimplified because atherosclerosis is systemic. He cited trials (e.g., ORBITA, ISCHEMIA) suggesting stents don't reduce mortality in stable disease. The claim "no such thing as left main disease" is a rhetorical framing; anatomical left main stenosis is a real, recognized entity with high mortality if untreated. Verdict: contextualized because the statement is a hyperbolic summary of a debatable but evidence-based argument, not a factual denial of anatomy.)
+
+[1:42] "when he says that there's no left main disease it can be problematic because there is a diagnosis of left main disease... untreated left main disease has a very high rate i think something like 50 mortality"
+-> VALIDATED / Medical epidemiology (Cardiology; Left main coronary artery disease is a well-established clinical diagnosis. The 50% mortality figure likely refers to historical 1-year mortality for medically treated left main stenosis, as cited in classic studies like the CASS registry and the 1970s–80s surgical trials. This is accurate, though the specific 50% figure is context-dependent (e.g., severe stenosis, acute presentation). Verdict validated for the core claim that left main disease is real and carries high untreated mortality.)
+
+[2:05] "now dr greger does not mean that there is no left main disease what he means is that cardiovascular disease is a disease of the whole heart of all the vessels in the body"
+-> CONTEXTUALIZED / Medical interpretation (Cardiology; This is the speaker's paraphrase of Dr. Greger’s underlying argument. Greger’s video indeed emphasized that atherosclerosis is a systemic, diffuse process rather than a set of isolated plaques, citing autopsy and imaging studies showing multi-vessel involvement in most patients. However, Greger did acknowledge left main stenosis exists anatomically but argued it shouldn't be treated as a separate disease entity. Verdict contextualized because it fairly captures Greger’s argument but simplifies the nuance of his actual position.)
+
+[2:39] "what doctors like dr ballard who is a brilliant young doctor is trying to say is that this could be misleading to people"
+-> SUBJECTIVE / Commentary (This is the speaker's characterization of Dr. Ballard's (likely Dr. Kim Williams or Dr. Danielle Belardo) criticism. No specific claim about Dr. Ballard's exact statements is made. Verdict subjective because it's an opinion about another doctor's motives without verifiable specifics.)
+
+[3:02] "dr esselstyn and dr ornish and dr greger that they can avoid it... are dr esselstyn and ornish and greg are wrong that you could avoid it no plant-based diet is a great way for decreasing heart disease are you guaranteed to avoid it no"
+-> CONTEXTUALIZED / Medical claim (Cardiology; Drs. Esselstyn and Ornish have published small, non-randomized studies (e.g., Lifestyle Heart Trial, Esselstyn's Cleveland Clinic series) showing regression of coronary atherosclerosis with very low-fat plant-based diets. However, these studies had small sample sizes, lacked control groups, and are not definitive proof that a plant-based diet guarantees avoidance of heart disease. The speaker's claim that plant-based diets are beneficial but not a guarantee aligns with mainstream cardiology consensus. Verdict contextualized because it correctly acknowledges the evidence base while noting the limitation of "guarantee.")
+
+[3:29] "my latest ldl is up my cardiac heart scan looks great but i've got a familial hypercholesterolemia and i'm very comfortable with the fact that the data shows that i would be better off on a statin"
+-> VALIDATED / Medical evidence (Lipidology; Familial hypercholesterolemia (FH) is a genetic disorder causing high LDL. The 2019 ESC/EAS guidelines and multiple meta-analyses (e.g., Cholesterol Treatment Trialists' Collaboration) show statins reduce cardiovascular events in FH patients even with healthy lifestyles. The speaker's personal anecdote aligns with established medical guidelines. Verdict validated for the claim that statins are indicated in FH regardless of diet.)
+
+[3:46] "there is a legitimate problem with making it sound like plants are the absolute answer to everything"
+-> SUBJECTIVE / Opinion (This is the speaker's editorial opinion about messaging from plant-based advocates. No specific verifiable data claim. Verdict subjective.)
+
+[4:08] "i treat people with medicines even though i also treat them with diet i treat people with surgery even though i also treat people with diet"
+-> SUBJECTIVE / Personal practice claim (This is a claim about the speaker's own clinical practice, not a checkable factual assertion about medicine. Verdict subjective.)
+
+[4:32] "i just don't believe it's going to in everybody and that i do believe that there is a role for pharmaceuticals and there is a role for surgery"
+-> SUBJECTIVE / Opinion (The speaker's belief about the limits of plant-based diets and role of conventional medicine. Verdict subjective.)
+
+[4:55] "people are saying that you know dr greger's never treated a patient and that's partly true too"
+-> UNVERIFIABLE / Professional biography (Dr. Greger is a physician (MD) but does not maintain a clinical practice; he has stated he works in public health and research. Whether he "never treated a patient" is unclear—he completed residency but did not pursue clinical practice. The claim is "partly true" but the specifics of his clinical history are not publicly documented in verifiable detail. Verdict unverifiable based on available public records.)
+
+[5:12] "i read it in context with what i do in my clinical practice and what i see in my clinical practice because there are times that i read something like that just isn't what i see in a clinical practice"
+-> SUBJECTIVE / Commentary (The speaker is describing their personal clinical experience, not making a checkable factual claim. Verdict subjective.)
+
+[5:28] "i value my phd uh colleagues that are putting out the research because i can't sit there and do research all day i gotta treat patients but at the same time i don't take what they say absolutely as it"
+-> SUBJECTIVE / Opinion (This is the speaker's personal perspective on research versus clinical practice. Verdict subjective.)
+
+[5:51] "dr greger's not wrong dr ballardo's certainly not wrong they are both right"
+-> SUBJECTIVE / Opinion (The speaker asserts both parties are correct, which is a personal judgment. Verdict subjective.)
+
+[6:17] "the cardiologists are saying that dr greger's wrong because he said there's no such thing as left main disease therefore i will not believe anything dr greger ever said"
+-> UNVERIFIABLE / Social media claim (This is a hypothetical or anecdotal characterization of public reaction, not a specific verifiable claim about named cardiologists or specific statements. Verdict unverifiable.)
+
+[6:33] "likewise for people to say oh well these doctors like dr davis and dr ballardo are uh paid for by pharmacy and therefore they're just trying to push their medic"
+-> UNVERIFIABLE / Financial disclosure claim (There are no public records or specific allegations cited to verify that Dr. Davis or Dr. Ballard are "paid for by pharmacy" in a way that would compromise their medical advice. The speaker dismisses this as "ridiculous" without evidence either way. Verdict unverifiable because no specific financial relationships are named or documented.)
+
+[6:42] "these wars are a little bit manufactured in the social media world there are legitimate concerns uh on both sides of the field"
+-> SUBJECTIVE / Commentary (The speaker's opinion about the nature of online debates. Verdict subjective.)
+
+
+
+
+
+
+
+
+
+
+Title: Why is it so hard to lose weight
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=hQQXcfl8UJ8
+
+====
+
+Transcript:
+[0:00] a lot of people ask me why is it so hard
+[0:03] to lose weight and it is very difficult
+[0:05] i mean if it wasn't difficult we
+[0:07] wouldn't have such a problem in america
+[0:09] right now there's more overweight people
+[0:11] in america than there are normal weight
+[0:13] and one third of our country's obese and
+[0:15] that number is growing and that is a
+[0:17] really serious problem
+[0:19] if it was as simple as eat less and move
+[0:22] more if this was really a will power
+[0:24] issue we wouldn't have such a huge
+[0:26] problem but it's a lot more complex than
+[0:28] that and you've got to understand that
+[0:30] there are genetics involved they did
+[0:32] these twin studies where they took
+[0:34] identical twins separated at birth
+[0:36] growing up in different environments and
+[0:38] if one was obese the chance that the
+[0:40] other was obese was very very high in
+[0:42] fact
+[0:43] the researchers stated that obesity is
+[0:46] probably our most inherited gene on par
+[0:49] with height
+[0:50] so you've got to understand you're not
+[0:52] alone and more importantly than anything
+[0:54] else you got to understand that this is
+[0:56] not your fault this really is a disease
+[0:58] process
+[1:00] now there are other factors besides
+[1:02] genetics if it was just genetics then we
+[1:04] would have had obesity many many years
+[1:06] ago but really obesity is a relatively
+[1:08] new problem and that happens because of
+[1:11] the food we eat
+[1:13] the food we eat is designed by taste
+[1:15] scientists who understand
+[1:17] our genetics and they understand what
+[1:19] our bodies crave remember our bodies
+[1:21] were created thousands of years ago in
+[1:23] times of feast or famine and our bodies
+[1:25] were created to eat so that we could
+[1:27] have enough calories and enough storage
+[1:29] during times of famine
+[1:30] now there's food everywhere and there's
+[1:33] taste scientists that know that our
+[1:35] bodies crave high calorie density and so
+[1:38] we have ultra processed foods we have
+[1:40] tons of fats
+[1:42] we have
+[1:43] chickens that our grandparents used to
+[1:46] eat
+[1:47] and they were this small and six months
+[1:48] old now our chickens are this big and
+[1:51] five weeks old and this is all a problem
+[1:54] you put that all together
+[1:56] and you combine that with the stresses
+[1:58] of daily life
+[2:00] and you get a real serious problem but
+[2:02] thankfully there are solutions and i
+[2:04] will help you get to those solutions
+
+====
+
+Fact-Check:
+[0:00] "there's more overweight people in america than there are normal weight and one third of our country's obese..."
+-> VALIDATED / Public Health Statistics (Claim: Overweight individuals outnumber normal-weight individuals in the U.S., and one-third are obese. CDC data from 2017–2020 show 73.6% of U.S. adults aged 20+ are overweight or obese; 41.9% are obese, exceeding one-third. The "more overweight than normal weight" claim holds historically; the "one-third obese" figure is conservative but accurate for earlier periods like 2015–2016, and still broadly valid.)
+
+[0:19] "if it was as simple as eat less and move more... we wouldn't have such a huge problem but it's a lot more complex than that..."
+-> SUBJECTIVE / Obesity Complexity (Claim: Weight loss is not primarily a willpower issue. This is an opinion framing; however, scientific consensus supports that obesity is multifactorial, involving genetics, environment, and biology, so the claim is reasonable but not a strictly verifiable fact—hence subjective rather than validated.)
+
+[0:30] "they did these twin studies where they took identical twins separated at birth... if one was obese the chance that the other was obese was very very high..."
+-> VALIDATED / Behavioral Genetics (Claim: Identical twins separated at birth show high concordance for obesity. The Minnesota Twin Family Study and Danish adoption studies consistently report heritability estimates of 40–70% for BMI, with concordance rates in monozygotic twins raised apart being significantly higher than in dizygotic twins. The claim is accurate.)
+
+[0:43] "the researchers stated that obesity is probably our most inherited gene on par with height..."
+-> CONTEXTUALIZED / Heritability Misstatement (Claim: Obesity is as heritable as height. Height heritability is commonly cited at ~80%; BMI heritability is ~40–70%, with some studies up to 70%, but not "most inherited" overall. The phrasing "most inherited gene" is imprecise—obesity is polygenic, not a single gene. The claim exaggerates but draws on legitimate research (e.g., Stunkard et al., 1990) showing high heritability, hence contextualized rather than false.)
+
+[0:56] "this really is a disease process"
+-> CONTEXTUALIZED / Medical Classification (Claim: Obesity is a disease. The American Medical Association (AMA) officially recognized obesity as a disease in 2013; the World Health Organization (WHO) classifies it as a chronic disease. However, this is a medical classification, not a universal fact, and some researchers argue it's a risk factor rather than a disease—hence contextualized.)
+
+[1:04] "if it was just genetics then we would have had obesity many many years ago but really obesity is a relatively new problem..."
+-> VALIDATED / Historical Epidemiology (Claim: Obesity prevalence has risen dramatically in recent decades, implying environmental factors. Historical data show U.S. obesity rates were stable at ~13–15% from 1960–1980, then rose to over 40% by 2017–2020. This supports the claim that obesity is a modern phenomenon, not purely genetic.)
+
+[1:13] "the food we eat is designed by taste scientists who understand our genetics and they understand what our bodies crave..."
+-> UNVERIFIABLE / Food Industry Design (Claim: Taste scientists design foods specifically to exploit genetic cravings. Food companies employ sensory scientists to optimize palatability, and research on "bliss point" (Moss, 2013) supports this. However, the explicit claim that they "understand our genetics" is speculative—no direct evidence links food design to genetic knowledge; hence unverifiable.)
+
+[1:21] "our bodies were created thousands of years ago in times of feast or famine and our bodies were created to eat so that we could have enough calories and enough storage during times of famine..."
+-> CONTEXTUALIZED / Evolutionary Mismatch (Claim: Human bodies evolved to store calories for famine, leading to obesity in food-abundant environments. This is a widely accepted hypothesis (the "thrifty gene" hypothesis, Neel 1962), but it has been debated—some studies suggest it oversimplifies energy storage evolution. The claim is consistent with popular science but not universally validated, hence contextualized.)
+
+[1:30] "now there's food everywhere and there's taste scientists that know that our bodies crave high calorie density and so we have ultra processed foods we have tons of fats..."
+-> VALIDATED / Nutritional Science (Claim: Ultra-processed foods and high-calorie-density foods are widespread and engineered to be overconsumed. The NOVA classification recognizes ultra-processed foods as hyper-palatable and calorie-dense; a 2019 NIH randomized controlled trial (Hall et al.) showed people eat ~500 kcal/day more on ultra-processed diets. The claim is accurate.)
+
+[1:43] "chickens that our grandparents used to eat and they were this small and six months old now our chickens are this big and five weeks old..."
+-> VALIDATED / Agricultural Facts (Claim: Modern chickens are bred to grow much faster and larger than in the past. Selective breeding (e.g., Cobb 500, Ross 308) has reduced grow-out time from ~12 weeks to ~5–6 weeks, with body weight at slaughter more than doubling. USDA and industry data confirm this.)
+
+[1:56] "you combine that with the stresses of daily life..."
+-> SUBJECTIVE / Stress and Obesity (Claim: Daily stress contributes to obesity. This is plausible and supported by research on cortisol and stress-eating, but the claim is general and not tied to a specific statistic; hence subjective.)
+
+[2:02] "thankfully there are solutions and i will help you get to those solutions"
+-> NO CHECKABLE CLAIM (This is a promotional statement, not a factual assertion, so it is excluded.)
+
+
+
+
+
+
+
+
+
+Title: The SirtDier?
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=7eft9sOohXw
+
+====
+
+Description:
+The Sirt diet: a magic bullet? It worked for Adele. 🤦‍♂️. Just using fancy names to rebrand fruits and veggies. But look, if a fancy name gives people incentive to eat plant then more power to them!
+
+====
+
+Transcript:
+[0:01] happy new year buddy and with happy new years comes resolutions which i talked about in the last post and of course i start to see everybody
+[0:09] looking at new diets and coming to see me for help with weight loss both surgical medical and the interesting thing is everybody's always
+[0:18] got a new diet there's i heard a new diet today i did not even know there was this diet called the cert diet which is
+[0:24] interesting because it's about this group of proteins called sirtuins that
+[0:32] basically control metabolism by activating certain genes let's not worry about sirtuins it's a little bit too much but there's a cert diet that i
+[0:40] guess adele the singer did and i was like interesting because someone was one of the patients was asking me about cert diet so i looked up cert diet and it's
+[0:48] so funny to me with all these diets the cert diets are great diet you you're going to do some fasting in the beginning where you're just drinking juice
+[0:57] and then you're going to go on a diet in foods that stimulate sertoins and i guess what is it that people want
+[1:05] they want like some kind of fat fancy magic bullet i mean this basically is a heavy plant-based diet that depends on a lot of the foods i
+[1:14] want people to eat legumes dark green vegetables green tea matcha
+[1:22] of course you know people are going to read the cert diet and be like oh my god i could eat dark chocolate yes but i don't think you know what dark chocolate is it's um chocolate
+[1:30] cocoa is a very dark and very bitter um and matcha green tea and arugula and it's basically all the things that i
+[1:38] recommend everybody eating every day adele didn't lose weight because she did a cert diet she ate she lost weight because she ate a predominantly
+[1:45] plant-based diet in this diet you can't eat meat they try to direct people towards
+[1:52] fish and lean meats and you know that's fine with me i do the same with my patients obviously as a vegan i don't want people eating
+[2:01] uh meat because of the animals and as an environmentalist what it takes to
+[2:09] care for 70 billion odd animals that we eat it definitely has its effect on our climate but from a weight loss
+[2:17] standpoint you can lose weight eating a quarter of your plate with an animal protein although that core of
+[2:25] our plate would be even better if you were using legumes because then you'd be even using even another food that activates certains the
+[2:33] the animal proteins do not in fact the animal proteins work against the sirtuins because they stimulate a pathway called mtor
+[2:41] and that's through an amino acid called leucine so it's all ridiculous you don't have to worry about that you just need to eat a
+[2:48] lot of fiber a lot of colorful vegetables because yes the foods that have coloring is good for you will they activate this amazing sirtuin
+[2:58] yes but to a small extent if you really want to activate sirtuins for anti-aging that is a whole different ballgame it involves some interesting supplements
+[3:07] that are being studied right now but are not nearly ready for prime time maybe i'll do about a post about those in the future but anyway happy new year
+[3:16] and i hope you're out there eating your colorful fruits and vegetables
+
+====
+
+Fact-Check:
+[0:18] "i heard a new diet today i did not even know there was this diet called the cert diet which is interesting because it's about this group of proteins called sirtuins that basically control metabolism by activating certain genes..."
+-> CONTEXTUALIZED / DIET SCIENCE (The claim conflates sirtuins with "proteins controlling metabolism by activating genes." Sirtuins are enzymes (proteins) that regulate cellular processes via deacetylation, not simply "activating genes" in a blanket sense; they influence metabolism, but their role is more nuanced—they are NAD+-dependent and affect gene expression indirectly. Verdict: accurate in broad strokes (proteins, metabolic role) but oversimplifies mechanism, so context is needed.)
+
+[0:40] "i guess adele the singer did [the sirt diet]..."
+-> UNVERIFIABLE / CELEBRITY DIET (The claim is speculative—"i guess"—and no verifiable public record confirms Adele followed the sirt diet specifically; she has discussed lifestyle changes but not the sirt diet by name. Verdict: cannot be confirmed from transcript alone; no evidence provided.)
+
+[0:48] "the cert diets are great diet you you're going to do some fasting in the beginning where you're just drinking juice..."
+-> CONTEXTUALIZED / DIET PROTOCOL (The Sirtfood Diet, as commonly described, includes a 3-day phase with calorie restriction (~1,000-1,500 kcal/day) involving green juices and specific foods—not "just drinking juice" exclusively. Other sources indicate it includes solid meals on days 4-7. Verdict: partial description; fasting is mild and not juice-only, so needs clarification.)
+
+[0:57] "then you're going to go on a diet and foods that stimulate sertoins..."
+-> MISLEADING / DIET MECHANISM (The Sirtfood Diet promotes foods that "activate" sirtuins, but scientific evidence that dietary intake meaningfully activates sirtuins in humans is weak—most sirtuin activation research uses pharmacological agents like resveratrol in high doses, not food. Verdict: the diet's premise is oversold; food-induced sirtuin activation is not a proven weight-loss mechanism.)
+
+[1:05] "they want like some kind of fat fancy magic bullet i mean this basically is a heavy plant-based diet that depends on a lot of the foods i want people to eat legumes dark green vegetables green tea matcha..."
+-> VALIDATED / DIETARY PATTERN (The Sirtfood Diet indeed emphasizes plant-based foods like dark leafy greens, matcha, legumes, and soy; these are consistent with the official Sirtfood Diet list and general plant-forward dietary guidelines. Verdict: factually accurate description of the diet's composition.)
+
+[1:22] "of course you know people are going to read the cert diet and be like oh my god i could eat dark chocolate yes but i don't think you know what dark chocolate is it's um chocolate cocoa is a very dark and very bitter..."
+-> SUBJECTIVE / TASTE & NUTRITION (The speaker claims dark chocolate in the diet is "very bitter" and implies people misunderstand it. The official Sirtfood Diet does include small amounts of dark chocolate (85%+ cocoa) as a "sirtfood," but taste is subjective; bitterness is a sensory property, not a factual error. Verdict: subjective opinion about taste, though the diet does include dark chocolate.)
+
+[1:38] "adele didn't lose weight because she did a cert diet she ate she lost weight because she ate a predominantly plant-based diet..."
+-> UNVERIFIABLE / CELEBRITY WEIGHT LOSS (No public evidence confirms Adele's exact diet or the cause of her weight loss; attributing her loss to a plant-based diet is speculative. Verdict: cannot be validated from transcript; conflicting public reports exist.)
+
+[1:45] "in this diet you can't eat meat they try to direct people towards fish and lean meats..."
+-> FALSE / DIET RULES (The Sirtfood Diet does not prohibit meat entirely; it allows lean proteins including poultry and fish, and occasionally red meat, in moderate portions. The diet emphasizes plant-based sirtfoods but does not ban meat. Verdict: the claim that "you can't eat meat" is incorrect.)
+
+[2:01] "obviously as a vegan i don't want people eating uh meat because of the animals and as an environmentalist what it takes to care for 70 billion odd animals that we eat it definitely has its effect on our climate..."
+-> CONTEXTUALIZED / ENVIRONMENTAL & ETHICS (The figure "70 billion odd animals" is approximate—FAO estimates ~80-90 billion land animals slaughtered annually for food, so the number is roughly correct but not precise. The climate impact claim is supported by major studies (e.g., FAO's "Livestock's Long Shadow" and subsequent research), but the speaker's moral stance is personal, not factual. Verdict: factually plausible but ethically subjective; number slightly low but in range.)
+
+[2:17] "from a weight loss standpoint you can lose weight eating a quarter of your plate with an animal protein although that core of our plate would be even better if you were using legumes..."
+-> CONTEXTUALIZED / WEIGHT LOSS NUTRITION (Weight loss depends on total caloric intake and adherence, not protein source alone; both animal and plant proteins can support weight loss. The claim that legumes are "even better" is generalizing—legumes offer fiber and lower fat, but both can fit a deficit. Verdict: oversimplified but not false; claim needs nuance for individual contexts.)
+
+[2:33] "the animal proteins do not [activate sirtuins] in fact the animal proteins work against the sirtuins because they stimulate a pathway called mtor and that's through an amino acid called leucine..."
+-> MISLEADING / BIOCHEMISTRY (Animal proteins do contain leucine, which does activate mTOR, and mTOR activation can inhibit sirtuin activity under certain conditions—this is a plausible mechanism. However, the claim that animal proteins "work against sirtuins" is an oversimplification; leucine is also present in plant proteins (e.g., soy), and sirtuin/mTOR interplay is complex, not a simple opposition. Verdict: partially accurate but overstated and lacks nuance.)
+
+[2:48] "you just need to eat a lot of fiber a lot of colorful vegetables because yes the foods that have coloring is good for you will they activate this amazing sirtuin yes but to a small extent..."
+-> VALIDATED / DIETARY GUIDANCE (High fiber and colorful vegetables are widely recommended for health, and compounds like polyphenols in colored vegetables (e.g., quercetin, resveratrol) can mildly activate sirtuins in vitro and in animal models, but human evidence for significant activation from diet is limited. Verdict: advice is safe and beneficial, and the claim about small extent is scientifically cautious—so accurate enough.)
+
+[3:07] "if you really want to activate sirtuins for anti-aging that is a whole different ballgame it involves some interesting supplements that are being studied right now but are not nearly ready for prime time..."
+-> CONTEXTUALIZED / SUPPLEMENTS (Sirtuin-activating compounds (STACs) like resveratrol and newer molecules are under research for anti-aging, but no supplement is clinically proven for human anti-aging via sirtuins; thus "not ready for prime time" is accurate. However, "interesting supplements" is vague and could imply efficacy where none is established. Verdict: accurate in caution, but the mention of supplements implies potential without evidence—needs context on lack of approval.)
+
+
+
+
+
+
+
+
+
+
+
