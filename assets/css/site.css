@@ -521,7 +521,7 @@ object {
 img {
   height: auto;
   max-width: 100%;
-  margin: auto;
+  margin: 0 auto 15px auto;
 }
 
 .container {
