@@ -521,7 +521,7 @@ object {
 img {
   height: auto;
   max-width: 100%;
-  margin: 0 auto 15px auto;
+  margin: 0 auto 1rem auto;
 }
 
 .container {
@@ -680,7 +680,7 @@ ul {
 }
 
 li {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 ul.compact li {
