@@ -10687,3 +10687,3829 @@ Fact-Check:
 
 
 
+Title: January 9, 2024
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=v5yU9UPbGDM
+
+====
+
+Transcript:
+[0:01] after a day of looking at people's dialogues I could tell you one thing that everybody should be somewhat
+[0:08] cautious about and that is snacking it's we in America we just come to think of snacking as just part of the
+[0:15] daily diet in fact when I get people's diet logues often times I'll look I'll say okay breakfast lunch dinner looks okay by the way have you been snacking and they didn't even put the snacks on
+[0:24] oh yeah I mean a little here a little there a little here a little there actually adds up quite a bit in fact a recent study that was just published in
+[0:31] plus um showed that the average American is getting about 500 calories at a snack where their snacks added up that's
+[0:39] another meal and when you're trying to lose weight those calories can definitely add up I think it's very
+[0:46] important to first of all get set meal times and if you're going to do a snack schedule that snack so that you're not
+[0:54] making game time decisions because if you make game time decisions and it's one o'clock and someone's got nuts you're going to eat it even though he just had lunch at 12:00 whereas if you
+[1:02] have a set meal time you won't eat those nuts you'll wait till your set meal time which is your snack time and that's when you'll choose to eat and also when you
+[1:11] get a snack understand that snacks should have less calories overall than the meal PL so if the meal is going to be 500 to 700 calories if you're trying
+[1:20] to lose weight you want to make sure that you limit your snacks to a fruit or something that has less calories than that so be cognizant with snacks they
+[1:27] could really add up
+
+====
+
+Fact-Check:
+[0:31] ...a recent study that was just published in plus um showed that the average American is getting about 500 calories at a snack where their snacks added up...
+-> CONTEXTUALIZED / Health & Nutrition (Claims the average American gets about 500 calories from snacks, citing a "plus um" study. This aligns with USDA and NHANES data showing average snack calories around 400–600/day for adults, but the source citation is garbled and the 500-calorie figure is an average that varies by age, sex, and definition of snacking, so the claim is broadly accurate but needs context on methodology and variability.)
+
+[0:39] ...when you're trying to lose weight those calories can definitely add up...
+-> SUBJECTIVE / Weight Management (This is a general, uncontroversial statement; the claim that snacking calories hinder weight loss is directionally correct per energy balance principles, but the phrasing is advisory and not a precise scientific assertion, so it is subjective rather than factually checkable.)
+
+[0:46] ...I think it's very important to first of all get set meal times and if you're going to do a snack schedule that snack so that you're not making game time decisions...
+-> UNVERIFIABLE / Behavioral Advice (This is an opinion-based recommendation about meal scheduling to avoid impulsive eating. There is research linking structured eating times to better dietary control, but the specific claim that this approach is "important" is a personal view without a cited study, so it cannot be verified as fact.)
+
+[1:11] ...snacks should have less calories overall than the meal PL so if the meal is going to be 500 to 700 calories if you're trying to lose weight you want to make sure that you limit your snacks to a fruit or something that has less calories than that...
+-> SUBJECTIVE / Dietetic Guidance (This is prescriptive advice, not a factual claim. The idea that snacks should have fewer calories than meals is a reasonable heuristic but not a universal rule; some eating plans allow higher-calorie snacks for satiety or nutrient density. The specific suggestion to limit to fruit is a personal preference, not a validated scientific guideline.)
+
+[1:27] ...be cognizant with snacks they could really add up...
+-> VALIDATED / Nutrition Fact (This is a general truth supported by dietary research: frequent, unplanned snacking contributes significantly to total daily caloric intake, often leading to weight gain. The claim is a simple restatement of well-established energy balance principles.)
+
+
+
+
+
+
+
+
+
+
+
+Title: January 9, 2024
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=7BYF4XtZL10
+
+====
+
+Transcript:
+[0:00] new study just done in jamama really cool study they looked at 22 sets of identical twins put them on an eight-week diet actually gave them the
+[0:08] food for four weeks and then they had to prepare their own food for four weeks and this was a randomized control trial
+[0:16] one twin in each set would do a healthy omnivore diet and the other would do a healthy vegan diet both groups increase
+[0:25] the amount of fiber that they ate both groups uh increase the amount of vegetables they ate obviously the animal group ate a little bit more protein than
+[0:33] the plant group did and at the end of eight weeks and this was not designed to be a weight loss they were supposed to be uh kind of calorie neutral uh but at
+[0:41] the end of 8 weeks the plant-based group lost more weight so compared to their twin they lost more weight not only that
+[0:49] their cholesterol level dropped significantly that was a primary factor they were looking at and uh they also had a reduction in their fasting insulin
+[0:57] even though they were actually eating more carbs and the reason is when you're not getting saturated fat I've said this over and over again you become a lot more insulin sensitive so you don't need
+[1:06] as much insulin to control your carbs um and so they were doing better in that regard so they bet basically had a
+[1:13] better cardiometabolic uh lab values and uh better weight loss and so the twin doing the plant-based diet was basically
+[1:22] more successful even though the omnivore was doing a healthy omnivore diet
+
+====
+
+Fact-Check:
+[0:00] “new study just done in jamama really cool study they looked at 22 sets of identical twins put them on an eight-week diet actually gave them the food for four weeks and then they had to prepare their own food for four weeks and this was a randomized control trial”
+-> VALIDATED / STUDY DESIGN (Topic: Stanford Twin Nutrition Study; The claim matches the design of the 2023 Stanford University randomized controlled trial (Gardner et al., JAMA Network Open), which enrolled 22 pairs of identical twins, provided all meals for the first 4 weeks, and had participants prepare their own meals for weeks 5–8. The study was indeed randomized—one twin assigned to a vegan diet, the other to an omnivore diet.)
+
+[0:16] “one twin in each set would do a healthy omnivore diet and the other would do a healthy vegan diet both groups increase the amount of fiber that they ate both groups uh increase the amount of vegetables they ate obviously the animal group ate a little bit more protein than the plant group did”
+-> VALIDATED / DIETARY INTAKE (Topic: Diet composition; The published study reports that both diet groups increased fiber and vegetable intake, and the omnivore group consumed more protein than the vegan group. Fiber intake rose in both groups, though the vegan group had higher fiber overall. The claim accurately reflects the study’s dietary data.)
+
+[0:33] “at the end of eight weeks and this was not designed to be a weight loss they were supposed to be uh kind of calorie neutral uh but at the end of 8 weeks the plant-based group lost more weight so compared to their twin they lost more weight”
+-> VALIDATED / WEIGHT OUTCOME (Topic: Weight loss in vegan vs omnivore twins; The study’s primary outcome was change in LDL cholesterol, not weight loss, and participants were not instructed to restrict calories. Results showed the vegan twin lost on average about 1.9 kg more than the omnivore twin at 8 weeks. This matches the claim.)
+
+[0:49] “their cholesterol level dropped significantly that was a primary factor they were looking at”
+-> VALIDATED / CHOLESTEROL OUTCOME (Topic: LDL cholesterol reduction; The primary outcome of the Stanford trial was change in LDL cholesterol. The vegan group showed a statistically significant greater reduction in LDL (about 15 mg/dL difference) compared to the omnivore group, consistent with the claim.)
+
+[0:49] “they also had a reduction in their fasting insulin even though they were actually eating more carbs”
+-> VALIDATED / INSULIN OUTCOME (Topic: Fasting insulin and carbohydrate intake; The study reported that the vegan group had significantly greater reductions in fasting insulin compared to the omnivore group. The vegan group also consumed more carbohydrates (as a percentage of calories), which is consistent with the claim. The reduction in fasting insulin occurred despite higher carb intake.)
+
+[0:57] “and the reason is when you're not getting saturated fat I've said this over and over again you become a lot more insulin sensitive so you don't need as much insulin to control your carbs”
+-> CONTEXTUALIZED / MECHANISM (Topic: Saturated fat and insulin sensitivity; The claim that reducing saturated fat improves insulin sensitivity is plausible and consistent with some metabolic research, but the Stanford study itself did not measure insulin sensitivity directly—it measured fasting insulin. Saturated fat intake was lower in the vegan group, but other factors (fiber, weight loss, polyphenols) could also explain improved insulin outcomes. The causal mechanism is an interpretation, not a proven finding from this trial.)
+
+[1:13] “better cardiometabolic uh lab values and uh better weight loss and so the twin doing the plant-based diet was basically more successful even though the omnivore was doing a healthy omnivore diet”
+-> VALIDATED / OVERALL CONCLUSIONS (Topic: Summary of twin study outcomes; The published study concluded that a vegan diet improved cardiometabolic markers (LDL cholesterol, fasting insulin) and led to greater weight loss compared to a healthy omnivore diet. The comparison to a “healthy omnivore” diet is accurate, as the omnivore group was designed to be a healthy diet with whole foods, not a typical Western diet.)
+
+
+
+
+
+
+
+
+
+Title: More animal protein does NOT mean more muscle. Muscle Protein Synthesis is not a complete story!!!
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=MXH-tRzftsE
+
+====
+
+Description:
+A popular influencer online posted a study that showed the animal protein meals lead to more muscle protein synthesis. So, can we then assume eating a more animal protein diet leads to more muscle and less frailty? Absolutely not. For an explanation.
+
+====
+
+Transcript:
+[0:00] all right let's talk about muscle for a
+[0:02] second so a uh pretty big influencer
+[0:05] online Dr Lan Norton put up this one
+[0:09] study it's interesting Lane does some
+[0:11] good stuff and sometimes I disagree so
+[0:13] much with him it's okay we all disagree
+[0:15] with each other from time to time but
+[0:16] one of the things he hates is when
+[0:18] people talked about mechanistic studies
+[0:20] mechanistic studies are like we find one
+[0:23] little biological process and then we
+[0:26] then take that one biological process
+[0:28] and we extrapolate that
+[0:30] to a whole physiologic system so for
+[0:33] instance let's take this idea of
+[0:35] lectin
+[0:37] uh people out there saw a study that
+[0:40] said that lectin Bine nutrients and so
+[0:44] they therefore conclude that if you eat
+[0:46] beans you are not going to get enough
+[0:47] nutrients now that's ridiculous right
+[0:49] there are thousands of studies that show
+[0:52] that bean eaters are healthier when you
+[0:54] look at Blue Zone populations there's a
+[0:56] huge consumption of legumes legumes are
+[0:59] are actually one of the foods most
+[1:01] associated with longevity so obviously
+[1:04] looking at that one little process can't
+[1:05] be right there's got to be something
+[1:06] more to it and of course there's many
+[1:08] different lectin some lectin may do this
+[1:10] other lectin don't lectin get cooked out
+[1:13] when you're when you're preparing them
+[1:15] uh some lectin are actually really good
+[1:17] for you you would wish that they weren't
+[1:19] be uh they wouldn't be cooked out and so
+[1:22] looking at one little mechanistic study
+[1:24] is erroneous I saw a uh a person online
+[1:28] today that was referring to this uh
+[1:32] Chicago study where they found that one
+[1:35] specific fatty acid in meat is good for
+[1:39] treating cancer and so she therefore
+[1:40] said we need to be eating meat that's
+[1:41] ridiculous that was one little fatty
+[1:43] acid there's multiple other things like
+[1:47] um
+[1:49] uh Advanced glycolated n products um
+[1:53] you've got uh heterocyclic amines you've
+[1:56] get n nitrosamines things like this that
+[1:58] actually cause cancer and there's been
+[1:59] some St and saying people that eat more
+[2:02] meat have more cancer whether you're
+[2:03] looking at the Epic data study or other
+[2:06] data sets so looking at mechanistic
+[2:09] studies is not a good idea now we go
+[2:12] back to Lane uh Lane
+[2:14] typically hates those kind of things and
+[2:17] yet yesterday he talked about a study
+[2:20] where they showed that elderly people
+[2:23] that ate a meat-based meal this is one
+[2:26] meal this was a study on one meal uh if
+[2:28] they ate a meat-based meal
+[2:30] they got more amino acids in their
+[2:31] system and more muscle protein synthesis
+[2:33] only over the first 6 hours than if they
+[2:37] ate a plant-based meal okay so what's
+[2:40] the relevance of that the implication is
+[2:42] and the study was funded by beef check
+[2:44] off if you don't know what beef check
+[2:46] off is it's the marketing brand of beef
+[2:49] and it's not that when funded studies
+[2:50] are not necessarily bad but the problem
+[2:53] I have with funded studies is they'll
+[2:54] fund a study where they know they're
+[2:56] going to get a positive result obviously
+[2:59] there are certain amino acids that are
+[3:00] higher in an animal-based meal than
+[3:03] there are in a plant-based meal but is
+[3:06] that good so there's more Lucine for
+[3:08] instance in an animal-based meal and we
+[3:09] know that Lucine stimulates muscle
+[3:11] protein synthesis and that's what they
+[3:13] were looking at muscle protein synthesis
+[3:15] so more muscle protein
+[3:17] synthesis with an animal-based meal the
+[3:20] implication then is that well we should
+[3:22] tell elderly people to eat more animal
+[3:25] based than plant-based because they're
+[3:27] going to get muscle protein synthesis
+[3:30] but do they does that mean that they get
+[3:32] more muscle does that mean that they get
+[3:34] more grip strength the answer is no
+[3:36] there have been many many studies on
+[3:38] this where you increase protein in
+[3:41] elderly patients do they have more lean
+[3:45] mass and it's hard to measure lean mass
+[3:47] a lot of people use all kinds of
+[3:48] different things to measure lean
+[3:51] mass when we say lean mass we want to no
+[3:53] muscle mass right but when you're
+[3:55] measuring lean mass with things like uh
+[3:58] bioimpedance uh other things go into the
+[4:01] lean mass so if someone has growth in
+[4:05] their organs if they've got excess water
+[4:08] that goes down as lean body mass bone
+[4:11] things like that and so an increase of
+[4:13] lean mass may not mean an increase of
+[4:15] muscle mass we don't care about an
+[4:16] increas of lean mass if it doesn't mean
+[4:18] that you're stronger and more resilient
+[4:19] and less frail uh and so when you look
+[4:22] at studies that are looking more
+[4:23] specifically at
+[4:24] MRI uh that are looking at grip strength
+[4:27] that are looking at uh ability to do
+[4:29] things like sitting to standing there
+[4:31] are multiple studies saying increasing
+[4:34] protein does not increase strength and
+[4:38] actual muscle mass the only times that's
+[4:41] been shown to help has been when you
+[4:42] combine protein with resistance training
+[4:45] but even then that was a very small
+[4:47] advantage over a resistance training at
+[4:49] A8 G per kilogram the RDA uh for protein
+[4:54] um and in other studies that protein and
+[4:57] protein supplements didn't make a
+[4:58] difference over just plain resistance
+[5:00] training and in fact if you look at the
+[5:02] study that Lane's talking about you
+[5:04] would assume then that people that ate
+[5:06] more animal protein would be less frail
+[5:09] as they age but a Chinese longitudinal
+[5:13] study and a European longitudinal study
+[5:16] looked at people and followed them for a
+[5:18] few years and they looked at those that
+[5:20] ate a more plant-based diet and those
+[5:21] that ate a more animal-based diet and
+[5:24] those that ate a more plant-based diet
+[5:26] had less sarcopenia and then in America
+[5:29] in the Harvard nurses and health
+[5:31] profession study um when they looked at
+[5:34] people that ate more plant-based there
+[5:35] was less Frailty less Frailty all right
+[5:38] so you can't take one mechanistic study
+[5:42] and have it give you any idea because
+[5:45] what that's we're looking only at muscle
+[5:47] protein synthesis in um the study that
+[5:51] Lay's talking about but what we really
+[5:53] want to know is a balance between muscle
+[5:55] protein synthesis and muscle protein
+[5:58] breakdown now what causes muscle protein
+[6:00] breakdown it's a lot harder to measure
+[6:02] but we could make a lot of theories I
+[6:06] mean a lot of this is is still being
+[6:09] figured out there's something called
+[6:11] carbamation where breakdown products of
+[6:14] protein May interfere with the actual
+[6:18] structure of muscle um inflammation now
+[6:22] if you're going on a meat-based diet if
+[6:24] you look at the dietary inflammatory
+[6:26] index and you eat a more meat-based diet
+[6:28] because you want to get more prot
+[6:29] synthesis you may be creating more
+[6:31] inflammation and that may be breaking
+[6:32] down more muscle but regardless the
+[6:34] bottom line is eating a more meat-based
+[6:36] diet does not equate to having more
+[6:40] muscle
+
+====
+
+Fact-Check:
+[0:00] "let's talk about muscle for a second... Dr Lan Norton put up this one study... one of the things he hates is when people talked about mechanistic studies..."
+-> CONTEXTUALIZED (Scientific reasoning; The speaker critiques mechanistic studies as unreliable for dietary conclusions, using lectins in beans as an example. While the critique of over-extrapolation is valid, the claim that "bean eaters are healthier" and "legumes are one of the foods most associated with longevity" is a general epidemiological association, not a universal causal truth; the context is the need to weigh whole-diet outcomes over isolated mechanisms.)
+
+[0:35] "let's take this idea of lectin... people out there saw a study that said that lectin Bine nutrients and so they therefore conclude that if you eat beans you are not going to get enough nutrients now that's ridiculous... there are thousands of studies that show that bean eaters are healthier..."
+-> VALIDATED (Nutrition; The claim that lectins can bind nutrients in vitro but do not meaningfully reduce nutrient absorption in real-world bean consumption is well-supported. Cooking destroys most lectins, and epidemiological studies show legume consumption is associated with lower chronic disease risk and greater longevity, as in Blue Zone populations. The conclusion that the mechanistic extrapolation is "ridiculous" aligns with current nutritional science.)
+
+[0:49] "when you look at Blue Zone populations there's a huge consumption of legumes legumes are actually one of the foods most associated with longevity"
+-> VALIDATED (Epidemiology; Blue Zone diets (e.g., Okinawa, Sardinia, Nicoya) are characterized by high legume intake, and systematic reviews of dietary patterns link legume consumption to reduced all-cause mortality. This is a consistent finding in longevity research.)
+
+[1:08] "there's many different lectin some lectin may do this other lectin don't lectin get cooked out when you're when you're preparing them... some lectin are actually really good for you"
+-> VALIDATED (Biochemistry; Lectins are a diverse family of proteins; some are toxic (e.g., phytohaemagglutinin in raw kidney beans) but are largely inactivated by boiling. Others, like those in certain mushrooms or legumes, may have beneficial immunomodulatory effects. The claim that not all lectins are harmful and that cooking removes most active lectins is accurate.)
+
+[1:28] "Chicago study where they found that one specific fatty acid in meat is good for treating cancer and so she therefore said we need to be eating meat that's ridiculous"
+-> CONTEXTUALIZED (Cancer research; There is a study from the University of Chicago (e.g., on trans-vaccenic acid, a fatty acid in ruminant meat) showing anti-tumor effects in mouse models. However, this is preclinical, and the fatty acid is not exclusive to meat nor does it override the established cancer risks from processed/red meat (e.g., heterocyclic amines, N-nitrosamines). The speaker's criticism of extrapolating to a recommendation to eat more meat is scientifically reasonable, but the claim that the study exists is correct.)
+
+[1:43] "there's multiple other things like Advanced glycolated n products... heterocyclic amines... n nitrosamines things like this that actually cause cancer and there's been some St and saying people that eat more meat have more cancer whether you're looking at the Epic data study or other data sets"
+-> VALIDATED (Carcinogenesis; Advanced glycation end-products (AGEs), heterocyclic amines (HCAs), and N-nitrosamines are recognized carcinogens/mutagens formed during high-temperature cooking or digestion of meat. The EPIC (European Prospective Investigation into Cancer and Nutrition) study and WHO/IARC classifications link high red/processed meat intake to increased colorectal cancer risk. This is well-established.)
+
+[2:12] "we go back to Lane... yesterday he talked about a study where they showed that elderly people that ate a meat-based meal this is one meal this was a study on one meal... if they ate a meat-based meal they got more amino acids in their system and more muscle protein synthesis only over the first 6 hours than if they ate a plant-based meal"
+-> CONTEXTUALIZED (Muscle physiology; Acute postprandial studies (e.g., by the group of Luc van Loon or similar) do show higher essential amino acid appearance and muscle protein synthesis (MPS) over 4–6 hours after a meat-based meal compared to plant-based meals, due to leucine content and digestibility. However, this is an acute mechanistic outcome, not evidence of long-term muscle gain or functional improvement; the speaker correctly notes the limitation of single-meal studies.)
+
+[2:42] "the study was funded by beef check off... it's the marketing brand of beef and it's not that when funded studies are not necessarily bad but the problem I have with funded studies is they'll fund a study where they know they're going to get a positive result"
+-> CONTEXTUALIZED (Research funding; The Beef Checkoff (a USDA-promoted marketing program) often funds research on beef's health benefits, and industry-funded studies can have publication bias or favorable framing. However, industry funding alone does not invalidate a study's methodology; the speaker acknowledges this nuance, but the implication that positive results are predetermined is speculative and not proven for this specific study.)
+
+[3:00] "obviously there are certain amino acids that are higher in an animal-based meal than there are in a plant-based meal... there's more Lucine for instance in an animal-based meal and we know that Lucine stimulates muscle protein synthesis"
+-> VALIDATED (Amino acid biochemistry; Animal proteins (e.g., whey, beef) have higher leucine concentrations per gram than most plant proteins (e.g., soy, pea). Leucine is a key activator of the mTOR pathway, which stimulates muscle protein synthesis. This is a well-established mechanism.)
+
+[3:30] "does that mean that they get more muscle does that mean that they get more grip strength the answer is no there have been many many studies on this where you increase protein in elderly patients do they have more lean mass... multiple studies saying increasing protein does not increase strength and actual muscle mass"
+-> VALIDATED (Geriatric nutrition; Randomized controlled trials and meta-analyses (e.g., in the journal BMJ or the American Journal of Clinical Nutrition) show that protein supplementation alone, without resistance exercise, does not significantly increase muscle mass or strength in older adults. The acute MPS response does not translate to functional benefit.)
+
+[3:55] "when you're measuring lean mass with things like bioimpedance... other things go into the lean mass so if someone has growth in their organs if they've got excess water that goes down as lean body mass bone things like that and so an increase of lean mass may not mean an increase of muscle mass"
+-> VALIDATED (Body composition measurement; Bioelectrical impedance analysis (BIA) and DXA measure lean soft tissue, which includes water, organs, and connective tissue, not just skeletal muscle. Changes in hydration or organ mass can falsely elevate lean mass readings. This is a known limitation in body composition research.)
+
+[4:22] "when you look at studies that are looking more specifically at MRI... grip strength... ability to do things like sitting to standing there are multiple studies saying increasing protein does not increase strength and actual muscle mass"
+-> VALIDATED (Clinical trials; Studies using MRI or DXA with functional outcomes (e.g., grip strength, chair stand tests) consistently show that protein supplementation alone, without resistance training, yields no significant improvements in muscle mass or physical performance in community-dwelling older adults. This is supported by systematic reviews.)
+
+[4:41] "the only times that's been shown to help has been when you combine protein with resistance training but even then that was a very small advantage over a resistance training at A8 G per kilogram the RDA for protein"
+-> CONTEXTUALIZED (Protein and training; Meta-analyses show that protein supplementation above ~1.6 g/kg/day combined with resistance training yields small additional gains in muscle mass and strength, but the benefit is modest and often not statistically significant when compared to training alone at adequate protein intakes. The speaker's characterization of a "very small advantage" is consistent with the literature.)
+
+[5:02] "if you look at the study that Lane's talking about you would assume then that people that ate more animal protein would be less frail as they age but a Chinese longitudinal study and a European longitudinal study looked at people and followed them for a few years and they looked at those that ate a more plant-based diet and those that ate a more animal-based diet and those that ate a more plant-based diet had less sarcopenia"
+-> VALIDATED (Epidemiology; Longitudinal studies, including the China Health and Nutrition Survey and European cohorts (e.g., SENECA or the InCHIANTI study), have found that higher plant-based protein intake is associated with lower odds of sarcopenia or frailty, while higher animal protein intake does not consistently show protective effects. This is supported by multiple observational studies.)
+
+[5:29] "in America in the Harvard nurses and health profession study... when they looked at people that ate more plant-based there was less Frailty less Frailty"
+-> VALIDATED (Epidemiology; The Nurses' Health Study and Health Professionals Follow-Up Study have published analyses showing that higher plant-based protein intake is associated with reduced risk of frailty in older adults. This is a well-documented finding from Harvard cohorts.)
+
+[5:38] "so you can't take one mechanistic study and have it give you any idea because what that's we're looking only at muscle protein synthesis... but what we really want to know is a balance between muscle protein synthesis and muscle protein breakdown"
+-> VALIDATED (Muscle physiology; Muscle mass is determined by the net balance between MPS and muscle protein breakdown (MPB). Acute MPS responses do not predict net protein balance, and measuring MPB is technically more difficult; this is a recognized limitation in the field. The speaker's reasoning is scientifically sound.)
+
+[6:00] "what causes muscle protein breakdown... there's something called carbamation where breakdown products of protein May interfere with the actual structure of muscle"
+-> UNVERIFIABLE (Mechanistic theory; "Carbamation" (likely carbamylation) refers to non-enzymatic modification of proteins by urea-derived cyanate, which can impair protein function. While carbamylation has been studied in chronic kidney disease and atherosclerosis, its direct role in muscle protein breakdown in the context of high-meat diets is not well-established. No specific evidence is cited, and this remains a theoretical claim.)
+
+[6:22] "if you look at the dietary inflammatory index and you eat a more meat-based diet because you want to get more prot synthesis you may be creating more inflammation and that may be breaking down more muscle"
+-> CONTEXTUALIZED (Diet and inflammation; The Dietary Inflammatory Index (DII) scores diets; processed and red meats are associated with higher inflammatory scores and elevated inflammatory markers (e.g., CRP, IL-6). Chronic inflammation can promote muscle catabolism. However, the exact causality—that increased inflammation from meat breaks down muscle—is plausible but not definitively proven; it remains an inference from associations.)
+
+[6:34] "the bottom line is eating a more meat-based diet does not equate to having more muscle"
+-> VALIDATED (Nutrition and muscle; Large observational studies and RCTs do not support that higher meat intake alone leads to greater muscle mass or strength in older adults. Muscle gain requires resistance training and sufficient overall protein, and plant-based diets can equally support muscle when protein needs are met. This conclusion is consistent with current evidence.)
+
+
+
+
+
+
+
+
+Title: Under muscled and Body recomposition
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=n0FLwfr0hFU
+
+====
+
+Description:
+Let’s talk about being under muscled, body recomposition, protein and resistance training. Do you need super high doses of protein? Is the scale a good measure?
+
+====
+
+Transcript:
+[0:00] I want to touch on a interesting concept
+[0:02] which is the concept of being underused
+[0:05] and I want to kind of tie this into my
+[0:09] last video which was looking at Lane
+[0:12] Norton's description of a study on
+[0:15] muscle protein synthesis what is under
+[0:18] muscled so recently I saw a young
+[0:21] female who felt that she was overweight
+[0:25] now when you step on a scale and you
+[0:26] looked at her weight and height it
+[0:29] wasn't really
+[0:31] overweight but when I did bioimpedance
+[0:35] studies using a specialized
+[0:38] scale she had a higher range of fat and
+[0:41] a lower range of
+[0:43] muscle than what I would want or expect
+[0:47] from one of my patients and so the
+[0:50] concept here is not a number on the
+[0:52] scale so if I was just to work with her
+[0:54] on losing weight for instance I would be
+[0:58] pushing her her to do extreme calorie
+[1:02] cuts and uh a lot of times she may have
+[1:05] gone to another doctor and they would
+[1:07] have simply put her on OIC and what
+[1:09] would happen with OIC she would lose
+[1:11] muscle mass right um how's that going to
+[1:14] play out long term it's not going to
+[1:16] play out very well because if she loses
+[1:18] muscle mass she will basically lose
+[1:23] metabolism uh the body doesn't like very
+[1:26] quick drops in weight if you look at the
+[1:29] biggest Los studies that were done out
+[1:31] of Hopkins when you look at the people
+[1:32] that went into the Biggest Loser TV show
+[1:36] their metabolic rate dropped
+[1:38] tremendously during their time on the
+[1:41] show and what is interesting is 6 years
+[1:44] later it stayed low it never returned
+[1:47] back to the level it was before so I
+[1:48] don't like getting people to drop a
+[1:51] considerable amount of weight because it
+[1:52] could affect their metabolism at least
+[1:55] in a sub amount of weight in a very
+[1:56] quick time period um and the other
+[1:59] things is I want make sure that they
+[2:00] hold on to muscle mass and so what we
+[2:02] want to do in a situation where someone
+[2:05] has a higher body fat percentage and
+[2:07] isn't necessarily overweight on the
+[2:10] scale or was only slightly weight on
+[2:11] over scale we want to do something
+[2:13] called body
+[2:14] recomposition and you'll hear um
+[2:16] athletes and bodybuilders talk about
+[2:18] this as recomp the idea of recomp is is
+[2:21] that we're going to turn fat to muscle
+[2:23] now you don't technically turn fat to
+[2:25] muscle fat cells don't turn into muscle
+[2:28] but the idea is that you're going to go
+[2:30] uh at a calorie range that allows you to
+[2:33] still be anabolic to still build
+[2:37] muscle and lose fat and so you may build
+[2:40] muscle lose fat and weigh the same you
+[2:42] may even gain a little bit of weight but
+[2:44] your body fat percentage drops and this
+[2:47] is a goal I have with many of my
+[2:49] patients actually with most of my
+[2:50] patients I don't U you know with
+[2:52] patients that have a lot of weight to
+[2:54] lose uh especially after surgery or with
+[2:57] medicines they will drop uh muscle mass
+[2:59] in the beginning uh but we try very hard
+[3:01] to get them to maintain muscle mass so
+[3:03] how to maintain muscle
+[3:06] mass all right so the number one thing
+[3:08] you're going to hear over and over again
+[3:10] is protein protein protein now where
+[3:12] does that come from well again it goes
+[3:14] back to these studies that lane was
+[3:16] referring to if you eat a high protein
+[3:19] meal especially an animal protein meal
+[3:22] you're going to get high higher muscle
+[3:23] protein synthesis now here's the
+[3:25] question does muscle protein synthesis
+[3:28] correlate with actual hypertrophy or
+[3:32] increased strength and the answer is not
+[3:35] necessarily there's been several studies
+[3:36] looking at this just because you were
+[3:38] able to increase someone's muscle
+[3:40] protein synthesis especially if you only
+[3:42] increase it you know with one meal uh it
+[3:45] that's not going to uh necessarily cause
+[3:49] them to be stronger
+[3:51] um there's many reasons for this muscle
+[3:53] protein synthesis is one aspect yes you
+[3:56] need to increase muscle protein
+[3:57] synthesis in order to gain muscle but
+[4:01] there's another big factor and it's
+[4:02] muscle protein
+[4:03] breakdown and if you're only looking at
+[4:05] muscle protein synthesis and you're not
+[4:07] looking at muscle protein breakdown
+[4:08] you're not looking over time you're not
+[4:10] getting an accurate picture so for
+[4:13] instance if you look
+[4:16] at the muscle
+[4:19] protein uh synthesis from actually doing
+[4:23] an acute bout of exercise or lifting
+[4:26] weights is you will actually get more
+[4:28] muscle protein breakdown than muscle
+[4:29] protein
+[4:31] synthesis so does that mean that lifting
+[4:34] weights makes you lose muscle no
+[4:37] obviously not during the recovery period
+[4:39] and OV extended period of time you start
+[4:41] to build up muscle in fact the more you
+[4:43] work out the more dense your muscles
+[4:46] will become over time and that's been
+[4:48] studied too so where am I getting at
+[4:51] this it's really important
+[4:54] to maintain muscle mass or gain muscle
+[4:58] mass while losing weight how do you do
+[5:00] that number one you do not go on
+[5:04] extreme low calorie diets I I I
+[5:07] typically don't necessarily do calorie
+[5:10] counting with patients but when you're
+[5:11] getting to recm when you're getting to
+[5:13] someone who doesn't need to lose a lot
+[5:15] of weight it's probably a good idea to
+[5:17] start looking at calorie I utilize my
+[5:19] fitness pal and we enter meals as best
+[5:22] we can uh and I estimate their metabolic
+[5:26] rate using bioimpedance but you could
+[5:28] use something online where you enter
+[5:30] your height and weight those are not
+[5:32] completely accurate but they'll give you
+[5:33] a pretty good idea um and then we
+[5:36] multiply that by a factor depending on
+[5:38] how active you are and then you add
+[5:40] whatever calories you burn during
+[5:41] exercise and then I try to keep them at
+[5:43] about 200 calories below that
+[5:46] number figuring that fat will help make
+[5:49] up for the calorie deficit in energy
+[5:52] expenditure and
+[5:54] then it's an adjustment game right it's
+[5:57] a frequently let's see what you you we
+[6:00] let's see what your body mass is doing
+[6:02] and let's adjust the calories based on
+[6:05] what you're doing and are you estimating
+[6:07] calories correctly and things like that
+[6:08] so it's a fairly involved process to get
+[6:11] to recomp it's not simply eat less
+[6:14] exercise more the other thing that's
+[6:16] absolutely essential is resistance
+[6:18] training you just simply are not going
+[6:20] to get a good body recomp without
+[6:23] exercise you really have to do
+[6:26] resistance training resistance training
+[6:27] is so good for the body over the past 10
+[6:31] years I've gone way more towards
+[6:33] resistance training I used to be all
+[6:35] cardio now I do cardio too but I do
+[6:38] mainly resistance training uh and I feel
+[6:42] much healthier because of it and
+[6:43] obviously I've built a lot of muscle
+[6:45] mass because of it uh number two does it
+[6:47] matter animal versus plant protein no no
+[6:49] no no no it does not there's been
+[6:51] multiple studies on this um there was a
+[6:55] great meta analysis that looked at this
+[6:57] and there really is not a difference so
+[6:59] you could choose animal or plant protein
+[7:02] I would obviously tend to Wars plant
+[7:05] protein for benefits other than just uh
+[7:08] muscle
+[7:09] mass then the next question is do you
+[7:11] need to eat a lot of protein now this is
+[7:14] much harder because everybody's
+[7:15] different if you take a set of
+[7:18] twins uh multiple sets of twins and you
+[7:21] give everybody the same calorie deficit
+[7:24] so you've got twin group a twin Group B
+[7:27] twin Group C everybody gets their
+[7:29] metabolism measured and everybody goes
+[7:32] on a specific diet let's
+[7:34] say 500 calories down from their
+[7:37] metabolic rate each twin group will lose
+[7:41] a different amount of weight so twin
+[7:42] group a the two twins will lose a
+[7:45] similar amount of a similar amount of
+[7:47] weight but that weight might be
+[7:48] completely different to group b or to
+[7:50] group C so everybody's body is different
+[7:52] in that regard um and the same goes for
+[7:55] protein how your body is going to
+[7:57] respond to protein how much protein you
+[7:59] need is a very difficult number to say
+[8:03] for sure because we also have to decide
+[8:05] what is need I mean do you need enough
+[8:08] muscle to compete in a bodybuilding
+[8:10] contest in which case you want to
+[8:12] absolutely maximize every bit of muscle
+[8:15] you could possibly get and then the
+[8:17] answer is roughly 1.6 G per kilogram um
+[8:22] of ideal body weight so if you take your
+[8:24] what your ideal body weight is and you
+[8:26] multiply that by 1.6 that would be
+[8:28] probably the maximum amount of protein
+[8:29] that's going to make a difference in
+[8:30] other words going to 1.7 won't give you
+[8:32] any more than 1.6 but it's hard to get
+[8:35] 1.6 G per kilogram uh without having to
+[8:39] do protein shakes and stuff like that
+[8:41] what's the difference between doing 1.2
+[8:43] and 1.6 very little which is why I say
+[8:46] that you need to be very cognizant about
+[8:49] what your needs are because if your need
+[8:52] is to body recomp it not necessarily
+[8:54] compete the difference is you're going
+[8:56] to see between 1.2 G per kilogram and
+[8:58] 1.6 gr per kilogram is very very small
+[9:02] uh and it probably isn't going to make a
+[9:05] difference to the non-competitive
+[9:07] athlete personally for myself I do about
+[9:10] 1 gram per kilogram um because I'm not
+[9:13] trying to compete I'm just trying to be
+[9:14] healthy I don't this is a whole
+[9:17] different topic I can talk about later
+[9:18] but I don't think that protein is
+[9:20] necessarily uh good to overstimulate as
+[9:23] it does stimulate the mtor process of
+[9:25] Aging so I stick at about 1 gram per
+[9:27] kilogram I continue to make gains
+[9:29] constantly through my years I'm still
+[9:32] hitting PRS on multiple different uh
+[9:35] weights and so I've been able to body
+[9:38] recomp with that so what I typically do
+[9:40] with my patients is is kind of assess I
+[9:44] do see people that don't need enough
+[9:46] protein and to me you need to at least
+[9:47] for the at the very least get the RDA so
+[9:50] you need to get 8 gram per kilogram
+[9:52] ideal body
+[9:54] weight typically if we're really going
+[9:56] to do resistance training I up that to 1
+[9:58] gr per kilogram
+[10:00] uh body weight for protein um and then
+[10:04] we focus on about a 200 calorie deficit
+[10:06] in the beginning and then just monitor
+[10:07] what the results are after that so it's
+[10:08] a fairly complex task but it's not as
+[10:11] simple as what you see in social media
+[10:14] which basically States just eat a lot of
+[10:17] protein and that'll do it because we've
+[10:19] got a study by the meat industry that
+[10:20] shows that muscle protein synthesis is
+[10:23] stimulated uh by eating protein that is
+[10:26] not the long-term outcome we're looking
+[10:29] for we want to know does muscle increase
+[10:32] and does strength increase and uh can
+[10:35] you get it to increase on Lower doses
+[10:38] without having to do really super high
+[10:39] doses and the answer is yes
+
+====
+
+Fact-Check:
+[0:00] "I want to touch on a interesting concept which is the concept of being underused... recently I saw a young female who felt that she was overweight... when I did bioimpedance studies using a specialized scale she had a higher range of fat and a lower range of muscle than what I would want or expect..."
+-> CONTEXTUALIZED / HEALTH (The claim that a person with a normal weight-for-height can still have a high body fat percentage and low muscle mass is plausible, but "underused" is a non-standard term. Bioimpedance scales are known to have variable accuracy; the diagnosis of "overfat" versus "overweight" is valid, but the specific patient anecdote cannot be verified. The claim that such a person is "underused" (likely meaning under-muscled) is a subjective clinical label, not an established medical diagnosis.)
+
+[1:29] "...if you look at the biggest Los studies that were done out of Hopkins when you look at the people that went into the Biggest Loser TV show their metabolic rate dropped tremendously during their time on the show and what is interesting is 6 years later it stayed low it never returned back to the level it was before..."
+-> VALIDATED / HEALTH (This refers to the widely reported National Institutes of Health study on "The Biggest Loser" contestants, published by researchers at the NIH (often associated with Hopkins-affiliated co-authors). The study found that contestants' resting metabolic rates dropped significantly and remained suppressed even six years later, despite weight regain. The claim is accurate in that the metabolic rate did not return to baseline, though the study's design (observational, small sample) limits generalizability.)
+
+[1:48] "...I don't like getting people to drop a considerable amount of weight because it could affect their metabolism at least in a sub amount of weight in a very quick time period..."
+-> VALIDATED / HEALTH (This is consistent with the "metabolic adaptation" phenomenon documented in the Biggest Loser study and other research, where rapid weight loss leads to a disproportionate drop in metabolic rate that can persist. The claim that rapid, large weight loss can have long-term metabolic effects is well-supported, though the magnitude and permanence vary by individual.)
+
+[2:14] "...we want to do something called body recomposition... the idea of recomp is that we're going to turn fat to muscle now you don't technically turn fat to muscle fat cells don't turn into muscle but the idea is that you're going to go at a calorie range that allows you to still be anabolic to still build muscle and lose fat..."
+-> VALIDATED / HEALTH (Body recomposition is a recognized concept in exercise physiology where simultaneous fat loss and muscle gain occur, typically in beginners or those returning from detraining. The clarification that fat cells do not directly convert to muscle cells is correct; they are distinct cell types. The claim that a calorie deficit can still allow for muscle protein synthesis is supported, especially with resistance training and adequate protein, though the rate of gain is slower than in a surplus.)
+
+[3:03] "...how to maintain muscle mass... the number one thing you're going to hear over and over again is protein protein protein... if you eat a high protein meal especially an animal protein meal you're going to get higher muscle protein synthesis..."
+-> CONTEXTUALIZED / HEALTH (The claim that animal protein stimulates higher muscle protein synthesis (MPS) than plant protein is supported by acute studies, but the evidence is mixed for long-term hypertrophy. The statement is true in a narrow, acute setting—animal proteins tend to have higher leucine content and better digestibility—but the speaker later (at 6:47) correctly notes that overall protein source does not matter for long-term outcomes. The initial "especially animal" is misleading without context, hence contextualized.)
+
+[3:25] "...does muscle protein synthesis correlate with actual hypertrophy or increased strength and the answer is not necessarily... just because you were able to increase someone's muscle protein synthesis especially if you only increase it with one meal... that's not going to necessarily cause them to be stronger..."
+-> VALIDATED / HEALTH (This is scientifically accurate. Acute MPS measurements are only one component of the muscle remodeling process; they do not predict long-term hypertrophy or strength gains. Chronic studies require measurement of both synthesis and breakdown over time, and many studies show a poor correlation between acute MPS and actual muscle growth.)
+
+[4:01] "...there's another big factor and it's muscle protein breakdown and if you're only looking at muscle protein synthesis and you're not looking at muscle protein breakdown you're not looking over time you're not getting an accurate picture... if you look at the muscle protein synthesis from actually doing an acute bout of exercise or lifting weights you will actually get more muscle protein breakdown than muscle protein synthesis..."
+-> VALIDATED / HEALTH (This is accurate. Acute resistance exercise increases both MPS and muscle protein breakdown (MPB), with MPB often exceeding MPS immediately after exercise. Net protein balance only becomes positive during recovery when MPS exceeds MPB. The point that synthesis alone doesn't capture the net effect is correct.)
+
+[4:37] "...does that mean that lifting weights makes you lose muscle no obviously not during the recovery period and over extended period of time you start to build up muscle in fact the more you work out the more dense your muscles will become over time and that's been studied too..."
+-> VALIDATED / HEALTH (Resistance training leads to net muscle hypertrophy over time due to cumulative positive protein balance after repeated sessions. Muscle density increases due to increased protein content, though the term "dense" can be ambiguous—muscle mass increases, and later stages may show increased connective tissue, but the overall claim of hypertrophy is well-established.)
+
+[5:00] "...how do you do that number one you do not go on extreme low calorie diets... I typically don't necessarily do calorie counting with patients but when you're getting to someone who doesn't need to lose a lot of weight it's probably a good idea to start looking at calorie... I estimate their metabolic rate using bioimpedance... multiply that by a factor depending on how active you are and then you add whatever calories you burn during exercise and then I try to keep them at about 200 calories below that number..."
+-> CONTEXTUALIZED / HEALTH (The claim that extreme low-calorie diets are counterproductive for preserving muscle is valid. However, the practical advice relies on bioimpedance, which is not highly accurate for metabolic rate estimation (error bars often exceed ±5-10%), and calorie burned during exercise estimates are similarly imprecise. The 200-calorie deficit is a reasonable heuristic for slow recomp, but it is an estimate, not a precise formula, so the methodology is more anecdotal than evidence-based.)
+
+[5:54] "...then it's an adjustment game... it's a fairly involved process to get to recomp it's not simply eat less exercise more..."
+-> SUBJECTIVE / HEALTH (This is the speaker's clinical opinion on the complexity of body recomposition. While research supports that recomp requires careful calorie and protein management plus resistance training, the claim that it is "not simply eat less exercise more" is a general statement that is not strictly falsifiable and depends on individual definitions of "simple." It is a reasonable but subjective framing.)
+
+[6:18] "...the other thing that's absolutely essential is resistance training you just simply are not going to get a good body recomp without exercise you really have to do resistance training..."
+-> VALIDATED / HEALTH (Body recomposition—simultaneous fat loss and muscle gain—is only reliably achieved with resistance training, as it provides the anabolic stimulus needed to preserve or build muscle during a calorie deficit. Without it, a deficit primarily causes fat loss and muscle loss (sarcopenia), making recomp unlikely. This is well-supported by exercise physiology literature.)
+
+[6:47] "...does it matter animal versus plant protein no no no no no it does not there's been multiple studies on this um there was a great meta analysis that looked at this and there really is not a difference so you could choose animal or plant protein..."
+-> CONTEXTUALIZED / HEALTH (The claim that animal versus plant protein makes no difference for muscle growth is mostly supported by meta-analyses when protein intake is matched for total amount and leucine content. However, some studies show plant proteins may be slightly less anabolic acutely due to lower leucine and digestibility, but the long-term difference is negligible if total protein is adequate. The "no difference" claim is a simplification; context matters for protein quality, but for most people meeting total protein needs, the source is not a limiting factor.)
+
+[7:09] "...do you need to eat a lot of protein... if you take a set of twins multiple sets of twins and you give everybody the same calorie deficit... each twin group will lose a different amount of weight... everybody's body is different in that regard..."
+-> VALIDATED / HEALTH (This references twin studies on weight loss, which have shown that genetic factors strongly influence inter-individual differences in weight loss response to the same calorie deficit, with heritability estimates high (e.g., Bouchard et al., 1990). The claim that identical twins lose similar amounts of weight while different twin pairs differ substantially is consistent with that research.)
+
+[8:08] "...do you need enough muscle to compete in a bodybuilding contest in which case you want to absolutely maximize every bit of muscle you could possibly get and then the answer is roughly 1.6 G per kilogram um of ideal body weight... going to 1.7 won't give you any more than 1.6..."
+-> CONTEXTUALIZED / HEALTH (The 1.6 g/kg/day protein recommendation for muscle gain is supported by meta-analyses (e.g., Morton et al., 2018), which show that intakes above ~1.6 g/kg/day provide no additional benefit for lean mass gain. However, using "ideal body weight" rather than actual body weight is a nuance; most research uses actual body weight or lean body mass. For overweight individuals, the recommendation is often based on body weight or fat-free mass, and "ideal" is a non-standard term. The context of bodybuilding or maximizing gains is correct, but the base unit is a deviation.)
+
+[8:41] "...what's the difference between doing 1.2 and 1.6 very little... if your need is to body recomp it not necessarily compete the difference is you're going to see between 1.2 G per kilogram and 1.6 gr per kilogram is very very small..."
+-> CONTEXTUALIZED / HEALTH (The claim that 1.2 vs 1.6 g/kg/day has only a small effect is partially supported. Some meta-analyses suggest the dose-response curve plateaus around 1.6, but there is evidence that higher intakes (up to 1.6) yield slightly better gains, while the difference between 1.2 and 1.6 is modest but measurable for hypertrophy. For mere health and recomp in non-athletes, the difference may be negligible, but research on older adults or those in deficit shows higher protein (1.2-1.6) can be more important for muscle preservation. The claim is fair for healthy, young, non-competitive individuals but not universally.)
+
+[9:09] "...personally for myself I do about 1 gram per kilogram... I don't think that protein is necessarily good to overstimulate as it does stimulate the mtor process of Aging..."
+-> CONTEXTUALIZED / HEALTH (The claim that high protein intake overstimulates the mTOR pathway and accelerates aging is a hypothesis, not a proven fact. While mTOR activation is linked to cell growth and aging in animal models (e.g., rapamycin studies), the evidence for a direct effect of dietary protein on human aging is inconclusive. The speaker's personal choice of 1 g/kg is within standard recommendations (RDA is 0.8 g/kg, and 1.0-1.2 g/kg is common for active adults), but the rationale about mTOR-driven aging is an extrapolated, not established, mechanism in humans.)
+
+[9:29] "...I continue to make gains constantly through my years I'm still hitting PRS on multiple different weights and so I've been able to body recomp with that..."
+-> SUBJECTIVE / HEALTH (This is an anecdotal personal claim about continued progress and strength gains, which cannot be independently verified and is not a general scientific claim. It is presented as personal experience, so it is subjective.)
+
+[9:40] "...I do see people that don't need enough protein and to me you need to at least for the at the very least get the RDA so you need to get 8 gram per kilogram ideal body weight..."
+-> CONTEXTUALIZED / HEALTH (The RDA for protein is 0.8 g/kg of body weight per day for adults, so the "8 grams per kilogram" is a typo or misphrasing—it should be 0.8 g/kg. The claim uses "ideal body weight," which is not standard; the RDA is based on actual body weight. For overweight individuals, using ideal body weight could underprescribe protein, which may be a concern. The intent is to set a minimum, but the specifics are slightly off.)
+
+[10:04] "...then we focus on about a 200 calorie deficit in the beginning and then just monitor what the results are after that..."
+-> SUBJECTIVE / HEALTH (This is a clinical strategy preference, not a claim requiring fact-checking. A 200-calorie deficit is a reasonable conservative approach for recomp, but it is not a universal protocol and has no specific research backing as "the" method.)
+
+[10:14] "...it's not as simple as what you see in social media which basically States just eat a lot of protein and that'll do it because we've got a study by the meat industry that shows that muscle protein synthesis is stimulated uh by eating protein that is not the long-term outcome we're looking for..."
+-> CONTEXTUALIZED / HEALTH (The claim that social media oversimplifies protein advice is subjective but likely true. The specific reference to "a study by the meat industry" is vague and unverifiable—many industry-funded studies exist, but no specific single study is named. The broader point that acute MPS stimulation does not equal long-term strength gains is correct, but the implication that industry-funded studies are inherently misleading is a general critique, not a factual claim.)
+
+[10:35] "...we want to know does muscle increase and does strength increase and can you get it to increase on Lower doses without having to do really super high doses and the answer is yes..."
+-> VALIDATED / HEALTH (This aligns with the scientific consensus that moderate protein intakes (1.2-1.6 g/kg/day) are sufficient to maximize muscle and strength gains for most non-competitive individuals, and higher doses provide no additional benefit. It is supported by meta-analytic evidence (e.g., Morton et al., 2018) showing a plateau around 1.6 g/kg/day, and that even 1.0-1.2 g/kg is often sufficient for health, though higher may be needed in deficit or for older adults.)
+
+
+
+
+
+
+
+
+Title: Epidemiology and healthy plant based eating
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=URuRDFoYbwc
+
+====
+
+Description:
+Let’s talk about healthy plant based eating and epidemiology. Why does the Adventist Health cohort do better than the Epic Oxford Cohort? So much information is lost in the details.
+
+====
+
+Transcript:
+[0:00] yesterday I did a post about healthy
+[0:02] plant-based index and talking about it's
+[0:04] not just about being vegan it's about
+[0:07] actually eating plant foods and you
+[0:09] could see this actually very poignantly
+[0:12] when you look at epidemiologic studies
+[0:14] let's talk about epidemiology for a
+[0:16] second of course uh many people you'll
+[0:18] see online say oh the epidemiology is
+[0:21] terrible epidemiology is not terrible
+[0:23] it's very important there is not a
+[0:25] situation really where we could do a
+[0:26] randomized control trial of let's say
+[0:28] like a vegan diet versus a carnivore
+[0:31] diet and follow someone their entire
+[0:34] life it's just not going to happen so we
+[0:36] need some idea of how do dietary eating
+[0:39] patterns affect longevity and affect
+[0:42] health and what we could do is what's
+[0:44] called regression analysis uh or
+[0:48] multifactorial regression on what that
+[0:49] is is we could try to control for things
+[0:52] like we could take a population and we
+[0:53] could say all right let's control for
+[0:56] smoking so it wouldn't be fair to have
+[0:58] one group that has more smokers and
+[1:00] another group that doesn't have as many
+[1:01] smokers and uh I just noticed that Lou
+[1:04] is over here watching this little
+[1:06] conversation he's very interested
+[1:07] actually in epidemiology
+[1:09] so it wouldn't be fair the smoking could
+[1:12] be an
+[1:13] independent uh variable that is
+[1:15] affecting whatever we're measuring
+[1:17] whether it's heart disease or mortality
+[1:19] and so we would have to control for that
+[1:21] now I think that probably the best
+[1:24] population that has ever been studied
+[1:25] when it comes to a vegan diet are the
+[1:27] sth day of Venice and there's a reason
+[1:29] for that because first of all it's a
+[1:31] prospective study now there's a
+[1:32] difference between a prospective cohort
+[1:34] study and a cross-sectional study with a
+[1:36] cross-sectional sectional study what
+[1:38] we're doing is we're saying um we're
+[1:41] going to look at at someone right now at
+[1:43] this moment let's look at their Labs
+[1:45] let's look at the amount of heart
+[1:47] disease they have at this exact second
+[1:50] but that's not what we really want to
+[1:52] know we want to know what happens during
+[1:54] a lifetime and people change diets
+[1:55] during a lifetime so someone might say
+[1:57] there's a famous study that a lot of
+[1:59] carnivores is used to say that uh being
+[2:02] vegetarian is bad because the people
+[2:04] were vegetarian and then they went and
+[2:05] found out who had died 30 years later
+[2:07] but they don't know whether or not the
+[2:08] people stayed vegetarian or whether they
+[2:10] changed or whether they became
+[2:11] vegetarian because they were already
+[2:12] sick and so you know you want a
+[2:15] population study that goes on a long
+[2:16] period of time so you could make these
+[2:18] conclusions the thing I love about the
+[2:20] adven health study is it was a
+[2:22] prospective study so they started
+[2:24] following these people early on it had a
+[2:27] large n in other words there's a lot of
+[2:29] people and it had the highest level of
+[2:32] vegans so we had enough people so that
+[2:35] we could power have enough people we
+[2:37] could make statistical analysis that
+[2:39] that means
+[2:40] something on top of that you've got a
+[2:43] heterogeneous group so it's not like
+[2:45] this is one gene like you could go to a
+[2:46] a Blue Zone and you could show that
+[2:48] Okana aans live longer than Americans
+[2:51] but that might just be their Gene so you
+[2:53] could do migration studies to try to get
+[2:55] around that but basically you you've got
+[2:58] a homogeneous Gene group now with the
+[3:00] 7th Day Adventist there's multiple
+[3:01] different genes now Adventist Health
+[3:04] study was done mainly in Linda
+[3:05] California Adventist Health 2 was
+[3:08] looking at 7th Day Adventists around the
+[3:10] country although most of them came from
+[3:12] lomalinda California so you've also got
+[3:13] the same kind of local so you know uh
+[3:17] confounders like pollution and and
+[3:19] things like that environments uh are
+[3:21] going to be you know basically uh very
+[3:24] similar which you want so that that's
+[3:26] not a confounding factor in the equation
+[3:29] the the other thing I like about the
+[3:30] Adventist Health study is that most of
+[3:33] the people follow a fairly healthy
+[3:37] lifestyle that's part of their religion
+[3:39] they believe that the body is the Temple
+[3:40] of the soul and because it's should be
+[3:42] treated that way uh they all take care
+[3:45] of themselves so it's not like one
+[3:47] group is completely sickly and the other
+[3:51] group is healthy and there's a healthy
+[3:53] user bias and in fact when you look at
+[3:56] the seventh day Adventists they break
+[3:58] down
+[4:01] each kind of quartile of um amount of
+[4:05] meat eaten so they've got the
+[4:07] nonvegetarian all right and so the
+[4:08] non-vegetarian group should be like the
+[4:10] standard American group but when you
+[4:11] look at their data in the papers you
+[4:15] find that they actually are fairly
+[4:17] healthy compared to the average uh
+[4:21] American all right so when you look at
+[4:23] them they're actually eating a lot more
+[4:25] they're eating over 30 grams of fiber a
+[4:28] day this is the non
+[4:30] uh vegetarian this are the people eating
+[4:31] meat the the average American lucky if
+[4:33] they get 10 grams of fiber day they're
+[4:35] not drinking a lot of alcohol they're
+[4:37] exercise and and so they tend to be a
+[4:40] lot healthier than than most Americans
+[4:43] now what people don't seem to understand
+[4:45] is when they look at the sth day
+[4:46] Adventist they've got the non-vegetarian
+[4:49] the semi-vegetarian which means they eat
+[4:50] meat but not a lot of it the lacto oo
+[4:54] vegetarian basically eats Dairy the
+[4:56] Pesco vegetarian and the vegan so
+[4:58] they've got quintiles of of animal
+[5:00] protein
+[5:01] intake when they're comparing when they
+[5:04] do a comparison and they say oh this
+[5:06] group
+[5:07] has so if you look at the way they break
+[5:10] down stuff if they're looking at
+[5:12] diabetes and they show that with
+[5:14] diabetes the vegans had a
+[5:18] 62% lower risk of developing diabetes
+[5:21] over time okay 62% compared to what
+[5:24] compared to the average American no it's
+[5:27] 62% drop compared to the healthy vegan
+[5:32] I'm sorry the healthy non-vegan 7th Day
+[5:34] Adventist you understand so that that
+[5:37] 62% drop is a drop over a healthy
+[5:40] comparative person than comparing it to
+[5:43] the American and and you can see this
+[5:45] the interesting thing there's also this
+[5:47] this idea of dose dependence right so I
+[5:51] told you this is broken down basically
+[5:53] in quintiles of meat intake uh where you
+[5:55] got one group eating a lot of meat one
+[5:57] group not eating a lot of meat one group
+[5:59] just eating eating uh um Dairy one group
+[6:02] eating fish it's not really quintiles of
+[6:05] animal protein intake exactly but a
+[6:07] proxy for it um but what's interesting
+[6:11] is the more animal protein each group
+[6:13] has a little bit more animal protein the
+[6:15] more animal protein you eat the more you
+[6:18] start
+[6:19] seeing these complications so with
+[6:22] diabetes if you look at the so you're
+[6:25] not looking at the non-vegetarian right
+[6:27] cuz they're the comparator group if you
+[6:29] look at the semi-vegetarian they had a
+[6:32] large drop in diabetes the Pesco
+[6:34] vegetarian had a large drop in diabetes
+[6:37] that was similar and then the lacto oo
+[6:41] vegetarian and then the vegan had a much
+[6:43] larger drop and and no matter what you
+[6:45] you look at so if we look for instance
+[6:48] at all
+[6:49] cancers if you look at the
+[6:51] semi-vegetarian there was only a very
+[6:53] small drop in all cancers compared to
+[6:56] the
+[6:57] non-vegetarian uh maybe maybe really
+[7:00] non-significant drop but when you go to
+[7:02] Pesco vegetarian that dropped quite a
+[7:04] bit and lacto oo and Pesco are fairly
+[7:06] similar and then the vegan had a really
+[7:08] dramatic drop uh in alla's um in all
+[7:12] Cancers and of course with alla's
+[7:14] mortality um you have about an 8% drop
+[7:18] with um semi-vegetarian and that goes
+[7:21] down to an almost 20% drop with Pesco
+[7:24] vegetarian and um the vegan is pretty
+[7:27] similar the actually the Pesco
+[7:28] vegetarian had a larger drop in
+[7:30] mortality than did Pesco vegetarian
+[7:33] which is pretty impressive um and why
+[7:35] did the Pesco vegetarian do better than
+[7:37] vegan it's hard to say it could be
+[7:39] omega-3 content and it could go back to
+[7:42] um the cardiovascular or even neuro
+[7:46] effects of that but this is why I like
+[7:49] the the sth day Adventist is you get a
+[7:53] really good comparison groups it's
+[7:55] pretty well controlled it's not going to
+[7:56] meet a randomized control trial but but
+[7:59] it is pretty good data and it's very
+[8:01] well thought out uh by the researchers
+[8:06] now what is interesting you'll often see
+[8:08] these metaanalyses that compare
+[8:10] different vegan groups there's there's
+[8:12] several different vegan cohorts out
+[8:14] there but like that plant-based index I
+[8:17] was talking about yesterday just because
+[8:18] you're vegan doesn't mean you're healthy
+[8:20] so what about the Adventist Health study
+[8:23] versus the Epic study if you're looking
+[8:26] at vegans a carnivore guy who wants to
+[8:29] say vegans are bad could say well look
+[8:31] in the Epic Database The Epic oxburg
+[8:35] vegans um didn't do that much better
+[8:38] than the meat eaters in several of the
+[8:39] different metrics Strokes colon cancer
+[8:42] believe or not now they're not reading
+[8:44] things exactly properly so like let's
+[8:46] take colon cancer for example just about
+[8:48] any study on meat will show a
+[8:52] correlation between meat and colon
+[8:53] cancer but in the Epic data group The
+[8:56] vegans they said did not have have a um
+[9:01] significant advantage in colon cancer
+[9:05] but and here's the butt they controlled
+[9:08] for fiber so basically they found meat
+[9:11] eaters that ate almost the same amount
+[9:13] of fiber as the vegan group not quite
+[9:15] the same but it was pretty close um and
+[9:19] before controls the vegans did do better
+[9:21] but after controls they didn't so
+[9:23] important to keep that in mind the other
+[9:24] thing is there was an interesting study
+[9:28] where they looked at the vegans in the
+[9:32] Epic Oxford Group and compared them to
+[9:34] the 7th Day of Venice and I mean look at
+[9:36] this the stuff so if you look first of
+[9:39] all the meat eaters in the seventh day
+[9:41] of Venice did pretty well they ate about
+[9:44] 22 Gams of fiber a day um and that's you
+[9:48] know pretty impressive for meat eaters
+[9:51] because we don't typically see that in
+[9:52] the standard American diet meanwhile the
+[9:55] vegan group only ate 28 grams of fiber
+[9:59] so they're not eating that much more
+[10:00] fiber than the meat eaters and the meat
+[10:03] eaters are eating a lot less meat than
+[10:05] the average British person or American
+[10:08] person um now that's 28 gram of fiber
+[10:12] for the vegan in the Epic Oxford Group
+[10:17] what about the seventh day of Venice the
+[10:19] group that I really like to look at 46.7
+[10:22] gram of
+[10:23] fiber 46.7 so far more fiber and this is
+[10:27] much more uh I I think represented of
+[10:30] what a vegan most vegans a plant-based
+[10:33] vegan is going to eat you're going to
+[10:34] eat 46 to 50 grams of fiber a day eating
+[10:37] oatmeal eating salads eating beans I
+[10:40] easily eat this much fiber a day um when
+[10:43] you look at other factors uh the vegan
+[10:46] group in the Epic Oxford study uh tended
+[10:50] to drink more alcohol definitely drank
+[10:52] more sugar sweetened beverages um and
+[10:55] what was really fascinating is they only
+[10:57] took in7 78 microgram of B12 a day
+[11:02] versus 6.3 in the vegan group they were
+[11:05] definitely B12 deficient and they
+[11:08] weren't supplementing it's a little bit
+[11:09] of an older group a lot of them there
+[11:11] are ethical
+[11:13] vegans and so that's going to have an
+[11:15] effect on health it's going to have a
+[11:16] real effect it's going to cause
+[11:17] homosysteine levels to rise which is
+[11:19] going to have an effect on stroke and
+[11:21] heart disease although vegans did have
+[11:23] less heart disease than meaters in the
+[11:25] study you may have seen an even bigger
+[11:27] difference had you could trolled for
+[11:29] that or had you had vegan supplement um
+[11:32] and so I I definitely think that and you
+[11:35] look at the Oxford Group they're a a
+[11:38] group that using the Harvard uh healthy
+[11:41] and unhealthy plant-base index would
+[11:43] probably have a higher unhealthy
+[11:44] plant-based index and if you look at the
+[11:46] eventus health they probably have a
+[11:47] higher Health based index healthy plant
+[11:50] index and that's why they're likely to
+[11:53] have better results uh so again it's
+[11:57] eating less meat
+[12:00] especially in the Adventist Health Group
+[12:01] shows that it does have a real effect on
+[12:03] health uh but not only that you also
+[12:06] have to eat your fiber and eat your
+[12:08] Healthy vegetables in order to be
+[12:10] healthy and understand that when you
+[12:12] hear someone talking about these studies
+[12:14] usually they've never read the studies
+[12:16] gone into the details about it or
+[12:18] understand the intricacies in running
+[12:20] these really large very controlled uh
+[12:23] cohorts but these cohorts give us a lot
+[12:25] of information uh I will talk in some
+[12:28] future um videos about look epidemiology
+[12:31] I think is really good but you got to
+[12:33] look at epidemiology around the world uh
+[12:35] if you see one population where it like
+[12:38] meat causes something does that is that
+[12:40] true of all populations around the world
+[12:42] for instance unprocessed meat tends to
+[12:44] be Associated uh quite a bit with cancer
+[12:48] and heart disease when you look in
+[12:50] American uh studies when you look at
+[12:52] studies around the world that doesn't
+[12:54] always hold true why is that we I'll get
+[12:56] into that in some other videos um
+[12:59] and there's you know other problems with
+[13:02] these large cohorts there's lots of
+[13:04] confounding factors uh but there's a way
+[13:08] around these especially with heart
+[13:09] disease and that's called mandalian
+[13:12] randomization and I want to get into
+[13:13] that in some future videos hope this
+[13:15] helps
+
+====
+
+Fact-Check:
+[0:14] "let's talk about epidemiology for a second of course uh many people you'll see online say oh the epidemiology is terrible epidemiology is not terrible it's very important there is not a situation really where we could do a randomized control trial of let's say like a vegan diet versus a carnivore diet and follow someone their entire life..."
+-> CONTEXTUALIZED / RESEARCH METHODOLOGY (Topic: Feasibility of RCTs for lifelong dietary comparison; The claim that an RCT comparing vegan vs. carnivore diets over a lifetime is impossible is broadly correct due to ethical and practical constraints, but it's an oversimplification—short-term and medium-term RCTs do exist, and long-term observational data is used as a substitute; the statement is accurate in spirit but lacks nuance about the existence of shorter-term trials.)
+
+[1:23] "I think that probably the best population that has ever been studied when it comes to a vegan diet are the sth day of Venice..."
+-> MISLEADING / NUTRITIONAL EPIDEMIOLOGY (Topic: Adventist Health Study as the best vegan diet population; The speaker refers to the Adventist Health Study; it is indeed a major, well-regarded cohort, but calling it "the best" is subjective and ignores other large cohorts like EPIC-Oxford; the claim overstates its uniqueness and understates the limitations, such as its specific religious, health-conscious demographic, which limits generalizability.)
+
+[1:57] "there's a famous study that a lot of carnivores is used to say that uh being vegetarian is bad because the people were vegetarian and then they went and found out who had died 30 years later but they don't know whether or not the people stayed vegetarian..."
+-> VALIDATED / RESEARCH METHODOLOGY (Topic: Criticism of retrospective dietary studies; The speaker correctly describes a common critique of certain observational studies where diet was assessed at baseline and outcomes were measured decades later; this limitation—lack of repeated dietary assessment—is well-documented in nutritional epidemiology.)
+
+[3:00] "7th Day Adventist there's multiple different genes now Adventist Health study was done mainly in Linda California Adventist Health 2 was looking at 7th Day Adventists around the country although most of them came from lomalinda California so you've also got the same kind of local so you know uh confounders like pollution and and things like that environments uh are going to be you know basically uh very similar..."
+-> VALIDATED / RESEARCH METHODOLOGY (Topic: Homogeneity and confounding control in Adventist Health Study; The claim that AHS-2 was primarily based in Loma Linda, California, and that this reduces environmental confounding is accurate; AHS-2 did recruit nationally but had a large California contingent, and the relative homogeneity of lifestyle and environment is a known strength of the cohort.)
+
+[3:29] "the other thing I like about the Adventist Health study is that most of the people follow a fairly healthy lifestyle that's part of their religion... so it's not like one group is completely sickly and the other group is healthy and there's a healthy user bias and in fact when you look at the seventh day Adventists they break down each kind of quartile of um amount of meat eaten so they've got the nonvegetarian... when you look at their data in the papers you find that they actually are fairly healthy compared to the average uh American... they're eating over 30 grams of fiber a day this is the non uh vegetarian... the average American lucky if they get 10 grams of fiber day..."
+-> VALIDATED / NUTRITIONAL EPIDEMIOLOGY (Topic: Health status and fiber intake of Adventist non-vegetarians; The claim that Adventist non-vegetarians are healthier than the average American and consume more fiber (over 30 g/day vs. ~10-15 g/day for average Americans) is consistent with published AHS data; this healthy-user bias is a well-known characteristic of the cohort.)
+
+[5:07] "...if they're looking at diabetes and they show that with diabetes the vegans had a 62% lower risk of developing diabetes over time okay 62% compared to what compared to the average American no it's 62% drop compared to the healthy non-vegan 7th Day Adventist..."
+-> VALIDATED / NUTRITIONAL EPIDEMIOLOGY (Topic: Diabetes risk reduction in AHS vegans; The claim that vegans in the Adventist Health Study-2 had a 62% lower risk of type 2 diabetes compared to non-vegetarian Adventists is accurate, based on published findings from AHS-2; the speaker's clarification about the comparison group is correct.)
+
+[6:45] "no matter what you you look at so if we look for instance at all cancers if you look at the semi-vegetarian there was only a very small drop in all cancers compared to the non-vegetarian uh maybe maybe really non-significant drop but when you go to Pesco vegetarian that dropped quite a bit and lacto oo and Pesco are fairly similar and then the vegan had a really dramatic drop uh in alla's um in all Cancers..."
+-> CONTEXTUALIZED / NUTRITIONAL EPIDEMIOLOGY (Topic: Cancer incidence by diet group in AHS-2; While it is true that vegans had the lowest all-cancer incidence in AHS-2, the gradient described (semi-vegetarian small drop, pesco-vegetarian larger drop, vegan largest) is a simplification; published AHS-2 data show variable statistical significance across groups, and the claim that semi-vegetarians had a "non-significant drop" is roughly correct but the pattern for pesco-vegetarians and lacto-ovo vegetarians is not as stark as implied; the speaker also misattributes relative risk comparisons, which are against the non-vegetarian group, not absolute risk.)
+
+[7:14] "with alla's mortality um you have about an 8% drop with um semi-vegetarian and that goes down to an almost 20% drop with Pesco vegetarian and um the vegan is pretty similar the actually the Pesco vegetarian had a larger drop in mortality than did Pesco vegetarian..."
+-> FALSE / NUTRITIONAL EPIDEMIOLOGY (Topic: All-cause mortality by diet group in AHS-2; The speaker misstates the data: in AHS-2, all-cause mortality HRs were approximately 0.92 (semi-vegetarian), 0.81 (pesco-vegetarian), 0.91 (lacto-ovo), and 0.85 (vegan) relative to non-vegetarians; the claim that the pesco-vegetarian had a "larger drop" than vegans is incorrect—the vegan HR (0.85) is essentially similar to pesco (0.81), but the speaker's phrasing suggests a clear advantage for pesco over vegan, which is not supported; additionally, the speaker confusingly repeats "Pesco vegetarian" twice, likely a slip.)
+
+[8:07] "now what is interesting you'll often see these metaanalyses that compare different vegan groups there's there's several different vegan cohorts out there... like that plant-based index I was talking about yesterday just because you're vegan doesn't mean you're healthy so what about the Adventist Health study versus the Epic study..."
+-> SUBJECTIVE / NUTRITIONAL EPIDEMIOLOGY (Topic: Comparison of vegan cohorts; The claim that "just because you're vegan doesn't mean you're healthy" is a subjective, yet widely supported, observation; the speaker's framing of comparing AHS vs. EPIC is a reasonable methodological discussion, but no specific checkable claim is made here beyond general commentary.)
+
+[8:35] "The Epic oxburg vegans um didn't do that much better than the meat eaters in several of the different metrics Strokes colon cancer believe or not... but in the Epic data group The vegans they said did not have have a um significant advantage in colon cancer but and here's the butt they controlled for fiber so basically they found meat eaters that ate almost the same amount of fiber as the vegan group not quite the same but it was pretty close um and before controls the vegans did do better but after controls they didn't..."
+-> VALIDATED / NUTRITIONAL EPIDEMIOLOGY (Topic: EPIC-Oxford vegans and colorectal cancer risk; The statement that vegans in EPIC-Oxford did not show a significant advantage in colon cancer risk after controlling for fiber is broadly accurate; some EPIC analyses found no significant difference in colorectal cancer risk between vegans and meat-eaters, and fiber intake is a known confounder; the claim that controlling for fiber attenuated the association is consistent with published analyses, though the speaker overstates the precision of the "almost same" fiber intake claim.)
+
+[9:28] "there was an interesting study where they looked at the vegans in the Epic Oxford Group and compared them to the 7th Day of Venice... the meat eaters in the seventh day of Venice did pretty well they ate about 22 Gams of fiber a day... meanwhile the vegan group only ate 28 grams of fiber... what about the seventh day of Venice the group that I really like to look at 46.7 gram of fiber..."
+-> VALIDATED / NUTRITIONAL EPIDEMIOLOGY (Topic: Fiber intake comparisons between AHS and EPIC-Oxford; The cited fiber numbers (22 g/day for AHS meat-eaters, 28 g/day for EPIC vegans, 46.7 g/day for AHS vegans) align with published comparative analyses of AHS and EPIC-Oxford cohorts; these figures are accurate and well-documented, though the speaker's inference that AHS vegans are more representative of "most vegans" is subjective.)
+
+[10:43] "when you look at other factors uh the vegan group in the Epic Oxford study uh tended to drink more alcohol definitely drank more sugar sweetened beverages um and what was really fascinating is they only took in7 78 microgram of B12 a day versus 6.3 in the vegan group they were definitely B12 deficient and they weren't supplementing..."
+-> FALSE / NUTRITIONAL EPIDEMIOLOGY (Topic: B12 intake and deficiency in EPIC-Oxford vegans; The speaker's numbers are garbled and internally inconsistent: "only took in7 78 microgram of B12" vs. "6.3 in the vegan group" likely conflates mcg numbers and groups; published EPIC-Oxford data show that vegans had lower B12 intake than meat-eaters (roughly 0.7-1.0 mcg/day vs. 5-7 mcg/day), and some vegans did have low B12 status, but the claim that "they were definitely B12 deficient" as a blanket statement is overgeneralized; B12 deficiency was not universal, and many participants did supplement; the speaker's phrasing suggests a false equivalence and misreports specific values.)
+
+[11:15] "it's going to have a real effect it's going to cause homosysteine levels to rise which is going to have an effect on stroke and heart disease although vegans did have less heart disease than meaters in the study you may have seen an even bigger difference had you could trolled for that or had you had vegan supplement um..."
+-> VALIDATED / NUTRITIONAL EPIDEMIOLOGY (Topic: B12 deficiency, homocysteine, and cardiovascular risk; The claim that B12 deficiency raises homocysteine and that elevated homocysteine is associated with increased stroke and heart disease risk is well-established; the inference that vegans in EPIC-Oxford had less ischemic heart disease than meat-eaters is also accurate, and the point about potential confounding by B12 status is a recognized limitation in the literature.)
+
+[12:42] "unprocessed meat tends to be Associated uh quite a bit with cancer and heart disease when you look in American uh studies when you look at studies around the world that doesn't always hold true why is that..."
+-> CONTEXTUALIZED / NUTRITIONAL EPIDEMIOLOGY (Topic: Association of unprocessed meat with cancer and heart disease across populations; The claim that unprocessed meat is associated with cancer and heart disease in US studies but not universally in global studies is broadly correct; the association is consistent but weaker for unprocessed meat, and effect sizes vary by population, partly due to differences in preparation methods, baseline intake, and confounding; however, the speaker's framing overstates the inconsistency—meta-analyses still find modest positive associations globally, so the "doesn't always hold true" claim is somewhat misleading without context.)
+
+
+
+
+
+
+
+
+
+
+Title: Is there science showing that keto diet isn’t bad for you?
+
+====
+
+Channel: Dr. Garth Davis
+Channel Link: https://www.youtube.com/@gpdtx
+
+====
+
+Link: https://www.youtube.com/watch?v=Gs9H5rS-nBA
+
+====
+
+Description:
+Most of what you hear on social media by carnivore enthusiast is absolutely a complete nonsense. However, there is legitimate science behind a keto diet. When I say legitimate, these are real scientist writing papers that are pure reviewed. That does not, however mean that these studies exonerate the negative effects of a keto diet. This one is long-winded, but there’s a lot to unpack.
+
+====
+
+Transcript:
+[0:00] let's talk a bit today
+[0:02] about the actual science behind a low
+[0:06] carb a high meat diet most of the stuff
+[0:09] you see on social media is total
+[0:11] nonsense you're not going to find any
+[0:13] science about oatmeal being bad for you
+[0:14] you're not going to sign find any
+[0:16] science about lectin containing foods
+[0:17] being bad for you in fact one of the
+[0:20] foods most associated with longevity
+[0:22] shown in a metaanalysis was in fact
+[0:26] legums the highest lectin containing
+[0:28] food so
+[0:30] these things like plants are killing you
+[0:31] that kind of stuff I mean it's just such
+[0:33] nonsense those people could be
+[0:35] completely written off as idiots it's
+[0:37] just they're not scientific but there
+[0:40] are legitimate scientists that study
+[0:42] keto diet we're not talking carnivore
+[0:44] diet but keto diet and they do have
+[0:47] science behind them I'm going to tell
+[0:49] you why that science is is not accurate
+[0:52] uh but if you want to know more about
+[0:53] this if you're watching this on
+[0:55] Instagram go to the YouTube link uh in
+[0:59] my my bio for those of you on YouTube
+[1:02] let's
+[1:02] discuss the first thing they kind of
+[1:05] come up with is looking at multiple
+[1:08] metaanalyses that show that saturated
+[1:10] fat is not associated with heart
+[1:13] disease we've always heard saturated fat
+[1:15] causes heart disease How could a study
+[1:17] show that saturated fat doesn't cause
+[1:19] heart disease and if that's true then we
+[1:21] shouldn't be telling people not to eat
+[1:22] saturated fat uh and in fact there's a
+[1:25] group of legitimate scientists trying to
+[1:28] Lobby the
+[1:30] USDA to stop saying don't eat saturated
+[1:33] food uh don't eat highs saturated food
+[1:37] now these people are paid by uh the beef
+[1:40] industry most of their papers are funded
+[1:43] by the beef industry though one uh one
+[1:48] author actually isn't and he refuses to
+[1:50] get paid by the industry Dr lwig and
+[1:53] that's great uh now I will say that Dr
+[1:55] lwig has got a different kind of bias
+[1:58] and that is he's biased because all of
+[2:01] his research has been around low carb
+[2:03] diet and uh he's trying to prove a point
+[2:06] and it would absolutely disrupt his
+[2:08] entire life if his point was
+[2:13] wrong so what are some of the studies
+[2:16] that they they they look at well all of
+[2:17] these Studies have a critical flaw and
+[2:20] this has been seen in letters to the
+[2:22] editor about these studies but it really
+[2:24] kind of started with a study done by
+[2:25] Siri Torino and what they did is they
+[2:29] did a met meta analysis and they show
+[2:30] that saturated fat wasn't
+[2:33] associated with heart disease but each
+[2:37] of the studies in that
+[2:39] metaanalysis controlled for cholesterol
+[2:42] what does that mean well when you're
+[2:44] doing a metaanalysis like if you're
+[2:45] trying to look if saturated fat causes
+[2:47] heart disease you want to take out
+[2:50] independent factors that could be
+[2:52] confounds in other words independent
+[2:53] factors that have an independent effect
+[2:55] on heart disease so for instance you're
+[2:56] going to take out smoking because if
+[2:59] you're look looking at a group of people
+[3:01] that are eating High saturated fat or
+[3:02] eating so low saturated fat if they if
+[3:04] there are smokers in one of the groups
+[3:06] that's going to disrupt whether not
+[3:08] saturated fat causes heart disease so
+[3:09] you're going to take out smokers you're
+[3:11] going to take out people that are
+[3:14] overweight um and so these factors are
+[3:16] going to be controlled for well one of
+[3:18] the factors they controlled for is high
+[3:20] cholesterol this is called
+[3:22] overadjustment bias if you control for
+[3:25] cholesterol then you're
+[3:28] eliminating the way that saturated fat
+[3:32] causes heart disease because we know
+[3:35] from war studies from from feeding
+[3:37] people saturated fat that saturated fat
+[3:40] causes a rise in LDL cholesterol in most
+[3:42] people and so if you're giving them uh
+[3:46] saturated fat we see a definite rise so
+[3:50] we know that L saturated fat causes a
+[3:52] rise in LDL then we know from multiple
+[3:55] different studies we've got Rain
+[3:57] reviews on it and stuff that that High
+[3:59] ldls associated with heart disease so if
+[4:01] you take a group of people out that
+[4:04] don't that have high cholesterol you're
+[4:05] basically eliminating the saturated fat
+[4:08] effect and now you could write a paper
+[4:10] that says saturated fat doesn't cause
+[4:12] heart disease and in fact in one of the
+[4:14] studies by child uh that got a lot of
+[4:17] play in the British uh Journal of
+[4:18] Medicine in their meta analysis some of
+[4:22] the groups of people were actually on
+[4:25] lipid lowering drugs so they're taking a
+[4:27] Statin which lowers LDL cholesterol
+[4:29] regardless of whether you're eating
+[4:30] saturated fat and so now it takes down
+[4:34] your risk of heart disease so these
+[4:36] people are eating saturated fat and
+[4:38] their cholesterol is being lowered by
+[4:40] LDL cholesterol and they're saying uh by
+[4:42] by a Statin and so they're making the
+[4:45] statement that saturated fat doesn't
+[4:46] cause heart
+[4:47] disease that's crazy so the next real
+[4:52] big idea that these scientists have had
+[4:56] has been this idea this is increased LDL
+[4:58] cholesterol on a low carb diet in adults
+[5:01] with normal but not high body weight am
+[5:04] meta analysis and this was done by Dr L
+[5:07] lwigs group and what they wanted to show
+[5:10] is when they looked at this group they
+[5:12] found that
+[5:13] BMI uh that was strongly inversely uh
+[5:17] related with LDL in other words a high
+[5:20] BMI group if they went on a low carb
+[5:22] diet tended not to rise their LDL uh
+[5:26] raise their LDL very much but there's a
+[5:28] group this is what they're trying to get
+[5:30] at there's a group of what they call
+[5:32] hyperresponders Healthy hyperresponders
+[5:34] whose LDL cholesterol might SAR when
+[5:36] they go on a low carb diet but the impl
+[5:41] the implication is that this isn't
+[5:43] causing heart disease that you can
+[5:45] increase your LDL cholesterol without it
+[5:48] causing a
+[5:51] problem and what they did is they looked
+[5:53] at a at a a big group and they found
+[5:56] that yes in fact the people that weighed
+[5:58] fairly normally when they went on and
+[6:01] and by the way had normal their their
+[6:03] point here is that these people have
+[6:05] normal triglycerides they have a high
+[6:06] HDL and yes their LDL went up but people
+[6:10] that were obese didn't and part of their
+[6:12] message here is if you're a beast you
+[6:13] could do a low carb diet without
+[6:14] worrying about it now that's a problem
+[6:16] because in this study you had people
+[6:18] that were overweight that started this
+[6:21] so that's a problem because number one
+[6:22] they could be on medications like we
+[6:24] talked about in the last study and that
+[6:25] may be confounding things number two
+[6:27] they probably weren't eating a very heal
+[6:29] diet to begin with they were probably
+[6:31] ready on a pretty high saturated fat
+[6:33] because they're overweight to begin with
+[6:35] and we know uh that you know an
+[6:37] unhealthy diet usually has high
+[6:39] saturated fat and so they may have
+[6:41] already increased their cholesterol
+[6:43] before they started this um the other
+[6:45] problem is
+[6:48] that the overweight group a large part
+[6:52] of this meta analysis that he did came
+[6:54] from a study called the diet fit study
+[6:56] which is a study done by Garner at
+[6:58] Stanford and in that study the low carb
+[7:01] group was specifically told not to eat a
+[7:04] high saturated fat so they were
+[7:05] effectively on a lowfat but High
+[7:08] unsaturated fat diet so it's unlikely
+[7:10] that they were to get a rise in their
+[7:12] cholesterol and that really kind of
+[7:14] messes up the metaanalysis because all
+[7:15] that data which is the bulk of the
+[7:17] number of patients in this metaanalysis
+[7:19] is now in a group that is unlikely even
+[7:22] eating high-saturated fat um and so that
+[7:24] kind of makes this study a little bit
+[7:26] worthless but let's let's talk a little
+[7:28] bit about about this group of what they
+[7:31] call hyperresponders what they're trying
+[7:33] to say is these most of the people you
+[7:35] see on social media these gymrat type
+[7:37] people that are eating a low carb diet
+[7:40] they've got abs and they're saying look
+[7:41] look at these guys that have abs they've
+[7:44] got a lower triglyceride level a higher
+[7:46] HDL level they are not at risk with
+[7:49] their High L and some of these people
+[7:51] have like insanely High ldls and the
+[7:54] statement the thought process
+[7:56] is they aren't going to get heart
+[8:00] disease because they're so healthy
+[8:03] otherwise the idea is that an elevated
+[8:04] LDL without any other metabolic problems
+[8:08] is not an issue well in order for be for
+[8:12] that to be the
+[8:13] case we ought to have some kind of
+[8:15] long-term look at people like this and
+[8:17] believe it or not we have that the
+[8:19] Cooper
+[8:20] study the Cooper study done in Dallas uh
+[8:24] by a buddy of mine Dr Amic Cara they
+[8:28] have looked at
+[8:30] 30,000 people followed them for a mean
+[8:32] 24 years and what they did is they
+[8:34] stratified people anybody in this group
+[8:37] could not have elevated triglycerides
+[8:39] could not have any history of heart
+[8:41] disease could not smoke could not have
+[8:43] diabetes could not have metabolic
+[8:45] disease they were basically healthy
+[8:46] people but they found that some
+[8:48] people had a slightly elevated LDL
+[8:52] cholesterol well some people had an LDL
+[8:53] cholesterol above 160 and there was a
+[8:56] 30% difference in cardiac mortality
+[8:59] in this group over the mean 24 year
+[9:03] followup and most of that happened many
+[9:06] years later the other thing that they
+[9:08] that that these people like to look at
+[9:10] is they looked at
+[9:12] um they looked at a study out of Denmark
+[9:15] where they found that they did a CT
+[9:19] calcium scan score of the heart and they
+[9:22] found that people that had an elevated
+[9:24] calcium score like they had calcium uh
+[9:27] calcifications in their heart with an
+[9:29] elevated LDL cholesterol they were
+[9:31] definitely going to get heart disease I
+[9:33] mean the the risks were really high but
+[9:36] they found that people that didn't have
+[9:37] calcium in their heart if they had an
+[9:39] elevated LDL
+[9:42] cholesterol they were unlikely to get
+[9:44] heart disease okay so the problem with
+[9:47] that study is a cross-sectional study
+[9:49] they didn't follow people for many years
+[9:52] the second problem with that study is
+[9:53] the group that didn't have
+[9:54] calcifications average age was 50 the
+[9:57] group that had calcific Cal
+[9:59] classifications the average age was
+[10:01] 62 and so the implication here if you
+[10:03] look at the Cooper study in the first 10
+[10:05] to 15 years there's not a lot of
+[10:06] difference But as time goes on the group
+[10:09] with a higher cholesterol starts ramping
+[10:11] up in their amount of heart disease you
+[10:13] can't follow someone for a short period
+[10:15] of time and make an assessment you
+[10:17] certainly can't do a cross-sectional
+[10:18] study and in the Denmark
+[10:21] study when you look at it it's very
+[10:25] possible that those 52y olds had early
+[10:27] plaque that's not going to show up on a
+[10:29] calcification score but over time that
+[10:31] early pl we know from from autopsy
+[10:34] studies of kids that heart disease
+[10:36] studies heart disease starts many many
+[10:39] years before we actually see it it
+[10:41] starts when kids are young with these
+[10:43] little aous plaques that aren't going to
+[10:45] show up on a calcium scan but will
+[10:47] eventually start to calcify much later
+[10:50] and we also know by the way they they
+[10:52] looked at this one trial called the Mesa
+[10:54] trial that about 30% of people with a
+[10:57] normal calcium scan ended up having a
+[11:00] heart attack and that may be because
+[11:05] that just because the plaque isn't
+[11:07] calcified yet it could still rupture and
+[11:09] cause a heart attack and so having a
+[11:11] negative calcium score does not mean
+[11:13] you're not going to get a heart
+[11:16] attack so this argues against that but
+[11:19] the best thing in the world if we're
+[11:20] really going to make an argument it
+[11:22] would be a randomized control trial like
+[11:23] I wish we could take a kid at
+[11:27] Birth and have one with high cholesterol
+[11:30] and one with low cholesterol and follow
+[11:31] them through their life that would be
+[11:33] the perfect randomized control trial to
+[11:34] see if there was a difference in heart
+[11:35] disease guess what we can do that
+[11:38] because of something called mandalian
+[11:40] randomization and what these Studies
+[11:42] have done they've looked at specific
+[11:44] genetic markers that predispose someone
+[11:47] to high cholesterol and followed those
+[11:50] people over many years versus people
+[11:52] that were predisposed by their genetics
+[11:54] to have low cholesterol you know there's
+[11:56] some people out there they could eat as
+[11:57] much fat as they want and they continue
+[11:58] Contin to have low cholesterol and what
+[12:00] they found is there's no question that
+[12:02] having a high LDL cholesterol over a
+[12:05] course of a lifetime predisposes you to
+[12:07] early cardiac death and having a low
+[12:10] cholesterol low LDL cholesterol protects
+[12:12] you and then the scientists try to go
+[12:15] into this idea that these healthy
+[12:18] responders have large fluffy
+[12:22] LDL that that it's not the small tight
+[12:25] LDL it's a large fluffy LDL and
+[12:27] therefore they're less likely to get cuz
+[12:29] large LDL somehow isn't associated with
+[12:31] heart disease it is associated with
+[12:33] heart disease that is not true and in
+[12:35] fact in these mandalian randomization
+[12:36] trials the people that are more
+[12:38] predisposed to having high LDL
+[12:40] cholesterol actually have high large LDL
+[12:43] cholesterol not the small type and they
+[12:45] still end up having more heart disease
+[12:47] and in fact we know from saturated fat
+[12:49] studies where we give people saturated
+[12:51] fat it is in fact a rise in the large
+[12:54] LDL that we see with this increase in
+[12:56] saturated fat so while
+[12:59] the low carb group have studies these
+[13:03] studies are fairly weak they they also
+[13:05] go into things like they're like okay
+[13:06] let's if this all if we can't go on the
+[13:08] LDL let's go on the inflammation meat
+[13:10] doesn't cause inflammation and they'll
+[13:12] they'll present studies showing there's
+[13:15] like this one study they love to talk
+[13:16] about called the untargeted metabolomic
+[13:19] analysis investigating links between
+[13:21] unprocessed meat and markers of
+[13:25] inflammation in the study C reactive
+[13:28] protein which is one of the main factors
+[13:30] we look at was associated with
+[13:33] inflammation I don't talk about that in
+[13:34] there il6 and tnf were decrease now
+[13:37] there's other studies that have been
+[13:39] done that have actually shown a
+[13:41] relationship between um meat and
+[13:46] inflammation but they don't tell you
+[13:48] about that those studies they just tell
+[13:50] you about the study they want you to
+[13:51] look at now there's kind of a problem
+[13:53] when looking with inflammation because
+[13:54] we usually look at inflammation in a
+[13:56] fasting State you know you go your
+[13:58] doctor tells you to go and get labs they
+[13:59] tell you to get it fasting they check C
+[14:01] reactor protein but you're
+[14:03] fasting now interestingly lwig who I
+[14:06] talked about before did one low carb
+[14:08] study and he was trying to look at
+[14:09] whether low carb increases
+[14:12] metabolism but the low carb group
+[14:14] actually had an elevated C reactor
+[14:16] protein and they had an elevated
+[14:18] cortisol in their urine uh now
+[14:21] interestingly in his subsequent low carb
+[14:24] uh trials he no longer looked at
+[14:26] cortisol in the urine or C reactor
+[14:28] protein keep that in mind but what
+[14:30] happens when we look at
+[14:33] a study after eating what does saturated
+[14:38] fat do to things like P select and other
+[14:40] markers of inflammation well it
+[14:43] increases it more than carbs do more
+[14:46] than monounsaturated fat more than
+[14:48] polyunsaturated fat this was in a trial
+[14:50] where they fed people muffins and the
+[14:52] muffins had saturated fat or
+[14:55] monounsaturated fat or polyunsaturated
+[14:57] fat or lowfat
+[14:59] and so the person's eating a muffin they
+[15:00] don't know what they're eating but we
+[15:02] could see a def definitive change in the
+[15:06] amount
+[15:09] of inflammation and in fact when you
+[15:12] look at a trial where they gave
+[15:16] people so it's interesting they gave
+[15:18] people sugar water they gave them water
+[15:20] no inflammation they gave them sugar
+[15:21] water and yes sugar water did increase
+[15:25] inflammation slightly because any kind
+[15:27] of food is going to give a little bit of
+[15:29] inflammation because our body develops
+[15:31] reactive oxygen species when we're
+[15:33] dealing with that
+[15:34] Sugar they then gave them orange juice
+[15:36] now orange juice blunted that because
+[15:39] orange juice has basically antioxidants
+[15:42] that blunt the inflammatory response
+[15:44] then they gave them cream cream shot
+[15:48] shot the inflammatory markers up that's
+[15:51] because
+[15:52] cream has multiple ways it increases
+[15:55] inflammation maybe this is endotoxin
+[15:57] maybe it's saturated fat causing uh Gap
+[16:01] Junction um opening so that endotoxins
+[16:03] can get uh into the system uh there
+[16:06] there's multiple ways that it could do
+[16:08] it but the bottom line is it
+[16:10] increased inflammation
+[16:12] dramatically um but these kind of
+[16:14] studies aren't talked about and then
+[16:16] they'll go
+[16:18] into you know they'll talk about studies
+[16:20] looking at for instance red meat
+[16:23] consumption and all cause mortality and
+[16:26] met analysis and what I want to say is
+[16:28] that red meat might not be associated
+[16:30] with heart disease or specifically on
+[16:32] processed meat you can't make you cannot
+[16:35] make an argument with processed meat all
+[16:36] right bacon processed meat is always
+[16:39] associated in just about every study
+[16:41] done with um mortality whether it's
+[16:45] alcohol mortality cancer cardiac
+[16:48] mortality diabetes processed meat is
+[16:50] always up there unprocessed meat is also
+[16:54] likewise there uh but maybe to a little
+[16:57] bit of a lesser extent extent and when
+[16:59] you look at the study done by lson
+[17:01] you'll see that with unprocessed meat
+[17:03] most of it led to a higher Alla
+[17:06] mortality uh so that there was a slight
+[17:09] increase in alla's mortality much higher
+[17:12] with process meat you could see all the
+[17:14] studies showed with with unprocessed
+[17:17] meat showed an increased risk and
+[17:18] certainly total meat showed an increased
+[17:21] risk of all cause mortality but it was a
+[17:26] little less associated with unprocessed
+[17:28] meat well there was an outlier right
+[17:30] there was a big outlier and that's why I
+[17:33] like to look at Forest plots because
+[17:34] Forest plots will tell you that had this
+[17:37] outlier not been there this would have
+[17:38] been a much stronger relation so what
+[17:41] happens in this outlier well there's
+[17:43] differences when you look around the
+[17:45] world if you look at
+[17:47] um Asia they they the you see much less
+[17:52] unprocessed much less processed meat uh
+[17:55] much more unprocessed meat but yet lot a
+[17:58] lot Less meat in general uh their meat
+[18:00] may be different there's multiple
+[18:02] reasons that that can be uh but it's
+[18:06] interesting that there's an outlier that
+[18:07] messes up that metaanalysis another
+[18:09] thing they're not going to tell you so
+[18:11] there is science behind a low carb diet
+[18:13] but that science has a lot of flaws in
+[18:15] it and if you're looking at inflammation
+[18:17] in a plant-based diet there's many
+[18:19] studies I don't know of a single study
+[18:21] that shows that plant-based diets don't
+[18:22] decrease inflammation there's many
+[18:25] studies showing an improvement in
+[18:27] long-term mortality alcohol mortality uh
+[18:30] cardiac mortality with plant-based diets
+[18:33] uh so while there may be some data
+[18:35] showing that a keto diet can lower your
+[18:39] risk of heart disease I'm sorry that
+[18:42] could lower your uh your di your weight
+[18:45] and could then possibly by lowering your
+[18:48] weight have an effect on heart disease
+[18:49] it doesn't bear out in the actual
+[18:52] research and just because there's
+[18:54] science doesn't mean that science is
+[18:56] correct
+
+====
+
+Fact-Check:
+[0:00]
+"let's talk a bit today about the actual science behind a low carb a high meat diet most of the stuff you see on social media is total nonsense you're not going to find any science about oatmeal being bad for you you're not going to sign find any science about lectin containing foods being bad for you in fact one of the foods most associated with longevity shown in a metaanalysis was in fact legums the highest lectin containing food..."
+-> CONTEXTUALIZED / DIET & NUTRITION (The claim that legumes are among the foods most associated with longevity and are the highest lectin-containing food is partially supported. Legumes are indeed linked to longevity in some cohort studies (e.g., blue zones, NHANES), but they are not universally "the highest" lectin-containing food; other foods like wheat germ and kidney beans are also high. The statement blends a valid dietary pattern with an oversimplified, unverified superlative.)
+
+[1:02]
+"...let's discuss the first thing they kind of come up with is looking at multiple metaanalyses that show that saturated fat is not associated with heart disease... there's a group of legitimate scientists trying to Lobby the USDA to stop saying don't eat saturated food..."
+-> CONTEXTUALIZED / CARDIOLOGY & NUTRITION (The claim that meta-analyses show saturated fat is not associated with heart disease is accurate but often misinterpreted. Some meta-analyses (e.g., Siri-Tarino 2010) found no significant association, but this is not the same as proving safety. The lobbying claim is plausible but unspecified; groups like the "Nutrition Coalition" have pushed for dietary guideline changes, often with industry ties, but the claim lacks a specific citation.)
+
+[1:39]
+"now these people are paid by uh the beef industry most of their papers are funded by the beef industry though one uh one author actually isn't and he refuses to get paid by the industry Dr lwig and that's great..."
+-> CONTEXTUALIZED / CONFLICT OF INTEREST (The claim that most scientists promoting the "saturated fat is not harmful" view are funded by the beef industry is partially true; some prominent researchers (e.g., Krauss, Mozaffarian) have received industry funding, but not all. Dr. Ludwig is correctly named as an academic who does not accept industry funding, but his research focus on low-carb diets is well-documented, so the bias characterization is fair but not unique.)
+
+[2:16]
+"all of these Studies have a critical flaw... it really kind of started with a study done by Siri Torino and what they did is they did a meta analysis and they show that saturated fat wasn't associated with heart disease but each of the studies in that metaanalysis controlled for cholesterol... this is called overadjustment bias..."
+-> VALIDATED / EPIDEMIOLOGY (The Siri-Tarino 2010 meta-analysis indeed adjusted for cholesterol in many included studies, and over-adjustment for intermediates (like LDL) can attenuate true associations. This is a recognized methodological critique in the literature.)
+
+[4:14]
+"in one of the studies by child uh that got a lot of play in the British uh Journal of Medicine in their meta analysis some of the groups of people were actually on lipid lowering drugs so they're taking a Statin which lowers LDL cholesterol regardless of whether you're eating saturated fat..."
+-> CONTEXTUALIZED / CLINICAL TRIALS (The reference is to the 2015 BMJ meta-analysis by de Souza et al. Some included studies allowed participants to be on statins, which could confound results. The critique is valid, though it is not universally applied to all included cohorts, and the overall conclusion still showed no clear harm from saturated fat, which is distinct from proving neutrality.)
+
+[4:52]
+"the next real big idea that these scientists have had has been this idea this is increased LDL cholesterol on a low carb diet in adults with normal but not high body weight am meta analysis and this was done by Dr L lwigs group... the overweight group a large part of this meta analysis that he did came from a study called the diet fit study which is a study done by Garner at Stanford and in that study the low carb group was specifically told not to eat a high saturated fat..."
+-> VALIDATED / CLINICAL NUTRITION (The DIETFITS study (Gardner et al., 2018) explicitly advised participants to avoid trans fats and prioritize unsaturated fats, even in the low-carb arm. The critique that this dilutes the impact of saturated fat in a meta-analysis of low-carb diets is factually accurate.)
+
+[6:48]
+"the overweight group a large part of this meta analysis that he did came from a study called the diet fit study... it's unlikely that they were to get a rise in their cholesterol and that really kind of messes up the metaanalysis because all that data which is the bulk of the number of patients in this metaanalysis is now in a group that is unlikely even eating high-saturated fat..."
+-> VALIDATED / RESEARCH METHODOLOGY (The DIETFITS study is indeed a major contributor to low-carb meta-analyses, and its low-carb arm was not a high-saturated-fat diet, making it a flawed proxy for typical low-carb/high-meat diets. The claim correctly notes that this weakens the generalizability of the meta-analysis.)
+
+[8:24]
+"the Cooper study done in Dallas uh by a buddy of mine Dr Amic Cara they have looked at 30,000 people followed them for a mean 24 years... they found that some people had a slightly elevated LDL cholesterol well some people had an LDL cholesterol above 160 and there was a 30% difference in cardiac mortality in this group..."
+-> CONTEXTUALIZED / CARDIOLOGY (The Cooper Center Longitudinal Study does report higher cardiovascular mortality with elevated LDL in a healthy population, but the 30% figure is not a standard quoted statistic from that study. It is plausible but not directly verifiable without a specific citation; the claim may be rounding or referencing a subgroup analysis.)
+
+[9:08]
+"they looked at a study out of Denmark where they did a CT calcium scan score of the heart and they found that people that had an elevated calcium score... with an elevated LDL cholesterol they were definitely going to get heart disease... but they found that people that didn't have calcium in their heart if they had an elevated LDL cholesterol they were unlikely to get heart disease... the problem with that study is a cross-sectional study..."
+-> CONTEXTUALIZED / CARDIOLOGY (The referenced Danish study likely refers to a coronary artery calcium (CAC) study. CAC is indeed a strong predictor of events, and an elevated LDL with no CAC does lower short-term risk, but it is not a guarantee. The characterization as "cross-sectional" is misleading: many CAC studies are prospective cohorts, and the critique about age differences is valid but not unique to Denmark.)
+
+[10:21]
+"in the Denmark study when you look at it it's very possible that those 52y olds had early plaque that's not going to show up on a calcification score but over time that early pl we know from from autopsy studies of kids that heart disease starts many many years before we actually see it..."
+-> VALIDATED / PATHOLOGY (Autopsy studies (e.g., Bogalusa Heart Study, Pathobiological Determinants of Atherosclerosis in Youth) show atherosclerotic lesions in children and young adults. Non-calcified plaque is indeed invisible on CAC scans, so the critique is supported by well-established evidence.)
+
+[10:52]
+"they looked at this one trial called the Mesa trial that about 30% of people with a normal calcium scan ended up having a heart attack..."
+-> MISLEADING / CARDIOLOGY (The MESA study does show that a significant proportion of events occur in people with zero CAC, but the 30% figure is inflated. In MESA, the 10-year event rate among those with zero CAC is much lower (around 5-10%), and most events occur in those with elevated CAC. The claim overstates the risk to make a rhetorical point.)
+
+[11:19]
+"the best thing in the world if we're really going to make an argument it would be a randomized control trial... guess what we can do that because of something called mandelian randomization... they've looked at specific genetic markers that predispose someone to high cholesterol and followed those people over many years... there's no question that having a high LDL cholesterol over a course of a lifetime predisposes you to early cardiac death..."
+-> VALIDATED / GENETIC EPIDEMIOLOGY (Mendelian randomization studies (e.g., using PCSK9, LDLR variants) consistently show that lifelong lower LDL is associated with reduced cardiovascular risk. This is a robust causal inference method, and the conclusion aligns with extensive literature.)
+
+[12:14]
+"these healthy responders have large fluffy LDL... it's not the small tight LDL it's a large fluffy LDL and therefore they're less likely to get cuz large LDL somehow isn't associated with heart disease it is associated with heart disease that is not true and in fact in these mandalian randomization trials the people that are more predisposed to having high LDL cholesterol actually have high large LDL cholesterol..."
+-> VALIDATED / LIPIDOLOGY (The "large fluffy vs small dense LDL" distinction is often used to claim different risks, but Mendelian randomization studies confirm that LDL particles, regardless of size, increase risk when elevated, and the genetic elevation often involves larger particles. The claim is supported by current evidence.)
+
+[12:47]
+"we know from saturated fat studies where we give people saturated fat it is in fact a rise in the large LDL that we see with this increase in saturated fat..."
+-> VALIDATED / NUTRITION BIOCHEMISTRY (Controlled feeding trials show that saturated fat increases LDL cholesterol, particularly larger LDL particles (LDL-I and LDL-II). This is consistent with the literature, and the claim is accurate.)
+
+[13:02]
+"they'll present studies showing there's like this one study they love to talk about called the untargeted metabolomic analysis investigating links between unprocessed meat and markers of inflammation in the study C reactive protein... was associated with inflammation I don't talk about that in there il6 and tnf were decrease..."
+-> CONTEXTUALIZED / INFLAMMATION & DIET (The referenced study (likely a specific metabolomics analysis) may have shown conflicting results for different inflammatory markers. The claim that IL-6 and TNF were decreased contradicts the speaker's tone; the evidence on meat and inflammation is heterogeneous. Without a specific citation, the claim is unverifiable but plausible.)
+
+[13:47]
+"there's other studies that have been done that have actually shown a relationship between um meat and inflammation but they don't tell you about that..."
+-> SUBJECTIVE / MEDIA LITERACY (This is a rhetorical claim about selective presentation, not a checkable factual claim. It is a critique of the speaker's opponents' communication style.)
+
+[14:03]
+"lwig who I talked about before did one low carb study and he was trying to look at whether low carb increases metabolism but the low carb group actually had an elevated C reactor protein and they had an elevated cortisol in their urine... in his subsequent low carb trials he no longer looked at cortisol in the urine or C reactor protein..."
+-> UNVERIFIABLE / CLINICAL TRIALS (This is a specific allegation about Dr. Ludwig's research practice. While Ludwig has published on low-carb metabolism, the specific claim about elevated CRP and cortisol in a particular study, and that he dropped these measures afterward, is not independently verifiable from the transcript. It may be based on a specific study, but the details are not provided.)
+
+[14:37]
+"what does saturated fat do to things like P select and other markers of inflammation well it increases it more than carbs do more than monounsaturated fat more than polyunsaturated fat this was in a trial where they fed people muffins..."
+-> CONTEXTUALIZED / INTERVENTION STUDIES (Acute feeding studies show that saturated fat can increase postprandial inflammatory markers (e.g., P-selectin, CRP) more than unsaturated fats. The muffin trial design is plausible, but the claim is a generalization; chronic effects may differ, and the comparison is not always consistent.)
+
+[15:16]
+"they gave people sugar water... no inflammation they gave them sugar water and yes sugar water did increase inflammation slightly... they then gave them orange juice now orange juice blunted that... then they gave them cream cream shot shot the inflammatory markers up..."
+-> CONTEXTUALIZED / POSTPRANDIAL INFLAMMATION (This describes a specific trial (likely from the literature on postprandial inflammation). Sugar water alone may not raise inflammation, but orange juice with antioxidants can mitigate oxidative stress, while cream (saturated fat) can induce an inflammatory response. The description is consistent with some published studies, but the exact trial is not named.)
+
+[16:18]
+"they'll talk about studies looking at for instance red meat consumption and all cause mortality and met analysis... red meat might not be associated with heart disease or specifically on processed meat you can't make an argument with processed meat... processed meat is always associated in just about every study done with mortality... unprocessed meat is also likewise there uh but maybe to a little bit of a lesser extent..."
+-> VALIDATED / EPIDEMIOLOGY (Large meta-analyses (e.g., by Larsson, Orlich) consistently show that processed meat is associated with increased all-cause mortality, while unprocessed red meat shows a weaker but still positive association. The claim aligns with the consensus.)
+
+[17:00]
+"when you look at the study done by lson you'll see that with unprocessed meat most of it led to a higher Alla mortality... there was an outlier... and that's why I like to look at Forest plots... if you look at um Asia they they the you see much less unprocessed much less processed meat..."
+-> CONTEXTUALIZED / CROSS-CULTURAL ANALYSIS (The author is likely referring to a specific cohort (e.g., the EPIC or the HALE study). The outlier effect from Asian cohorts (which consume less meat, particularly processed meat) is a known observation in meta-analyses. The claim about forest plots and outlier effects is methodologically sound, though the exact "Lson" reference is unclear.)
+
+[18:15]
+"if you're looking at inflammation in a plant-based diet there's many studies I don't know of a single study that shows that plant-based diets don't decrease inflammation..."
+-> SUBJECTIVE / SCIENTIFIC EVIDENCE (The speaker asserts a personal lack of knowledge rather than a verifiable fact. While many plant-based diet studies show reduced inflammation, the claim "I don't know of a single study" is a subjective statement, not a checkable claim.)
+
+[18:25]
+"there's many studies showing an improvement in long-term mortality alcohol mortality uh cardiac mortality with plant-based diets..."
+-> CONTEXTUALIZED / NUTRITIONAL EPIDEMIOLOGY (Plant-based diets are associated with lower all-cause and cardiovascular mortality in many observational studies, but the relationship is not universal and may be confounded by overall lifestyle. The claim is broadly supported but not absolute.)
+
+[18:34]
+"so while there may be some data showing that a keto diet can lower your risk of heart disease I'm sorry that could lower your uh your di your weight and could then possibly by lowering your weight have an effect on heart disease it doesn't bear out in the actual research..."
+-> MISLEADING / CLINICAL OUTCOMES (The statement oversimplifies. Keto diets can lead to weight loss, which improves cardiovascular risk factors, and some trials show improvements in HDL and triglycerides. However, the net effect on cardiovascular events is not definitively established, and the claim that weight loss "doesn't bear out" is an overstatement. The science is mixed, so the verdict is misleading due to absolute phrasing.)
+
+
+
+
+
+
+
+
+
+
+
+Title: "Why We Love Dogs, Eat Pigs, and Wear Cows" interview with Melanie Joy on Carnism
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=7AQkgJtBwk8
+
+====
+
+Description:
+Melanie Joy, Ph.D., Ed.M. is an internationally-acclaimed speaker, award-winning author, a Harvard-educated psychologist, and professor of psychology and sociology at the University of Massachusetts, Boston. Joy is best known for her pioneering work on carnism, introduced in "Why We Love Dogs, Eat Pigs, and Wear C
+
+====
+
+Transcript:
+[0:02] imagine you're a guest at a fancy dinner
+[0:04] party you're sitting down at a beautiful
+[0:07] table enjoying the conversation drinking
+[0:09] fine wine and eating a delicious beef
+[0:12] stew in fact the stew is so delicious
+[0:14] that you ask the host for her recipe and
+[0:17] she says flattered well the secret is in
+[0:20] the meat you use three lbs of well
+[0:23] marinated golden retriever now stop for
+[0:26] a minute and think about your reaction
+[0:27] to that dog in America we don't eat dogs
+[0:32] dogs aren't for eating so chances are
+[0:35] your experience radically changed after
+[0:38] hearing that line chances are what was
+[0:40] once food to you you now see as a dead
+[0:43] animal chances are what was once
+[0:45] delicious just moments ago has become
+[0:48] disgusting nothing about the meat itself
+[0:50] actually changed the texture is the same
+[0:53] the flavor is the same the smell is the
+[0:55] same but your experience has
+[0:58] dramatically altered so what's going on
+[1:01] here your reaction is an example of
+[1:05] carnism carnism is the invisible belief
+[1:08] system that conditions us to eat some
+[1:10] animals but not others carnism is why we
+[1:14] typically don't Envision the animal when
+[1:16] we sit down for instance to a plate of
+[1:18] beef chicken or pork it's also why we
+[1:21] can't help but Envision the animal when
+[1:23] for instance were served golden
+[1:25] retriever Swan or guinea pig carnism is
+[1:29] the the reason that we're typically
+[1:31] disgusted by the idea of out of tens of
+[1:34] thousands of animal species eating all
+[1:36] but a tiny handful of them and it's also
+[1:39] the reason we don't stop to think about
+[1:41] why this is the
+[1:42] case when meat eating isn't necessary
+[1:45] for survival it's a choice and our
+[1:47] choices always stem from our beliefs but
+[1:50] we don't seem meat eating as we do
+[1:52] vegetarianism as a choice based on a set
+[1:55] of assumptions about ourselves our world
+[1:57] and animals rather we see it as a given
+[2:00] as the natural thing to do as just the
+[2:03] way things are we eat animals without
+[2:06] thinking about what we're doing and why
+[2:08] because the belief system that underlies
+[2:10] this behavior is invisible this
+[2:12] invisible belief system is what I call
+[2:16] carnism why is it important to know
+[2:18] about carnism because our choices matter
+[2:21] they matter to ourselves they matter to
+[2:23] animals and they matter to the planet
+[2:25] when we eat meat we have to disconnect
+[2:28] psychologically and emotionally from the
+[2:30] truth of our experience we have to numb
+[2:32] ourselves from the reality that we're
+[2:34] eating a dead animal carnism blocks our
+[2:37] awareness and it blocks our empathy
+[2:39] toward the animal that we're eating and
+[2:42] awareness and empathy are integral to
+[2:43] our sense of self so eating meat
+[2:46] requires us to be mindless rather than
+[2:48] mindful it requires us to be apathetic
+[2:51] rather than empathetic and meat eating
+[2:54] has been connected with the leading
+[2:56] causes of disease in the Western World
+[2:58] while meat production
+[3:00] is a primary cause of environmental
+[3:03] Devastation and because our choices
+[3:06] matter it's essential that we understand
+[3:08] where our choices come from so when we
+[3:11] understand that eating meat is the
+[3:13] inevitable end result of a widespread
+[3:17] deeply entrenched invisible belief
+[3:19] system or ideology this dramatically
+[3:22] changes the way that we think about and
+[3:25] talk about meat
+[3:26] eating like many Americans I grew up
+[3:29] with a dog who I loved like a family
+[3:31] member and like many Americans I grew up
+[3:34] eating meat and I never thought about
+[3:36] how I could pet my dog while I ate my
+[3:38] hamburger without recognizing the
+[3:41] profound inconsistency in my attitude
+[3:43] and behaviors toward animals I always
+[3:46] cared about animals and yet I ate them
+[3:49] often several times a day so I had this
+[3:52] knowing without knowing on one level I
+[3:55] was aware that animals had to suffer and
+[3:57] die for my plate yet on another level I
+[4:00] preferred not to know I preferred not to
+[4:02] connect the dots so I lived with this
+[4:06] internal moral often unconscious
+[4:10] discomfort I had to maintain a gap in my
+[4:13] Consciousness when it came to eating
+[4:15] meat as a young adult I learned a lot
+[4:19] about meat production and I came to
+[4:21] realize that I was unable to maintain
+[4:24] the psychic numbing necessary to
+[4:25] continue eating animals I experienced a
+[4:28] profound paradigm shift a shift of
+[4:31] Consciousness what I had once seen as
+[4:33] food I now saw as a dead animal while I
+[4:36] had never questioned my food choices I
+[4:39] now came to become conscious of the
+[4:41] decisions about what I ate I wanted to
+[4:44] understand what had happened to me and
+[4:46] to other vegetarians to cause such a
+[4:49] profound shift of Consciousness I wanted
+[4:51] to understand how I had been able to
+[4:53] spend my whole life as a person who
+[4:55] truly cared about animals to have eaten
+[4:58] them and to have never made the
+[5:01] connection I wanted to understand how
+[5:04] Humane people could participate in
+[5:06] inhumane practices without even
+[5:08] realizing what they're doing I entered a
+[5:11] doctoral program in psychology where I
+[5:14] interviewed vegans vegetarians meat
+[5:16] eaters and meat Cutters about their
+[5:18] experience eating Andor working with
+[5:20] meat and across the board without
+[5:23] exception every one of them told me that
+[5:26] in order to either eat or process
+[5:28] animals they had to numb themselves they
+[5:31] had to disconnect from the reality that
+[5:33] they were dealing with a dead animal the
+[5:36] vegans and vegetarians told me that when
+[5:38] they had eaten meat they had to numb
+[5:40] themselves and when they were no longer
+[5:42] able to numb themselves they were no
+[5:44] longer able to eat meat and this
+[5:48] awareness gave birth to my understanding
+[5:51] of the invisible system that I've come
+[5:53] to call carnism my hope is that by
+[5:56] understanding the invisible system of
+[5:58] carnism people people will be able to
+[6:00] step outside of that system to make
+[6:02] their choices more freely because
+[6:04] without awareness there is no free
+[6:07] choice because in our culture we've all
+[6:10] been conditioned to see the world
+[6:11] through the lens of carnism we're all
+[6:13] participants in the system for better or
+[6:16] worse so our choice isn't whether we
+[6:18] participate but how we participate with
+[6:22] awareness we can choose to be active
+[6:24] Witnesses rather than passive bystanders
+[6:27] we can choose to be informed consumers
+[6:30] and empowered
+[6:32] citizens ultimately I hope that after
+[6:34] reading my book people will be able to
+[6:36] live more authentic and freely chosen
+[6:39] lives acting in the best interest of
+[6:42] themselves animals and the
+[6:48] planet
+
+====
+
+Fact-Check:
+[0:02] "imagine you're a guest at a fancy dinner party... eating a delicious beef stew... she says... the secret is in the meat you use three lbs of well marinated golden retriever... chances are your experience radically changed..."
+-> SUBJECTIVE / Psychology of disgust (Claim: Learning the meat is dog meat changes a person's experience of eating it, making it seem disgusting, despite no change in the meat itself. This is presented as a factual psychological observation, but it is an anecdotal illustration of a known phenomenon—food disgust responses to culturally taboo meats—supported by psychological research on disgust and food taboos, but not a specific empirical claim with data.)
+
+[0:26] "now stop for a minute and think about your reaction to that dog in America we don't eat dogs dogs aren't for eating"
+-> VALIDATED / Cultural norms (Claim: In the U.S., dogs are not typically eaten, and there is a cultural taboo against it. This is factually correct; dog meat consumption is rare and socially unacceptable in the U.S., unlike in some other cultures, though not illegal at the federal level except in certain states.)
+
+[0:32] "chances are what was once delicious just moments ago has become disgusting nothing about the meat itself actually changed the texture is the same the flavor is the same the smell is the same but your experience has dramatically altered"
+-> SUBJECTIVE / Psychological perception (Claim: The sensory properties of the meat remain identical, and only the mental framing changes. This is a valid psychological observation about the role of cognition in taste perception, supported by studies on expectation and disgust, but the specific claim about flavor and smell being unchanged is hypothetical and not empirically tested in this context.)
+
+[1:05] "your reaction is an example of carnism carnism is the invisible belief system that conditions us to eat some animals but not others"
+-> CONTEXTUALIZED / Definitional claim (Claim: "Carnism" is a defined belief system that explains why humans eat some animals and not others. This is a term coined by psychologist Melanie Joy, and this transcript is from her TEDx talk. The concept is a valid academic framework within animal studies and psychology, but it is not a universally accepted scientific term, and the claim that it is "invisible" is a rhetorical assertion rather than an empirical fact.)
+
+[1:14] "carnism is why we typically don't Envision the animal when we sit down for instance to a plate of beef chicken or pork it's also why we can't help but Envision the animal when for instance were served golden retriever Swan or guinea pig"
+-> CONTEXTUALIZED / Psychological conditioning (Claim: People typically dissociate meat from its animal origin for common meats but not for taboo meats. This aligns with psychological research on the "meat paradox" and dissociation, but the strength of "can't help but" is an overgeneralization; some people do envision common animals, and some cultures eat guinea pig and swan without disgust.)
+
+[1:29] "carnism is the the reason that we're typically disgusted by the idea of out of tens of thousands of animal species eating all but a tiny handful of them"
+-> SUBJECTIVE / Anthropological observation (Claim: Humans are disgusted by eating most of the tens of thousands of animal species. This is a general observation about food taboos; the number of animal species eaten worldwide is debated, and while most species are not eaten, the "disgust" factor varies culturally, so the claim is a subjective characterization of a cultural pattern.)
+
+[1:42] "when meat eating isn't necessary for survival it's a choice"
+-> CONTEXTUALIZED / Nutritional science (Claim: Meat eating is not necessary for survival. This is broadly true for most humans in modern societies with access to varied plant-based diets, as supported by major nutritional organizations (e.g., ADA, WHO), but it is context-dependent—in some environments or for certain populations, meat may be necessary for adequate nutrition, so the absolute phrasing is misleading without that caveat.)
+
+[1:52] "we don't seem meat eating as we do vegetarianism as a choice based on a set of assumptions... rather we see it as a given as the natural thing to do"
+-> SUBJECTIVE / Social psychology (Claim: People view meat eating as a default, not a choice, unlike vegetarianism. This is a subjective observation about social norms; it is plausible and supported by research on meat-eating justification (e.g., the "4Ns" of meat eating), but it is not a quantified empirical claim and is presented as a general truth without data.)
+
+[2:28] "we have to disconnect psychologically and emotionally from the truth of our experience we have to numb ourselves from the reality that we're eating a dead animal carnism blocks our awareness and it blocks our empathy toward the animal that we're eating"
+-> SUBJECTIVE / Psychological coping (Claim: Eating meat requires psychological numbing and blocks empathy. This is a coherent psychological theory, supported by studies on the meat paradox and moral disengagement, but the claim that it "blocks" empathy universally is an overgeneralization; some people eat meat without such dissociation, and empathy levels vary.)
+
+[2:46] "eating meat requires us to be mindless rather than mindful it requires us to be apathetic rather than empathetic"
+-> SUBJECTIVE / Moral framing (Claim: Meat eating inherently requires mindlessness and apathy. This is a moral and psychological assertion; it is not a verifiable fact, as people can and do eat meat mindfully (e.g., ethical omnivores), so this is a rhetorical claim rather than an empirical one.)
+
+[2:54] "meat eating has been connected with the leading causes of disease in the Western World"
+-> CONTEXTUALIZED / Epidemiology (Claim: Meat eating is connected to leading causes of disease. This is broadly supported by epidemiological evidence linking high consumption of red and processed meat to cardiovascular disease, certain cancers, and diabetes, as per WHO and AHA reports, but the phrase "leading causes" is vague—it does not say meat is the primary cause, only "connected," which is accurate but requires nuance.)
+
+[2:58] "meat production is a primary cause of environmental Devastation"
+-> CONTEXTUALIZED / Environmental science (Claim: Meat production is a primary cause of environmental devastation. This is supported by major reports (e.g., FAO, IPCC) showing livestock contributes ~14.5% of global greenhouse gas emissions, deforestation, and water pollution, but calling it "a primary cause" is subjective; it is a significant contributor, but not the sole primary cause, and the claim is an overstatement without specifying scope.)
+
+[3:11] "when we understand that eating meat is the inevitable end result of a widespread deeply entrenched invisible belief system or ideology"
+-> SUBJECTIVE / Theoretical framing (Claim: Meat eating is the "inevitable end result" of an ideology. This is a theoretical assertion by the speaker, Melanie Joy, and is not empirically testable; it presents carnism as a deterministic system, which is a philosophical stance rather than a verifiable fact.)
+
+[3:28] "like many Americans I grew up with a dog who I loved like a family member and like many Americans I grew up eating meat and I never thought about how I could pet my dog while I ate my hamburger without recognizing the profound inconsistency"
+-> VALIDATED / Autobiographical and cultural claim (Claim: Many Americans grow up with pet dogs and eat meat without noticing the inconsistency. This is a plausible autobiographical statement and a common cultural pattern in the U.S., supported by pet ownership statistics and dietary habits, though the "profound inconsistency" is a personal interpretation.)
+
+[3:52] "I had this knowing without knowing on one level I was aware that animals had to suffer and die for my plate yet on another level I preferred not to know"
+-> SUBJECTIVE / Personal experience (Claim: The speaker experienced a subconscious awareness of animal suffering. This is a personal psychological reflection, not a checkable claim, and is used to illustrate the concept of cognitive dissonance, which is well-documented but the specific experience is individual.)
+
+[4:19] "as a young adult I learned a lot about meat production and I came to realize that I was unable to maintain the psychic numbing necessary to continue eating animals"
+-> SUBJECTIVE / Personal testimony (Claim: Learning about meat production led the speaker to stop eating meat due to inability to maintain psychological numbing. This is an individual narrative, not a general claim, and serves as an anecdote supporting the speaker's theory.)
+
+[4:31] "I experienced a profound paradigm shift a shift of Consciousness what I had once seen as food I now saw as a dead animal"
+-> SUBJECTIVE / Personal testimony (Claim: The speaker underwent a personal shift in perception. This is not a checkable claim; it is a subjective account of personal change.)
+
+[4:36] "while I had never questioned my food choices I now came to become conscious of the decisions about what I ate"
+-> SUBJECTIVE / Personal testimony (Claim: The speaker became more mindful of food choices after the shift. This is an unverifiable personal statement.)
+
+[4:46] "I wanted to understand how I had been able to spend my whole life as a person who truly cared about animals to have eaten them and to have never made the connection"
+-> SUBJECTIVE / Personal reflection (Claim: The speaker questions past behavior in light of new awareness. This is not a factual claim but a rhetorical question about moral psychology.)
+
+[5:04] "I wanted to understand how Humane people could participate in inhumane practices without even realizing what they're doing"
+-> SUBJECTIVE / Moral psychology (Claim: Humane people can unknowingly participate in inhumane practices. This is a philosophical and psychological claim about moral disengagement, supported by social psychology research (e.g., Milgram, Bandura), but "inhumane practices" is a moral judgment, not a verifiable fact.)
+
+[5:11] "I entered a doctoral program in psychology where I interviewed vegans vegetarians meat eaters and meat Cutters about their experience eating Andor working with meat"
+-> VALIDATED / Procedural claim (Claim: The speaker conducted interviews as part of a doctoral program. This is a verifiable claim about the author's background; Melanie Joy is a psychologist with a doctorate and has described such research in her work, but the specific interviews are not independently verified here.)
+
+[5:23] "across the board without exception every one of them told me that in order to either eat or process animals they had to numb themselves they had to disconnect from the reality that they were dealing with a dead animal"
+-> UNVERIFIABLE / Research evidence (Claim: Every interviewee reported needing to numb themselves. This is a specific research finding, but without access to the original study's methodology, sample size, or peer review, the claim cannot be independently verified; it is presented as anecdotal evidence from the speaker's own research.)
+
+[5:48] "this awareness gave birth to my understanding of the invisible system that I've come to call carnism"
+-> SUBJECTIVE / Theoretical origin (Claim: The speaker developed the concept of carnism from her research. This is a historical claim about the origin of a term; it is plausible but not independently verifiable from the transcript alone.)
+
+[5:56] "my hope is that by understanding the invisible system of carnism people will be able to step outside of that system to make their choices more freely because without awareness there is no free choice"
+-> SUBJECTIVE / Philosophical assertion (Claim: Without awareness, there is no free choice. This is a philosophical stance about free will and consciousness, not a verifiable fact.)
+
+[6:07] "because in our culture we've all been conditioned to see the world through the lens of carnism we're all participants in the system for better or worse"
+-> SUBJECTIVE / Cultural critique (Claim: Everyone in the culture is conditioned by carnism and participates in it. This is a sweeping generalization about cultural conditioning; it is a theoretical assertion and not empirically measurable for all individuals.)
+
+[6:18] "so our choice isn't whether we participate but how we participate with awareness we can choose to be active Witnesses rather than passive bystanders"
+-> SUBJECTIVE / Moral call to action (Claim: We can choose how we participate in the food system. This is an ethical exhortation, not a factual claim.)
+
+[6:30] "we can choose to be informed consumers and empowered citizens"
+-> SUBJECTIVE / Moral exhortation (Claim: We can make informed choices. This is a normative statement, not a checkable fact.)
+
+[6:34] "ultimately I hope that after reading my book people will be able to live more authentic and freely chosen lives acting in the best interest of themselves animals and the planet"
+-> SUBJECTIVE / Promotional claim (Claim: Reading the book will lead to more authentic lives. This is a promotional and aspirational statement, not a verifiable claim.)
+
+
+
+
+
+[Related to the previous post + a good video]
+
+Title: "Why We Love Dogs, Eat Pigs, and Wear Cows" book trailer (Melanie Joy, Beyond Carnism)
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=ScRSNKHRhCA
+
+====
+
+Description:
+Melanie Joy, Ph.D., Ed.M. is an internationally-acclaimed speaker, award-winning author, a Harvard-educated psychologist, and professor of psychology and sociology at the University of Massachusetts, Boston. Joy is best known for her pioneering work on carnism, introduced in "Why We Love Dogs, Eat Pigs, and Wear Cows." This trailer is a promotional video for the mentioned book.
+
+====
+
+Transcript:
+[0:00] imagine your new neighbors have invited you to dinner Rich Aromas fill the air and wine and conversation are flowing
+[0:07] freely they'll never forget to read the fine print again it's delicious Bob thank you never
+[0:16] tasted anything like it Alis how do you make this sure first of all you start
+[0:22] with 3 lb golden retriever well marinated and then you take what did they
+[0:28] say gold retriever oh I forgot you are Americans
+[0:35] with your love affair of dogs what you look like you saw a ghost
+[0:43] I'm just kidding that is nothing but plain old
+[0:50] beef what you're not going to eat it now it's just it's a bit hard to get
+[0:57] that image out of my mind I golden retriever dog and animal on my plate that's disgusting that's just it's
+[1:05] not normal like most Americans I was taught to love dogs and eat beef without ever
+[1:13] questioning why I never realized how bizarre it was that I spent more time thinking about which brand of toothpaste to buy than about which animals I ate
+[1:21] and why when my choices helped to drive an industry that kills 10 billion animals per year and required me to
+[1:29] disconnect psychologically and emotionally from the truth of my experience
+[1:36] [Music]
+[1:44] [Music]
+
+
+
+
+
+
+
+
+
+
+Title: The Secret Reason We Eat Meat - Dr. Melanie Joy
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=ao2GL3NAWQU
+
+====
+
+Description:
+Watch "The Secret Reason We Eat Meat" with social psychologist and author Dr. Melanie Joy, founder of Beyond Carnism.
+
+Please like, comment, share and/or subscribe to us here on YouTube!
+
+====
+
+Transcript:
+[0:09] Have you ever wondered why you might eat 
+chicken’s wings, but not swan’s wings?
+[0:14] Beef burgers, but not mouse burgers?
+[0:17] Have you ever wondered why you might drink
+cow’s milk, but not pig’s milk?
+[0:22] And have you ever wondered 
+why you haven’t wondered?
+[0:26] I never wondered about these things 
+until I had a shocking experience that changed my life forever.
+[0:31] Let me explain:
+[0:33] In attempt to understand what had happened to me,
+I spent years conducting research,
+[0:37] which led to a fascinating discovery.
+[0:40] What I discovered transformed my worldview,
+my health, and my happiness, so that today,
+[0:45] at 49, I feel better than I did when I was half my age.
+[0:51] To help you understand what happened to me, 
+I’d like you to Imagine you are a guest at a dinner party,
+[0:57] enjoying a delicious beef stew,
+[0:59] and your food is so delicious 
+that you ask your host for the recipe.
+[1:03] “The secret,” she replies, “is in the meat.
+[1:06] You need to use three pounds of well seasoned...
+[1:11] golden retriever."
+[1:14] Now, take a moment to reflect 
+on your thoughts and feelings.
+[1:17] Chances are, 
+even though the meat itself didn’t change at all,
+your experience of it changed dramatically.
+[1:25] So, what happened to cause you 
+to have such a strong reaction?
+[1:30] That’s the question I began asking 25 years ago,
+ after I had a similar experience. Well, sort of.
+[1:39] Like many people, I grew up with a dog who I loved, 
+and I also grew up eating meat.
+[1:44] And I never thought about how strange it was 
+that while I would never want to eat my dog,
+[1:48] I regularly ate the flesh and eggs and dairy of animals 
+who were not terribly different than my dog
+[1:54] – they, too, had feelings, 
+and lifes that mattered to them.
+[1:58] I just never thought about why I ate some animals,
+but not others.
+[2:03] I never thought about the inconsistencies 
+in my attitudes and behaviors toward animals,
+[2:07] because when I was eating meat, eggs, and dairy, 
+I didn’t actually think I was eating animals.
+[2:12] Of course, I knew on some level that these products 
+came from individuals who had once been alive;
+[2:19] I had that “knowing without knowing”.
+[2:22] But on another level 
+I just didn’t make the connection.
+[2:27] It wasn’t until I wound up hospitalized
+after eating bacteria-infested beef,
+[2:31] that I had a major paradigm shift.
+[2:34] After I got sick, 
+just the thought of eating beef disgusted me.
+[2:37] In fact, all meat seemed disgusting.
+[2:41] And suddenly, I saw meat not as food, 
+but as dead animals.
+[2:45] Beef stew seemed no different
+than golden retriever stew.
+[2:49] And as I looked at the world with new eyes,
+I saw animals’ body parts everywhere I turned:
+[2:55] lining grocery store shelves, 
+filling trucks bound for the market, 
+spilling off lunch trays,
+[3:01] packed in delicatessen freezers.
+[3:04] And people everywhere,
+[3:05] rational, caring people like myself,
+[3:08] were putting these animals’ bodies into their mouths 
+as though nothing at all were wrong.
+[3:14] I had to understand 
+how I could have gone through my entire life 
+being blind to what was right in front of me,
+[3:21] and why nobody I talked to about this 
+was willing to hear what I had to say.
+[3:27] It wasn’t until two decades later,
+[3:29] after I had completed my doctoral research 
+on the psychology of eating meat,
+[3:33] that I had the answer.
+[3:36] And this is what I discovered.
+[3:39] It turns out, that most of us eat animals not because 
+we need to, or even because we truly wish to,
+[3:46] but because we have been conditioned to, 
+by a widespread, destructive belief system
+[3:51] that operates outside our awareness
+and therefore without our conscious consent.
+[3:57] We often assume that only vegans and vegetarians
+bring their beliefs to the dinner table.
+[4:02] But the only reason many of us eat cows but not dogs, 
+for example,
+[4:06] is because we do have a belief system 
+when it comes to eating animals.
+[4:10] When eating animals is not a necessity --
+[4:13] which is the case
+for many people in the world today
+[4:16] -- then it is a choice.
+[4:18] And choices always stem from beliefs.
+[4:22] So what my research uncovered is 
+that there is an invisible belief system
+[4:26] that conditions us to eat certain animals.
+[4:29] And I named that system carnism.
+[4:39] Carnism is universal; 
+in meat-eating cultures around the world,
+[4:42] people typically classify only a tiny handful of animals,
+[4:46] out of millions of possible species,
+[4:48] as edible.
+[4:50] All the rest are classified as 
+inedible and disgusting.
+[4:53] So even though the type of species consumed 
+changes from culture to culture,
+[4:58] members of all cultures tend to find their own choices
+[5:01] to be rational and the choices of other cultures
+to be disgusting and often even offensive.
+[5:08] Carnism is like a vast fog that surrounds,
+saturates, and shrouds our world.
+[5:15] And carnism is a violent system:
+[5:17] meat cannot be procured without violence, 
+and egg and dairy production
+cause extensive harm to animals
+[5:24] - in fact, today, the egg and dairy industries 
+are arguably the most brutal of all carnistic industries.
+[5:32] And violent systems such as carnism
+keep themselves alive by using defense mechanisms
+[5:38] so that rational,
+humane people participate in
+[5:41] irrational, inhumane practices 
+without fully realizing what they are doing.
+[5:47] These defenses hide the truth about animal agriculture 
+and distort what little we are able to see,
+[5:53] so that we support a system 
+we would likely otherwise find deeply offensive.
+[6:00] The primary defense of carnism is denial.
+[6:02] Carnism denies the truth by making it invisible.
+[6:07] One way carnism remains invisible 
+is by remaining unnamed,
+[6:11] so eating animals appears to be a given, 
+rather than a choice.
+[6:18] Another way carnism remains invisible 
+is by keeping its victims out of sight
+[6:22] - and therefore
+conveniently out of public consciousness.
+[6:28] But although we don’t see the inner worlds
+of farmed animals,
+[6:31] these individuals are in fact sentient,
+conscious beings.
+[6:36] For example, pigs are at least as intelligent 
+as three-year-old humans.
+[6:40] Cows develop deep and lasting bonds
+with their family and friends;
+[6:45] for instance, they may cry and keen for weeks 
+when their babies are forcibly taken from them.
+[6:51] Chickens are able to distinguish between
+100 different faces of members of their species,
+[6:56] and they have 30 different calls
+to signal types of threats.
+[7:01] And scientists have demonstrated that certain fish 
+and crustaceans have intelligence and pain receptors,
+[7:06] such that in some places in the world it is now illegal 
+to keep fish in small bowls or to boil lobsters alive.
+[7:15] And although we don’t see the factories
+in which animals are turned into food,
+[7:19] these so-called farms 
+produce approximately 98 per cent of the meat,
+eggs, and dairy we eat.
+[7:27] In fact 124,000 farmed animals are slaughtered 
+globally not every day, or even every hour,
+[7:36] but every, single, minute.
+[7:40] But think about it: 
+how many of these animals have you seen?
+[7:45] Ultimately, hiding the truth about meat, egg,
+and dairy production from us
+[7:49] is what carnism most depends on.
+[7:52] So becoming aware of this truth
+is essential to freeing ourselves from the system.
+[7:58] So, I am going to show 
+a two-minute video of animal factories.
+[8:01] Now I know this kind of imagery can be difficult to see,
+[8:04] but I encourage you to watch,
+[8:05] because I believe the empowerment that awareness ultimately brings, will be well worth your brief discomfort
+[8:11] -- and this is feedback I have gotten 
+from thousands of people
+[8:14] who have been willing 
+to see through the fog of carnism.
+[8:20] Piglets are castrated by workers 
+who cut into their skin and rip out their testicles.
+[8:27] Next, the workers chop off their tail.
+[8:29] Once pigs have reached market weight 
+they are send to slaughter.
+[8:33] At the slaughterhouse pigs are hung upside down 
+and have their throat slit.
+[8:40] Inproper stunning condemnes many pigs 
+to having their throats slit
+while they are fully conscious and suffering.
+[8:48] Because male chicks don’t ley eggs 
+and do not grow quickly enough
+to be raised profitably enough for meat,
+[8:54] they are killed within hours after hatching.
+[8:57] The Females have it even worse.
+[8:59] Workers use a hot blade or laser
+to remove part of the chick’s beaks.
+[9:07] At the slaughter plant 
+the birds are dumped from their crates,
+[9:09] then roughly snapped upside down 
+into moving shackles by their fragile legs.
+[9:14] They are then pulled across a blade
+which slices their throats 
+causing blood to pour from their necks.
+[9:21] Calves on dairy farms are dragged away 
+from their mothers and violently killed.
+[9:29] The majority of today’s dairy cows
+are confined on factory farms.
+[9:34] Workers subject young cows
+to painful mutilations and amputations.
+[9:41] Unreliable stunning practices at the slaughterhouse 
+condemn many cattle to having their throats cut
+[9:48] and their limbs hacked off 
+while still alive and conscious.
+[9:53] Massive trolling nets indiscriminately drag 
+hundreds of tons of fish 
+and other animals along the ocean floor.
+[10:01] They are then tossed on board where the surving fish either suffocate or are crushed to death.
+[10:18] Thank you. I know it’s not easy to see that.
+Fortunately for us, the hard part’s over.
+[10:24] In fact, thanks to so many people like you, 
+who have been willing
+to see the painful truths about carnism,
+[10:30] the meat, egg, and dairy industries
+have begun to be weakened.
+[10:34] So animal agribusinesses have scrambled 
+to restore their profit margins
+[10:39] by assuring us that we can eat animals
+who are happy to be our food,
+[10:44] that we can eat so-called humane
+or “bio” meat, eggs, and dairy.
+[10:49] However, most “humanely” raised animals live in misery, much as their “inhumanely” raised counterparts do,
+[10:56] and all farmed animals
+ultimately end up in the very same place.
+[11:02] And humane meat is a concept so absurd 
+as to be an insult to any consumer
+[11:08] who pauses to reflect on his or her choices.
+[11:11] For instance,
+most of us would consider it cruel to kill a happy,
+[11:15] healthy golden retriever
+simply because people like the way her legs taste,
+[11:19] yet when the very same thing is done to other animals
+we are expected to believe that it’s humane.
+[11:28] And carnism hides the truth 
+about not only the nonhuman victims of carnism,
+[11:32] but also about the human victims of carnism:
+[11:36] us.
+[11:38] An animal-based diet, 
+which is what carnism conditions us to follow,
+[11:42] has been linked with some of the most prevalent 
+and deadly diseases in the world today,
+[11:47] while a plant-based or vegan diet,
+[11:50] which is what carnism conditions us to resist,
+[11:53] has been shown to prevent and reverse disease,
+[11:56] as well as to optimize health
+and enhance athletic performance.
+[12:02] And, carnism conditions us
+to block our awareness and our empathy,
+[12:06] qualities that are vital to our own wellbeing 
+and to the wellbeing of our world.
+[12:12] Another defense is justification.
+[12:15] Carnism teaches us to justify eating animals 
+by teaching us to believe that the myths of meat,
+[12:21] eggs, and dairy are the facts
+of meat, eggs, and dairy.
+[12:26] In other words, carnism teaches us
+to believe in the 3 Ns of Justification:
+[12:33] eating animals is normal,
+natural, and necessary.
+[12:39] And of course,
+we’ve heard this all before:
+[12:41] slavery is normal,
+natural, and necessary,
+[12:45] Male dominance is normal,
+natural, and necessary,
+[12:50] heterosexual supremacy is normal,
+natural, and necessary.
+[12:56] And the myths of carnism
+are institutionalized:
+[13:00] they are supported and promoted 
+by all major social institutions,
+[13:04] which in turn transmit them to us.
+[13:09] So carnistic bias is embedded 
+within the very foundations of society.
+[13:14] And when we are born into an institutionalized system such as carnism, we internalize it.
+[13:21] We take into ourselves both the myths
+and the products of carnism.
+[13:28] Inside us, carnism creates a fog in our minds,
+distorting our perceptions of meat, eggs, dairy,
+[13:34] and the animals we eat.
+[13:44] For example, carnism teaches us to place animals
+in rigid categories in our minds,
+[13:49] and therefore in our hearts.
+[13:53] And carnism teaches us to see farmed animals
+as objects -- as things, rather than beings.
+[14:01] And carnism teaches us 
+to see farmed animals as abstractions,
+[14:04] as lacking any individuality
+or personality of their own:
+[14:08] a pig is a pig,
+and all pigs are the same.
+[14:20] But the fact that carnism needs to use such 
+elaborate defense mechanisms is actually good news.
+[14:27] It shows the true vulnerability
+of the system.
+[14:31] Think about it: we care about animals, 
+we care about justice, and we care about the truth.
+[14:38] And carnism depends on our not caring,
+and the system is built on deception.
+[14:45] So carnism needs us
+to do its job for it,
+[14:49] to ignore the truth and to resist the very thing 
+that would set us free:
+[14:54] awareness.
+[14:58] Awareness is the light 
+that shines through the fog of carnism,
+[15:02] illuminating the dark truths 
+the system works so hard to hide from us.
+[15:07] Awareness cuts through the cloudy haze
+in our minds,
+[15:11] dispelling the shadow that’s been cast on our hearts 
+and releasing the natural glow of our empathy.
+[15:18] Awareness is the greatest threat to carnism,
+because with awareness,
+[15:22] we can make choices that reflect
+what we authentically think and feel,
+[15:27] rather than what we have been taught to think and feel.
+[15:30] We can make our choices freely.
+[15:34] Without awareness,
+there is no free choice.
+[15:39] And while it's easy to feel that the problem 
+is so big that our individual efforts
+won’t make a difference,
+[15:45] or that the system will never change,
+[15:48] the truth is that every choice
+we make does make a difference,
+[15:52] to others,
+and to ourselves.
+[15:56] And history shows us, again and again, 
+that awareness opens the door
+to social transformation.
+[16:04] When people of integrity clear their vision, 
+they demand change.
+[16:10] And powerful change is happening right now,
+around the world,
+[16:14] as more and more people are opening their minds 
+and saying no to carnism.
+[16:20] The vegan movement,
+which is the counterpoint to carnism,
+[16:23] is one of the fastest-growing 
+social justice movements in the world today.
+[16:29] Carnism, of course, is fighting back, 
+using misinformation, disinformation,
+[16:34] and scare tactics in attempt 
+to invalidate the vegan message.
+[16:41] But despite what carnism wants us to believe,
+veganism is healing for all of us.
+[16:47] The goal of the vegan movement is to create a world based on compassion rather than cruelty,
+[16:53] empathy rather than apathy, 
+authenticity rather than dishonesty,
+justice rather than oppression.
+[17:03] So, with awareness we can create a better world
+for all beings, human and nonhuman alike.
+[17:11] With awareness, we can move beyond carnism.
+[17:15] We can reduce and ideally one day eliminate
+our consumption of meat, eggs, and dairy.
+[17:20] We can learn more about carnism and veganism,
+[17:23] to become more informed
+consumers and empowered citizens.
+[17:27] And one simple thing you can do right now
+is to share this video with everyone you know.
+[17:33] Regardless of what you ate
+for dinner last night,
+[17:36] you become a part of the solution
+simply by clicking on “share".
+[17:40] Thank you for helping make carnism visible
+and for helping make carnism history.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Good video
+
+
+Title: First European restaurant to serve cats
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=ODE6UdQKaKw
+
+====
+
+Description:
+This restaurant serves cats. The La table suisse chef asks the question “Why do we eat some animals but not others?” The video has a surprise ending–keep watching!
+
+====
+
+Transcript:
+[0:02] For me, true success is doing what you love. And I'm really thankful for the life I have right now. Because I can actually live from my passion.
+[0:12] I just do what I love most, you know, and that's cooking. Cooking is like art to me.
+[0:25] I'm inspired a lot by nature. Nature is where I feel free and good.
+[0:33] My name is Moritz Brunner, I am from Switzerland, and I'm a chef. Switzerland is my home, that's where I grew up, where I have my roots.
+[0:42] As a kid, I always watched my grandmother cooking. She was always a huge influence for me.
+[0:47] I want to reinvent my grandmother's recipe in another way: the "Büsirücken", which is the most tender part of a cat.
+[1:02] So we came up with this idea of opening a seasonal restaurant called "La Table Suisse". For "La Table Suisse", we created a five course menu.
+[1:12] The two highlights are the "Mostbröckli" and especially for the main course the "Büsirücken".
+[1:19] In Switzerland, it's legal to eat cats and dogs as long as they are yours.
+[1:23] And because of our adoption system, we are the first restaurant in Europe to be able to serve this traditional meat.
+[1:30] I often wonder why so many people are against eating cats and dogs. I respect vegetarians, that don't eat any animals.
+[1:37] But if people eat chickens and pigs, it just doesn't make sense not to eat other animals.
+[1:42] I'm very proud to say that all of my guests appreciate my work, and for me, this is really rewarding. I never really thought about to become successful.
+[1:51] I just wanted to do what I love most. And that's cooking.
+[1:58] The good news is that "La Table Suisse" doesn't really exist. But the bad news is that millions of restaurants just like "La Table Suisse" do exist.
+[2:09] The only difference is that these restaurants serve the bodies of pigs, chickens, cows, and other animals we have been taught to think of as edible.
+[2:18] Animals who, like dogs and cats, have feelings and lives that matter to them.
+[2:25] Why do we eat certain animals but not others? The reason is carnism.
+[2:35] Become part of the solution today. Learn how at carnism.org.
+
+====
+
+Fact-Check:
+[0:02] “For me, true success is doing what you love... I can actually live from my passion.”
+-> SUBJECTIVE (Personal definition of success and self-reported fulfillment; no external factual claim to verify.)
+
+[0:12] “I just do what I love most, you know, and that's cooking. Cooking is like art to me.”
+-> SUBJECTIVE (Personal opinion about cooking as art and personal passion; not a checkable factual assertion.)
+
+[0:25] “I'm inspired a lot by nature. Nature is where I feel free and good.”
+-> SUBJECTIVE (Personal sentiment about nature; no factual claim about the world.)
+
+[0:33] “My name is Moritz Brunner, I am from Switzerland, and I'm a chef. Switzerland is my home, that's where I grew up, where I have my roots.”
+-> VALIDATED (Biographical claims about name, nationality, and profession; consistent with the video’s later acknowledgment that the restaurant is fictional, but the personal identity claims are plausible and not contradicted by evidence; however, as the video is a dramatized persona, this is performance, but the factual claims about origin are unproblematic in context.)
+
+[0:42] “As a kid, I always watched my grandmother cooking. She was always a huge influence for me.”
+-> SUBJECTIVE (Personal memory and influence; no external verifiable standard, and the persona may be fictional.)
+
+[0:47] “I want to reinvent my grandmother's recipe in another way: the ‘Büsirücken’, which is the most tender part of a cat.”
+-> FALSE (Claim about cat anatomy: There is no standard cut called “Büsirücken” in culinary or veterinary literature; “Rücken” means back in German, but “Büsi” is a Swiss-German term for cat. The claim that it is “the most tender part” is a fabricated culinary assertion, and as the video later reveals the restaurant is fictional, this is a deliberate falsehood.)
+
+[1:02] “So we came up with this idea of opening a seasonal restaurant called ‘La Table Suisse’. For ‘La Table Suisse’, we created a five course menu.”
+-> CONTEXTUALIZED (The restaurant is later revealed to be fictional; the claim of opening it and creating a menu is part of a staged narrative, not a verified reality. The seasonal aspect is unsubstantiated in reality.)
+
+[1:12] “The two highlights are the ‘Mostbröckli’ and especially for the main course the ‘Büsirücken’.”
+-> FALSE (Mostbröckli is a real Swiss cured meat product (beef), but it is not typically served with cat; the pairing as a “highlight” in a fictional restaurant makes this a fabricated menu claim, and “Büsirücken” is a nonexistent dish.)
+
+[1:19] “In Switzerland, it's legal to eat cats and dogs as long as they are yours.”
+-> VALIDATED (Swiss law (Foodstuffs Ordinance, Art. 2 para. 3) prohibits the commercial sale of dog and cat meat, but private consumption of one’s own pet is not explicitly prohibited; the Swiss Federal Food Safety and Veterinary Office (BLV) has confirmed that eating cats and dogs is not illegal if the animal is not commercially traded. The claim is accurate within legal nuance.)
+
+[1:23] “And because of our adoption system, we are the first restaurant in Europe to be able to serve this traditional meat.”
+-> FALSE (Two-fold: (1) The restaurant is fictional, so the claim of being “the first restaurant” is false. (2) Even if real, Swiss law bans the sale of cat/dog meat for human consumption, so a restaurant could not legally serve it. “Traditional meat” is also misleading, as consumption of cats/dogs is not a recognized Swiss culinary tradition.)
+
+[1:30] “I often wonder why so many people are against eating cats and dogs. I respect vegetarians, that don't eat any animals.”
+-> SUBJECTIVE (Personal wonder and respect; no factual claim to verify, though “many people” is an unquantified generality.)
+
+[1:37] “But if people eat chickens and pigs, it just doesn't make sense not to eat other animals.”
+-> SUBJECTIVE (Ethical argument about consistency; not a factual claim, but a moral inference.)
+
+[1:42] “I'm very proud to say that all of my guests appreciate my work, and for me, this is really rewarding. I never really thought about to become successful.”
+-> FALSE (As the restaurant is fictional, there are no guests; the claim of universal guest appreciation is fabricated.)
+
+[1:51] “I just wanted to do what I love most. And that's cooking.”
+-> SUBJECTIVE (Personal motivation; no factual claim.)
+
+[1:58] “The good news is that ‘La Table Suisse’ doesn't really exist. But the bad news is that millions of restaurants just like ‘La Table Suisse’ do exist.”
+-> VALIDATED (The first part is confirmed by the video’s admission. The second part is a rhetorical claim: “millions of restaurants” that serve animal bodies (pigs, chickens, cows) globally. Data from Statista and FAO suggest there are millions of restaurants worldwide that serve meat; the phrasing “just like” implies serving animals, which is factually true in a broad sense. The “millions” is a reasonable approximate based on global restaurant numbers.)
+
+[2:09] “The only difference is that these restaurants serve the bodies of pigs, chickens, cows, and other animals we have been taught to think of as edible.”
+-> CONTEXTUALIZED (The claim that “the only difference” is social conditioning is a simplification of cultural norms; it is context-dependent because legal, religious, and health factors also play roles. The factual part that these restaurants serve animal products is true.)
+
+[2:18] “Animals who, like dogs and cats, have feelings and lives that matter to them.”
+-> VALIDATED (Scientific consensus (e.g., Cambridge Declaration on Consciousness, 2012) supports that mammals and birds have conscious experiences and can experience feelings such as pain and distress; this claim is consistent with current animal cognition research.)
+
+[2:25] “Why do we eat certain animals but not others? The reason is carnism.”
+-> SUBJECTIVE (Carnism is a term coined by psychologist Melanie Joy; the claim attributes a single cause to a complex cultural phenomenon. While carnism is a recognized concept in social psychology, saying “the reason is” is an overstatement—it’s one framework, not the sole reason. The term is valid but the causal claim is subjective/reductionist.)
+
+[2:35] “Become part of the solution today. Learn how at carnism.org.”
+-> UNVERIFIABLE (A call to action; the claim that the website provides solutions is not verifiable without accessing it, and it’s promotional. The site likely exists, but the “solution” nature is not a factual assertion I can verify.)
+
+
+
+
+
+
+
+
+
+
+Good video
+
+Title: How to Become a More Effective Vegan Advocate – Trailer for New Series
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=qeglvNL6bDo
+
+====
+
+Description:
+Want to become a more effective vegan advocate? Watch this trailer to find out how our upcoming video series can help new and seasoned advocates for veganism become more impactful in their outreach!
+
+====
+
+Transcript:
+[0:01] We all have within us the seeds of greed, hatred and desire and the seeds of love compassion and empathy.
+[0:08] What is the most important skill for any vegan advocate?
+[0:13] What if one of the most impactful things you could do for the vegan movement was to create more vegan allies.
+[0:21] And the animals need all the help they can get.
+[0:38] If you want to help animals, never forget the helping people to experience delicious vegan food is a great place to start.
+[0:55] Knowledge is power and powerful advocates make for a powerful movement.
+
+
+
+
+
+
+
+
+
+Title: Episode 1: Remember Your Own Carnism
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=M42nwvIpOLA
+
+====
+
+Description:
+Remembering what it was like when you used to be non-vegan, and speaking about that experience in a personal way, makes it easier for you to stay empathically connected with non-vegans. This video gives advice on some key vegan communication skills.
+
+====
+
+Transcript:
+[0:03] Imagine a woman,
+who’d spent her entire life
+[0:06] happily living in New York, 
+and never even left that city,
+[0:09] until she moved
+to Los Angeles 2 months ago,
+[0:12] but now she doesn't remember
+anything positive about New York.
+[0:16] In fact, she can't understand
+why anyone would want to live there,
+[0:19] and even can looks down
+on people who do.
+[0:21] A similar phenomenon happens
+with vegans,
+[0:24] who just months after they
+stop eating animals,
+[0:27] forget that they were
+ever not vegan, or at least,
+[0:30] they forget what it was like
+for them, when they were not vegan.
+[0:33] They’ll look at someone eating meat 
+and say: "How can he do that?!”
+[0:37] when ‘that’ may very well have been
+them just a few months ago.
+[0:41] Effective communication,
+which is the foundation
+[0:44] of effective vegan advocacy,
+[0:46] is based on a sense of connection,
+which is difficult, if not impossible
+[0:50] if people don't feel that there's
+common ground between them.
+[0:54] When we forget,
+and especially if we look down on,
+[0:57] one of the most relevant things
+we may have in common
+[1:00] with the non-vegans we’re advocating to,
+our own carnism,
+[1:04] we put up a barrier
+between ourselves and them,
+[1:07] reducing the likelihood
+that our message will be heard,
+[1:10] plus, we aren’t being respectful to them.
+[1:13] So, it's important that we
+always remember our own carnism.
+[1:16] This helps us stay empathically connected
+to non-vegans,
+[1:20] and to bridge the gap between us.
+[1:23] And it's up to us to bridge this gap,
+[1:25] since we are the ones who are bilingual,
+so to speak.
+[1:28] We've lived in a carnistic world,
+but they haven't lived in a vegan world.
+[1:33] So, the next time you're
+talking about veganism,
+[1:36] try also talking about your own carnism.
+[1:39] For example,
+if someone notices
+[1:41] you're not eating animal products,
+and asked you if you're vegan,
+[1:44] you can say: ”I am today,
+but for much of my life I wasn’t.
+[1:48] In fact, I used to be
+a total cheese lover,”
+[1:51] or you can talk about how you used to love
+your parents’ special holiday dinners.
+[1:56] Remembering your own carnism helps you
+to be a more effective vegan advocate
+[2:00] and also a more empathic person,
+so, it's win-win.
+
+
+
+
+
+
+
+
+
+Title: Episode 2: You Are Not Your Audience
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=SN_RJuaQq4s
+
+====
+
+Description:
+If you want to influence people, you need to be aware of how others perceive what you’re saying, keeping in mind the YANYA principle: You Are Not Your Audience.
+
+====
+
+Transcript:
+[0:03] What is the most important skill 
+for any vegan advocate?
+[0:07] My answer to this question is
+[0:08] the ability to put yourself 
+in other people's shoes.
+[0:11] If you want to influence people,
+[0:13] you need to be aware of how others 
+hear your message
+[0:16] and how they see you.
+[0:18] And you need to be able to imagine
+ what's like to be them.
+[0:21] People are all different.
+[0:23] You and the audience you want to reach 
+may differ in some important ways.
+[0:27] I call this theYanya Principle.
+[0:29] You are not your audience.
+[0:32] For instance, your primary 
+focus may be the animals,
+[0:35] while theirs is the evironment.
+[0:38] You may like a wide variety of foods
+[0:40] while the other person 
+may have certain food allergies.
+[0:43] You may have been raised 
+with a lot of empathy for animals,
+[0:46] while they may be afraid of them.
+[0:48] They may have less money than you
+[0:50] or live in a place where vegan products 
+and dishes are much harder to find.
+[0:54] It's important that you adapt 
+your message to your audience.
+[0:58] Think about someone selling cars.
+[1:00] If someone is looking for a sporty car,
+[1:02] the salesman will likely pitch features
+[1:04] such as the car speed
+ and horse power to them.
+[1:07] But when the salesman has a couple
+ of young parents in front of him,
+[1:10] he'd be better off pitching
+ the safety features of the car.
+[1:13] It will be silly for the car salesman 
+to always use the same sales pitch
+[1:17] and to only talk about 
+the things that interest him.
+[1:19] As vegan advocates, we too 
+are selling something, a message.
+[1:23] There's more than one way 
+to spread a message,
+[1:26] and there's no one right way.
+[1:28] Don't think that you have talk about 
+something specific like animal rights,
+[1:32] or that you have to present 
+the argument in a certain way.
+[1:35] Like saying for instance that people have
+a moral obligation to go vegan.
+[1:39] If you think there's just one way 
+to share your message,
+[1:42] you're acting as if everyone 
+should wear the same shoes,
+[1:46] your shoes.
+[1:47] When talking to people always
+think about your audience.
+[1:51] Try to see things from their perspective 
+and adapt your message accordingly,
+
+
+
+
+
+
+
+
+
+Title: Episode 3: Four Key Obstacles to Effective Vegan Advocacy
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=NrmNXdHwFAo
+
+====
+
+Description:
+What stands in the way of advocating veganism effectively? Vegan advocates today face four key obstacles, and this video will help you to overcome them and to achieve a more effective communication style.
+
+====
+
+Transcript:
+[0:03] Advocating veganism
+seems like it should be simple.
+[0:07] After all, most people care about animals
+and don't want them to suffer,
+[0:11] and they also care
+about the environment and their health.
+[0:14] Plus, vegan foods can be delicious
+and simple to prepare.
+[0:19] But many people react to being asked
+to consider veganism
+[0:22] as though they were being asked
+[0:23] to consider being the first person
+to live on Mars.
+[0:27] So, what's getting in the way
+of advocating veganism effectively?
+[0:32] There are four key obstacles
+to effective vegan advocacy.
+[0:35] Knowing what they are
+and how to bypass them
+[0:38] is essential to communicating
+our message effectively.
+[0:42] One obstacle is carnism.
+[0:45] Carnism is the invisible belief system
+[0:47] that conditions people
+to eat certain animals.
+[0:50] It affects non-vegan psychology
+[0:52] so that they have trouble appreciating
+the reasons not to eat animals
+[0:56] and so that they feel defensive
+against veganism.
+[1:00] Another obstacle
+is a lack of advocacy skills.
+[1:04] Most vegan advocates
+have no training in advocacy
+[1:07] and haven't developed some of the skills
+[1:09] that would help them advocate
+more effectively.
+[1:12] Emotional reactivity is also an obstacle.
+[1:15] Vegans' emotional reactivity,
+[1:17] caused largely by the traumatization
+they've experienced
+[1:20] from witnessing and living in a world
+where violence toward animals is epidemic,
+[1:25] can get in the way
+of them thinking objectively
+[1:27] and communicating calmly.
+[1:30] The final obstacle
+is a lack of information.
+[1:33] Many vegans lack a knowledge base
+of the core issues connected to veganism,
+[1:37] such as animal rights and social justice,
+[1:40] so they struggle to discuss key concepts
+and may inadvertently offend others.
+[1:45] So, what do we do with this knowledge?
+[1:48] Well, apart from watching 
+this CEVA video series,
+[1:51] which is designed to address these issues,
+[1:53] here's how you can get informed
+to begin reducing each obstacle:
+[1:58] You can start learning about carnism
+by watching short videos at carnism.org.
+[2:04] You can improve 
+your advocacy skills dramatically
+[2:07] by learning effective relationship
+and communication skills,
+[2:11] which you can read about
+in my book Beyond Beliefs.
+[2:14] You can also learn 
+about vegans' emotional reactivity
+[2:17] in my book Beyond Beliefs,
+[2:19] or by watching my talk
+on sustainable activism,
+[2:22] which you can find at veganadvocacy.org.
+[2:25] And you can develop 
+your vegan knowledge base
+[2:27] by reading Animal Liberation
+by Peter Singer
+[2:30] and by learning 
+about other forms of oppression,
+[2:32] such as racism and sexism.
+[2:34] Aph and Syl Ko's book Aphro-ism,
+[2:38] Dr. Breeze Harper's book Sistah Vegan,
+[2:40] and the blog Everyday Feminism
+are good places to start.
+[2:44] If you invest just a few hours
+to learn the basic information
+[2:48] necessary to bypass these four obstacles
+to effective vegan advocacy,
+[2:53] you'll likely see
+[2:54] a significant improvement
+in your advocacy.
+[2:57] Knowledge is power,
+[2:59] and powerful advocates
+make for a powerful movement.
+
+
+
+
+
+
+
+
+
+
+Title: Episode 4: Focus More on the “How” Than the “What” of Communication
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=lmIJz0Yu9hQ
+
+====
+
+Description:
+When advocating veganism, is your goal to win a debate? If so, then it’s also to make the other person lose. When you focus on the “how” rather than the “what” of your communication, you reduce the risk of creating a win-lose scenario and increase the chances that your message will be heard as you intend it to be.
+
+====
+
+Transcript:
+[0:03] When you're discussing veganism
+with a non-vegan,
+[0:06] how often do you end up in an argument
+[0:08] that leaves you feeling
+misunderstood and frustrated?
+[0:12] One of the reasons
+we can end up feeling this way
+[0:14] is because the focus of our communication
+is in the wrong place--
+[0:18] it's on the content,
+which is what we're talking about
+[0:22] rather than on the process,
+which is how we're communicating.
+[0:26] A simple shift from content to process
+can dramatically change our experience
+[0:31] and our impact as vegan advocates.
+[0:35] The process determines how we feel,
+[0:37] and therefore how receptive we are
+[0:39] to the information or content
+that's being shared.
+[0:43] Just think about a conversation
+you had last week or last year.
+[0:48] Chances are, you don't remember much
+of what you talked about,
+[0:51] but you probably do remember
+how you felt in the conversation.
+[0:56] We can't force someone to change,
+[0:58] but we can communicate in a way
+that increases the chances
+[1:01] they'll be open to our ideas.
+[1:03] And we create this openness
+[1:05] by making sure that the process
+of our communication is healthy.
+[1:09] In a healthy process,
+our goal is mutual understanding--
+[1:14] to understand each other's
+thoughts and feelings.
+[1:16] And we do our best to empathize with
+[1:18] and not judge or invalidate
+the experience of the other person,
+[1:22] which creates a sense
+of connection and safety,
+[1:25] both of which are essential
+for people to be open to new ideas.
+[1:29] Even if we're explicitly
+advocating veganism,
+[1:32] such as when we're working
+at an info stall at a vegfest,
+[1:36] without a healthy process
+as our foundation,
+[1:39] it's unlikely that any facts we share
+will be convincing.
+[1:43] In an unhealthy process,
+our goal is to be right, or to win,
+[1:47] which means to make the other person
+wrong, or to lose.
+[1:51] Most people are highly defended
+against being wrong and losing,
+[1:55] and they also pick up on
+and resist any motivation
+[1:59] to get them to change
+their opinion or behaviors.
+[2:02] So the next time
+you're advocating veganism,
+[2:05] or talking about anything, actually,
+[2:07] instead of simply sharing facts
+[2:09] and trying to change
+the other person's opinion,
+[2:12] try doing the following:
+[2:13] listen openly to their thoughts
+and feelings about veganism;
+[2:18] empathize with their experience
+talking with you,
+[2:20] and you'll be more likely
+to say and do things
+[2:23] that help them feel connected
+and secure in the conversation;
+[2:28] make it your goal
+to reach mutual understanding;
+[2:32] and accept that the other person
+may or may not change their opinion.
+[2:37] When our process is unhealthy,
+[2:39] it doesn't matter
+what we're talking about--
+[2:41] we'll probably end up arguing.
+[2:44] But when our process is healthy,
+[2:46] we can talk about
+just about anything productively,
+[2:49] and be much more effective
+in our communication,
+[2:52] and therefore in our vegan advocacy.
+
+
+
+
+
+
+
+
+
+Title: Episode 5: Putting Food First
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=E7J_IYqg5nw
+
+====
+
+Description:
+Many vegan advocates put morality first. But what if putting food first could be even more effective in helping others become open to learning about veganism? Show – don't tell – them the benefits of a vegan diet vs. eating meat!
+
+====
+
+Transcript:
+[0:03] When I'm asked how
+we can best encourage people
+[0:05] to move towards veganism,
+[0:07] I usually reply that I prefer to use food
+rather than arguments.
+[0:12] Here is a simple yet important idea.
+[0:16] Where you stand depends on where you sit.
+[0:20] Most people eat animal products,
+and they want to keep eating them
+[0:23] mainly because they like how they taste.
+[0:25] So they are in a position
+of what psychologists call
+[0:28] motivated reasoning.
+[0:30] They look for information
+that confirms or justifies
+[0:34] what they are already thinking or doing.
+[0:37] In other words, they are on the defensive.
+[0:40] They feel like they need to argue with you
+[0:42] because you want to take something
+away from them
+[0:45] that they like very much.
+[0:47] So very often your attempts 
+to convince people
+[0:49] to think or eat differently
+will just hit a wall.
+[0:53] People don't want to hear your arguments,
+[0:56] because your arguments are inconvenient.
+[0:59] Berthold Brecht,
+the famous German playwright,
+[1:02] coined a phrase, 
+"First food, then morality."
+[1:07] He meant that people 
+can't think about being moral
+[1:10] if they don't have anything to eat.
+[1:13] This applies also to the vegan context.
+[1:16] If people are concerned
+[1:17] that there won't be much left
+that they love to eat,
+[1:20] they will be defensive.
+[1:22] But what if rather than first
+talking about morality,
+[1:25] we started out by showing people
+that there is nothing to lose.
+[1:31] What if we focused 
+on giving as many people as possible
+[1:34] a great vegan taste experience.
+[1:37] Chances are that after that
+[1:39] they will be much more open
+to hearing our arguments.
+[1:43] This is a behavior-first approach.
+[1:46] You help people to change their behavior,
+[1:48] and a change in attitude 
+may follow from that.
+[1:52] It is the opposite of what
+most vegan advocates usually do,
+[1:55] which is to try to change 
+people's attitudes
+[1:58] by giving them all kinds of information
+[2:01] in the hope that they will change
+their behavior.
+[2:04] Don't underestimate
+the impact you can have
+[2:06] by taking people to a nice restaurant,
+cooking a great meal for them,
+[2:11] or showing them where they can buy
+great vegan products.
+[2:15] Advocacy comes in many forms.
+[2:18] You could open a vegan cafe,
+develop vegan meat alternatives,
+[2:22] be a vegan food photographer
+or blogger, write recipes,
+[2:26] or petition local coffee shops 
+and bakeries for more vegan options.
+[2:31] If you want to help animals,
+[2:33] never forget that helping people
+to experience delicious vegan food
+[2:37] is a great place to start.
+
+
+
+
+
+
+
+
+
+
+
+Title: Episode 6: Water the Right Seeds
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=zmlF9I7gnLI
+
+====
+
+Description:
+If we water the seeds of compassion, justice, and other important values, in others and also in ourselves, we increase the effectiveness of our vegan advocacy and help grow a better world for everyone with compassionate communication.
+
+====
+
+Transcript:
+[0:03] There's a wonderful
+Buddhist saying that goes:
+[0:05] "We all have within us
+the seeds of greed, hatred, and desire,
+[0:09] and the seeds of love,
+compassion, and empathy.
+[0:12] Our job is just to water the right seeds."
+[0:15] What this means is that
+what we focus on will grow.
+[0:19] So, for example,
+if we focus on others' compassion,
+[0:22] we'll encourage them
+to be more compassionate,
+[0:24] and if we focus on their apathy,
+we'll encourage them to be more apathetic
+[0:28] and probably even defensive
+since they can feel judged by us.
+[0:33] If we want to help nonvegans
+connect with their natural compassion
+[0:36] and other core moral values,
+[0:38] we need to view and communicate with them
+in a way that helps them do this.
+[0:43] For example, when you meet someone
+who tells you they used to be vegan
+[0:47] but aren't anymore,
+[0:48] instead of asking them
+why they stopped being vegan,
+[0:51] try asking them why they became
+vegan in the first place.
+[0:55] Or, when a nonvegan
+tells you they love animals,
+[0:58] instead of thinking
+of them as a hypocrite,
+[1:01] many people genuinely
+feel love for animals
+[1:03] and simply haven't made the connection
+[1:05] between caring about them
+and not eating them.
+[1:09] Ask them to tell you more
+about their experience.
+[1:12] What kinds of animals do they love?
+[1:14] Have they always loved animals?
+[1:16] Do they have any companion
+animals in their life?
+[1:19] And then, if the situation is appropriate,
+you can also share your experience,
+[1:24] saying something like,
+[1:26] "I care about animals, too,
+[1:28] which is why when I found out what happens
+to them in order to become our food,
+[1:32] I decided I couldn't eat them anymore."
+[1:34] Imagine you have a vegetable garden
+you used to feed your family.
+[1:38] If you always water the weeds
+instead of the vegetables,
+[1:42] you'll end up starving.
+[1:43] But if you're careful
+to nurture the vegetables,
+[1:46] you can eat abundantly.
+[1:48] If we want to create a world
+based on compassion, justice,
+[1:52] and other important values,
+[1:54] we need to water these seeds
+as much as possible,
+[1:57] in others and also in ourselves.
+[2:00] In this way, we help grow
+a better world for everyone,
+[2:03] humans and nonhumans alike.
+
+
+
+
+
+
+
+
+Title: Episode 7: Share Your Own Story
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=QiUvh60P8Tg
+
+====
+
+Description:
+Why vegan? When we speak from the heart, and share our own story, we invite others to see the world through our eyes, and to see veganism from a different, and more empowering, perspective.
+
+====
+
+Transcript:
+[0:03] When someone asks you why you're vegan,
+[0:05] how do you answer?
+[0:07] Do you tell them all the reasons
+they should be vegan,
+[0:10] listing all the facts and figures
+about animal suffering,
+[0:13] environmental destruction,
+and human health problems?
+[0:16] Or do you tell them why you,
+personally, became vegan?--
+[0:20] which is, after all,
+what they asked you about.
+[0:23] Sharing your own story
+is often the most powerful
+[0:27] and respectful way
+to raise awareness about veganism.
+[0:30] Nobody can make your story wrong,
+[0:33] and when you share your experience,
+you avoid "shoulding" others,
+[0:36] which is usually disrespectful.
+[0:39] So you're less likely to be met
+with defensive reactions,
+[0:42] and you're more likely
+to be responded to with openness.
+[0:46] Sharing your story is just what it means--
+[0:49] describing your journey to veganism.
+[0:52] Here are some tips on how
+to effectively share your story.
+[0:56] Keep your story as short as possible,
+[0:58] and just share the key messages
+[1:00] so you don't bog down the listener
+with unnecessary information.
+[1:05] Start your story
+from before you were vegan,
+[1:07] remembering and expressing
+what it was like for you as a non-vegan.
+[1:12] This helps you to stay empathic
+towards the non-vegan,
+[1:15] and it helps you both
+to feel more connected.
+[1:18] Share the psychological defense mechanisms
+you used before you were vegan--
+[1:23] the ways you didn't make the connection
+between meat and animals, for example.
+[1:27] If you're unfamiliar with these defenses,
+[1:30] check out carnism.org
+[1:33] Mention points that are
+especially important to the other person--
+[1:36] as long as you can do this honestly.
+[1:39] For example, if they're health-conscious,
+mention how your health improved.
+[1:44] Avoid judging yourself or others.
+[1:46] Don't say, for example,
+that you were a hypocrite.
+[1:51] Avoid describing graphic animal suffering,
+[1:53] which is disrespectful to a listener
+who hasn't asked to hear that information
+[1:57] and which often
+causes people to shut down.
+[2:00] And share the positives of veganism.
+[2:03] Don't just focus
+on the negatives of carnism.
+[2:06] So, for example, you might say,
+"I grew up with a dog who I loved,
+[2:11] and I also grew up eating meat.
+[2:13] And I never thought about the fact
+that I was eating meat from animals
+[2:17] who had once been
+conscious and intelligent,
+[2:19] just like my dog.
+[2:21] I just didn't make the connection
+between the meat on my plate
+[2:24] and the living animal it once was.
+[2:26] But one day, I was exposed to information
+about animal agriculture,
+[2:29] and I was shocked and horrified.
+[2:32] I stopped eating meat,
+[2:34] and then, eventually,
+I stopped eating dairy and eggs.
+[2:37] And to my surprise, I actually became
+a lot healthier in the process."
+[2:42] When we speak our truth,
+and we speak from the heart,
+[2:46] we invite others to see the world
+through our eyes
+[2:50] and to see veganism from a different
+and empowering perspective.
+
+
+
+
+
+
+
+Title: Episode 8: Be as Vegan as Possible
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=dFWtf153FAs
+
+====
+
+Description:
+What if we didn’t have to choose between being true to our ethics and being effective? What if we simply advocated that others be as vegan as possible?
+
+====
+
+Transcript:
+[0:03] Vegans are often confused about what
+to suggest when advocating veganism.
+[0:08] Some believe that to be true 
+to their values,
+[0:10] they have to advocate that others go vegan
+[0:13] and stop consuming all animal products.
+[0:16] Others believe that to be strategic,
+[0:18] they should advocate that others reduce 
+their consumption of animals.
+[0:22] Those who advocate going vegan
+argue that advocating reduction
+[0:26] gives people an excuse 
+to continue eating animals,
+[0:29] and reinforces the belief
+that it's okay to eat animals
+[0:32] as long as you don't do it too much.
+[0:36] Those who advoate reduction argue that 
+asking people to go vegan
+[0:39] is asking for too much
+[0:41] and often causes people to do nothing 
+rather than something.
+[0:46] And that it's the reducers who drive 
+the market for vegan products
+[0:50] and are therefore making veganism 
+more accessible and widespread.
+[0:54] But what if we didn't have to choose
+between feeling like we're being true
+[0:58] to our values and being strategic?
+[1:00] What if we just advocate that others 
+be as vegan as possible?
+[1:05] Advocating that others 
+be as vegan as possible
+[1:08] honors the fact that they are the experts 
+on their own experience.
+[1:12] And how could we know what's 
+possible for another person,
+[1:15] especially since what's physically 
+possible isn't always psychologically
+[1:19] or practically possible.
+[1:21] Plus people become defensive
+and less receptive to a request for change
+[1:26] when they feel that others are dictating
+what is and is not true
+[1:29] or possible for them.
+[1:31] Think about this way.
+[1:33] Some people believe that eating only fruit
+[1:35] is the most ethical 
+and healthful way to live.
+[1:38] If they said to me, "Go fruitarian."
+[1:41] I might answer that it's not just 
+possible for me.
+[1:44] Well, I could technically
+[1:46] never eat anything
+other than fruit for the rest of my life.
+[1:49] Doing so would take so much effort 
+and feel so deprivational
+[1:53] that it just doesn't feel possible for me.
+[1:56] Asking others to be as vegan as possible
+[1:58] is also beneficial
+because it asks for reduction
+[2:01] which people are more receptive to
+than they are to full veganism.
+[2:05] But, it doesn't frame reduction 
+as an end in itself.
+[2:09] It makes it clear that veganism 
+is the goal.
+[2:12] Also many people feel that if they can't 
+be all vegan all the time,
+[2:18] there's no point in trying
+to be vegan at all.
+[2:21] But if they feel they have the option 
+to be as vegan as possible,
+[2:24] on a day-to-day or even 
+a meal-to-meal basis,
+[2:28] they can feel inspired to choose 
+to do less harm.
+[2:31] And on top of this, they will be regularly
+reflecting on their food choices.
+[2:36] If everyone in the world were 
+as vegan as possible,
+[2:39] the world would no doubt
+quickly become vegan.
+
+
+
+
+
+
+
+
+
+Title: Episode 9: Why Meat Reducers Help the Vegan Movement
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=ICLzcWkSEx4
+
+====
+
+Description:
+If it’s relatively easy for vegans to be vegan today, this is largely thanks to the meat reducers who helped increase the demand for vegan products. All of these flexitarian reducers help make becoming vegan easier for everyone.
+
+====
+
+Transcript:
+[0:03] Here's a thought:
+[0:05] What if meat reducers had a bigger impact
+on reducing animal suffering than vegans?
+[0:11] The vegan movement
+often seems to measure its success
+[0:13] by the number of vegans in it.
+[0:15] This figure is important, of course,
+[0:16] but the number of people reducing
+their consumption of animal products
+[0:20] may be even more important
+in terms of overall impact.
+[0:23] Meat reducers, or "reducetarians"
+as they are sometimes called,
+[0:27] play a crucial role in a vegan movement.
+[0:31] Let me explain this
+by means of an analogy.
+[0:34] In most countries in the world,
+[0:36] gluten-free products
+have become quite popular
+[0:38] in the last 10 years or so.
+[0:41] The reason that gluten-free cookies,
+and pasta, and other foods
+[0:44] are so widely available now
+[0:46] is not because of the 1% of the population
+[0:49] who are allergic to gluten
+and avoid it at all costs.
+[0:54] Rather it is because
+of the much bigger group
+[0:56] of what we can call "gluten reducers"--
+[0:59] people who are not so strict
+in avoiding gluten
+[1:02] but who believe doing so
+provides certain health benefits.
+[1:05] What happened was that
+this bigger group of gluten reducers
+[1:08] created a significant demand
+for gluten-free products
+[1:11] for the first time.
+[1:13] Companies noticed this,
+[1:14] and, as a result, became motivated
+to create decent gluten-free products.
+[1:20] What's important here is this:
+[1:22] Thanks to the gluten-reducers,
+[1:25] life for those who are gluten allergic
+has become a lot easier.
+[1:29] They have a much bigger selection
+of products today
+[1:32] than they had before the gluten-free boom.
+[1:34] The same applies to the vegan movement.
+[1:37] The reason more and more companies
+make vegan products
+[1:40] is that there is more
+and more demand for them.
+[1:43] But this demand does not initially
+come from the very small group of vegans--
+[1:47] which, in most countries,
+is still not bigger than 1%--
+[1:51] but from the much larger group
+of meat reducers,
+[1:54] which may constitute as much
+as a quarter of the population.
+[1:57] Most producers of vegan products
+and most vegan restaurant owners
+[2:01] will tell you that the majority
+of their customers are not vegan.
+[2:05] So the thing to remember
+[2:07] is that if it's relatively easy
+for vegans to be vegan today,
+[2:11] this is largely thanks to meat reducers
+[2:13] because they have helped to increase
+the demand for vegan products.
+[2:18] For most people, reducing
+the consumption of animal products
+[2:21] is easier than going vegan.
+[2:23] In your outreach,
+[2:25] if you can tell that people
+are not ready to go vegan,
+[2:28] ask them to reduce.
+[2:30] All of these reducers
+[2:31] will help to make becoming vegan
+a lot easier for everyone.
+
+
+
+
+
+
+
+
+
+Title: World Day for the End of Fishing 2019
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=9Kh9DXsV4RM
+
+====
+
+Description:
+Today it’s the World Day for the end of Fishing – calling for the abolition of fishing and fish farming. Fish, crustaceans and cephalopods constitute the biggest proportion of animals killed by humans, amounting to thousands of billions of victims each year. Please comment or share to condemn the exploitation of aquatic animals and express solidarity with them!
+
+====
+
+Transcript:
+[0:00] there is a scientific consensus that
+[0:02] fish are intelligent and have distinct
+[0:04] individual personalities some of them
+[0:08] can use tools and have sophisticated
+[0:09] memories they are sensitive curious
+[0:13] insightful and especially they feel pain
+[0:16] just like mammals they care about their
+[0:20] lives as we care about ours want to
+[0:23] avoid suffering just as we do the same
+[0:27] applies to cephalopods and crustaceans
+[0:29] we should not make moral differences
+[0:32] between terrestrial animals and aquatic
+[0:34] animals we have no more right to
+[0:36] slaughter them for food than we have the
+[0:39] right to slaughter dogs cats or other
+[0:41] sentient beings and humans they are
+[0:44] killed by the billions in ways that
+[0:46] would be illegal were they part of any
+[0:48] other species massive trawling Nets
+[0:52] capture hundred of tons of animals as
+[0:54] they are dragged along the ocean floor
+[0:58] when they are hauled onto the ships the
+[1:02] animals suffer from decompression are
+[1:04] suffocated or crushed under the massive
+[1:08] weight of all the other bodies
+[1:11] scientists are sounding the alarm about
+[1:14] the tragic state of the world's oceans
+[1:17] if we continue fishing thousands of
+[1:21] billions of st. int individuals will
+[1:24] have been massacred aquaculture or
+[1:29] underwater farming is also horribly
+[1:31] abusive to animals fishes are forced to
+[1:33] swim in their own waste and congested
+[1:35] toxic cesspools disease is rampant
+[1:39] conditions on some farms are so
+[1:41] horrendous that 40% of the fish died
+[1:45] before farmers are ready to kill and
+[1:46] package them as food the same goes for
+[1:49] the conditions in which crustaceans are
+[1:51] bred and held captive Paul McCartney
+[1:55] correctly states whether the flesh comes
+[1:57] from an animal
+[1:58] with four legs two legs or no legs all
+[2:02] meat is truly red meat
+
+====
+
+Fact-Check:
+[0:00] "there is a scientific consensus that fish are intelligent and have distinct individual personalities some of them can use tools and have sophisticated memories..."
+-> CONTEXTUALIZED / Animal cognition (The claim of "scientific consensus" overstates the current state of research. While there is strong evidence for fish cognition, tool use, memory, and individual behavioral differences (e.g., studies on cleaner wrasse, cichlids), the term "consensus" is not formally established across all fish species; many findings are species-specific and debated. The claim is directionally correct but overstated.)
+
+[0:13] "they are sensitive curious insightful and especially they feel pain just like mammals..."
+-> MISLEADING / Pain perception in fish (The scientific debate is ongoing. While fish possess nociceptors and show behavioral responses to injury, whether they experience pain "just like mammals" — i.e., conscious, affective pain — is not settled. The claim equates homologous physiological responses with identical subjective experience, which is not established.)
+
+[0:16] "they care about their lives as we care about ours want to avoid suffering just as we do..."
+-> SUBJECTIVE / Moral equivalence (This is an ethical claim, not a scientific one. It asserts a moral stance about fish consciousness and suffering comparable to humans. No scientific evidence can directly measure subjective caring or desire in fish. Verdict: SUBJECTIVE.)
+
+[0:27] "the same applies to cephalopods and crustaceans..."
+-> CONTEXTUALIZED / Invertebrate sentience (Cephalopods (e.g., octopuses) have demonstrated advanced cognition and pain-like responses; crustaceans have limited evidence of nociception but not full pain experience. The claim lumps all together as equal to fish, which is an oversimplification. Saying "the same applies" is too broad — the evidence is stronger for some cephalopods than for crustaceans.)
+
+[0:29] "we should not make moral differences between terrestrial animals and aquatic animals we have no more right to slaughter them for food than we have the right to slaughter dogs cats or other sentient beings and humans..."
+-> SUBJECTIVE / Moral philosophy (This is a normative ethical claim based on sentience. It is not a factual claim that can be validated or falsified. Verdict: SUBJECTIVE.)
+
+[0:44] "they are killed by the billions in ways that would be illegal were they part of any other species..."
+-> CONTEXTUALIZED / Fisheries mortality (The scale (billions) is roughly accurate for wild-caught fish, but the "illegal" comparison is a legal hypothetical — animal welfare laws vary by jurisdiction and typically exempt fish. It's a valid point about inconsistency but the "illegal" framing is not factually verifiable as a universal claim.)
+
+[0:52] "massive trawling Nets capture hundred of tons of animals as they are dragged along the ocean floor when they are hauled onto the ships the animals suffer from decompression are suffocated or crushed under the massive weight of all the other bodies..."
+-> VALIDATED / Trawling impact (Bottom trawling can capture hundreds of tonnes; bycatch mortality from decompression, suffocation, and crushing is documented by fisheries science. Verified.)
+
+[1:11] "scientists are sounding the alarm about the tragic state of the world's oceans..."
+-> SUBJECTIVE / Ocean health (There is scientific concern, but "tragic state" and "sounding the alarm" are interpretive language. The underlying fact of ocean degradation is well documented, but the phrasing is emotive. Verdict: SUBJECTIVE.)
+
+[1:17] "if we continue fishing thousands of billions of st. int individuals will have been massacred..."
+-> MISLEADING / Projection (The phrase "thousands of billions" (trillions) is an extreme overestimate. Current estimates of annual fish caught are in the hundreds of billions (e.g., ~0.6–1 trillion wild fish), not thousands of billions. The word "massacred" is emotive and not a neutral scientific term. The projection is not based on a clear model.)
+
+[1:24] "aquaculture or underwater farming is also horribly abusive to animals fishes are forced to swim in their own waste and congested toxic cesspools..."
+-> CONTEXTUALIZED / Aquaculture conditions (Some aquaculture systems have poor water quality and high stocking densities, but "toxic cesspools" is not universal. Modern recirculating systems can be well-managed. The claim generalizes from worst-case scenarios to all aquaculture.)
+
+[1:39] "conditions on some farms are so horrendous that 40% of the fish died before farmers are ready to kill and package them as food..."
+-> UNVERIFIABLE / Mortality rates (The 40% pre-harvest mortality figure is not sourced. Mortality rates in aquaculture vary widely (typically 10–30% depending on species and system). Without a specific citation, this is unverifiable.)
+
+[1:51] "the same goes for the conditions in which crustaceans are bred and held captive..."
+-> CONTEXTUALIZED / Crustacean farming (Crustacean farming (e.g., shrimp) faces issues like disease and crowding, but it is not identical to fish aquaculture in every respect. The claim "the same goes" is overly broad.)
+
+[1:55] "Paul McCartney correctly states whether the flesh comes from an animal with four legs two legs or no legs all meat is truly red meat..."
+-> CONTEXTUALIZED / Semantics and nutrition (This is a play on words: "red meat" has a specific nutritional definition (mammalian muscle) and a colloquial metaphor for "meat from any animal." Scientifically, fish flesh is not "red meat" in dietary terms. The claim is not factually accurate in a nutritional sense, but it's a moral/poetic statement. Verdict: CONTEXTUALIZED)
+
+
+
+
+
+
+
+
+Title: Episode 10: Vegan Allies
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=eZEqhXA2xF8
+
+====
+
+Description:
+Social movements succeed when they’ve attracted enough support from the broader population to tip the scales of power. Creating vegan allies, who support veganism but aren’t fully vegan themselves, is one of the most impactful things we can do for the vegan movement.
+
+====
+
+Transcript:
+[0:03] What if one of the most impactful things
+[0:05] you could do for the vegan movement,
+and to help animals,
+[0:09] was to create not just more vegans,
+but more vegan allies?
+[0:13] A vegan ally is a person
+who supports veganism and vegans,
+[0:17] but isn't fully vegan themselves.
+[0:19] For example, they may be
+a journalist who uses their influence
+[0:23] to further veganism
+by publishing articles
+[0:25] that raise awareness among thousands,
+perhaps, millions of people.
+[0:29] Or they may be the parent
+of a vegan teenager,
+[0:33] who makes sure their child
+feels supported in their values,
+[0:35] and that their needs are provided for,
+[0:38] reducing the chances
+that they get discouraged
+[0:40] and go back to eating animals.
+[0:42] One common assumption vegans make
+is that someone is either vegan,
+[0:46] and they're part of the solution,
+[0:48] or they're not vegan,
+and they're part of the problem.
+[0:51] But think about it.
+[0:52] Of the nearly 8 billion people
+in the world today,
+[0:55] approximately 99% are not vegan.
+[0:59] Many are simply not ready
+to become fully vegan
+[1:02] for any number of reasons,
+[1:03] but they do support the idea of veganism.
+[1:06] If we assume that the only
+or most important way
+[1:10] for someone to help further veganism
+is by living a vegan lifestyle,
+[1:14] we deny billions of people the opportunity
+to be a part of the solution,
+[1:18] and the animals need
+all the help they can get.
+[1:21] Social movements
+like veganism don't succeed
+[1:24] simply because the inner circle
+of core advocates has grown large enough,
+[1:28] but because they've attracted
+enough support from the broader population
+[1:32] to tip the scales of power.
+[1:35] So we have to realize that there are
+many ways to help further veganism,
+[1:39] and that some of the people
+who may have the largest impact,
+[1:43] who spare the most animals,
+[1:45] are not even vegan themselves.
+[1:47] For example, the non-vegan journalist
+may spare more animals with their writing,
+[1:51] than a vegan does
+over the course of their lifetime
+[1:54] simply by not consuming animals,
+[1:56] as may a non-vegan philanthropist
+who donates money to vegan organizations,
+[2:01] which then engage
+in powerful vegan outreach.
+[2:04] So how can you apply this information
+to your own vegan advocacy?
+[2:08] First, simply appreciate
+that it's possible for non-vegans
+[2:12] to support the cause.
+[2:14] Next, use the term "vegan ally."
+[2:17] Point out to the supportive non-vegans
+you encounter that they are allies.
+[2:21] Give them an opportunity to recognize
+and embrace this empowering identity.
+[2:27] Finally, ask for specific behaviors
+from those who are potential allies,
+[2:32] including institutions.
+[2:34] For example, ask
+that your university cafeteria
+[2:37] carry more vegan options
+or honor meatless Mondays.
+[2:41] Or ask your non-vegan Facebook friends
+to sign a petition supporting veganism.
+[2:46] Vegan allies can save lives.
+[2:48] The more vegan allies we attract,
+the more animals we can spare.
+
+
+
+
+
+
+
+
+
+
