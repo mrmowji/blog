@@ -14513,3 +14513,189 @@ the more animals we can spare.
 
 
 
+Title: Vegan Communication: The Problem and The Promise (Short version)
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=Pv-tG2tBe4s
+
+====
+
+Description:
+Melanie Joy speaking at the Animal Rights Conference 2019. 
+
+Please like, comment, share and/or subscribe  to us here on YouTube (and click the bell to receive notifications about new videos!)
+
+====
+
+Transcript:
+[0:00] I'm gonna start us off with dr. Melanie joy and her talk is gonna be on vegan
+[0:07] communication dr. joy is a Harvard educated psychologist international speaker and strategic vegan advocacy
+[0:16] trainer and a relationship coach she is the author of five books including the award-winning why we love dogs eat pigs
+[0:25] and where cows as well as her new book power are key which is on sale upstairs
+[0:32] at the table for beyond carnism dr. joy was a lecturer at the University of Massachusetts in Boston for 11 years
+[0:40] where she taught courses on privilege and depression feminist psychology and animal rights she has given talks and
+[0:47] trainings and six continents in over 45 countries and her work has been featured in major media outlets around the world
+[0:55] she is the eighth recipient of the ahimsa award previously given to the Dalai Lama and Nelson Mandela yeah it's
+[1:03] a big deal this was for her work on global
+[1:10] non-violence dr. joy is also the founding president of the charitable organization beyond carnism also upstairs and co-director of the Center
+[1:19] for effective vegan advocacy and co-founder of pro veg international so you will get a lot more about them this weekend also so dr. Melanie joy come on
+[1:28] up as always such an incredible incredible pleasure and honor to be here and just so inspiring to see every year
+[1:37] I come back there are more people coming to this event and there are just more and more vegans more and more people
+[1:44] joining this movement all around the world and I am so incredibly inspired so thank you for being here thank you for getting up and coming out this morning
+[1:52] I'm gonna talk about vegan communication I believe that this issue of vegan communication is one of the most if not
+[2:00] the most important topics for our movement to be engaging with as the title of my presentation suggests how we
+[2:08] communicate can impact our movement in one of two ways our communication can help create a resilient movement that's
+[2:17] a movement that's healthy and strong and that's a powerful force for animals or it can feed the problem of a movement
+[2:26] that's cannibalizing itself and I think you guys know what I mean right now a movement is resilient when its
+[2:33] proponents relate interact in a way that increases their sense of security in connection and since communication is
+[2:41] the primary way that we relate to one another how we communicate will either increase our sense of security and
+[2:49] connection with each other and within the movement or decrease the security and connection in other words our
+[2:56] communication can be more or less healthy or toxic and harmful toxic
+[3:03] communication I'm defining as communication any communication that
+[3:10] violates integrity and harms dignity and let me explain this integrity is the
+[3:17] integration of our core moral values of compassion and justice and our practices and dignity is our
+[3:24] sense of inherent worth it's our feeling of being worthy fundamentally worthy beings on the planet so we violate our
+[3:34] integrity whenever we communicate in a way that doesn't reflect compassion and justice basically whenever we communicate in a way that's not
+[3:41] respectful and we harm another's dignity when we communicate that they are somehow less then when we shame them
+[3:49] here are some examples of toxic communications somebody referring to a vegan influencer saying pathetic narcissists desperately seeking
+[3:57] attention they're doing something millions of others do without the self-absorbed need to broadcast it a vegan these are all by vegans a vegan
+[4:05] posting about vegetarians if they've learnt and opened their eyes to the meat so then why stop there I think they're
+[4:11] idiots they're th er E idiots and can only assume it's because tastes at least
+[4:19] meat eaters aren't hypocrites and on it goes if you look at these examples take a moment to think about how you feel
+[4:26] reading these toxic comments how do you feel how does this affect your sense of security with the person making the
+[4:34] comments and with the movement as a whole how does this affect your sense of connection how many of you here have
+[4:42] actually witnessed toxic communication among vegans let me just see a show oh my god okay I mean I knew it was a lot how many of you have actually been a
+[4:49] direct target of toxic communication okay that's all so that's all quite a bit I mean I have also actually
+[4:58] personally been a target of toxic communication and I have heard countless like painful stories of countless vegans
+[5:06] who have been targeted you know some of whom I once had once been brilliant organisers who were just crushed I have
+[5:15] found personally that many vegans quit the movement not because they can't withstand the pressure of living in a dominant karna stick culture but because
+[5:24] of the profound sense of betrayal and demoralisation they feel living within fear of being a target of toxic
+[5:33] communication among vegans so many vegans have this constant fear that they too will be shamed by other
+[5:41] vegans can you guys relate to this shame is the Achilles heel of resilience it's impossible to feel secure and connected
+[5:50] with somebody if we fear that they're going to shame us now shame is not the same as guilt guilt is how we feel about
+[5:58] a behavior we feel guilty when we think I did something bad shame is how we feel about ourselves we
+[6:06] feel shame when we feel I am bad shame is the feeling of being less than of
+[6:12] being less worthy than and most of us struggle to feel good enough most of us carry around a lot of shame because
+[6:20] we've been born into a deeply dysfunctional completely screwed up culture that creates a lot of shame in
+[6:27] us but we hide our shame we hide our shame from each other because we feel ashamed of feeling ashamed we hide our
+[6:35] shame from ourselves and when we shame others to try to get them to do something positive we are actually creating generally the opposite outcome
+[6:44] shamed people are generally people who don't feel like they have the agency to take positive proactive action on behalf
+[6:52] of themselves or others shamed people tend to withdraw or attack in self-defense and studies have shown that
+[7:01] when people feel that their dignity is not being honored that they're being shamed they tend to be less rational have less access to their rational
+[7:09] faculties and less connected to their empathy studies have also shown that shame is contagious when we feel shame
+[7:18] we're more likely to try to offset our shame by putting somebody else down by shaming others and in fact studies have
+[7:26] shown that toxic communication in general is contagious research has shown
+[7:32] that being exposed to just one incident of rude behavior like reading an insulting email can cause people to
+[7:39] reproduce these negative behaviors throughout the day and beyond and that for every hurtful interaction we have
+[7:47] takes at least five positive ones to offset the harm to our mood and the drain to our energy so just imagine the
+[7:55] impact of toxic communication now expressed not just one-to-one but by someone who's influencing hundreds of
+[8:03] thousands or thousands of others on stage or online and imagine the increase in that impact when the person is in a
+[8:12] position of authority our toxic communication is creating an epidemic of suffering and it is doing tremendous
+[8:20] damage to vegans to vegan organizations and to the movement as a whole
+[8:27] researchers have estimated or have done an assessment of the costs to
+[8:34] organizations where toxic behaviors which are primarily toxic communications are prevalent or are exists in 15 or
+[8:42] more percent of the organization and here are some of the problems that are
+[8:49] caused in a workplace where there is toxic communication [shared an image in the video]
+[9:02] and on top of this this impact goes beyond the direct victims to effect the indirect victims which are on lookers and friends and family members who hear
+[9:11] about the toxic interactions later in the day or afterwards they can also experience the same problems just like
+[9:19] non vegans who witness vegans communicating toxically can be impacted by this and get turned off of course to
+[9:26] our movement studies have shown that just one person who engages in toxic behaviors in a group reduces the group's
+[9:34] performance by thirty to forty percent and the financial costs alone of a toxic
+[9:42] workplace of a staff of a thousand is over two million dollars now my
+[9:49] colleagues and I did an analysis and estimated what the costs of toxic communication could be or would be to a
+[9:57] vegan organization and we can apply this to the vegan movement as a whole as well so in an organization of a hundred
+[10:05] people if fifteen percent of those people engage in toxic communication that would add up to $200,000 in lost productivity
+[10:14] if we we define an efficient vegan advocacy organization as one that where one dollar every one dollar can spare
+[10:22] one animal what this translates to these numbers translate to twenty thousand animals killed in the organization of a
+[10:30] hundred two hundred thousand animals killed and even if our estimates are 80% off 80 percent too high which they're [Check the video frame for the charts]
+[10:38] not I actually think they're too low that's 20 percent too many animals for me to be comfortable with and probably
+[10:44] for anybody in this room so an imperfect useful analogy is to think of farmed
+[10:51] animals being in like a sinking ship and with vegans is their primary chance of hope vegans personing a lifeboat for the
+[11:00] farm to animals is their primary sense of hope vegans who are already exhausted trying to deal with the tides of carnism
+[11:09] the pressures of the dominant animal culture we're living in every toxic communication is like shooting
+[11:16] hole in the bottom of the animals lifeboat one reason I'm sorry I don't want to traumatize you guys early in the
+[11:22] morning but so one reason toxic communication is so prevalent among
+[11:30] vegans is because it's prevalent in the dominant culture vegans are people and most people haven't learned the tools for relating and communicating
+[11:38] healthfully I am forever amazed at the fact that most of us have to learn complicated geometry that we'll probably never need to use and we don't get a
+[11:46] single lesson on how to relate to other human and non-human beings healthfully and if you think about the problems of
+[11:55] our world today they are not problems caused by people who don't know how to do geometry on top of this as I said we've been born into a deeply
+[12:03] dysfunctional non-relational society we don't have the tools to relate so all of us are kind of messed up in the head in
+[12:10] some way this is just the norm of the world we live in right now it's not a surprise that there's so much psychological suffering and that
+[12:19] sometimes we lash out and act unkind it's not a surprise I'm amazed we make it through the day so when somebody acts
+[12:28] narcissistically or selfishly it shouldn't be shocking it's important for us to you know to really appreciate what
+[12:36] we have inherited and getting back to what I was saying before you know with toxic communication is all around us and
+[12:43] one of the reasons that we engage so much is because we believe that the target of our communication when we're communicating toxically doesn't deserve
+[12:52] to be treated with respect that's why we do it it's really important for us to recognize that every one of us is nothing more nor less than the
+[13:00] hardwiring we've been born with and every experience we've ever had in our lives I have no doubt that if I had been born into the brain and family of Ted
+[13:09] Bundy I would not have become the vegan advocate I am today really to feel an
+[13:15] advocate compassion is a privilege so we would do well if we could relate to the world the way it is rather than the way
+[13:23] we wish it were now I know this is a challenge particularly for vegans because vegans are visionaries we have a vision of the way
+[13:33] the world could be which often translates in our minds into the way the world should be however this is precisely the kind of thinking that
+[13:42] feeds this toxic moral perfectionism whereby we hold others and ourselves to impossible standards you know one
+[13:50] unexamined or even selfish choice or statement makes someone bad make someone the enemy and at this point in time the
+[13:59] ethos the backdrop of the movement and even beyond is such that we not only tolerate but we celebrate this moral
+[14:07] perfectionism and toxic communication we rally around those who raise the battlecry of moral righteousness
+[14:14] believing that it's all right to abuse others as long as you're morally outraged now of course
+[14:22] anger is sometimes healthy and appropriate but how we relate to our anger matters when we relate to our
+[14:29] anger in a healthy way we recognize it simply as a signpost alerting us to the fact that we're experiencing or
+[14:36] witnessing what we perceive as an injustice when we relate to our anger in an unhealthy way it has the charge of
+[14:43] contempt contempt is a red flag that we've placed ourselves in a position of moral superiority and it says more about
+[14:52] us than it does about the person who were feeling it toward and we can do better the vegan movement was meant to
+[15:01] be is meant to be a counterpoint to those dominant attitudes and behaviors in the world that we want to change I
+[15:08] know we can do better now on a meta level or an overarching letter level of course we need to address the roots of the problem it's important to develop
+[15:17] relational literacy which is the understanding of an ability to practice healthy relating to this and there are
+[15:26] plenty of resources out there I have three of them that I've written specifically to address this problem my
+[15:33] book beyond beliefs which is for vegans vegetarians and meat eaters relating to one another my new book power Archy which I'll be speaking on tomorrow at 3:45 and a
+[15:42] book coming out called getting relationships right in January that I have all of these are designed to help people become aware of dysfunctional
+[15:50] power dynamics and shift the way that we relate to them 1. on a more practical level and whenever deciding or when deciding
+[15:57] whether to communicate ask yourself the questions as Rumi suggested is it true
+[16:03] and is it kind if the answer to either of these is no it's probably best not to
+[16:10] communicate 2. we also need to commit to creating a healthy process every communication has two parts it has the content which is what we're
+[16:19] communicating about and the process which is how we're communicating the process matters more a healthy process
+[16:26] reflects integrity and it honors dignity does not mean we don't hold people accountable and try to change
+[16:34] problematic behaviors we hold people accountable however we do so without perceiving or treating them as morally
+[16:42] inferior in a healthy process the goal is mutual understanding it's not to be right which means making the other wrong
+[16:50] it's not to win which means making the other lose it's not enough that the content is about compassion the process
+[16:57] itself also needs to be compassionate 3. it's also important to protect your and others boundaries. hold people who
+[17:04] communicate toxically accountable and don't be a bystander and enable them. delete disrespectful comments don't
+[17:12] forward them. if you run conferences or meetings or an organization don't give a platform to people who communicate
+[17:19] toxically. and avoid the temptation to read toxic commentary toxic commentary has an addictive pull to it and like all
+[17:27] addictions it compels us to do the very thing that ends up harming us 4. stay connected to your empathy as long as you
+[17:34] feel safe enough to do so empathy is the antidote to contempt it is difficult if not impossible to look down on someone
+[17:43] if we are looking at the world through their eyes. can help to pause before communicating and keeping a sticking
+[17:50] note next to your computer to remember that there is a being on the other side of it and of course these principles apply to
+[17:59] how we communicate about organizations which are made up of people in this case vegan people who care very much about
+[18:05] the world and animals just like you do some of whom have sat across from me weeping openly devastated people in very
+[18:15] high positions of power because what they read others writing and saying about them . I've mentioned this before
+[18:21] but it bears repeating 5. honor the dignity of others [See the frame for quotation re. friends vs. enemies.] be extremely skeptical of
+[18:30] anyone who argues that it is ever appropriate to communicate without compassion and respect I don't know of a single study that suggests that this is
+[18:38] the case in fact what I know the evidence points to exactly the opposite. practicing compassion is not weakness it is strength
+[18:47] it is not passivity it is true strength 6. and finally remember our shared bond we
+[18:54] vegans carry a heavy burden we have to live with the awareness that every day every second horrific suffering is
+[19:01] happening and no matter how hard we work we won't likely never live to see the end of it and this collective knowing
+[19:09] and caring it's a sacred bond that we share we need to honor that bond so our movement can be the safe and resilient
+[19:18] an inspirational space we need it to be so we can keep doing the work we're doing for liberation we will never be thanked by those who
+[19:27] are trying to save so we need to know and show one another that are caring and our efforts matter at the moment we are
+[19:36] the primary hope that the animals have so I want to just wrap up with thanking you for helping me to stay inspired for
+[19:46] being my hope for helping me to feel secure and connected in the moments that I haven't I find my source of strength and inspiration from the people in this
+[19:55] amazing movement and I want to thank you for doing that and and thank you for continuing to do the amazing work you're
+[20:02] doing thank you
+[20:18] you
+
+
+
+
+
+
+
+
+
+
+
+
