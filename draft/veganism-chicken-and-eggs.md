@@ -14655,7 +14655,7 @@ Transcript:
 [15:42] book coming out called getting relationships right in January that I have all of these are designed to help people become aware of dysfunctional
 [15:50] power dynamics and shift the way that we relate to them 1. on a more practical level and whenever deciding or when deciding
 [15:57] whether to communicate ask yourself the questions as Rumi suggested is it true
-[16:03] and is it kind if the answer to either of these is no it's probably best not to
+[16:03] and is it kind (mrmowji: there seem to be 3 questions/gates) if the answer to either of these is no it's probably best not to
 [16:10] communicate 2. we also need to commit to creating a healthy process every communication has two parts it has the content which is what we're
 [16:19] communicating about and the process which is how we're communicating the process matters more a healthy process
 [16:26] reflects integrity and it honors dignity does not mean we don't hold people accountable and try to change
@@ -14691,6 +14691,2335 @@ Transcript:
 
 
 
+
+
+
+
+
+
+
+
+Title: Relational Literacy: One Solution to Many Problems
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=MEGIU7ubeaU
+
+====
+
+Description:
+Psychologist and relationship expert Melanie Joy explains what relational literacy is—and why it has the power to improve all your relationships and transform the world.
+
+Learn more at www.melaniejoy.org.
+
+Instagram:
+www.instagram.com/drmelaniejoy/
+Facebook:
+www.facebook.com/melaniejoyphd/
+
+====
+
+Transcript:
+[0:01] Think of some of the greatest joys in your life and also some of your deepest sorrows and frustrations.
+[0:07] Chances are they all have to do with relationships: finding your life partner; being toasted by your colleagues for an important achievement;
+[0:14] the death of a dear friend or perhaps of a beloved pet; the family member whose politics offend you, or the neighbor who refuses to turn down their music.
+[0:23] Now consider how, even though most of us have to learn complicated geometry that we'll probably never need to use, we don't get a single lesson in how to have healthy relationships.
+[0:34] And when you think of some of the most pressing problems, not only in our lives, but also in our world—
+[0:40] such as war, sexism, racism, poverty, political polarization, epidemic toxic communication, animal exploitation, climate change these are not problems that are caused by the fact that people can't do geometry.
+[0:55] It's easy to feel overwhelmed and to despair when we think of all of these problems as completely separate and distinct, as having to be resolved one at a time.
+[1:04] But all these problems share a common denominator: relational dysfunction or, problematic ways of relating.
+[1:13] Relational literacy is the understanding of and ability to practice healthy ways of relating.
+[1:19] And the good news is that anyone who wants to develop relational literacy, can— with awareness and the right tools.
+[1:27] All of my work focuses, in one way or another, on transforming relationships: with other individuals, with the broader communities
+[1:34] and systems that we're a part of, including those that involve animals, and even with ourselves.
+[1:40] Most of us communicate with ourselves in a way we'd never tolerate coming from someone else.
+[1:45] When we develop relational literacy, we can deepen virtually all of our connections— even with those whose opinions are radically different from ours.
+[1:54] And we automatically become a part of the solution, helping to create a kinder and healthier world for everyone.
+
+
+
+
+
+
+
+
+Title: Golden Retriever Burgers Trending?! #CatchOnToCarnism
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=XumGZk_LPX8
+
+====
+
+Description:
+This man is eating a golden retriever burger, with cheese made from horse’s milk on a bun glazed with canary’s eggs.
+
+#CatchOnToCarnism
+
+Find out more at https://carnism.org/what-we-do/catcho...
+Video created by Roxy Velez, Vexquisit Studio
+
+Follow us on Facebook: @beyondcarnism
+
+====
+
+Transcript:
+[0:00] This man is eating a Golden Retriever burger, with cheese made from horse's milk on a bun glazed with canary's eggs.
+[0:07] He doesn't feel disturbed, though, because his brain is plugged into a matrix.
+[0:11] Like in the movie The Matrix, this matrix keeps itself alive by remaining invisible to him.
+[0:17] And it needs to make sure he continues eating these foods.
+[0:20] It distorts his perceptions of reality, so he doesn't see a dead dog or secretions from horses or canaries. He just sees food.
+[0:29] This is the matrix of carnism.
+[0:31] Carnism is the invisible belief system that conditions us to eat certain animals and to never question why we eat some animals but not others.
+[0:41] Carnism distorts our perceptions of those species we've learned to classify as edible, so we see them as "food" and act accordingly.
+[0:50] Carnism is why conscientious people end up supporting an industry that unnecessarily kills more animals in one week
+[0:57] than the total number of people killed in all wars throughout history -- and which is one of the largest contributors to climate change.
+[1:05] The matrix causes this man to be a passive consumer, rather than an active citizen.
+[1:11] Most people would recognize carnism as the global atrocity it is, if they caught on to the fact that they're plugged into the carnistic matrix.
+[1:19] They'd be its challengers, rather than its supporters.
+[1:22] So carnism teaches us to believe in myths, like the Three Ns of Justification: eating certain animals is normal, natural, and necessary;
+[1:31] or that farmed animals aren't individuals, with personalities -- so, for example, we learn to believe that a pig is a pig, and all pigs are the same.
+[1:41] And carnism makes us feel defensive against anyone or anything that helps us catch on to the fact that we're in the carnistic matrix.
+[1:48] Ever notice how you feel when you meet a vegan?
+[1:51] The good news is that once we catch on to carnism, everything changes.
+[1:56] It's not that we see different things; we see the same things, differently. That's awareness.
+[2:04] And the carnistic matrix is but one of many matrices we're plugged into.
+[2:08] And although each matrix distorts our perceptions of a different kind of individual or group, they all affect us in the very same way.
+[2:17] So once you understand how one matrix works, you understand how they all work.
+[2:22] With awareness, you can choose what role you play in a system. You can become an ally.
+[2:28] What this means is that you don't have to be fully vegan to be a part of the solution and help transform carnism.
+[2:35] You can be a vegan ally: a supporter of veganism and vegans. Just try to be as vegan as possible.
+[2:43] And use your influence to help others catch on to carnism.
+[2:47] ♪ (music) ♪
+
+
+
+
+
+
+
+
+
+
+Title: Center for Effective Vegan Advocacy
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=LXH-Ug2Z8Go
+
+====
+
+Description:
+Center for Effective Vegan Advocacy (CEVA) works to increase the impact of vegan advocacy worldwide by increasing the effectiveness of vegan advocates and organizations, and by helping to create a more unified and resilient vegan movement. We provide on-site and online trainings, organizational consulting, and leadership support at low to no cost, by highly experienced trainers.
+
+====
+
+Transcript:
+[0:00] Vegans tend to be deeply committed to the cause,
+[0:03] and they feel a sense of urgency to
+bring about change as quickly as possible.
+[0:08] But most vegans have gotten no training in
+how to be as effective as they can be.
+[0:13] So Melanie and I founded
+the Center for Effective Vegan Advocacy
+[0:17] to train vegan advocates
+[0:19] from grassroots activists to NGO leaders
+[0:21] to clean meat startup entrepreneurs.
+[0:24] Our goal is to increase the
+impact of vegan advocacy worldwide
+[0:28] and help create a more resilient,
+unified and powerful movement.
+[0:37] We are really, really happy
+because everyone was so involved,
+[0:41] and now I'm sure that we are going
+to be more united with more tools.
+[0:47] It kind of gave me hope that
+we are able to create a vegan world
+[0:50] and it gave me an energy boost to be a better person.
+[0:53] We need people to tell us and show us
+[0:55] that there is a way forward.
+[0:57] I have learned much more than I expected.
+[1:00] I learned how to be a better advocate
+for a very noble cause.
+[1:04] It was crazy helpful for me
+[1:07] not only as a vegan, but as a person
+in my personal life.
+[1:10] It's not about just immediate tools and tactics.
+[1:13] It's about a whole different mindset
+[1:15] and how to look at the whole
+movement in a different way.
+[1:18] It will certainly transform the way I do activism.
+[1:22] I'm so glad you did this. Thank you so much.
+
+
+
+
+
+
+
+
+Title: Q&A with Dr. Melanie Joy!
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=gmHDuxAC4m0
+
+====
+
+Description:
+You asked; Melanie answered! 
+
+Thank you for submitting questions for our founder Melanie Joy about her work! In this video, Melanie responds to your questions about her u
+
+====
+
+Transcript:
+--- Intro ---
+[0:13] at beyond carnism we have
+[0:14] a handful of projects in the pipeline
+[0:16] that i'm really excited about
+[0:18] our most immediate project our current
+[0:21] one
+[0:21] is around my new book called the vegan
+[0:24] matrix
+[0:25] understanding and discussing privilege
+[0:26] among vegans to build a more
+[0:28] inclusive and empowered movement um
+[0:31] i wrote this book at the height of ar me
+[0:35] too
+[0:35] but the subject of privilege privilege
+[0:38] and oppression
+[0:40] has been something that i had been
+[0:41] wanting to talk about and write about
+[0:43] for a very long time
+[0:46] it's near and dear to my heart something
+[0:48] that i have been personally passionate
+[0:49] about
+[0:50] for many many years and i've been active
+[0:53] in social justice causes for the
+[0:54] entirety of my career
+[0:57] before i started working in animal
+[0:59] rights so i had been
+[1:00] involved in feminists for animal rights
+[1:03] the chapter in boston in the early 1990s
+[1:05] and
+[1:06] involved in various social justice
+[1:07] actions in the 80s onward and
+[1:10] i taught university courses on privilege
+[1:13] and oppression
+[1:14] and social transformation on feminism
+[1:17] and also on
+[1:17] related issues
+--- Why did you write this book ---
+[1:23] many other people in our movement and
+[1:25] beyond have written about this issue and
+[1:27] so there
+[1:28] there are materials out there um i refer
+[1:31] to a number of them
+[1:32] in my book there's great work that's
+[1:33] done by christopher sebastian
+[1:35] and cylinder co lisa kemmerer um
+[1:38] encompass
+[1:39] um they're doing great work around the
+[1:41] issue of
+[1:42] privilege i ended up writing about
+[1:45] this during ar me too because
+[1:48] i felt number one i finally had the time
+[1:51] to do that
+[1:52] and number two um i recognize that there
+[1:55] actually was a need
+[1:56] for material that would complement the
+[1:59] existing material so i wanted to have
+[2:01] a book that i could share with people
+[2:03] that would be really like
+[2:05] an introduction to the issue like
+[2:07] privilege 101 essentially specifically
+[2:10] for vegans i also wanted to write about
+[2:12] privilege
+[2:13] in the movement because as a woman in
+[2:16] the movement
+[2:16] i was no stranger to sexism within the
+[2:19] movement
+[2:20] and outside of the movement right so um
+[2:22] i really
+[2:23] wanted to share some of my personal
+[2:26] observations
+[2:27] as a woman of course the book is not
+[2:29] just about male privilege it's about
+[2:30] white privilege and other forms of
+[2:32] privilege as well
+[2:33] i also wanted to be able to provide
+[2:38] guidelines for how to talk about
+[2:40] privilege in a way that increases the
+[2:42] chances that the conversation will be
+[2:44] productive
+[2:44] and leads to transformation rather than
+[2:47] reinforce
+[2:48] some of the defensiveness that is you
+[2:51] know all too common
+--- What does your work reflect ---
+[2:56] all of my work reflects my personal
+[2:58] experience in some ways i guess this is
+[3:00] true for
+[3:01] for everyone um i talk about my work
+[3:04] around carnism
+[3:05] reflecting my experience as a person who
+[3:08] grew up
+[3:09] caring about animals and um you know
+[3:11] certainly not wanting to contribute to
+[3:14] harm toward animals having a dog who i
+[3:16] loved like a family member
+[3:18] and also as a person who grew up eating
+[3:20] animals and i i talk about my
+[3:22] experience having gotten sick from
+[3:24] eating a contaminated hamburger
+[3:26] and then becoming vegetarian and then
+[3:28] vegan after that and really making the
+[3:30] connection
+[3:31] between meat eggs and dairy and the
+[3:34] animals
+[3:35] that those products had been procured
+[3:37] from my other work
+[3:38] also reflects my personal experience i
+[3:40] have two books that i've written on
+[3:42] relationships beyond beliefs which is
+[3:44] for vegans and vegetarians
+[3:46] and meat eaters and relationships and my
+[3:48] newer book
+[3:49] getting relationships right which is a
+[3:51] one-stop guide to building relational
+[3:53] literacy which is the understanding of
+[3:55] an ability to practice healthy ways of
+[3:57] relating and
+[3:59] i have been a long time relationship
+[4:01] coach supporting people in relationships
+[4:03] and this is an
+[4:04] area of uh interest that i've had both
+[4:08] personally and professionally for a very
+[4:10] long time
+[4:10] and so i've really worked to bring that
+[4:14] that interest and experience working
+[4:17] with people in relationships and just in
+[4:18] the space of relationships
+[4:20] into the work that i do supporting
+[4:23] vegans and the vegan movement
+[4:25] and social transformation so raising
+[4:28] awareness
+[4:28] of you know relationships as a
+[4:32] forum for social transformation and
+[4:35] raising awareness of relational literacy
+[4:37] and really supporting
+[4:38] vegans uh to be able to cultivate
+[4:42] healthy relationships and effective
+[4:44] communication so that they
+[4:45] are more resilient um so that the
+[4:48] movement becomes more resilient and so
+[4:50] that
+[4:50] we can all together help create a more
+[4:53] relational
+[4:54] healthier world for everyone
+--- Are you vegan or not ---
+[5:00] most of the people in my life who i'm
+[5:02] close to are vegan but i do have
+[5:05] some friends and family members who are
+[5:07] not vegan and who i'm
+[5:08] very close to actually and um and
+[5:12] for me whether somebody is vegan or not
+[5:14] is does not determine
+[5:16] whether i am willing to or interested in
+[5:18] being
+[5:19] in a close um friendship with them or
+[5:22] family relationship with them
+[5:24] it's whether they respect me
+[5:27] and see me and relate to me in a way
+[5:29] that i feel
+[5:30] is healthy that's what's most important
+[5:33] and this is what i've written about in
+[5:34] beyond beliefs
+[5:36] where it's the relationship beneath the
+[5:38] beliefs
+[5:39] that really determines how we feel when
+[5:42] we are interacting with or in
+[5:44] relationship with another individual
+[5:46] so for me in my life if i have people um
+[5:50] who are vegan allies those are
+[5:52] supporters of veganism and
+[5:54] uh vegans you know and who have
+[5:56] committed to trying to be as vegan as
+[5:58] possible
+[5:59] um that is totally fine for me and i'm
+[6:01] able to have a secure connected
+[6:03] relationship with them as long as they
+[6:05] relate to me in a way that's healthy
+--- Living vines ---
+[6:12] it's the same thing that's behind me
+[6:15] which are vines that my husband
+[6:17] sebastian planted
+[6:18] about two and a half three years ago now
+[6:22] that we're like this big and they're
+[6:24] creeping vines on the walls
+[6:26] of our flat and there's two there's one
+[6:28] plant on either
+[6:29] wall of my living room and they cover
+[6:32] the ceiling now so that's what it is
+[6:33] they're they're living vines
+[6:35] sebastian has brought the green inside
+--- Intro ---
+[0:13] at beyond carnism we have
+[0:14] a handful of projects in the pipeline
+[0:16] that i'm really excited about
+[0:18] our most immediate project our current
+[0:21] one
+[0:21] is around my new book called the vegan
+[0:24] matrix
+[0:25] understanding and discussing privilege
+[0:26] among vegans to build a more
+[0:28] inclusive and empowered movement um
+[0:31] i wrote this book at the height of ar me
+[0:35] too
+[0:35] but the subject of privilege privilege
+[0:38] and oppression
+[0:40] has been something that i had been
+[0:41] wanting to talk about and write about
+[0:43] for a very long time
+[0:46] it's near and dear to my heart something
+[0:48] that i have been personally passionate
+[0:49] about
+[0:50] for many many years and i've been active
+[0:53] in social justice causes for the
+[0:54] entirety of my career
+[0:57] before i started working in animal
+[0:59] rights so i had been
+[1:00] involved in feminists for animal rights
+[1:03] the chapter in boston in the early 1990s
+[1:05] and
+[1:06] involved in various social justice
+[1:07] actions in the 80s onward and
+[1:10] i taught university courses on privilege
+[1:13] and oppression
+[1:14] and social transformation on feminism
+[1:17] and also on
+[1:17] related issues
+--- Why did you write this book ---
+[1:23] many other people in our movement and
+[1:25] beyond have written about this issue and
+[1:27] so there
+[1:28] there are materials out there um i refer
+[1:31] to a number of them
+[1:32] in my book there's great work that's
+[1:33] done by christopher sebastian
+[1:35] and cylinder co lisa kemmerer um
+[1:38] encompass
+[1:39] um they're doing great work around the
+[1:41] issue of
+[1:42] privilege i ended up writing about
+[1:45] this during ar me too because
+[1:48] i felt number one i finally had the time
+[1:51] to do that
+[1:52] and number two um i recognize that there
+[1:55] actually was a need
+[1:56] for material that would complement the
+[1:59] existing material so i wanted to have
+[2:01] a book that i could share with people
+[2:03] that would be really like
+[2:05] an introduction to the issue like
+[2:07] privilege 101 essentially specifically
+[2:10] for vegans i also wanted to write about
+[2:12] privilege
+[2:13] in the movement because as a woman in
+[2:16] the movement
+[2:16] i was no stranger to sexism within the
+[2:19] movement
+[2:20] and outside of the movement right so um
+[2:22] i really
+[2:23] wanted to share some of my personal
+[2:26] observations
+[2:27] as a woman of course the book is not
+[2:29] just about male privilege it's about
+[2:30] white privilege and other forms of
+[2:32] privilege as well
+[2:33] i also wanted to be able to provide
+[2:38] guidelines for how to talk about
+[2:40] privilege in a way that increases the
+[2:42] chances that the conversation will be
+[2:44] productive
+[2:44] and leads to transformation rather than
+[2:47] reinforce
+[2:48] some of the defensiveness that is you
+[2:51] know all too common
+--- What does your work reflect ---
+[2:56] all of my work reflects my personal
+[2:58] experience in some ways i guess this is
+[3:00] true for
+[3:01] for everyone um i talk about my work
+[3:04] around carnism
+[3:05] reflecting my experience as a person who
+[3:08] grew up
+[3:09] caring about animals and um you know
+[3:11] certainly not wanting to contribute to
+[3:14] harm toward animals having a dog who i
+[3:16] loved like a family member
+[3:18] and also as a person who grew up eating
+[3:20] animals and i i talk about my
+[3:22] experience having gotten sick from
+[3:24] eating a contaminated hamburger
+[3:26] and then becoming vegetarian and then
+[3:28] vegan after that and really making the
+[3:30] connection
+[3:31] between meat eggs and dairy and the
+[3:34] animals
+[3:35] that those products had been procured
+[3:37] from my other work
+[3:38] also reflects my personal experience i
+[3:40] have two books that i've written on
+[3:42] relationships beyond beliefs which is
+[3:44] for vegans and vegetarians
+[3:46] and meat eaters and relationships and my
+[3:48] newer book
+[3:49] getting relationships right which is a
+[3:51] one-stop guide to building relational
+[3:53] literacy which is the understanding of
+[3:55] an ability to practice healthy ways of
+[3:57] relating and
+[3:59] i have been a long time relationship
+[4:01] coach supporting people in relationships
+[4:03] and this is an
+[4:04] area of uh interest that i've had both
+[4:08] personally and professionally for a very
+[4:10] long time
+[4:10] and so i've really worked to bring that
+[4:14] that interest and experience working
+[4:17] with people in relationships and just in
+[4:18] the space of relationships
+[4:20] into the work that i do supporting
+[4:23] vegans and the vegan movement
+[4:25] and social transformation so raising
+[4:28] awareness
+[4:28] of you know relationships as a
+[4:32] forum for social transformation and
+[4:35] raising awareness of relational literacy
+[4:37] and really supporting
+[4:38] vegans uh to be able to cultivate
+[4:42] healthy relationships and effective
+[4:44] communication so that they
+[4:45] are more resilient um so that the
+[4:48] movement becomes more resilient and so
+[4:50] that
+[4:50] we can all together help create a more
+[4:53] relational
+[4:54] healthier world for everyone
+--- Are you vegan or not ---
+[5:00] most of the people in my life who i'm
+[5:02] close to are vegan but i do have
+[5:05] some friends and family members who are
+[5:07] not vegan and who i'm
+[5:08] very close to actually and um and
+[5:12] for me whether somebody is vegan or not
+[5:14] is does not determine
+[5:16] whether i am willing to or interested in
+[5:18] being
+[5:19] in a close um friendship with them or
+[5:22] family relationship with them
+[5:24] it's whether they respect me
+[5:27] and see me and relate to me in a way
+[5:29] that i feel
+[5:30] is healthy that's what's most important
+[5:33] and this is what i've written about in
+[5:34] beyond beliefs
+[5:36] where it's the relationship beneath the
+[5:38] beliefs
+[5:39] that really determines how we feel when
+[5:42] we are interacting with or in
+[5:44] relationship with another individual
+[5:46] so for me in my life if i have people um
+[5:50] who are vegan allies those are
+[5:52] supporters of veganism and
+[5:54] uh vegans you know and who have
+[5:56] committed to trying to be as vegan as
+[5:58] possible
+[5:59] um that is totally fine for me and i'm
+[6:01] able to have a secure connected
+[6:03] relationship with them as long as they
+[6:05] relate to me in a way that's healthy
+--- Living vines ---
+[6:12] it's the same thing that's behind me
+[6:15] which are vines that my husband
+[6:17] sebastian planted
+[6:18] about two and a half three years ago now
+[6:22] that we're like this big and they're
+[6:24] creeping vines on the walls
+[6:26] of our flat and there's two there's one
+[6:28] plant on either
+[6:29] wall of my living room and they cover
+[6:32] the ceiling now so that's what it is
+[6:33] they're they're living vines
+[6:35] sebastian has brought the green inside
+
+
+
+
+
+[good animation]
+
+Title: What to Say to Vegans – According to a Psychologist
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=4GHy6Cfh4sk
+
+====
+
+Description:
+According to a psychologist, what two words can you say to a vegan that can change everything? 
+
+Watch to understand how to talk about carnism, veganism, and eating animals using effective communication. You can reduce defensiveness
+
+====
+
+Transcript:
+[0:01] If you've ever had a
+conversation with a vegan,
+[0:03] especially if the vegan 
+is someone you're close to,
+[0:06] you know that things
+can get heated pretty quickly.
+[0:09] But did you know that there are
+two words you can say
+[0:12] that can change everything?
+[0:13] These words are only as powerful
+[0:15] as the understanding they're based on.
+[0:18] So before I tell you what they are,
+[0:20] I'm going to help you understand
+[0:21] a bit about vegan psychology.
+[0:23] Imagine that you're sitting
+in your local coffee shop,
+[0:26] sipping your morning coffee or tea,
+[0:28] and a stranger approaches you.
+[0:30] This person tells you that meat and dairy
+[0:32] don't come from cows 
+and chickens and pigs
+[0:35] but from dogs and cats.
+[0:37] Of course, you don't believe them.
+[0:39] But the informant takes you on a tour
+[0:41] and shows you the factories
+[0:42] where these animals are raised and killed.
+[0:45] Shocked, you see golden retrievers 
+and tabby cats,
+[0:48] pugs and persians, and more.
+[0:51] You hear their yelps, hisses, and screams.
+[0:54] You witness kittens being ground up alive
+[0:56] and puppies being torn
+from their howling mothers
+[0:59] and animals being skinned alive
+while fully conscious.
+[1:03] Later, as you drive to work,
+[1:05] you see truckloads of these animals
+[1:06] on their way to slaughter.
+[1:08] Seeing their eyes and noses
+[1:10] pressed up against the vehicles'
+tiny metal grates,
+[1:13] you feel helpless to do anything
+but say a silent prayer
+[1:16] for a swift death.
+[1:19] In the evening, 
+you return home to your family
+[1:21] to find that they're serving
+meat for dinner.
+[1:24] You look at the food 
+and are flooded with memories
+[1:27] of the horrors you just witnessed.
+[1:29] You tell your family what you've learned,
+[1:32] but they didn't see what you saw
+[1:34] and they don't want to hear
+what you have to say.
+[1:36] So you share more details
+[1:38] and start reeling off statistics.
+[1:41] But they tell you you're overreacting
+[1:42] and it's not as bad
+as you're making it out to be.
+[1:45] Besides, they know someone
+[1:47] who raises dogs in his backyard
+[1:49] and those animals don't suffer.
+[1:51] Desperate for them
+to understand the truth,
+[1:53] you amp it up,
+[1:54] highlighting the worst
+of the worst of the abuses,
+[1:57] but now you're coming across
+as a little unhinged.
+[2:01] Your family snaps at you
+[2:02] and tells you to stop 
+imposing your values on them,
+[2:05] saying, "You make your choices, 
+I'll make mine."
+[2:09] Since that day, 
+your life has fundamentally changed.
+[2:12] It's not that you see different things;
+[2:14] you see the same things, differently.
+[2:18] Part of you wishes you could just go back
+[2:20] to blissful ignorance.
+[2:21] But you can't unsee what you saw,
+[2:24] and your new awareness,
+[2:25] coupled with your guilt
+[2:26] about having been complicit
+in the problem yourself,
+[2:29] compels you to do everything in your power
+[2:31] to end the suffering.
+[2:33] It's just a matter 
+of getting enough people
+[2:35] to see the truth.
+[2:37] So you use every opportunity
+to raise awareness,
+[2:40] But you quickly learn that,
+[2:42] even though some people 
+are open to your message,
+[2:44] many people respond like your family did:
+[2:47] not only do they resist
+the information you share,
+[2:50] but they get angry at you
+[2:51] for bringing it up in the first place.
+[2:54] It's getting harder and harder
+[2:55] not to feel angry yourself.
+[2:57] And you're starting
+to lose faith in humanity.
+[3:00] Meanwhile, you've started 
+going to demonstrations
+[3:03] and joined online communities
+of like-minded people.
+[3:06] You're exposed to graphic images
+[3:08] of tortured dogs and cats
+[3:10] that reignite your horror
+[3:12] and are turning your anger 
+into moral outrage.
+[3:15] And now, your relationships
+are starting to suffer.
+[3:18] Try as you might,
+[3:19] you can't help but direct your anger
+[3:22] toward the people in your life,
+[3:23] who you'd expected
+to be as horrified as you
+[3:26] about the problem.
+[3:27] And you're struggling to maintain
+[3:28] your sense of connection
+[3:30] with people who suddenly seem to have
+[3:31] such different values from you.
+[3:34] You're also in a constant state 
+of fight or flight,
+[3:37] since reminders of the atrocity
+are everywhere.
+[3:40] Even your own home isn't a safe refuge.
+[3:43] When you see milk in your refrigerator
+[3:44] or meat on the dinner table,
+[3:46] you can't help but have flashbacks
+[3:48] to the horrors you witnessed,
+[3:50] and you end up flooded
+with sadness and anger.
+[3:53] And you're constantly worried
+[3:55] that you'll have to see the people
+[3:56] who you desperately
+want to feel connected with
+[3:59] cooking and eating
+the victims of the atrocity.
+[4:02] On top of all this, 
+you feel like a failure
+[4:04] for not being able to convince
+[4:06] even those in your own inner circle
+[4:08] to stop harming animals.
+[4:10] You feel guilty and ashamed
+for letting the animals down.
+[4:14] You don't know what to do to feel better
+[4:16] except to get the people around you
+[4:18] to see what you've seen,
+[4:19] in the hope that they'll come
+[4:21] to the same conclusion as you.
+[4:23] So you push harder
+to make them understand.
+[4:26] But the harder you push, 
+the more they resist.
+[4:29] You're stuck in a painful cycle
+[4:31] that you believe will only be broken
+[4:33] if others stop eating animals.
+[4:35] You start to feel like an outsider.
+[4:38] If you're lucky,
+[4:39] you have at least one ally in your life,
+[4:41] a person who understands 
+and supports you in your cause.
+[4:45] But still, you're often 
+the only person at events
+[4:47] who doesn't eat animals,
+[4:49] and people talk to 
+or about you like you're strange.
+[4:52] Your friends say things like
+[4:54] "Don't tell me about your diet;
+you'll ruin my meal,"
+[4:56] before you even open your mouth.
+[4:58] Your colleagues hold office parties
+[5:00] where there's nothing you can eat.
+[5:02] Your brother dangles 
+his filet of puppy in front of you
+[5:05] and makes barking noises,
+[5:06] and everyone at the table laughs
+[5:08] and then tells you 
+you have no sense of humor
+[5:10] because you don't join in.
+[5:12] Your spouse accuses you
+[5:14] of "imposing your values" on your children
+[5:16] when you say you want to consider
+[5:18] raising them not to eat animals,
+[5:20] even though raising them to eat animals
+[5:22] is also imposing values,
+[5:24] and even though 
+people are normally expected
+[5:26] to raise their children 
+according to their own values,
+[5:29] which is why, for example,
+[5:31] nobody expects a Christian
+[5:32] to raise their children as Jewish.
+[5:35] As you continue learning
+about dog and cat slaughter,
+[5:38] you continue to expand your thinking
+[5:40] and adapt your lifestyle.
+[5:42] You learn about carnism, 
+the invisible belief system
+[5:45] that conditions people
+to eat certain animals
+[5:48] and to resist information
+[5:49] that would open their eyes
+[5:50] to the truth of what's happening.
+[5:52] You stop wearing leather gloves
+[5:54] after discovering 
+they're made from kittens' skins,
+[5:57] and you stop wearing scarves
+[5:58] that you've learned contained dog fur.
+[6:01] These changes only confirm
+others' beliefs
+[6:03] that you're being extreme,
+[6:05] and your family complains
+that you're "going too far,"
+[6:08] even though to you, 
+your behaviors are simply evolving
+[6:11] as your awareness evolves.
+[6:14] Even though your choice 
+to stop eating animals
+[6:16] was deeply empowering
+[6:17] and you feel a profound sense of purpose
+[6:20] and inspiration in your life,
+[6:22] you also feel distressed,
+[6:23] in no small part 
+because of the disruption
+[6:26] this choice has caused
+to your relationships.
+[6:29] You feel like nobody 
+understands your experience.
+[6:32] You feel invisible,
+[6:33] including to the people
+you were once closest to.
+[6:38] So the two words 
+you can say to a vegan
+[6:40] that can change everything?
+[6:42] "I understand."
+[6:44] Like all people,
+[6:45] vegans need to feel
+that their inner world is seen,
+[6:48] that they're understood,
+[6:50] especially when it comes to the things
+[6:52] that are most important to them.
+[6:55] You may think that unless you agree
+[6:56] to stop eating animals,
+[6:57] nothing else you say matters.
+[7:00] For some vegans, this may be the case.
+[7:03] But for many,
+[7:04] understanding
+significantly diffuses tension.
+[7:07] And once you've come to
+a place of understanding,
+[7:10] you can decide
+[7:11] whether you want
+to learn more about veganism
+[7:13] and perhaps become a vegan ally:
+[7:16] someone who's not fully vegan
+[7:18] but who supports veganism
+[7:19] and who just tries to be
+as vegan as possible.
+[7:23] So the next time you're struggling 
+to relate to a vegan,
+[7:26] or anyone for that matter,
+[7:28] just try to see the world
+through their eyes.
+[7:31] Understanding creates connection,
+[7:34] and it's the cornerstone
+of healthy relationships
+[7:37] and a compassionate world.
+
+
+
+
+
+
+
+
+
+
+Title: Center for Effective Vegan Advocacy Online Courses
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=ylOJ3so1PSA
+
+====
+
+Description:
+With our in-person vegan advocacy trainings on hold because of the pandemic, we’ve spent our time assessing the evolving needs of the vegan movement and reflecting on feedback from advocates like you—and putting together a number of new innovative and powerful resources.
+
+====
+
+Transcript:
+--- Introduction ---
+[0:00] Have you ever wondered
+[0:01] how you could become
+a more effective vegan advocate?
+[0:05] At the Center for Effective Vegan Advocacy
+[0:07] we're digitizing
+[0:08] our popular in-person trainings
+[0:10] to create comprehensive,
+engaging online courses.
+--- Overview ---
+[0:14] The courses cover a range of topics
+[0:16] with one common goal:
+[0:18] to provide vegan advocates
+with evidence-based, practical tools
+[0:22] to help build a more powerful 
+vegan movement.
+--- Courses ---
+[0:26] Our courses are made up
+of short, easy-to-digest videos
+[0:29] with supporting learning exercises
+and resources.
+[0:32] Drawing on my experience
+as a psychologist, an educator,
+[0:36] and a long-time trainer of vegans,
+[0:38] I've worked with my team at CEVA
+[0:40] to create courses
+that address questions such as
+--- Outro ---
+[0:43] "How do you avoid burnout
+[0:44] and become more resilient
+as a vegan advocate?"
+[0:47] and "how can you get someone
+interested in veganism
+[0:50] without overwhelming them?"
+[0:53] Check out our courses
+[0:54] and register to start learning
+[0:55] how to become the most effective
+vegan advocate you can be.
+[0:59] ♪ (outro music) ♪
+--- Introduction ---
+[0:00] Have you ever wondered
+[0:01] how you could become
+a more effective vegan advocate?
+[0:05] At the Center for Effective Vegan Advocacy
+[0:07] we're digitizing
+[0:08] our popular in-person trainings
+[0:10] to create comprehensive,
+engaging online courses.
+--- Overview ---
+[0:14] The courses cover a range of topics
+[0:16] with one common goal:
+[0:18] to provide vegan advocates
+with evidence-based, practical tools
+[0:22] to help build a more powerful 
+vegan movement.
+--- Courses ---
+[0:26] Our courses are made up
+of short, easy-to-digest videos
+[0:29] with supporting learning exercises
+and resources.
+[0:32] Drawing on my experience
+as a psychologist, an educator,
+[0:36] and a long-time trainer of vegans,
+[0:38] I've worked with my team at CEVA
+[0:40] to create courses
+that address questions such as
+--- Outro ---
+[0:43] "How do you avoid burnout
+[0:44] and become more resilient
+as a vegan advocate?"
+[0:47] and "how can you get someone
+interested in veganism
+[0:50] without overwhelming them?"
+[0:53] Check out our courses
+[0:54] and register to start learning
+[0:55] how to become the most effective
+vegan advocate you can be.
+[0:59] ♪ (outro music) ♪
+
+
+
+
+
+
+
+Title: Sustainable Vegan Advocacy Online Course
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=O8f88M6QRXE
+
+====
+
+Description:
+Sign up now for our Center for Effective Vegan Advocacy online course Sustainable Vegan Advocacy!
+
+This course explains the causes of unsustainable advocacy among vegans and offers evidence-based strategies to make vegan advocacy mo
+
+====
+
+Transcript:
+[0:00] Have you ever felt like 
+you were heading toward burnout
+[0:02] as a result of being a vegan advocate?
+[0:05] Or have you ever felt this way 
+just from being a vegan
+[0:08] living in a dominant animal-eating world?
+[0:11] Maybe you've felt irritable,
+frustrated, or misanthropic
+[0:15] and perhaps even thought about
+giving up being a vegan advocate
+[0:18] or being vegan.
+[0:20] Unsustainable vegan advocacy,
+[0:22] relating to vegan advocacy in a way 
+that's not healthy or productive,
+[0:26] is widespread among vegans,
+[0:28] and it's a key cause of burnout.
+[0:31] Even if you don't think of yourself 
+as an advocate,
+[0:33] if you relate to your veganism
+in a way that's unsustainable,
+[0:36] you're also at risk of burning out.
+[0:39] In this CEVA course,
+[0:40] we'll discuss what
+sustainable vegan advocacy is
+[0:43] and why it's important 
+for vegan advocates
+[0:46] and for the success 
+of the vegan movement as a whole.
+[0:49] You'll also learn specific ways
+[0:51] to both prevent and reverse burnout,
+[0:54] as well as practical tools
+for building resilience.
+[0:58] Register for this dynamic online course
+[1:00] to increase your resilience, 
+sense of fulfillment, and effectiveness
+[1:04] as a vegan advocate.
+[1:07] ♪ (outro music) ♪
+
+
+
+
+
+
+
+
+
+Title: Formula for a Better World
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=pyt1BYK0mck
+
+====
+
+Description:
+In our new video, Formula for a Better World, Melanie Joy explains that relational dysfunction is the common denominator among all forms of abuse and oppression—including carnism. And so building relational literacy, the understanding of and ability to practice healthy ways of relating, is the common denominator in transforming all these problems.
+
+====
+
+Transcript:
+--- Introduction ---
+[0:01] When I was four years old,
+[0:03] I killed someone.
+[0:04] And forty-three years later,
+[0:05] I received the Ahimsa Award 
+for my work on global nonviolence.
+[0:09] Of course, on that fateful day in 1970,
+[0:12] I had no idea that my actions 
+would set me on a journey of discovery
+[0:17] that would transform the way I understood
+and related to myself and the world,
+[0:23] and that would lead me 
+to write award-winning books
+[0:25] and establish an international NGO
+[0:27] to help others experience
+similar transformation.
+[0:30] ♪ (background music) ♪
+[0:32] It was a hot summer day,
+[0:33] and I was with my parents 
+on my father's fishing boat,
+[0:35] my favorite place in the world to be.
+[0:38] And then I caught my first fish.
+[0:41] My parents clapped and laughed 
+and told me how proud they were,
+[0:45] but I felt confused and distraught.
+[0:48] I didn't understand 
+why I couldn't share their happiness;
+[0:52] as I watched the fish 
+I'd pulled out of the ocean
+[0:54] flop on the floor of the boat
+gasping for air,
+[0:58] all I could feel was sadness.
+[1:00] And guilt.
+[1:01] After that day, my father's boat, 
+which had once been a source of joy,
+[1:06] became a trigger for distress.
+[1:08] And seafood, which I had loved,
+[1:11] sickened me to the point 
+where I could no longer eat it
+[1:14] without vomiting.
+--- The Golden Rule ---
+[1:15] My emotions and body 
+were reacting to a paradox
+[1:19] that my young brain 
+wasn't developed enough to understand.
+[1:23] I couldn't reconcile how caring people,
+[1:26] my own parents, at that,
+[1:29] could harm others and neither see 
+nor feel troubled by this contradiction.
+[1:34] My parents had instilled in me
+a strong commitment
+[1:37] to practicing the Golden Rule:
+[1:39] to treating others 
+the way I'd want to be treated
+[1:42] if I were in their position.
+[1:44] So had my teachers, 
+the ministers at our church,
+[1:47] and just about every adult 
+who influenced my development.
+[1:51] Yet it seemed like everywhere I turned,
+[1:54] this supposedly highest principle
+was being violated,
+[1:58] and nobody was the least bit concerned.
+[2:01] What I didn't realize at that time
+[2:03] was that this directive 
+to relate to others with respect
+[2:06] wasn't just some lofty ideal.
+[2:09] Many years later, 
+my research led me to understand
+[2:13] that it held the key to personal
+and social transformation.
+[2:17] When you think about 
+some of the most serious problems,
+[2:19] not only in our personal lives
+but also in the world,
+[2:23] such as domestic abuse, self-harm,
+war, poverty, racism, patriarchy,
+[2:29] animal exploitation, and climate change,
+[2:31] you can see that they all share
+a common denominator,
+[2:35] which is relational dysfunction,
+[2:37] or dysfunctional ways of relating—
+[2:41] to other individuals, 
+between social groups,
+[2:44] to other animals and the environment,
+and even to ourselves.
+[2:48] So healthy ways of relating,
+[2:50] relational function,
+[2:52] is the common denominator 
+in transforming all of these problems.
+--- Healthy Relating ---
+[2:57] And healthy relating 
+is based on a simple formula.
+[3:00] This formula applies to all dimensions
+and kinds of relationships.
+[3:04] It applies to the collective dimension,
+how social groups relate;
+[3:08] the interpersonal dimension, 
+how two or several individuals relate;
+[3:14] and to the intrapersonal dimension,
+how we relate to ourselves.
+[3:18] It also applies to how we relate 
+to other animals and the environment.
+[3:23] The formula applies equally
+to brief interactions
+[3:26] and long-term relationships.
+[3:28] Relationships are, after all,
+a series of interactions.
+[3:32] And, of course, 
+it applies to how we communicate,
+[3:34] since communication 
+is the primary way we relate.
+[3:38] So here's the formula:
+[3:39] (narrator) In a healthy relationship
+ or interaction,
+[3:42] we practice integrity and honor dignity,
+[3:46] and this leads to a sense 
+of connection and security.
+[3:49] Integrity is the integration
+of the core moral values
+[3:52] of compassion and justice and behaviors.
+[3:55] It's treating others with respect.
+[3:58] Dignity is one's sense of inherent worth.
+[4:02] When we honor someone's dignity,
+[4:03] we perceive and treat them 
+as no less worthy of respect
+[4:07] than anyone else.
+[4:09] Of course, healthy relating,
+like most things in life,
+[4:12] is not an either-or phenomenon;
+[4:15] it exists on a spectrum.
+[4:17] On the healthy side of the spectrum 
+are relational attitudes and behaviors.
+[4:21] On the dysfunctional side 
+are nonrelational attitudes and behaviors.
+[4:26] Nonrelational attitudes and behaviors
+violate integrity, harm dignity,
+[4:31] and lead to a sense 
+of disconnection and insecurity.
+[4:34] And not only can our communication
+and other ways of interacting
+[4:38] be more or less healthy, or relational;
+[4:40] so can the systems of which we're a part.
+[4:44] It was more than three decades
+after I killed the fish
+[4:48] that my research led me to discover
+that there's a specific mentality
+[4:52] at the core of all oppressive
+and abusive behaviors,
+[4:55] whether the behaviors are directed 
+toward human or nonhuman beings.
+[5:00] This mentality causes us to think
+[5:02] and therefore to feel and act 
+in ways that are nonrelational,
+[5:07] and that ultimately bring about 
+the opposite outcomes of what we want.
+--- Nonrelational ---
+[5:12] We inherit this nonrelational mentality
+from various systems that we're a part of,
+[5:16] and we act on it and reproduce it 
+without realizing that we're doing so.
+[5:21] It compels us to indirectly support,
+or directly engage in,
+[5:26] a range of harmful behaviors,
+[5:28] from those that enable global atrocities
+[5:30] to those that undermine 
+the sense of security and connection
+[5:34] in our interpersonal relationships.
+[5:36] At the far nonrelational end 
+of the relational health spectrum,
+[5:40] the behaviors are abusive 
+and the systems are oppressive.
+[5:45] These oppressive systems are those
+such as patriarchy, racism, classism,
+[5:50] and what I call carnism,
+[5:52] the invisible belief system 
+that conditions us to eat certain animals.
+[5:57] Also included here are smaller systems,
+[5:59] like abusive family systems
+and workplaces.
+[6:03] The nonrelational mentality is based on 
+the belief in a hierarchy of moral worth:
+[6:08] that some individuals or groups 
+are more worthy of moral consideration,
+[6:13] of being treated with respect,
+than others.
+[6:17] When we buy into this belief,
+[6:19] we tend to wield power over others
+in order to satisfy our own desires,
+[6:24] which leads to unjust power imbalances
+between individuals and among groups.
+[6:30] So I sometimes refer 
+to nonrelational systems as powerarchies.
+[6:34] On the opposite end 
+of the relational health spectrum
+[6:37] are behaviors and systems 
+that are based on the recognition
+[6:40] of the inherent dignity of all beings,
+[6:43] and rather than create 
+unjust power imbalances,
+[6:46] they lead to a balance of power.
+[6:49] When an interaction 
+or system is more relational,
+[6:52] it's more resilient:
+[6:54] better able to withstand 
+and bounce back from stress.
+--- Why we fail ---
+[6:59] So why do we so often fail
+to practice the formula,
+[7:03] acting against what we could call 
+our better, or more evolved, natures?
+[7:09] One reason is that we’re hardwired
+[7:11] to engage in certain 
+nonrelational behaviors,
+[7:14] which had evolutionary benefits,
+[7:16] helping keep us and our in-groups safe.
+[7:19] And, most of us have never learned
+how to relate healthfully.
+[7:23] Plus, nonrelational systems condition us
+[7:26] to think and act in ways
+that keep them intact.
+[7:30] But research shows that we're also
+hardwired to feel empathy
+[7:34] and to seek meaningful 
+connections with others,
+[7:37] and that the ability to form
+secure connections
+[7:40] is the basis of healthy human development
+[7:43] and of psychological 
+and relational resilience.
+[7:46] Research also shows
+[7:47] that we strive to live in alignment
+with our moral values.
+[7:51] Plus, we've evolved such 
+that we can often interrupt
+[7:54] our instinctive reactions 
+to improve our outcomes.
+[7:57] So, during a heated argument
+with your partner,
+[8:00] even though the more primal
+part of your brain
+[8:02] may make you feel compelled to whack them,
+[8:05] your modern mind enables you 
+to put the brakes on that compulsion
+[8:08] and even act in ways that restore, 
+rather than further erode, your connection.
+[8:15] When we behave nonrelationally,
+[8:17] supporting nonrelational systems,
+[8:19] we're acting against our natural empathy
+and drive for connection
+[8:23] and our moral values.
+[8:26] So, to maintain themselves,
+[8:28] these systems use psychological
+defense mechanisms
+[8:31] to distort our perceptions,
+[8:33] so that we think 
+and behave nonrelationally
+[8:36] without realizing what we're doing.
+[8:40] I identified these defense mechanisms
+[8:42] while researching 
+the psychology of eating animals
+[8:45] for my doctoral dissertation,
+[8:46] a project that laid the groundwork
+for my broader analysis
+[8:50] of nonrelational systems.
+[8:53] I was inspired to investigate
+this particular topic
+[8:56] after a contaminated hamburger I'd eaten
+landed me in the hospital.
+[9:01] I emerged from that experience 
+vowing never to eat meat again,
+[9:05] for fear of a repeat 
+bacterial performance.
+[9:09] As I was learning 
+how to cook vegetarian food,
+[9:11] I stumbled upon information
+[9:13] about the consequences 
+of animal agriculture
+[9:16] on farmed animals, 
+the environment, and human health,
+[9:20] and I became vegan,
+[9:22] only to discover that when I tried 
+to share what I'd learned with others,
+[9:25] they reacted defensively.
+[9:27] They'd say things like, 
+"Don't tell me that; you'll ruin my meal,"
+[9:31] or they'd call me a crazy vegan
+hippie propagandist.
+[9:36] My research on the psychology
+of eating animals
+[9:38] led me to identify carnism,
+[9:41] the system that conditions us 
+to think and act nonrelationally
+[9:45] toward those animals 
+we've learned to classify as edible
+[9:48] without recognizing the inconsistencies
+in our attitudes and behaviors.
+[9:54] For example, imagine that 
+as you're biting into a juicy hamburger,
+[9:58] your dining companion tells you
+[10:00] that the burger 
+isn’t actually made from beef
+[10:02] but from a golden retriever.
+[10:04] Chances are, what you just saw as food,
+you now see as a dead animal.
+[10:09] What you just felt was delicious,
+you now feel is disgusting.
+[10:14] And rather than continue
+eating the burger,
+[10:16] you probably want 
+to throw it in the trash.
+[10:19] Carnism has distorted 
+your perception of cows but not dogs,
+[10:24] so you see cow flesh as food
+and you act accordingly.
+[10:29] When nonrelational systems 
+are dominant social systems,
+[10:33] like carnism or racism 
+or heterosexism or patriarchy,
+[10:38] their defense mechanisms are woven
+through the very structure of society
+[10:42] to shape norms, laws, beliefs,
+behaviors, and so forth.
+[10:46] So when we study nutrition, for example,
+we actually study carnistic nutrition;
+[10:51] just as when twentieth century
+psychology students
+[10:54] studied psychology,
+[10:56] they actually studied 
+heterosexist psychology.
+[11:00] All nonrelational systems use the same
+kinds of psychological defense mechanisms;
+[11:05] the difference is simply who and what
+they distort our perceptions about.
+[11:11] Nonrelational systems also use 
+privileges to maintain themselves;
+[11:15] they give special advantages
+to one individual or group
+[11:19] while disadvantaging others,
+[11:21] to help ensure 
+that power doesn’t balance out.
+[11:25] Research has shown
+[11:26] that nonrelational attitudes 
+and behaviors are contagious;
+[11:29] as long as we're unaware of them,
+we're likely to recreate them.
+[11:33] Even those of us who are working
+to create a more relational world
+[11:37] can end up reinforcing
+[11:38] the very problem 
+we're trying to transform;
+[11:41] the infighting 
+in some social justice groups
+[11:44] is causing them to cannibalize themselves.
+[11:48] Personal and social transformation
+isn't possible
+[11:51] if we keep our focus 
+limited to the content:
+[11:54] who is oppressing or abusing whom.
+[11:57] We need to understand 
+and address the process:
+[12:01] how and why we oppress 
+and abuse in the first place.
+[12:05] If we want to create 
+a healthier world for everyone,
+[12:09] we need to change the way we relate.
+[12:12] The good news is that,
+[12:14] just as nonrelational attitudes
+and behaviors are contagious,
+[12:17] relational attitudes and behaviors
+are also contagious.
+[12:23] The fish I killed 
+was the first of two individuals
+[12:26] who shaped 
+the trajectory of my life's work.
+[12:29] The second was my dog, Fritz,
+who I grew up with.
+[12:33] The fish was my first relational casualty,
+and Fritz was my first friend.
+[12:38] The fish taught me what it felt like 
+to perpetrate relational dysfunction;
+[12:43] Fritz taught me what it felt like
+to practice relational health.
+[12:48] My relationships with these two animals
+[12:50] led me to recognize both 
+the metaproblem facing our world,
+[12:54] relational dysfunction,
+[12:57] and the metasolution to this problem,
+relational literacy:
+[13:00] the understanding of and ability 
+to practice healthy ways of relating.
+[13:05] And I realized that all of us
+[13:07] who are working 
+toward social transformation
+[13:09] have the same metamission: 
+to create a more relational world.
+[13:14] Obviously, relational literacy 
+isn't the only solution to our problems,
+[13:19] but it's foundational 
+to all other solutions.
+[13:22] Despite the importance
+of relational literacy,
+[13:25] most of us don't recognize its value,
+[13:27] nor are we given 
+the opportunity to build it.
+[13:30] It's striking that most of us 
+have to learn complicated geometry
+[13:34] that we'll probably never need to use,
+[13:37] and yet we don't get 
+a single formal lesson
+[13:40] in how to relate in a way that's healthy.
+[13:43] And many of the most pressing problems 
+in our world and personal lives
+[13:48] are not caused by people 
+who don’t know how to do geometry.
+[13:52] If our collective level 
+of relational literacy
+[13:55] weren't so low,
+[13:56] if we weren't still living 
+in the relational dark ages,
+[14:00] we wouldn't elect relationally
+dysfunctional leaders
+[14:03] or vote for relationally harmful policies.
+[14:08] Building relational literacy
+is perhaps especially important
+[14:11] for those working to transform 
+nonrelational systems and behaviors.
+[14:16] When social justice movements
+are more relational
+[14:19] and therefore more resilient,
+they’re more powerful.
+[14:24] When I think back to that day
+I killed the fish,
+[14:26] I always remember 
+the quote by Bradley Miller:
+[14:30] "Teaching a child 
+not to step on a caterpillar
+[14:33] is almost as valuable to the child
+as it is to the caterpillar."
+[14:40] At Beyond Carnism,
+[14:41] our mission is to expose
+and transform carnism
+[14:44] and to create a more impactful
+vegan movement,
+[14:47] which we work toward in large part
+[14:49] through our Center 
+for Effective Vegan Advocacy.
+[14:52] And, because we recognize
+that relational dysfunction
+[14:55] is the metaproblem 
+that gives rise to carnism
+[14:58] and other intersecting problems
+[15:01] and that weakens the vegan movement,
+[15:03] our metamission is to help create
+a more relational world.
+[15:06] Through awareness raising and training,
+[15:09] we work to create 
+a better world for all beings.
+[15:12] ♪ (music ends) ♪
+--- Introduction ---
+[0:01] When I was four years old,
+[0:03] I killed someone.
+[0:04] And forty-three years later,
+[0:05] I received the Ahimsa Award 
+for my work on global nonviolence.
+[0:09] Of course, on that fateful day in 1970,
+[0:12] I had no idea that my actions 
+would set me on a journey of discovery
+[0:17] that would transform the way I understood
+and related to myself and the world,
+[0:23] and that would lead me 
+to write award-winning books
+[0:25] and establish an international NGO
+[0:27] to help others experience
+similar transformation.
+[0:30] ♪ (background music) ♪
+[0:32] It was a hot summer day,
+[0:33] and I was with my parents 
+on my father's fishing boat,
+[0:35] my favorite place in the world to be.
+[0:38] And then I caught my first fish.
+[0:41] My parents clapped and laughed 
+and told me how proud they were,
+[0:45] but I felt confused and distraught.
+[0:48] I didn't understand 
+why I couldn't share their happiness;
+[0:52] as I watched the fish 
+I'd pulled out of the ocean
+[0:54] flop on the floor of the boat
+gasping for air,
+[0:58] all I could feel was sadness.
+[1:00] And guilt.
+[1:01] After that day, my father's boat, 
+which had once been a source of joy,
+[1:06] became a trigger for distress.
+[1:08] And seafood, which I had loved,
+[1:11] sickened me to the point 
+where I could no longer eat it
+[1:14] without vomiting.
+--- The Golden Rule ---
+[1:15] My emotions and body 
+were reacting to a paradox
+[1:19] that my young brain 
+wasn't developed enough to understand.
+[1:23] I couldn't reconcile how caring people,
+[1:26] my own parents, at that,
+[1:29] could harm others and neither see 
+nor feel troubled by this contradiction.
+[1:34] My parents had instilled in me
+a strong commitment
+[1:37] to practicing the Golden Rule:
+[1:39] to treating others 
+the way I'd want to be treated
+[1:42] if I were in their position.
+[1:44] So had my teachers, 
+the ministers at our church,
+[1:47] and just about every adult 
+who influenced my development.
+[1:51] Yet it seemed like everywhere I turned,
+[1:54] this supposedly highest principle
+was being violated,
+[1:58] and nobody was the least bit concerned.
+[2:01] What I didn't realize at that time
+[2:03] was that this directive 
+to relate to others with respect
+[2:06] wasn't just some lofty ideal.
+[2:09] Many years later, 
+my research led me to understand
+[2:13] that it held the key to personal
+and social transformation.
+[2:17] When you think about 
+some of the most serious problems,
+[2:19] not only in our personal lives
+but also in the world,
+[2:23] such as domestic abuse, self-harm,
+war, poverty, racism, patriarchy,
+[2:29] animal exploitation, and climate change,
+[2:31] you can see that they all share
+a common denominator,
+[2:35] which is relational dysfunction,
+[2:37] or dysfunctional ways of relating—
+[2:41] to other individuals, 
+between social groups,
+[2:44] to other animals and the environment,
+and even to ourselves.
+[2:48] So healthy ways of relating,
+[2:50] relational function,
+[2:52] is the common denominator 
+in transforming all of these problems.
+--- Healthy Relating ---
+[2:57] And healthy relating 
+is based on a simple formula.
+[3:00] This formula applies to all dimensions
+and kinds of relationships.
+[3:04] It applies to the collective dimension,
+how social groups relate;
+[3:08] the interpersonal dimension, 
+how two or several individuals relate;
+[3:14] and to the intrapersonal dimension,
+how we relate to ourselves.
+[3:18] It also applies to how we relate 
+to other animals and the environment.
+[3:23] The formula applies equally
+to brief interactions
+[3:26] and long-term relationships.
+[3:28] Relationships are, after all,
+a series of interactions.
+[3:32] And, of course, 
+it applies to how we communicate,
+[3:34] since communication 
+is the primary way we relate.
+[3:38] So here's the formula:
+[3:39] (narrator) In a healthy relationship
+ or interaction,
+[3:42] we practice integrity and honor dignity,
+[3:46] and this leads to a sense 
+of connection and security.
+[3:49] Integrity is the integration
+of the core moral values
+[3:52] of compassion and justice and behaviors.
+[3:55] It's treating others with respect.
+[3:58] Dignity is one's sense of inherent worth.
+[4:02] When we honor someone's dignity,
+[4:03] we perceive and treat them 
+as no less worthy of respect
+[4:07] than anyone else.
+[4:09] Of course, healthy relating,
+like most things in life,
+[4:12] is not an either-or phenomenon;
+[4:15] it exists on a spectrum.
+[4:17] On the healthy side of the spectrum 
+are relational attitudes and behaviors.
+[4:21] On the dysfunctional side 
+are nonrelational attitudes and behaviors.
+[4:26] Nonrelational attitudes and behaviors
+violate integrity, harm dignity,
+[4:31] and lead to a sense 
+of disconnection and insecurity.
+[4:34] And not only can our communication
+and other ways of interacting
+[4:38] be more or less healthy, or relational;
+[4:40] so can the systems of which we're a part.
+[4:44] It was more than three decades
+after I killed the fish
+[4:48] that my research led me to discover
+that there's a specific mentality
+[4:52] at the core of all oppressive
+and abusive behaviors,
+[4:55] whether the behaviors are directed 
+toward human or nonhuman beings.
+[5:00] This mentality causes us to think
+[5:02] and therefore to feel and act 
+in ways that are nonrelational,
+[5:07] and that ultimately bring about 
+the opposite outcomes of what we want.
+--- Nonrelational ---
+[5:12] We inherit this nonrelational mentality
+from various systems that we're a part of,
+[5:16] and we act on it and reproduce it 
+without realizing that we're doing so.
+[5:21] It compels us to indirectly support,
+or directly engage in,
+[5:26] a range of harmful behaviors,
+[5:28] from those that enable global atrocities
+[5:30] to those that undermine 
+the sense of security and connection
+[5:34] in our interpersonal relationships.
+[5:36] At the far nonrelational end 
+of the relational health spectrum,
+[5:40] the behaviors are abusive 
+and the systems are oppressive.
+[5:45] These oppressive systems are those
+such as patriarchy, racism, classism,
+[5:50] and what I call carnism,
+[5:52] the invisible belief system 
+that conditions us to eat certain animals.
+[5:57] Also included here are smaller systems,
+[5:59] like abusive family systems
+and workplaces.
+[6:03] The nonrelational mentality is based on 
+the belief in a hierarchy of moral worth:
+[6:08] that some individuals or groups 
+are more worthy of moral consideration,
+[6:13] of being treated with respect,
+than others.
+[6:17] When we buy into this belief,
+[6:19] we tend to wield power over others
+in order to satisfy our own desires,
+[6:24] which leads to unjust power imbalances
+between individuals and among groups.
+[6:30] So I sometimes refer 
+to nonrelational systems as powerarchies.
+[6:34] On the opposite end 
+of the relational health spectrum
+[6:37] are behaviors and systems 
+that are based on the recognition
+[6:40] of the inherent dignity of all beings,
+[6:43] and rather than create 
+unjust power imbalances,
+[6:46] they lead to a balance of power.
+[6:49] When an interaction 
+or system is more relational,
+[6:52] it's more resilient:
+[6:54] better able to withstand 
+and bounce back from stress.
+--- Why we fail ---
+[6:59] So why do we so often fail
+to practice the formula,
+[7:03] acting against what we could call 
+our better, or more evolved, natures?
+[7:09] One reason is that we’re hardwired
+[7:11] to engage in certain 
+nonrelational behaviors,
+[7:14] which had evolutionary benefits,
+[7:16] helping keep us and our in-groups safe.
+[7:19] And, most of us have never learned
+how to relate healthfully.
+[7:23] Plus, nonrelational systems condition us
+[7:26] to think and act in ways
+that keep them intact.
+[7:30] But research shows that we're also
+hardwired to feel empathy
+[7:34] and to seek meaningful 
+connections with others,
+[7:37] and that the ability to form
+secure connections
+[7:40] is the basis of healthy human development
+[7:43] and of psychological 
+and relational resilience.
+[7:46] Research also shows
+[7:47] that we strive to live in alignment
+with our moral values.
+[7:51] Plus, we've evolved such 
+that we can often interrupt
+[7:54] our instinctive reactions 
+to improve our outcomes.
+[7:57] So, during a heated argument
+with your partner,
+[8:00] even though the more primal
+part of your brain
+[8:02] may make you feel compelled to whack them,
+[8:05] your modern mind enables you 
+to put the brakes on that compulsion
+[8:08] and even act in ways that restore, 
+rather than further erode, your connection.
+[8:15] When we behave nonrelationally,
+[8:17] supporting nonrelational systems,
+[8:19] we're acting against our natural empathy
+and drive for connection
+[8:23] and our moral values.
+[8:26] So, to maintain themselves,
+[8:28] these systems use psychological
+defense mechanisms
+[8:31] to distort our perceptions,
+[8:33] so that we think 
+and behave nonrelationally
+[8:36] without realizing what we're doing.
+[8:40] I identified these defense mechanisms
+[8:42] while researching 
+the psychology of eating animals
+[8:45] for my doctoral dissertation,
+[8:46] a project that laid the groundwork
+for my broader analysis
+[8:50] of nonrelational systems.
+[8:53] I was inspired to investigate
+this particular topic
+[8:56] after a contaminated hamburger I'd eaten
+landed me in the hospital.
+[9:01] I emerged from that experience 
+vowing never to eat meat again,
+[9:05] for fear of a repeat 
+bacterial performance.
+[9:09] As I was learning 
+how to cook vegetarian food,
+[9:11] I stumbled upon information
+[9:13] about the consequences 
+of animal agriculture
+[9:16] on farmed animals, 
+the environment, and human health,
+[9:20] and I became vegan,
+[9:22] only to discover that when I tried 
+to share what I'd learned with others,
+[9:25] they reacted defensively.
+[9:27] They'd say things like, 
+"Don't tell me that; you'll ruin my meal,"
+[9:31] or they'd call me a crazy vegan
+hippie propagandist.
+[9:36] My research on the psychology
+of eating animals
+[9:38] led me to identify carnism,
+[9:41] the system that conditions us 
+to think and act nonrelationally
+[9:45] toward those animals 
+we've learned to classify as edible
+[9:48] without recognizing the inconsistencies
+in our attitudes and behaviors.
+[9:54] For example, imagine that 
+as you're biting into a juicy hamburger,
+[9:58] your dining companion tells you
+[10:00] that the burger 
+isn’t actually made from beef
+[10:02] but from a golden retriever.
+[10:04] Chances are, what you just saw as food,
+you now see as a dead animal.
+[10:09] What you just felt was delicious,
+you now feel is disgusting.
+[10:14] And rather than continue
+eating the burger,
+[10:16] you probably want 
+to throw it in the trash.
+[10:19] Carnism has distorted 
+your perception of cows but not dogs,
+[10:24] so you see cow flesh as food
+and you act accordingly.
+[10:29] When nonrelational systems 
+are dominant social systems,
+[10:33] like carnism or racism 
+or heterosexism or patriarchy,
+[10:38] their defense mechanisms are woven
+through the very structure of society
+[10:42] to shape norms, laws, beliefs,
+behaviors, and so forth.
+[10:46] So when we study nutrition, for example,
+we actually study carnistic nutrition;
+[10:51] just as when twentieth century
+psychology students
+[10:54] studied psychology,
+[10:56] they actually studied 
+heterosexist psychology.
+[11:00] All nonrelational systems use the same
+kinds of psychological defense mechanisms; [See chart, also at 10:56, there is an image from an old newspaper]
+[11:05] the difference is simply who and what
+they distort our perceptions about.
+[11:11] Nonrelational systems also use 
+privileges to maintain themselves;
+[11:15] they give special advantages
+to one individual or group
+[11:19] while disadvantaging others,
+[11:21] to help ensure 
+that power doesn’t balance out.
+[11:25] Research has shown
+[11:26] that nonrelational attitudes 
+and behaviors are contagious;
+[11:29] as long as we're unaware of them,
+we're likely to recreate them.
+[11:33] Even those of us who are working
+to create a more relational world
+[11:37] can end up reinforcing
+[11:38] the very problem 
+we're trying to transform;
+[11:41] the infighting 
+in some social justice groups
+[11:44] is causing them to cannibalize themselves.
+[11:48] Personal and social transformation
+isn't possible
+[11:51] if we keep our focus 
+limited to the content:
+[11:54] who is oppressing or abusing whom.
+[11:57] We need to understand 
+and address the process:
+[12:01] how and why we oppress 
+and abuse in the first place.
+[12:05] If we want to create 
+a healthier world for everyone,
+[12:09] we need to change the way we relate.
+[12:12] The good news is that,
+[12:14] just as nonrelational attitudes
+and behaviors are contagious,
+[12:17] relational attitudes and behaviors
+are also contagious.
+[12:23] The fish I killed 
+was the first of two individuals
+[12:26] who shaped 
+the trajectory of my life's work.
+[12:29] The second was my dog, Fritz,
+who I grew up with.
+[12:33] The fish was my first relational casualty,
+and Fritz was my first friend.
+[12:38] The fish taught me what it felt like 
+to perpetrate relational dysfunction;
+[12:43] Fritz taught me what it felt like
+to practice relational health.
+[12:48] My relationships with these two animals
+[12:50] led me to recognize both 
+the metaproblem facing our world,
+[12:54] relational dysfunction,
+[12:57] and the metasolution to this problem,
+relational literacy:
+[13:00] the understanding of and ability 
+to practice healthy ways of relating.
+[13:05] And I realized that all of us
+[13:07] who are working 
+toward social transformation
+[13:09] have the same metamission: 
+to create a more relational world.
+[13:14] Obviously, relational literacy 
+isn't the only solution to our problems,
+[13:19] but it's foundational 
+to all other solutions.
+[13:22] Despite the importance
+of relational literacy,
+[13:25] most of us don't recognize its value,
+[13:27] nor are we given 
+the opportunity to build it.
+[13:30] It's striking that most of us 
+have to learn complicated geometry
+[13:34] that we'll probably never need to use,
+[13:37] and yet we don't get 
+a single formal lesson
+[13:40] in how to relate in a way that's healthy.
+[13:43] And many of the most pressing problems 
+in our world and personal lives
+[13:48] are not caused by people 
+who don’t know how to do geometry.
+[13:52] If our collective level 
+of relational literacy
+[13:55] weren't so low,
+[13:56] if we weren't still living 
+in the relational dark ages,
+[14:00] we wouldn't elect relationally
+dysfunctional leaders
+[14:03] or vote for relationally harmful policies.
+[14:08] Building relational literacy
+is perhaps especially important
+[14:11] for those working to transform 
+nonrelational systems and behaviors.
+[14:16] When social justice movements
+are more relational
+[14:19] and therefore more resilient,
+they’re more powerful.
+[14:24] When I think back to that day
+I killed the fish,
+[14:26] I always remember 
+the quote by Bradley Miller:
+[14:30] "Teaching a child 
+not to step on a caterpillar
+[14:33] is almost as valuable to the child
+as it is to the caterpillar."
+[14:40] At Beyond Carnism,
+[14:41] our mission is to expose
+and transform carnism
+[14:44] and to create a more impactful
+vegan movement,
+[14:47] which we work toward in large part
+[14:49] through our Center 
+for Effective Vegan Advocacy.
+[14:52] And, because we recognize
+that relational dysfunction
+[14:55] is the metaproblem 
+that gives rise to carnism
+[14:58] and other intersecting problems
+[15:01] and that weakens the vegan movement,
+[15:03] our metamission is to help create
+a more relational world.
+[15:06] Through awareness raising and training,
+[15:09] we work to create 
+a better world for all beings.
+[15:12] ♪ (music ends) ♪
+
+
+
+
+
+
+
+
+
+
+
+
+
+Title: Effective Vegan Advocacy Online Course Trailer
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=VSScM8q8wvs
+
+====
+
+Description:
+📢 Our Effective Vegan Advocacy online course is open for registration! 🎉
+
+Here’s what you’ll get out of the course:
+
+====
+
+Transcript:
+--- Intro ---
+[0:00] Have you ever started talking
+with a nonvegan about veganism
+[0:03] or simply mentioned that you're vegan
+and felt a wall of defensiveness come up?
+--- Effective Vegan Advocacy ---
+[0:08] Many vegans have had this experience.
+[0:10] Our Effective Vegan Advocacy course 
+will provide you with the tools
+[0:13] to talk about veganism in a way 
+that reduces resistance to your message
+--- What Youll Learn ---
+[0:18] and that increases the chances 
+that listeners will hear your message
+[0:21] the way that you intend it to be heard.
+[0:24] Through this engaging
+and immersive learning experience,
+[0:27] you'll come to understand 
+the psychology of eating animals
+[0:29] and how to avoid getting stuck
+in unproductive debates.
+--- Practical Tools ---
+[0:33] You'll also learn a wide range 
+of practical tools that will help
+[0:36] make your conversations about veganism
+healthy and productive.
+[0:40] Effective vegan advocacy is not 
+about changing hearts and minds,
+[0:44] but rather opening hearts and minds.
+[0:46] Register for this course
+[0:48] and learn to approach your advocacy
+with confidence and compassion,
+[0:52] making you the most effective
+advocate you can be.
+--- Intro ---
+[0:00] Have you ever started talking
+with a nonvegan about veganism
+[0:03] or simply mentioned that you're vegan
+and felt a wall of defensiveness come up?
+--- Effective Vegan Advocacy ---
+[0:08] Many vegans have had this experience.
+[0:10] Our Effective Vegan Advocacy course 
+will provide you with the tools
+[0:13] to talk about veganism in a way 
+that reduces resistance to your message
+--- What Youll Learn ---
+[0:18] and that increases the chances 
+that listeners will hear your message
+[0:21] the way that you intend it to be heard.
+[0:24] Through this engaging
+and immersive learning experience,
+[0:27] you'll come to understand 
+the psychology of eating animals
+[0:29] and how to avoid getting stuck
+in unproductive debates.
+--- Practical Tools ---
+[0:33] You'll also learn a wide range 
+of practical tools that will help
+[0:36] make your conversations about veganism
+healthy and productive.
+[0:40] Effective vegan advocacy is not 
+about changing hearts and minds,
+[0:44] but rather opening hearts and minds.
+[0:46] Register for this course
+[0:48] and learn to approach your advocacy
+with confidence and compassion,
+[0:52] making you the most effective
+advocate you can be.
+
+
+
+
+
+
+
+
+[Well done]
+Title: KITTENGATE: Outrage After Climate Scientist Feeds Kittens to Diners
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=yrf1TWpKCeI
+
+====
+
+Description:
+In shocking images obtained from the ECO27 summit, attendees are eating what they believe to be cream of chicken soup when renowned climate scientist Dr. Jay Kumari leaps to the podium and announces he’s swapped the chicken with kitten. Bryce Harding discusses the controversy with Dr. Melanie Joy, the world’s leading expert on the psychology of eating animals.
+
+====
+
+Transcript:
+[0:00] - [inaudible] - How dare you?! Could this be the worst blow to the climate movement yet? Definitely one of the most bizarre.
+[0:06] In shocking images we've obtained from the ECO27 Summit, attendees are eating what they believe to be cream of chicken soup— normally delicious, right?—
+[0:14] when renowned climate scientist Dr. Jay Kumari leaps to the podium and announces that he has swapped the chicken with kitten.
+[0:22] We're talking baby cats here.
+[0:24] He then starts chanting a phrase from a banner that reads, "#Don'tThrowUp," which I'm sure plenty of people there did.
+[0:30] Now, Kumari was removed by authorities, as he should've been, and has refused to comment, except to say, quote, "Denial is disgusting!" Dr. Kumari, you are disgusting.
+[0:40] The incident dubbed "Kittengate" is taking the internet by storm.
+[0:43] Now, with Kumari unreachable, here to try to make some sense of this is Dr. Melanie Joy, the world's leading expert on the psychology of eating animals.
+[0:53] Thanks for being here, Dr. Joy. Thanks for having me.
+[0:57] You got it. So, why? Why would Dr. Kumari, a well-respected scientist, basically force-feed kittens to these poor, unsuspecting people?
+[1:06] Where did he get the kittens? Did he go to the pet store and say, "Give me 10 kittens"? Who made the soup? Well, I don't think it's actually about the kitten.
+[1:13] - My guess is that— - No?
+[1:14] —kittens were probably just easier for Kumari to obtain.
+[1:17] He could just as well have served puppies or ponies. - I mean— - Oh, pony soup? That sounds just as horrifying. That doesn't explain why.
+[1:26] Why go to this extreme?
+[1:27] (Dr. Joy) Yeah, well, Kumari has stated that climate advocates and scientists, policymakers are being prevented from thinking rationally
+[1:35] when it comes to animal agriculture and climate change. (Harding) OK, hold on, hold on, hold on. Animal agriculture and the climate?
+[1:42] I mean it's not like they were serving... beef, right?
+[1:46] - They were— Hold on, Doc. - Well, yes, but— They were supposed to be serving chickens, which, if I'm not mistaken,
+[1:54] poultry has way less emissions per pound or serving, so— (Dr. Joy) Yes, that's true, but there are lots of other protein sources that may have an even lower carbon footprint than chickens, so why just compare beef and poultry?
+[2:05] Why not include beans - or cats or dogs or— - What? Wait, because... Because... Wait, hold on. What?
+[2:11] - Dogs or cats— What? - It seems clear that Kumari was trying to expose this irrational mentality of meat.
+[2:17] He was trying to expose what's called "carnism." It's the invisible belief system that conditions people to eat certain animals.
+[2:26] OK, great.
+[2:27] All right, so another new woke social justice end all oppression term that progressives are going to make us use— This is a bona fide term used - in the social sciences. - (Harding) Hold on.
+[2:37] OK, but, like, really? I mean, like, really? "Invisible belief system"? What is it? Are we in the Matrix now? Is Neo behind me?
+[2:45] Well, actually, some people do liken carnism to the Matrix. - Carnism is the reason— - Oh, OK.
+[2:50] —we virtually never ask why we eat certain animals but not others or why we eat any animals, and so this bias gets in the way of our ability
+[2:59] to think rationally when determining which protein sources are most sustainable.
+[3:02] All right, so the planet is warming up because we're biased against eating pets? (Dr. Joy) Well, actually, no. We're biased toward eating nonpets.
+[3:13] Most people are naturally averse to harming animals.
+[3:15] The diners' reaction to eating kitten soup is their authentic reaction.
+[3:19] It's very likely how they would feel about eating chicken soup if not for the invisible bias.
+[3:25] (Harding) OK, but eating meat is natural, and it's necessary for biodiversity and for human health and the food chain and a million other reasons.
+[3:35] Are these not indisputable facts?
+[3:36] I think these are exactly the kinds of questions that Kumari wants climate advocates to be able to more rationally address. (Harding) Hold on one second.
+[3:46] I'm getting told Kumari's finally broken his silence, so I guess we're going to hear from him.
+[3:49] Dr. Melanie Joy, thank you so much for— Don't throw— (laughter) ♪ (music) ♪
+[3:59] Obviously, Kittengate is made up, but carnism is real.
+[4:03] Carnism prevents us from seeing what's right in front us.
+[4:11] According to the UN and the IPCC, animal agriculture accounts for more greenhouse gas emissions than the entire transportation sector.
+[4:20] That's all cars and flights combined.
+[4:25] If we don't address this issue, we'll exceed international climate targets even if all other sources of greenhouse gas emissions are eliminated.
+[4:33] Animal agriculture is also one of the leading causes of water pollution and deforestation.
+[4:39] More farmed animals are killed in one day than the total number of people killed in all wars throughout history.
+[4:48] Just because some people need to eat animals, this doesn't mean the rest of us should continue with carnistic consumption as usual.
+[4:54] It's time to break through carnistic denial and take on Big Ag the way we've taken on Big Oil.
+[5:01] It's time to make animal agriculture a climate priority.
+[5:06] Insist that governments and institutions implement policies and practices that are as plant-based as possible, which is necessary for them to be as sustainable as possible.
+[5:15] It's time to end climate carnism.
+[5:18] ♪ (music) ♪
+
+
+
+
+
+
+
+
+
+
+
+
+Title: The Science of Effective Vegan Advocacy Online Course Trailer
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=omgss1zsxF4
+
+====
+
+Description:
+📢 Our Science of Effective Vegan Advocacy online course is open for registration! 🎉
+
+Here's what you'll learn from the course:
+
+====
+
+Transcript:
+[0:00] Do you ever feel confused or overwhelmed when you're trying to decide on the best way to advocate veganism?
+[0:06] Should you, for example, point out the contradictions in a nonvegan's attitudes and behaviors when they say they care about animals?
+[0:13] Should you always advocate dietary change rather than other kinds of lifestyle changes?
+[0:18] Should you advocate to a politically conservative nonvegan the same way you would to a progressive nonvegan?
+[0:25] If you wonder about the answers to these kinds of questions, you're not alone.
+[0:29] Different advocates and organizations recommend a range of approaches to vegan advocacy, and they sometimes strongly disagree on which approaches are the most effective.
+[0:39] It can be difficult to know what or who to believe, but it is possible to make informed, impactful choices.
+[0:46] In this CEVA course, you'll learn which forms of vegan advocacy science has shown to be truly effective.
+[0:52] You'll also learn how to evaluate the potential impact of any form of advocacy, as well as how to assess the credibility of the claims made by others about the forms of advocacy they recommend.
+[1:03] By registering today for this engaging and immersive learning experience, you can learn strategies to help make your vegan advocacy as impactful as possible.
+[1:14] ♪ (music) ♪
+
+
+
+
+
+
+
+
+
+
+Title: "Why We Love Dogs, Eat Pigs, and Wear Cows" Book Trailer
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=xnOG7wUgy4A
+
+====
+
+Description:
+Have you read the 10th anniversary edition of “Why We Love Dogs, Eat Pigs, and Wear Cows” by Melanie Joy? 📖 Watch the trailer to find out more about the book! 📽️
+
+You can order the book or read the first chapter for free at bit.ly/404NOR2. 🌱
+
+====
+
+Transcript:
+[0:04] foreign
+[0:07] [Music]
+[0:16] tell us how do you make this sure first of all you start with three pounds golden retriever well marinated
+[0:25] and then you take this Golden Retriever oh oh I forgot you are Americans with
+[0:35] your love affair of dogs I'm just kidding
+[0:44] there is nothing but plain old beef what you're not going to eat it now
+[0:55] it's just it's a bit hard to get that image out of my mind I golden retriever a dog an animal on my plate
+[1:04] disgusting that's just it's not normal
+[1:26] [Music]
+
+
+
+
+
+
+
+Title: "How to End Injustice Everywhere" Book Trailer
+
+====
+
+Channel: Beyond Carnism
+Channel Link: https://www.youtube.com/@BeyondCarnism
+
+====
+
+Link: https://www.youtube.com/watch?v=-6F8ofpI-QY
+
+====
+
+Description:
+Have you read Melanie Joy’s new book, “How to End Injustice Everywhere”? 📖 If not, watch the trailer to find out more! 📺
+
+You can order the book at bit.ly/EndInjusticeEverywhere. 🔗
+
+====
+
+Transcript:
+[0:00] how can we ever hope to end injustices
+[0:02] like racism patriarchy poverty animal
+[0:05] exploitation and climate change when
+[0:07] even those of us who are trying to
+[0:08] create a better world are sometimes part
+[0:10] of the problem and awareness has always
+[0:12] been the antidote my research led me to
+[0:14] realize that there's a specific
+[0:16] mentality driving all forms of Injustice
+[0:18] the same mentality that causes us to
+[0:21] exploit and abuse humans causes us to
+[0:24] exploit and abuse animals in the
+[0:25] environment this mentality is also why
+[0:28] workplace has become toxic and
+[0:30] relationships become dysfunctional
+[0:32] and this mentality is a huge obstacle to
+[0:35] the success of our efforts for
+[0:36] Progressive change it causes infighting
+[0:38] as well as the counterproductive
+[0:40] advocacy that turns people off to our
+[0:42] cause
+[0:43] I wrote how to end Injustice everywhere
+[0:45] to reveal the psychological roots of
+[0:46] Injustice and to provide practical tools
+[0:49] you can use to increase your
+[0:51] Effectiveness help reduce infighting and
+[0:54] build more resilient impactful groups
+[0:56] and movements
+[1:01] thank you
+[1:03] [Music]
+[1:12] please share this video to help end
+[1:15] Injustice everywhere
+
+[It has praises by persons like Moby at the end of the video]
 
 
 
