@@ -17560,3 +17560,1463 @@ Notes
 
 We like our veggies to be slightly crisp. If you prefer a softer texture, you can cook the onion and peppers for a few minutes first, before adding the remaining ingredients.
 Sugar is often used in tomato-based sauces to balance the acidity. We don’t use any sweetener in our sauce, but you can add date syrup (or maple syrup) 1/2 tsp at a time to achieve desired flavour.
+
+
+
+
+
+Title: My Vegan/Whole Food Plant-Based Story l Plant Fit Meg
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=YtiXXAicn7k
+
+====
+
+Description:
+My why, and how I started my vegan/whole food plant-based journey. 
+Find out how this cancer survivor, Mom, and fitness enthusiast persevered and regained health with a whole food plant-based lifestyle.
+
+====
+
+Transcript:
+--- Intro ---
+[0:00] [Music]
+[0:06] hi
+[0:06] i'm meg and welcome to plant fit meg
+[0:09] today i wanted to talk a little bit
+[0:10] about
+[0:10] my vegan story and why i decided to go
+[0:14] vegan
+[0:15] and just a little bit about how that
+[0:17] came about
+[0:19] so it was the year 2016
+[0:22] and i had been cancer-free for 10 years
+[0:26] and was
+[0:26] very very excited about that milestone
+--- Story ---
+[0:30] i also was a new mom my son was four
+[0:33] months old at the time
+[0:34] and my husband and i were trying to
+[0:36] decide what his first solid foods were
+[0:39] would be and i with these
+[0:44] two things being cancer-free for a
+[0:47] decade
+[0:48] and with having a newborn at home i
+[0:51] really was reflecting on my past and
+[0:54] considering what my future was going to
+[0:56] look like
+[0:57] in terms of health and longevity
+[1:00] and reducing future disease risk
+[1:03] and these were things that i didn't
+[1:06] really think about
+[1:08] too much after my cancer diagnosis and
+[1:12] going through treatment and all of that
+[1:14] because
+[1:15] when you have cancer you're sort of put
+[1:17] on this
+[1:19] conveyor belt for lack of a better word
+[1:21] so you're put into the system
+[1:23] the health system and you're taking care
+[1:26] of
+[1:27] medically and you're not
+[1:30] presented with alternative options or
+[1:35] you know anything related to health or
+[1:36] nutrition
+[1:38] really so um
+[1:41] i had traditional treatment when i had
+[1:44] ovarian cancer
+[1:46] back in 2006 i had a couple of
+[1:49] surgeries as well as chemotherapy and so
+[1:54] i had no idea that
+[1:55] nutrition might play a role or might
+[1:57] have have
+[1:58] impact on my disease
+[2:02] so fast forward 10 years and i have my
+[2:05] four month old at home
+[2:07] and all these thoughts are swirling
+[2:09] through my head and i'm trying to figure
+[2:11] out
+[2:11] you know how am i gonna be healthy and
+[2:14] happy and strong
+[2:16] and give him the best start possible in
+[2:18] life
+[2:20] so i started to watch some documentaries
+[2:24] i sometimes joke with people that
+[2:26] netflix made me vegan because that's
+[2:28] where i started watching some
+[2:29] documentaries and getting some
+[2:31] information
+[2:32] so the first one i watched was fat sick
+[2:34] and nearly dead with joe
+[2:36] cross i also watched forks over knives
+[2:39] which had a very big impact on me i
+[2:41] watched conspiracy
+[2:43] and i also watched chris carr's crazy
+[2:46] sexy cancer
+[2:48] and so these documentaries really got me
+[2:51] thinking and got me
+[2:53] pointed in the direction of a
+[2:54] plant-based diet but i was still
+[2:56] skeptical i wanted to do my own research
+[2:59] i wanted to find other resources and
+[3:02] other information about it
+[3:05] so i went online i went digging found
+[3:09] nutritionfacts.org and other
+[3:12] great websites like physicians kitty
+[3:15] sorry
+[3:16] physicians committee for responsible
+[3:18] medicine
+[3:20] and decided
+[3:23] that i would go vegan and i decided to
+[3:27] do it overnight and
+[3:31] that we would feed our son a vegan diet
+[3:35] and my husband wasn't fully on board
+[3:38] with being fully plant-based but he's
+[3:40] always very supportive of anything i
+[3:42] want to
+[3:43] do or try so he was very open to it and
+--- How I Started ---
+[3:47] just sort of was like
+[3:48] if that's what you want to do and you
+[3:50] think that's what's best for you
+[3:52] then go for it give it a try
+[3:56] so i started out fairly solidly
+[4:00] whole food plant-based i was
+[4:04] nervous about consuming
+[4:08] processed vegan foods because i thought
+[4:10] i might become
+[4:12] quite reliant on them and i was very
+[4:14] unsure about
+[4:16] what the taste or texture would be
+[4:20] and if i would even enjoy them
+[4:23] so just to backtrack i did start with a
+[4:27] juice fast that was the very first thing
+[4:29] i did
+[4:30] after i made the decision so i followed
+[4:33] the reboot with joe
+[4:35] program which is joe cross's
+[4:40] juice fast program i did a five day
+[4:42] juice fast with one hot meal
+[4:44] in the middle of it that one hot meal
+[4:46] was
+[4:47] potatoes and vegetables just mixed
+[4:50] frozen
+[4:51] vegetables and roasted potatoes
+[4:54] and it was the most delicious meal i
+[4:57] have ever had
+[4:59] because after having juice for a couple
+[5:00] days a mix of 80
+[5:03] vegetable 20 fruit juice
+[5:07] that just tasted amazing and that was my
+[5:09] goal i wanted to
+[5:11] do something drastic do something
+[5:14] that i'd never done before and really
+[5:16] reset my taste buds
+[5:17] reset my palette and just kind of hit
+[5:20] the reset button
+[5:22] on on my tastes
+[5:26] and that's what happened and so i
+[5:28] started from there
+[5:29] i was definitely not someone who enjoyed
+[5:32] being in the kitchen
+[5:33] or liked cooking or doing dishes
+[5:37] or anything like that so it was
+[5:40] a little bit tricky in the beginning i
+[5:42] kept it as
+[5:43] simple as possible though i focused on
+[5:47] the things that i was eating that were
+[5:49] already vegan like
+[5:51] fruit and oatmeal and rice and potatoes
+[5:55] and things like that that i really loved
+[5:58] and then i just omitted
+[6:01] the animal product from any recipe that
+[6:03] i was doing so
+[6:05] my mom has this great chili recipe and i
+[6:08] would use that
+[6:09] and instead of using ground meat in it i
+[6:12] would substitute beans
+[6:14] so i just made really simple swaps to
+[6:16] start out to keep it very
+[6:19] simple and very easy i would eat
+[6:22] whole wheat pasta with marinara sauce
+[6:25] and veggies thrown in
+[6:27] and again i would just omit any animal
+[6:30] product from it
+[6:32] so that's how i got started and that's
+[6:35] why i made the decision to go vegan it
+[6:37] was really for health reasons
+[6:39] first and eventually i did watch 101
+[6:43] reasons to go vegan on youtube
+[6:45] and i also watched earthlings and
+[6:50] you know those gave different
+[6:52] perspectives as well
+[6:54] and i really came around to
+[6:58] wanting to be vegan not just for health
+[7:00] but for the environment
+[7:02] which also i saw in cowspiracy as well
+[7:06] and for the animals too
+[7:10] so it kind of came full circle it's
+[7:12] definitely started with health
+[7:14] and then came around for everything else
+[7:18] so i lost 60 pounds in the first year
+[7:23] of going vegan i did start out fairly
+[7:27] whole food plant-based but slowly
+[7:31] ended up gradually increasing
+[7:34] the amount of processed foods in my diet
+[7:37] and i didn't do that
+[7:38] intentionally however for a convenience
+[7:43] for sort of fitting in more in social
+[7:46] situations
+[7:49] i did end up incorporating more
+[7:51] processed foods
+[7:53] into my diet and i had had chronic
+--- Health Issues ---
+[7:56] health issues before going
+[7:58] vegan and these issues would flare up
+[8:02] from time to time after i went vegan
+[8:05] they improved quite a bit but i also had
+[8:08] flare-ups
+[8:09] and i didn't realize it at the time but
+[8:12] now in hindsight i can look back and say
+[8:15] you know the reincorporation of those
+[8:18] processed foods
+[8:19] really really negatively impacted my
+[8:22] health
+[8:23] i've been diagnosed with severe asthma
+[8:25] endometriosis
+[8:27] and i've also dealt with chronic pain
+[8:29] and fatigue that
+[8:31] has gone completely undiagnosed
+[8:34] so those issues would flare up and
+[8:37] it got to a point where i was having a
+[8:40] hard time doing daily activities
+[8:42] it was hard to get out of bed in the
+[8:44] morning it was hard to
+[8:47] shower to make
+[8:50] food to just do the day-to-day
+[8:53] activities i there was no way i could
+[8:55] do any anything physical at all like
+[8:59] running or dancing or anything like that
+[9:00] no way it was like
+[9:02] maybe a five-minute walk if i was lucky
+[9:06] and that was it and so i was becoming
+[9:09] very sedentary
+[9:13] and i had incorporated these processed
+[9:16] foods into my diet
+[9:18] i was feeling down so i was snacking a
+[9:20] lot more
+[9:21] snacking on things that are not health
+[9:24] promoting like
+[9:25] you know chips and candy and things like
+[9:29] that
+[9:30] and so i had kind of lost sight of where
+[9:33] i started with being whole food
+[9:36] plant-based and had kind of
+[9:38] my diet had devolved into looking
+[9:41] completely different
+[9:44] without me really realizing it fully at
+[9:47] the time i just wasn't being mindful and
+[9:49] me
+[9:49] being fully aware of what i was doing
+[9:53] and so i had a really bad flare
+[9:57] up in 2019
+[10:01] and i decided to go on
+[10:04] dr goldner's hyper-nourishing protocol
+[10:07] which is essentially a raw diet with
+[10:11] tons of greens omega-3s
+[10:16] tons of water and yeah it was
+[10:19] raw and i never thought i would eat a
+[10:23] raw diet
+[10:24] in my entire life i never thought i
+[10:26] would go vegan
+[10:27] let alone raw vegan so i did that for a
+[10:31] little while
+[10:32] and lo and behold it really
+[10:36] really improved my symptoms i things
+[10:39] were getting better
+[10:40] things were improving i was having a
+[10:42] reduction in pain
+[10:44] and i was breathing easier
+[10:47] and you know things were starting to
+[10:50] slowly
+[10:51] clear up a little bit however i live in
+[10:54] canada
+[10:55] and it was starting to get very cold
+[10:58] outside
+[10:58] and eating raw food when it's cold out i
+[11:02] know some people do it and they love it
+[11:04] and that's great but for me i really
+[11:07] wanted cook
+[11:08] cooked food again so i started to slowly
+[11:11] reincorporate cooked foods
+[11:13] being very mindful about
+[11:17] how i was doing that and
+[11:20] it was fine my health has just continued
+[11:23] to improve
+[11:25] since that point i'm fully recommitted
+[11:28] to eating a whole food plant-based diet
+[11:31] with
+[11:31] no oils i'm working on moving more
+[11:35] towards
+[11:35] an sos freestyle diet of eating
+[11:39] which would be free of salt oil and
+[11:42] sugar
+[11:43] i do love hot sauce so that is
+[11:46] something i'm working on maybe i'll play
+[11:49] with
+[11:50] working on a recipe for a salt free
+[11:53] version
+[11:54] i also did yoga teacher training which i
+[11:57] think has
+[11:58] really helped me a lot in many ways
+[12:01] it helped me change my perspective about
+[12:04] a lot of things and i just learned a lot
+[12:06] about myself
+[12:07] and about building awareness i also did
+[12:10] a yoga therapy training which was very
+[12:12] beneficial
+[12:14] i noticed holding patterns
+[12:17] and patterns of movement that i was
+[12:21] doing that i was not even aware of i was
+[12:24] holding tension in places that i didn't
+[12:26] even
+[12:26] realize i had tension and
+[12:30] that was very helpful in my healing
+[12:32] process as well
+[12:34] so as much as i credit dr goldner's
+[12:38] protocol as well as my
+[12:41] consistent diet of whole
+[12:44] plant foods it was also
+[12:47] down to other factors
+[12:50] you know sleep hygiene was really
+[12:52] important in getting a good
+[12:54] rhythm that way and
+[12:58] doing yoga taking yoga teacher training
+[13:02] doing yoga therapy all of these things
+[13:05] really contributed to my healing
+[13:08] so now i'm in the best health of my
+--- Conclusion ---
+[13:11] entire life
+[13:12] i can honestly say of my entire life
+[13:16] i've lost over 70 pounds i'm feeling
+[13:19] great and
+[13:20] i'm focusing less on what my body looks
+[13:23] like
+[13:24] and more on what my body can do so
+[13:27] i've taken up running again and i'm
+[13:30] training with my best friend
+[13:32] to do a race coming up
+[13:35] a race for ourselves that's because
+[13:38] we're in the pandemic and there's not
+[13:41] races actively going on right now
+[13:44] obviously
+[13:46] i'm having a lot of fun i've started to
+[13:49] do calisthenics
+[13:51] and i'm working on my handstands and
+[13:53] having a lot of fun with that
+[13:55] and i have this joy for life and
+[13:59] excitement about the future that i
+[14:01] didn't really have before
+[14:03] and being on a whole food plant-based
+[14:06] diet
+[14:07] has changed my life completely
+[14:10] and i'm really excited to continue to
+[14:12] share my journey
+[14:13] can keep learning keep tweaking and
+[14:17] refining my diet and lifestyle so that i
+[14:20] can live the best
+[14:21] life for me so if you'd like to see more
+[14:25] of me there will be more videos
+[14:27] coming subscribe below check out my
+[14:30] instagram
+[14:31] and my facebook account if you're
+[14:34] interested
+[14:35] and i'll talk to you guys soon bye
+[14:46] [Music]
+[14:46] [Applause]
+[14:51] you
+--- Intro ---
+[0:00] [Music]
+[0:06] hi
+[0:06] i'm meg and welcome to plant fit meg
+[0:09] today i wanted to talk a little bit
+[0:10] about
+[0:10] my vegan story and why i decided to go
+[0:14] vegan
+[0:15] and just a little bit about how that
+[0:17] came about
+[0:19] so it was the year 2016
+[0:22] and i had been cancer-free for 10 years
+[0:26] and was
+[0:26] very very excited about that milestone
+--- Story ---
+[0:30] i also was a new mom my son was four
+[0:33] months old at the time
+[0:34] and my husband and i were trying to
+[0:36] decide what his first solid foods were
+[0:39] would be and i with these
+[0:44] two things being cancer-free for a
+[0:47] decade
+[0:48] and with having a newborn at home i
+[0:51] really was reflecting on my past and
+[0:54] considering what my future was going to
+[0:56] look like
+[0:57] in terms of health and longevity
+[1:00] and reducing future disease risk
+[1:03] and these were things that i didn't
+[1:06] really think about
+[1:08] too much after my cancer diagnosis and
+[1:12] going through treatment and all of that
+[1:14] because
+[1:15] when you have cancer you're sort of put
+[1:17] on this
+[1:19] conveyor belt for lack of a better word
+[1:21] so you're put into the system
+[1:23] the health system and you're taking care
+[1:26] of
+[1:27] medically and you're not
+[1:30] presented with alternative options or
+[1:35] you know anything related to health or
+[1:36] nutrition
+[1:38] really so um
+[1:41] i had traditional treatment when i had
+[1:44] ovarian cancer
+[1:46] back in 2006 i had a couple of
+[1:49] surgeries as well as chemotherapy and so
+[1:54] i had no idea that
+[1:55] nutrition might play a role or might
+[1:57] have have
+[1:58] impact on my disease
+[2:02] so fast forward 10 years and i have my
+[2:05] four month old at home
+[2:07] and all these thoughts are swirling
+[2:09] through my head and i'm trying to figure
+[2:11] out
+[2:11] you know how am i gonna be healthy and
+[2:14] happy and strong
+[2:16] and give him the best start possible in
+[2:18] life
+[2:20] so i started to watch some documentaries
+[2:24] i sometimes joke with people that
+[2:26] netflix made me vegan because that's
+[2:28] where i started watching some
+[2:29] documentaries and getting some
+[2:31] information
+[2:32] so the first one i watched was fat sick
+[2:34] and nearly dead with joe
+[2:36] cross i also watched forks over knives
+[2:39] which had a very big impact on me i
+[2:41] watched conspiracy
+[2:43] and i also watched chris carr's crazy
+[2:46] sexy cancer
+[2:48] and so these documentaries really got me
+[2:51] thinking and got me
+[2:53] pointed in the direction of a
+[2:54] plant-based diet but i was still
+[2:56] skeptical i wanted to do my own research
+[2:59] i wanted to find other resources and
+[3:02] other information about it
+[3:05] so i went online i went digging found
+[3:09] nutritionfacts.org and other
+[3:12] great websites like physicians kitty
+[3:15] sorry
+[3:16] physicians committee for responsible
+[3:18] medicine
+[3:20] and decided
+[3:23] that i would go vegan and i decided to
+[3:27] do it overnight and
+[3:31] that we would feed our son a vegan diet
+[3:35] and my husband wasn't fully on board
+[3:38] with being fully plant-based but he's
+[3:40] always very supportive of anything i
+[3:42] want to
+[3:43] do or try so he was very open to it and
+--- How I Started ---
+[3:47] just sort of was like
+[3:48] if that's what you want to do and you
+[3:50] think that's what's best for you
+[3:52] then go for it give it a try
+[3:56] so i started out fairly solidly
+[4:00] whole food plant-based i was
+[4:04] nervous about consuming
+[4:08] processed vegan foods because i thought
+[4:10] i might become
+[4:12] quite reliant on them and i was very
+[4:14] unsure about
+[4:16] what the taste or texture would be
+[4:20] and if i would even enjoy them
+[4:23] so just to backtrack i did start with a
+[4:27] juice fast that was the very first thing
+[4:29] i did
+[4:30] after i made the decision so i followed
+[4:33] the reboot with joe
+[4:35] program which is joe cross's
+[4:40] juice fast program i did a five day
+[4:42] juice fast with one hot meal
+[4:44] in the middle of it that one hot meal
+[4:46] was
+[4:47] potatoes and vegetables just mixed
+[4:50] frozen
+[4:51] vegetables and roasted potatoes
+[4:54] and it was the most delicious meal i
+[4:57] have ever had
+[4:59] because after having juice for a couple
+[5:00] days a mix of 80
+[5:03] vegetable 20 fruit juice
+[5:07] that just tasted amazing and that was my
+[5:09] goal i wanted to
+[5:11] do something drastic do something
+[5:14] that i'd never done before and really
+[5:16] reset my taste buds
+[5:17] reset my palette and just kind of hit
+[5:20] the reset button
+[5:22] on on my tastes
+[5:26] and that's what happened and so i
+[5:28] started from there
+[5:29] i was definitely not someone who enjoyed
+[5:32] being in the kitchen
+[5:33] or liked cooking or doing dishes
+[5:37] or anything like that so it was
+[5:40] a little bit tricky in the beginning i
+[5:42] kept it as
+[5:43] simple as possible though i focused on
+[5:47] the things that i was eating that were
+[5:49] already vegan like
+[5:51] fruit and oatmeal and rice and potatoes
+[5:55] and things like that that i really loved
+[5:58] and then i just omitted
+[6:01] the animal product from any recipe that
+[6:03] i was doing so
+[6:05] my mom has this great chili recipe and i
+[6:08] would use that
+[6:09] and instead of using ground meat in it i
+[6:12] would substitute beans
+[6:14] so i just made really simple swaps to
+[6:16] start out to keep it very
+[6:19] simple and very easy i would eat
+[6:22] whole wheat pasta with marinara sauce
+[6:25] and veggies thrown in
+[6:27] and again i would just omit any animal
+[6:30] product from it
+[6:32] so that's how i got started and that's
+[6:35] why i made the decision to go vegan it
+[6:37] was really for health reasons
+[6:39] first and eventually i did watch 101
+[6:43] reasons to go vegan on youtube
+[6:45] and i also watched earthlings and
+[6:50] you know those gave different
+[6:52] perspectives as well
+[6:54] and i really came around to
+[6:58] wanting to be vegan not just for health
+[7:00] but for the environment
+[7:02] which also i saw in cowspiracy as well
+[7:06] and for the animals too
+[7:10] so it kind of came full circle it's
+[7:12] definitely started with health
+[7:14] and then came around for everything else
+[7:18] so i lost 60 pounds in the first year
+[7:23] of going vegan i did start out fairly
+[7:27] whole food plant-based but slowly
+[7:31] ended up gradually increasing
+[7:34] the amount of processed foods in my diet
+[7:37] and i didn't do that
+[7:38] intentionally however for a convenience
+[7:43] for sort of fitting in more in social
+[7:46] situations
+[7:49] i did end up incorporating more
+[7:51] processed foods
+[7:53] into my diet and i had had chronic
+--- Health Issues ---
+[7:56] health issues before going
+[7:58] vegan and these issues would flare up
+[8:02] from time to time after i went vegan
+[8:05] they improved quite a bit but i also had
+[8:08] flare-ups
+[8:09] and i didn't realize it at the time but
+[8:12] now in hindsight i can look back and say
+[8:15] you know the reincorporation of those
+[8:18] processed foods
+[8:19] really really negatively impacted my
+[8:22] health
+[8:23] i've been diagnosed with severe asthma
+[8:25] endometriosis
+[8:27] and i've also dealt with chronic pain
+[8:29] and fatigue that
+[8:31] has gone completely undiagnosed
+[8:34] so those issues would flare up and
+[8:37] it got to a point where i was having a
+[8:40] hard time doing daily activities
+[8:42] it was hard to get out of bed in the
+[8:44] morning it was hard to
+[8:47] shower to make
+[8:50] food to just do the day-to-day
+[8:53] activities i there was no way i could
+[8:55] do any anything physical at all like
+[8:59] running or dancing or anything like that
+[9:00] no way it was like
+[9:02] maybe a five-minute walk if i was lucky
+[9:06] and that was it and so i was becoming
+[9:09] very sedentary
+[9:13] and i had incorporated these processed
+[9:16] foods into my diet
+[9:18] i was feeling down so i was snacking a
+[9:20] lot more
+[9:21] snacking on things that are not health
+[9:24] promoting like
+[9:25] you know chips and candy and things like
+[9:29] that
+[9:30] and so i had kind of lost sight of where
+[9:33] i started with being whole food
+[9:36] plant-based and had kind of
+[9:38] my diet had devolved into looking
+[9:41] completely different
+[9:44] without me really realizing it fully at
+[9:47] the time i just wasn't being mindful and
+[9:49] me
+[9:49] being fully aware of what i was doing
+[9:53] and so i had a really bad flare
+[9:57] up in 2019
+[10:01] and i decided to go on
+[10:04] dr goldner's hyper-nourishing protocol
+[10:07] which is essentially a raw diet with
+[10:11] tons of greens omega-3s
+[10:16] tons of water and yeah it was
+[10:19] raw and i never thought i would eat a
+[10:23] raw diet
+[10:24] in my entire life i never thought i
+[10:26] would go vegan
+[10:27] let alone raw vegan so i did that for a
+[10:31] little while
+[10:32] and lo and behold it really
+[10:36] really improved my symptoms i things
+[10:39] were getting better
+[10:40] things were improving i was having a
+[10:42] reduction in pain
+[10:44] and i was breathing easier
+[10:47] and you know things were starting to
+[10:50] slowly
+[10:51] clear up a little bit however i live in
+[10:54] canada
+[10:55] and it was starting to get very cold
+[10:58] outside
+[10:58] and eating raw food when it's cold out i
+[11:02] know some people do it and they love it
+[11:04] and that's great but for me i really
+[11:07] wanted cook
+[11:08] cooked food again so i started to slowly
+[11:11] reincorporate cooked foods
+[11:13] being very mindful about
+[11:17] how i was doing that and
+[11:20] it was fine my health has just continued
+[11:23] to improve
+[11:25] since that point i'm fully recommitted
+[11:28] to eating a whole food plant-based diet
+[11:31] with
+[11:31] no oils i'm working on moving more
+[11:35] towards
+[11:35] an sos freestyle diet of eating
+[11:39] which would be free of salt oil and
+[11:42] sugar
+[11:43] i do love hot sauce so that is
+[11:46] something i'm working on maybe i'll play
+[11:49] with
+[11:50] working on a recipe for a salt free
+[11:53] version
+[11:54] i also did yoga teacher training which i
+[11:57] think has
+[11:58] really helped me a lot in many ways
+[12:01] it helped me change my perspective about
+[12:04] a lot of things and i just learned a lot
+[12:06] about myself
+[12:07] and about building awareness i also did
+[12:10] a yoga therapy training which was very
+[12:12] beneficial
+[12:14] i noticed holding patterns
+[12:17] and patterns of movement that i was
+[12:21] doing that i was not even aware of i was
+[12:24] holding tension in places that i didn't
+[12:26] even
+[12:26] realize i had tension and
+[12:30] that was very helpful in my healing
+[12:32] process as well
+[12:34] so as much as i credit dr goldner's
+[12:38] protocol as well as my
+[12:41] consistent diet of whole
+[12:44] plant foods it was also
+[12:47] down to other factors
+[12:50] you know sleep hygiene was really
+[12:52] important in getting a good
+[12:54] rhythm that way and
+[12:58] doing yoga taking yoga teacher training
+[13:02] doing yoga therapy all of these things
+[13:05] really contributed to my healing
+[13:08] so now i'm in the best health of my
+--- Conclusion ---
+[13:11] entire life
+[13:12] i can honestly say of my entire life
+[13:16] i've lost over 70 pounds i'm feeling
+[13:19] great and
+[13:20] i'm focusing less on what my body looks
+[13:23] like
+[13:24] and more on what my body can do so
+[13:27] i've taken up running again and i'm
+[13:30] training with my best friend
+[13:32] to do a race coming up
+[13:35] a race for ourselves that's because
+[13:38] we're in the pandemic and there's not
+[13:41] races actively going on right now
+[13:44] obviously
+[13:46] i'm having a lot of fun i've started to
+[13:49] do calisthenics
+[13:51] and i'm working on my handstands and
+[13:53] having a lot of fun with that
+[13:55] and i have this joy for life and
+[13:59] excitement about the future that i
+[14:01] didn't really have before
+[14:03] and being on a whole food plant-based
+[14:06] diet
+[14:07] has changed my life completely
+[14:10] and i'm really excited to continue to
+[14:12] share my journey
+[14:13] can keep learning keep tweaking and
+[14:17] refining my diet and lifestyle so that i
+[14:20] can live the best
+[14:21] life for me so if you'd like to see more
+[14:25] of me there will be more videos
+[14:27] coming subscribe below check out my
+[14:30] instagram
+[14:31] and my facebook account if you're
+[14:34] interested
+[14:35] and i'll talk to you guys soon bye
+[14:46] [Music]
+[14:46] [Applause]
+[14:51] you
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=-uSs8OiqO2I
+
+Recipe: Easy Vegan Chili (Mom’s Chili)
+August 17, 2020
+plantfitmeg
+When I first decided to go vegan, I had no idea what I was going to eat! It may sound dramatic, but I was accustomed to eating quite a bit of packaged, processed foods and didn’t spend much time in the kitchen prior to changing my diet. Mom to the rescue! She sent me her classic chili recipe, and with a few modifications, I had an instant favourite. This recipe was, and continues to be one of my go-to meals. Thanks Mom!
+
+
+
+
+
+Easy Vegan Chili (Mom’s Chili)
+Difficulty: easyPrint
+Ingredients
+
+1 can (796 ml/28 fl oz) diced tomatoes with liquid (or 2.5 cups freshly diced tomatoes + 1 cup water)
+1 can (540 ml/19 fl oz) black beans drained and rinsed (or 2 cups cooked black beans)
+1 can (540 ml/19 fl oz) kidney beans drained and rinsed (or 2 cups cooked kidney beans)
+1 diced onion
+1/2 diced red pepper
+1/2 diced green pepper
+2 stalks of celery, diced
+3 tbsp chili powder
+Directions
+
+Mix all ingredients over medium-high heat on the stovetop for 5-10 minutes.
+Reduce heat to low, cover, and simmer for 40 minutes (stirring occasionally).
+Enjoy!
+© 2020 Plant Fit Meg
+
+
+
+
+
+
+
+
+
+
+
+Title: Top 5 Things I Wish I Knew Before Going Plant-Based l Plant Fit Meg
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=ZmqiPBST3_0
+
+====
+
+Description:
+Deciding to eat a whole food plant-based diet is one of the best decisions I have ever made. Changing my relationship with food and changing the way I eat has changed my life for the better in so many ways. I often wish I had switched to a plant-based diet sooner, and that I had known certain things before I got started. Here’s my list of the top 5 things I wish I knew before going plant-based!
+
+====
+
+Transcript:
+--- Intro ---
+[0:00] [Music]
+[0:06] hi
+[0:06] i'm meg and welcome to plant fit meg
+[0:09] since i went plant-based in 2016
+[0:11] a lot has changed my mindset around
+[0:14] nutrition food fitness
+[0:17] it's all shifted quite a bit
+[0:20] and there are often times when i wish i
+[0:23] had gone plant-based
+[0:24] sooner and there are certain things i
+[0:27] wish i had known before i made the
+[0:28] decision to go
+[0:30] plant-based so without further ado here
+[0:33] are the five
+[0:33] things i wish i had known before i went
+[0:36] to plant-based
+--- The food will taste good ---
+[0:38] the food will taste good it will taste
+[0:41] very very good so i started with a juice
+[0:45] fast which i think
+[0:46] really really helped to reset my taste
+[0:48] buds it's not something that i would
+[0:50] recommend for everyone i don't think it
+[0:53] is for everybody
+[0:54] but it really helped me to reset my
+[0:57] palette
+[0:58] and i think from that point any food
+[1:00] that i was eating
+[1:02] was really delicious it was just really
+[1:06] tasty i was really skeptical about
+[1:09] any recipes any kitchen experiments
+[1:12] i was really unsure whether food would
+[1:15] be
+[1:16] enjoyable when i made the transition and
+[1:19] i was pleasantly surprised to find that
+[1:22] the vast majority of the time
+[1:24] when i would try something in the
+[1:26] kitchen it would turn out and it would
+[1:28] way way exceed my expectations it would
+[1:31] be
+[1:31] awesome it would be equal to or
+[1:35] taste even better than my previous
+[1:38] omnivorous
+[1:40] food diet it will get easier
+[1:44] so talking about being plant-based
+[1:47] or about being vegan can be really
+[1:50] difficult and can be really awkward
+[1:52] and can stir up a lot of
+[1:56] emotion in people even when you're
+[1:58] trying to be as
+[1:59] calm and
+[2:02] not pressuring anyone not pushing anyone
+[2:06] in any direction people can get very
+[2:08] defensive
+[2:09] very easily so i found those
+[2:11] conversations at the beginning to be
+[2:13] very tricky i tried not to talk about my
+[2:17] diet very much
+[2:19] i'm a people pleaser and i didn't want
+[2:21] to offend anyone
+[2:22] or come across as pushy or
+[2:26] preaching or anything like that and i
+[2:29] made the decision to go vegan
+[2:31] and to go plant-based for myself and for
+[2:33] my health
+[2:34] and i was just doing what i thought was
+[2:36] best for me and i didn't necessarily
+[2:39] feel the need to discuss it
+[2:42] or debate it or anything like that
+[2:45] i definitely took the dr doug lyle
+[2:48] approach
+[2:49] when it came to having conversations
+[2:51] about eating a plant-based diet
+[2:53] such as saying things like oh it's just
+[2:57] something i'm trying out
+[2:59] or you know my doctor seems to think
+[3:03] that
+[3:03] it's okay he isn't concerned
+[3:06] and you know i'm feeling good it seems
+[3:10] to be working for me
+[3:11] and that kind of took the pressure off
+[3:14] when having those conversations about
+[3:16] going plant-based it will also get
+[3:20] easier in terms of the actual
+[3:22] transition into plant-based eating so i
+[3:25] thought that the transition to eating a
+[3:27] plant-based diet would be
+[3:28] very difficult very challenging i
+[3:32] am not someone who enjoyed cooking at
+[3:34] all
+[3:35] i hated cooking i hated being in the
+[3:37] kitchen i spent the least amount of time
+[3:39] there
+[3:40] as possible so when i decided to go
+[3:43] plant-based i knew
+[3:45] that i would have to spend a lot more
+[3:47] time in the kitchen
+[3:48] just preparing meals making recipes
+[3:51] and you know just preparing
+[3:55] good healthy foods and
+[3:58] it was a little tricky in the beginning
+[4:00] for me
+[4:01] uh just to get the hang of it but very
+[4:04] quickly i got into a good rhythm and a
+[4:06] good routine of
+[4:07] planning my meals and preparing my meals
+[4:10] it got easy
+[4:11] really fast that change
+[4:14] of mindset from it being a big drag to
+[4:18] being in the kitchen to
+[4:20] actually starting to enjoy it that
+[4:23] happened
+[4:23] very quickly for me it will be fun
+--- It will be fun ---
+[4:26] you'll start to enjoy cooking i never
+[4:29] thought that going plant-based would be
+[4:31] fun
+[4:32] i decided to go plant-based originally
+[4:34] for my health
+[4:36] and i just saw it as sort of a necessary
+[4:40] thing to do that i felt strongly about
+[4:43] for my health
+[4:44] and to reduce for disease risk i didn't
+[4:47] think of it as something that would be
+[4:48] really
+[4:49] fun to do and so i thought of it
+[4:53] more as a challenge and more as
+[4:57] you know something that
+[5:01] seemed necessary but would be difficult
+[5:05] and it's turned into something really
+[5:08] really fun
+[5:09] and i've done a lot of experimenting in
+[5:11] the kitchen and coming up with my own
+[5:13] meals
+[5:14] and my own way of doing things
+[5:18] and it's really exciting and really fun
+[5:21] i also have a newfound love of cooking
+[5:23] that i really
+[5:24] don't think ever would have happened if
+[5:27] i had not made the switch to a
+[5:28] plant-based diet
+[5:30] i eat a broader variety of food now than
+[5:33] i did
+[5:33] before when i was eating an omnivorous
+[5:36] diet
+[5:37] so it's it's really cool and it's been
+[5:40] really fun to experiment with new
+[5:41] flavors new ingredients
+[5:43] different recipes lots of cool stuff
+[5:46] whole food
+--- Whole food ---
+[5:47] plant-based diet equals the greatest
+[5:51] health for me so
+[5:54] i've had chronic health issues since
+[5:57] prior to going vegan
+[5:58] and after i went vegan i continued to
+[6:02] have issues
+[6:03] i did start quite solidly as a whole
+[6:06] food plant-based eater but gradually
+[6:09] ended up adding more processed foods
+[6:12] into my diet
+[6:14] which really negatively contributed to
+[6:16] my health
+[6:18] so my health issues kept flaring up i
+[6:21] was very stressed out i was feeling very
+[6:24] down i was not eating that whole food
+[6:28] plant-based diet that i
+[6:30] originally started with so
+[6:34] i wish i had known earlier that being
+[6:37] consistent and sticking to a whole food
+[6:39] plant-based diet
+[6:40] would really help me regain my health
+[6:43] and help me lose weight to the point
+[6:45] that i'm at now
+[6:48] because i don't think i fully understood
+[6:51] or appreciated that being closer to a
+[6:54] whole food plant-based diet
+[6:56] as close as possible whole food
+[6:58] plant-based no oil
+[7:00] would really allow me to regain my
+[7:03] health in the best way
+[7:04] possible consistency is key
+--- Consistency ---
+[7:08] so i was not
+[7:11] like i mentioned i was not very
+[7:14] consistent with consuming
+[7:16] a whole food plant-based diet and
+[7:18] because of that
+[7:20] i ended up having my chronic health
+[7:23] issues
+[7:24] consistently flaring up once i was able
+[7:27] to shift my focus
+[7:29] and recommit to eating a fully
+[7:32] whole food plant-based diet i was able
+[7:35] to regain my health
+[7:37] in ways that i did not know were
+[7:39] possible
+[7:41] i haven't had to take any medication
+[7:44] in months being consistent was difficult
+[7:47] until feeling true health
+[7:51] and feeling good far outweighed
+[7:55] the taste of processed foods as much as
+[7:59] i wish i had known these things prior to
+[8:01] going plant-based
+[8:02] i can appreciate the journey that i've
+[8:04] been on and the different
+[8:06] stages that i've gone through in my
+[8:08] journey to get to where i am today
+[8:11] i've come a long way from where i
+[8:13] started and although it took me a while
+[8:15] to get there
+[8:16] i'm now enjoying the best health i've
+[8:17] experienced in my entire life
+[8:20] and i'm having a lot of fun being a
+[8:22] plant-based eater
+[8:23] being vegan and now sharing it
+[8:27] with you i've learned so much and i'm
+[8:29] looking forward to continuing the
+[8:31] journey
+[8:32] and continuing to share it here so if
+[8:34] you'd like to see more from me
+[8:36] please subscribe below you can check out
+[8:39] my
+[8:39] instagram website and facebook page
+[8:43] also linked below and i will talk to you
+[8:46] soon
+[8:47] [Music]
+[8:52] bye
+[8:55] you
+--- Intro ---
+[0:00] [Music]
+[0:06] hi
+[0:06] i'm meg and welcome to plant fit meg
+[0:09] since i went plant-based in 2016
+[0:11] a lot has changed my mindset around
+[0:14] nutrition food fitness
+[0:17] it's all shifted quite a bit
+[0:20] and there are often times when i wish i
+[0:23] had gone plant-based
+[0:24] sooner and there are certain things i
+[0:27] wish i had known before i made the
+[0:28] decision to go
+[0:30] plant-based so without further ado here
+[0:33] are the five
+[0:33] things i wish i had known before i went
+[0:36] to plant-based
+--- The food will taste good ---
+[0:38] the food will taste good it will taste
+[0:41] very very good so i started with a juice
+[0:45] fast which i think
+[0:46] really really helped to reset my taste
+[0:48] buds it's not something that i would
+[0:50] recommend for everyone i don't think it
+[0:53] is for everybody
+[0:54] but it really helped me to reset my
+[0:57] palette
+[0:58] and i think from that point any food
+[1:00] that i was eating
+[1:02] was really delicious it was just really
+[1:06] tasty i was really skeptical about
+[1:09] any recipes any kitchen experiments
+[1:12] i was really unsure whether food would
+[1:15] be
+[1:16] enjoyable when i made the transition and
+[1:19] i was pleasantly surprised to find that
+[1:22] the vast majority of the time
+[1:24] when i would try something in the
+[1:26] kitchen it would turn out and it would
+[1:28] way way exceed my expectations it would
+[1:31] be
+[1:31] awesome it would be equal to or
+[1:35] taste even better than my previous
+[1:38] omnivorous
+[1:40] food diet it will get easier
+[1:44] so talking about being plant-based
+[1:47] or about being vegan can be really
+[1:50] difficult and can be really awkward
+[1:52] and can stir up a lot of
+[1:56] emotion in people even when you're
+[1:58] trying to be as
+[1:59] calm and
+[2:02] not pressuring anyone not pushing anyone
+[2:06] in any direction people can get very
+[2:08] defensive
+[2:09] very easily so i found those
+[2:11] conversations at the beginning to be
+[2:13] very tricky i tried not to talk about my
+[2:17] diet very much
+[2:19] i'm a people pleaser and i didn't want
+[2:21] to offend anyone
+[2:22] or come across as pushy or
+[2:26] preaching or anything like that and i
+[2:29] made the decision to go vegan
+[2:31] and to go plant-based for myself and for
+[2:33] my health
+[2:34] and i was just doing what i thought was
+[2:36] best for me and i didn't necessarily
+[2:39] feel the need to discuss it
+[2:42] or debate it or anything like that
+[2:45] i definitely took the dr doug lyle
+[2:48] approach
+[2:49] when it came to having conversations
+[2:51] about eating a plant-based diet
+[2:53] such as saying things like oh it's just
+[2:57] something i'm trying out
+[2:59] or you know my doctor seems to think
+[3:03] that
+[3:03] it's okay he isn't concerned
+[3:06] and you know i'm feeling good it seems
+[3:10] to be working for me
+[3:11] and that kind of took the pressure off
+[3:14] when having those conversations about
+[3:16] going plant-based it will also get
+[3:20] easier in terms of the actual
+[3:22] transition into plant-based eating so i
+[3:25] thought that the transition to eating a
+[3:27] plant-based diet would be
+[3:28] very difficult very challenging i
+[3:32] am not someone who enjoyed cooking at
+[3:34] all
+[3:35] i hated cooking i hated being in the
+[3:37] kitchen i spent the least amount of time
+[3:39] there
+[3:40] as possible so when i decided to go
+[3:43] plant-based i knew
+[3:45] that i would have to spend a lot more
+[3:47] time in the kitchen
+[3:48] just preparing meals making recipes
+[3:51] and you know just preparing
+[3:55] good healthy foods and
+[3:58] it was a little tricky in the beginning
+[4:00] for me
+[4:01] uh just to get the hang of it but very
+[4:04] quickly i got into a good rhythm and a
+[4:06] good routine of
+[4:07] planning my meals and preparing my meals
+[4:10] it got easy
+[4:11] really fast that change
+[4:14] of mindset from it being a big drag to
+[4:18] being in the kitchen to
+[4:20] actually starting to enjoy it that
+[4:23] happened
+[4:23] very quickly for me it will be fun
+--- It will be fun ---
+[4:26] you'll start to enjoy cooking i never
+[4:29] thought that going plant-based would be
+[4:31] fun
+[4:32] i decided to go plant-based originally
+[4:34] for my health
+[4:36] and i just saw it as sort of a necessary
+[4:40] thing to do that i felt strongly about
+[4:43] for my health
+[4:44] and to reduce for disease risk i didn't
+[4:47] think of it as something that would be
+[4:48] really
+[4:49] fun to do and so i thought of it
+[4:53] more as a challenge and more as
+[4:57] you know something that
+[5:01] seemed necessary but would be difficult
+[5:05] and it's turned into something really
+[5:08] really fun
+[5:09] and i've done a lot of experimenting in
+[5:11] the kitchen and coming up with my own
+[5:13] meals
+[5:14] and my own way of doing things
+[5:18] and it's really exciting and really fun
+[5:21] i also have a newfound love of cooking
+[5:23] that i really
+[5:24] don't think ever would have happened if
+[5:27] i had not made the switch to a
+[5:28] plant-based diet
+[5:30] i eat a broader variety of food now than
+[5:33] i did
+[5:33] before when i was eating an omnivorous
+[5:36] diet
+[5:37] so it's it's really cool and it's been
+[5:40] really fun to experiment with new
+[5:41] flavors new ingredients
+[5:43] different recipes lots of cool stuff
+[5:46] whole food
+--- Whole food ---
+[5:47] plant-based diet equals the greatest
+[5:51] health for me so
+[5:54] i've had chronic health issues since
+[5:57] prior to going vegan
+[5:58] and after i went vegan i continued to
+[6:02] have issues
+[6:03] i did start quite solidly as a whole
+[6:06] food plant-based eater but gradually
+[6:09] ended up adding more processed foods
+[6:12] into my diet
+[6:14] which really negatively contributed to
+[6:16] my health
+[6:18] so my health issues kept flaring up i
+[6:21] was very stressed out i was feeling very
+[6:24] down i was not eating that whole food
+[6:28] plant-based diet that i
+[6:30] originally started with so
+[6:34] i wish i had known earlier that being
+[6:37] consistent and sticking to a whole food
+[6:39] plant-based diet
+[6:40] would really help me regain my health
+[6:43] and help me lose weight to the point
+[6:45] that i'm at now
+[6:48] because i don't think i fully understood
+[6:51] or appreciated that being closer to a
+[6:54] whole food plant-based diet
+[6:56] as close as possible whole food
+[6:58] plant-based no oil
+[7:00] would really allow me to regain my
+[7:03] health in the best way
+[7:04] possible consistency is key
+--- Consistency ---
+[7:08] so i was not
+[7:11] like i mentioned i was not very
+[7:14] consistent with consuming
+[7:16] a whole food plant-based diet and
+[7:18] because of that
+[7:20] i ended up having my chronic health
+[7:23] issues
+[7:24] consistently flaring up once i was able
+[7:27] to shift my focus
+[7:29] and recommit to eating a fully
+[7:32] whole food plant-based diet i was able
+[7:35] to regain my health
+[7:37] in ways that i did not know were
+[7:39] possible
+[7:41] i haven't had to take any medication
+[7:44] in months being consistent was difficult
+[7:47] until feeling true health
+[7:51] and feeling good far outweighed
+[7:55] the taste of processed foods as much as
+[7:59] i wish i had known these things prior to
+[8:01] going plant-based
+[8:02] i can appreciate the journey that i've
+[8:04] been on and the different
+[8:06] stages that i've gone through in my
+[8:08] journey to get to where i am today
+[8:11] i've come a long way from where i
+[8:13] started and although it took me a while
+[8:15] to get there
+[8:16] i'm now enjoying the best health i've
+[8:17] experienced in my entire life
+[8:20] and i'm having a lot of fun being a
+[8:22] plant-based eater
+[8:23] being vegan and now sharing it
+[8:27] with you i've learned so much and i'm
+[8:29] looking forward to continuing the
+[8:31] journey
+[8:32] and continuing to share it here so if
+[8:34] you'd like to see more from me
+[8:36] please subscribe below you can check out
+[8:39] my
+[8:39] instagram website and facebook page
+[8:43] also linked below and i will talk to you
+[8:46] soon
+[8:47] [Music]
+[8:52] bye
+[8:55] you
+
+
+
+
+
+
+
+
+
+
+Recipe: Baked Steel Cut Oats – Apple Carrot Cinnamon
+September 2, 2020
+plantfitmeg
+I love oats of all kinds – quick, rolled, steel cut, or groats. You name the oats, I love ’em all! I like to switch it up often, but the current favourite in our household is this sweet, cinnamon-y baked steel cut oat recipe.
+
+
+
+
+
+
+Baked Steel Cut Oats - Apple Carrot Cinnamon
+Difficulty: easyPrint
+Ingredients
+
+1 cup steel cut oats
+1 shredded apple (1 cup)
+1 shredded carrot (1/2-2/3 cup)
+1 cup apple sauce
+1 cup non-dairy milk
+1 cup water
+2 tbsp ground flaxseed
+1 tsp cinnamon
+1 tsp vanilla extract (or vanilla powder)
+Directions
+
+Preheat oven to 375F
+Mix all ingredients in a large bowl
+Add to baking dish (we have made this recipe using either an 8” x 11” or a square 8” x 8” dish)
+Bake for 45-50 minutes (see notes)
+Allow to cool slightly before serving
+Add additional toppings if desired – more shredded carrot, shredded zucchini, your favourite fruit, nuts, or raisins.
+Notes
+
+The steel cut oats will be oatmeal style – they will not solidify.
+The longer the bake time, the drier the finished product will be. When using the 8 x 11” baking dish, we allow it to cook for 45 minutes, and tend to leave the oats in the oven longer when using the smaller 8 x 8″ square pan.
+© 2020 Plant Fit Meg
+
+
+
+
+
+
+
+
+
+
+
+
+Recipe: Cozy Vegetable Lentil Soup
+September 9, 2020
+plantfitmeg
+Soups and stews make for such hearty, comforting meals. We love soup as the weather gets cooler and we’re longing for a nice, warming meal. This cozy veggie lentil soup is also great for cold and flu season. It can be blended or partially blended for a smoother consistency if you prefer a creamier texture (or if you have a sore throat). My husband says, “this soup warms the cockles.” I tend to agree, but I also think he may just like saying cockles. Try it out for yourself and let us know what you think.
+
+
+
+
+Cozy Vegetable Lentil Soup
+Difficulty: easyPrint
+Ingredients
+
+1/2 large diced onion (1 cup)
+2 diced carrots (1 cup)
+2 diced celery stalks (3/4 cup)
+2 cloves garlic, pressed or minced
+2 cups soup mix, rinsed (*see note)
+4 cups reduced sodium vegetable broth
+4 cups water
+2 tsp rosemary
+1 tsp thyme
+1 tsp smoked paprika
+2 cups chopped spinach
+Directions
+
+Add all ingredients (except spinach) to a pot over medium-high heat.
+Bring to a boil.
+Reduce heat to low, cover, and simmer for 30-40 minutes (stirring occasionally).
+Add chopped spinach and mix thoroughly.
+Enjoy!
+Note: We usually use a soup mix that contains green and yellow split peas, rice, barley, and red split lentils (President’s Choice Blue Menu Soup Mix). You can use a similar soup mix or make your own by mixing and matching split peas, split lentils, canned (or cooked) beans, rice and/or barley.
+
+© 2020 Plant Fit Meg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recipe: Vegan Chocolate Zucchini Cupcakes (Oil Free)
+September 16, 2020
+plantfitmeg
+We recently made these one bowl chocolate zucchini cupcakes for our son’s birthday. The cupcakes are delicious, easy to make, and kid-approved (don’t worry, the zucchini is undetectable)! The chocolate frosting is refined sugar free, oil free, nut free, and made with whole food plant-based ingredients.
+
+These tasty cupcakes are also omnivore-approved! My in-laws loved them and even asked for the recipe. That’s definitely a win in my books! We hope you enjoy them as much as we do!
+
+Update: I’ve included two versions of the chocolate frosting recipe below. They utilize the same ingredients in slightly different ratios. The original recipe using dates is a bit thicker and sweeter. The 2.0 version is just as delicious, but uses date syrup rather than dates. Choose your own adventure!
+
+
+
+
+
+
+
+Vegan Chocolate Zucchini Cupcakes
+Difficulty: easyPrint
+by: Meg Gray
+Plant Fit Meg
+
+Ingredients
+
+Dry
+
+1 cup oats
+1 cup oat flour
+1/3 cup cocoa powder
+1.5 tsp baking powder
+1.5 tsp baking soda
+Wet
+
+1.5 cups shredded zucchini (about 1 large zucchini)
+1 cup unsweetened plant-based milk
+1/2 cup date syrup (https://plantfitmeg.com/2020/07/15/date-syrup/)
+2 tsp vanilla extract (or use vanilla powder with dry ingredients)
+1/4 cup chocolate chips
+Directions
+
+Preheat oven to 350 F and line muffin pan with silicone muffin cups (or parchment paper liners).
+Add dry ingredients to a large bowl, mix.
+Add wet ingredients and mix. Fold in chocolate chips.
+Scoop batter into muffin liners
+Bake for 40-45 minutes
+Allow to cool completely
+Optional-Top with frosting (see recipe below)
+
+
+Chocolate Frosting (Oil Free, Refined Sugar Free, Nut Free)
+Difficulty: easyPrint
+by: Meg Gray
+Plant Fit Meg
+
+Ingredients
+
+1/2 cooked peeled sweet potato
+1.5 cup dates
+1/2-3/4 cup boiling water (start with 1/2 cup)
+1/2 cup cocoa powder
+1 tsp vanilla extract (or vanilla powder)
+Directions
+
+Add all ingredients to high-speed blender, and blend until smooth. Add more water 1-2 tbsp at a time to reach desired consistency.
+Chocolate Frosting 2.0 (Oil Free, Refined Sugar Free, Nut Free)
+Difficulty: easyPrint
+by: Meg Gray
+Plant Fit Meg
+
+Ingredients
+
+1 cooked peeled sweet potato
+1/2 cup cocoa powder
+1/2 cup date syrup – https://plantfitmeg.com/2020/07/15/date-syrup/
+1/2 cup water
+1 tsp vanilla extract (or vanilla powder)
+Directions
+
+Add all ingredients to high-speed blender, and blend until smooth.
+Taste test. Add more date syrup for added sweetness or more cocoa if it’s too sweet.
+
+
+
+
+
+
+
+
+
+
+
+
