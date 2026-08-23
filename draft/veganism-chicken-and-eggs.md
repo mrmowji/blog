@@ -19018,5 +19018,43 @@ Taste test. Add more date syrup for added sweetness or more cocoa if it’s too 
 
 
 
+https://www.youtube.com/watch?v=E3jexcEc9HE
+
+Recipe: Tofu Scramble
+September 23, 2020
+plantfitmeg
+It took me a while to get into eating tofu. When I first started eating a plant-based diet, I was afraid of tofu! The only tofu I had ever eaten was plain and squidgy. Tofu is now a staple in our diets and we eat tofu scramble regularly. This recipe is easy to put together and so tasty! Save even more time by using frozen pre-chopped veggies.
 
 
+Tofu Scramble
+Difficulty: easyPrint
+Ingredients
+
+1 block firm or extra firm tofu
+1/2 medium onion, diced
+1/2 red pepper, diced
+1/2 green pepper, diced
+2 cups chopped kale (or spinach or other greens)
+1 tbsp coconut aminos (or tamari)
+1 tsp date syrup (or maple syrup)-optional
+1/4 cup nutritional yeast
+1 tsp turmeric
+1/8 tsp black pepper
+Directions
+
+Wrap tofu in a towel (or paper towel) and press slightly to remove excess moisture.
+Warm skillet over medium-high heat. Add onions and peppers to pan. Cook 3 minutes or so, adding a little water to the pan as needed to prevent sticking.
+Crumble tofu into skillet.
+Add the remaining ingredients (except greens): coconut aminos, date syrup, nutritional yeast, turmeric, black pepper.
+Mix thoroughly.
+Cover and simmer about 5 minutes stirring occasionally. Add water as needed to prevent sticking.
+Add greens and mix again. Cook another 3 minutes or so to fully incorporate greens into scramble.
+Serving Suggestions
+
+sandwich or burrito – scramble, greens, and other veggies.
+optional – add zesty black beans for a spicy addition https://plantfitmeg.com/2020/08/18/megs-mishmosh-meal-three-ingredient-zesty-black-beans/
+tofu scramble salad – serve on top of mixed greens with potatoes on the side
+my son’s current favourite is tofu scramble with potatoes and broccoli
+© 2020 Plant Fit Meg
+
+Update: This recipe is featured in my first What I Eat in a Day blog post and video.
