@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+  <script>
+    const DARK_THEME = 'dark';
+    const LIGHT_THEME = 'light';
+    const THEME = "theme";
+
+    function applyTheme() {
+      // Do not use body here as it wouldn't be available yet.
+      let html = document.documentElement;
+      let currentTheme = localStorage.getItem(THEME);
+
+      // Handle macOS dark theme preference.
+      // When the user hasn't set a preference in the site and the preferred
+      // scheme is dark, default to dark.
+      let darkModeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      if (!currentTheme && darkModeQuery.matches) {
+        localStorage.setItem(THEME, DARK_THEME);
+        currentTheme = DARK_THEME;
+      }
+
+      if (currentTheme === DARK_THEME) {
+        html.classList.add(DARK_THEME);
+        html.classList.remove(LIGHT_THEME);
+      } else {
+        html.classList.add(LIGHT_THEME);
+        html.classList.remove(DARK_THEME);
+      }
+
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+      toggleThemeButton.textContent = (currentTheme === DARK_THEME ? "روشن" : "تاریک");
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      const toggleThemeButton = document.getElementById('toggle-theme-button');
+
+      toggleThemeButton.onclick = function() {
+        let currentTheme = localStorage.getItem(THEME);
+        let newTheme = (currentTheme === DARK_THEME ? LIGHT_THEME : DARK_THEME);
+        localStorage.setItem(THEME, newTheme);
+        console.log(THEME, newTheme);
+        applyTheme();
+      }
+
+      applyTheme();
+    });
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>زندگی واقعی: جدیدترین شبکه‌ی اجتماعی</title>
+  <meta name="description" content="معرفی شبکه‌ی اجتماعی جدیدی به اسم «زندگی واقعی» که توش به جای لایک و کامنت، واقعا با دوستات و خانواده وقت می‌گذرونی." />
+  <meta property="og:title" content="زندگی واقعی: جدیدترین شبکه‌ی اجتماعی">
+  <meta property="og:description" content="معرفی شبکه‌ی اجتماعی جدیدی به اسم «زندگی واقعی» که توش به جای لایک و کامنت، واقعا با دوستات و خانواده وقت می‌گذرونی.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@mrmowji" />
+  <meta name="twitter:title" content="زندگی واقعی: جدیدترین شبکه‌ی اجتماعی" />
+  <meta name="twitter:description" content="معرفی شبکه‌ی اجتماعی جدیدی به اسم «زندگی واقعی» که توش به جای لایک و کامنت، واقعا با دوستات و خانواده وقت می‌گذرونی." />
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/layout/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/layout/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/layout/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/layout/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/layout/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/layout/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/layout/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/layout/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/layout/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/layout/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/layout/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/layout/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/layout/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/images/layout/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="google-site-verification" content="G-2JdKyfI7lyA00mbcUJAQT3IwsdaihN1f2gbiwHlC8" />
+  <link rel="stylesheet" href="/assets/css/site.css" />
+  <script src="/assets/js/highlight.js" defer></script>
+  <script src="/assets/js/site.js" defer></script>
+</head>
+<body>
+  <header class=""><div style="display: flex; justify-content: space-between; padding-bottom: 5px; border-bottom: 2px solid #616161">
+      <a href="/"><img class="icon" src="/assets/images/layout/icon-transparent.png"></a>
+      <nav>
+        <a href="/#posts">
+          نوشته‌ها
+        </a>
+        <a href="/about">
+          درباره
+        </a>
+        <a href="/cv">
+          رزومه
+        </a>
+        <a href="/">
+          تماس
+        </a>
+        <a id="toggle-theme-button">تاریک</a>
+      </nav>
+    </div></header>
+  <main>
+    
+<h1>زندگی واقعی: جدیدترین شبکه‌ی اجتماعی</h1>
+<article>
+  <p>این پست، ترجمه‌ی آزادی از مقاله‌ای با همین اسم توی
+<a href="https://gomakethings.com/">وبلاگ Chris Ferdinandi</a>ه.
+البته اینو بگم که خودمو یه آدم اجتماعی نمی‌دونم و شاید زیاد با «دوستان» در ارتباط نباشم، به این شکلی که گفته شده.
+ولی همچنان این پیشنهادات رو خیلی ارزشمندتر از شبکه‌های اجتماعی فعلی می‌دونم.</p>
+<hr>
+<p>امروز می‌خوام یه شبکه‌ی اجتماعی کاملا جدید و با حال‌وهوای قدیمی رو بهتون معرفی کنم؛ شبکه‌ای که تازه راهش انداختم.</p>
+<p>اسمش «زندگی واقعی»ه و از همین امروز می‌تونی عضو بشی.</p>
+<figure>
+  <img src="/assets/images/content/friends-eating-melon-in-the-park.png">
+  <figcaption>دوستان، توی پارک لاله‌ی تهران در حال تناول طالبی. ایشالا که کوفتشون شه.</figcaption>
+</figure>
+<h2>ارتباطات (Connections)</h2>
+<p>قلب زندگی واقعی، خانواده و دوستاته.</p>
+<p>دوست‌ها <em>آدم‌هایی نیستن</em> که از مهدکودک یا دبستان دیگه ندیدیشون، یا دو سال پیش یه شب توی یه مهمونی اتفاقی باهاشون آشنا شدی. دوست، کسیه که واقعا باهاش وقت می‌گذرونی؛ کسی که بخشی از زندگی روزمره‌ته.</p>
+<p>می‌تونی آدم‌های مختلفی رو توی زندگی واقعی داشته باشی: رفیق‌های صمیمی، اعضای خانواده، همکارها و آدم‌های دیگه‌ای که برات مهمن. لازم هم نیست برای هر کدوم یه برچسب یا دسته‌بندی درست کنی. زندگی واقعی قرار نیست پیچیده باشه.</p>
+<h2>لایک (Like)</h2>
+<p>توی زندگی واقعی هم می‌تونی لایک کنی.</p>
+<p>مثلا وقتی دوستت یه خاطره‌ی خوب تعریف می‌کنه، بخند. وقتی مامانت غذایی که درست کرده خوشمزه‌ست، بهش بگو. وقتی کاری کرده که خوشحالت کرده، بغلش کن. تشکر کن. بوس کن. بگو دوسشون داری. بگو. ایموجی نفرست. اصن همینجوری این کارها رو بکن، برای همه‌ی کارهایی که تا الآن کردن.</p>
+<p>من معتقدم این‌ها از یه قلب قرمز کوچیک خیلی بهترن.</p>
+<h2>رویدادها (Events)</h2>
+<p>بیشتر ارتباطاتت در زندگی واقعی، از طریق «رویدادها» اتفاق می‌افته.</p>
+<p>رویداد می‌تونه هر کاری باشه که تصمیم می‌گیری با آدم‌های مورد علاقه‌ت انجام بدی: یه قهوه خوردن، شام، سینما، پیاده‌روی، سفر، بازی یا حتی یه دورهمی ساده توی خونه.</p>
+<p>برای هماهنگ کردنش می‌تونی ایمیل بزنی یا پیامک بدی. حتی می‌تونی از یکی از قدیمی‌ترین و در عین حال بهترین امکانات زندگی واقعی استفاده کنی: <strong>تلفن زدن!</strong></p>
+<p>وقتی برنامه‌تون قطعی شد، رویداد رو توی تقویمت ثبت کن؛ مهم نیست تقویمت دیجیتالی باشه یا همون تقویم کاغذی که به یخچال زدی.</p>
+<p>بعد، وقتی روز و ساعتش رسید، فقط برو.</p>
+<p>نه نوتیفیکیشنی لازمه، نه آنلاین بودن، نه Seen کردن پیام. فقط برو و با افراد وقت بگذرون.</p>
+<h2>خاطره‌ها (Memories)</h2>
+<p>رویدادها تموم می‌شن، ولی چیزی که ازشون می‌مونه خاطره‌ست؛ خاطره‌های خوب و البته گاهی هم خاطره‌هایی که ترجیح می‌دادی هیچ‌وقت اتفاق نیفتاده باشن!</p>
+<p>در زندگی واقعی، خاطره‌ها برای خودت و آدم‌هایی هستن که واقعا اون لحظه رو باهات زندگی کردن.</p>
+<p>می‌تونی عکس‌ها و خاطراتت رو با دوستات به اشتراک بذاری؛ با همون ابزارهای ساده‌ای که برای هماهنگ کردن رویدادها استفاده می‌کنی: ایمیل، پیامک یا حتی یک تماس تلفنی.</p>
+<p>یکی از قابلیت‌های قدیمی و دوست‌داشتنی زندگی واقعی هم «دیوار»ه. روی دیوار می‌تونی عکس‌های خاطره‌هات رو داخل چیزی که بهش می‌گیم «قاب عکس» بذاری.</p>
+<h2>حریم خصوصی (Privacy)</h2>
+<p>می‌دونیم حریم خصوصی مهمه.</p>
+<p>اگه نمی‌خوای یه رویداد یا خاطره رو با یکی از دوستات به اشتراک بذاری، <strong>لازم نیست بهش نشونش بدی.</strong>
+هیچ تنظیمات خاصی لازم نیست.</p>
+<p>همین‌قدر ساده.</p>
+<h2>شروع کار</h2>
+<p>تا اینجا احتمالا متوجه شدی که زندگی واقعی قراره یه شبکه‌ی اجتماعی متفاوت باشه.</p>
+<p>این شبکه‌ی اجتماعی قرار نیست جای زندگی واقعی رو بگیره؛ <strong>قراره یادمون بندازه خودِ زندگی واقعی هنوز ارزشمندتر از هر فید و تایم‌لاین و الگوریتمیه.</strong></p>
+<p>وقتی کنار کسی نشستی که واقعا می‌شناسیش، لازم نیست فیلتر بذاری، هشتگ بزنی، یا به این فکر کنی که این لحظه چندتا لایک می‌گیره. فقط خودتی، شخص یا افرادی که دوروبرتن، و یه لحظه‌ی واقعی.</p>
+<p><strong>می‌خوای عضو شی؟ اینطوری شروع کن:</strong></p>
+<p>۱. به یه شخص یا اشخاصی که میشناسی ایمیل بزن، پیامک بده یا زنگ بزن و دعوتشون کن یه کاری رو با هم انجام بدین.<br>
+۲. زمان و مکان رو مشخص کن و رویداد رو توی تقویمت ثبت کن. مطمئن شو شخص یا اشخاص مقابل هم همین کارو می‌کنن.
+۳. روز و ساعت مقرر، واقعا برو.<br>
+۴. با هم وقت بگذرونین و خوش بگذرونین.<br>
+۵. اگر عکس یا خاطره‌ای از اون روز داشتی، با اون افراد به اشتراک بذار.<br>
+۶. دوباره برگرد به مرحله‌ی اول.</p>
+<p>دیگه منتظر چی هستی؟
+<strong>از امروز شروع کن.</strong></p>
+
+  
+
+  <p class="comments">
+    می‌تونی نظرتو از طریق
+    <a target="_blank"
+      href="mailto:javan.mojtaba@gmail.com?subject=زندگی واقعی: جدیدترین شبکه‌ی اجتماعی&body=https://mrmowji.com/real-life-social-network/">
+      ایمیل
+    </a>
+    /
+    <a target="_blank"
+      href="https://t.me/mrmowji">
+      تلگرام
+    </a>
+    برام بفرستی.
+  </p>
+</article>
+  </main>
+</body>
+</html>
