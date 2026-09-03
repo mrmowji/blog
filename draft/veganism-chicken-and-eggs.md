@@ -19058,3 +19058,3567 @@ my son’s current favourite is tofu scramble with potatoes and broccoli
 © 2020 Plant Fit Meg
 
 Update: This recipe is featured in my first What I Eat in a Day blog post and video.
+
+
+
+
+
+
+
+
+
+
+Title: How We Lost Over 100 lbs l Plant Fit Meg
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=90o8aq_nzik
+
+====
+
+We have lost over 100 lbs as a couple! We are so excited to share how we lost the weight and regained our health.
+
+Blog Post - https://plantfitmeg.com/2020/09/27/how-we-lost-over-100-lbs/
+My Story - https://plantfitmeg.com/my-story/
+Defining Terms (Veganism, Plant-Based, Whole Food Plant-Based) -
+https://plantfitmeg.com/defining-terms-veganism-plant-based-whole-food-plant-based/
+Disclaimer - https://plantfitmeg.com/disclaimer/
+
+Website - https://plantfitmeg.com
+Facebook -   / plant-fit-meg-10.  .
+Instagram - @plantfitmeg   / plantfitmeg  
+
+As an Amazon Associate, I earn from qualifying purchases.
+Amazon Shop - https://www.amazon.com/shop/plantfitmeg
+
+Dr. Brooke Goldner’s Hypernourishing Protocol - 
+
+Evolutionary Psychology - Dr. Doug Lisle and Dr. Jen Howk https://esteemdynamics.com/
+How to Lose Weight Without Losing Your Mind -    [• How to Lose Weight Without Losing Your Mind  ](https://www.youtube.com/watch?v=xAdqLB6bTuQ&t=2810s)
+
+Calorie Density 101 - Chef AJ    • Chef AJ LIVE! | Calorie Density 101  
+
+Black Bean Burgers from How Not to Die Cookbook - Dr. Greger - https://nutritionfacts.org/recipe/bla...
+
+====
+
+Transcript:
+[0:00] and we get to share clothes
+[0:05] [Music]
+[0:11] hi i'm meg welcome to plant fit meg hi i'm meg's husband so today we're going to do a video talking about our
+[0:19] 100 pound weight loss so between the two of us we have lost
+[0:26] over 100 pounds yeah so we thought we'd talk a little bit about how we lost the weight and
+[0:33] how that's gone that feels good yeah all that stuff health-wise especially yeah so i initially went plant-based for my health
+[0:42] and uh changed my diet and switched things up for health reasons uh but i did know that i would lose weight in the process
+[0:51] and i was happy that i would lose weight in the process because i've been one of those people who like many people
+[0:59] who have struggled with their weight it's gone up and down and all around
+[1:06] over the years so i've tried to lose weight many times in the past with varying degrees of success
+[1:14] and i would often cut carbs reduce my portion sizes
+[1:23] exercise like i mean like go nuts at the gym
+[1:28] [Music]
+[1:30] just take a million dance classes try to just move my body as much as humanly possible and you know
+[1:39] that would be successful weight loss you know i'd keep it up for
+[1:47] a few weeks maybe a month a couple months maybe a few months yeah i'd lose some weight yay i lost some weight
+[1:55] and then go back to my old ways of eating processed food and maybe not moving my body as much
+[2:02] and humpty dumpty chips yeah and i would
+[2:09] inevitably regain the weight and more often than not gain more than what i had lost so over time
+[2:16] the trend of my weight was upwards for me i've always been a relatively small guy
+[2:24] i'm about five seven and i've um you know always been about 120 to 130 pounds for the longest time
+[2:33] and then you just hate this guy yeah most people hate that you know i'm the guy that goes to the sale rack and always finds the small cause
+[2:40] you know it's just how it goes but um you know i've always been relatively small like i was saying so when we had riordan our son
+[2:49] we were 30 years old and meg was pregnant and i gained weight and you know a lot of uh new parents
+[2:55] men fathers whatever go through that my dad was always like oh yes you know how it goes over 30 you're going to start packing them on or you
+[3:03] have a kid and you pay a little bit less attention maybe to yourself in terms of self-care so i gained um
+[3:11] over a couple years i gained about 30 pounds which for somebody of my frame and build and having been used to
+[3:19] holding about 120 pounds worth of weight my entire life it seemed quite intense it really did i had to buy all new pants which
+[3:27] really cheesed me off um so anyways uh that that was a big impact for me
+[3:34] uh and then when meg decided that she was interested in going into a vegan plant-based
+[3:41] style of eating um i wasn't fully on board i wasn't like yeah i'm gonna go full in on this with her she
+[3:48] was she had made the decision it was a night and day thing it was one day next and she was into it um for me i was more gradual
+[3:58] it took me i would say about four months of kind of uh eating plant-based at home all the time because that's how meg was
+[4:06] eating that's how we were feeding our child um but outside of home i was still eating a lot of kind of junkier things things that weren't uh
+[4:14] definitely were not vegan mac attacks yeah i go through mac attacks i'm a big pepperoni and cheese pizza
+[4:21] person was and now i'm i do my own version of that which is phenomenal so over the time period of
+[4:29] about four months i i graduated into full vegan plant-based style eating
+[4:35] yeah so in the first year of being vegan i lost about 60 pounds yeah yeah and for me it was somewhere in
+[4:44] the neck of about 15 to 20 pounds yeah over that first year and i'd love to say that in the following year you know i lost a
+[4:53] little more weight and then we lost a little more weight and we were super healthy but that's not the way that our
+[5:01] reality didn't play that way our life did not pan out that way and for most people it's not a linear process when you're losing weight
+[5:10] it's not like you start losing and then you just continue to lose and lose and lose and lose without ever going off track or ever having you
+[5:18] know times when your weight goes up so we want to let people know that it's
+[5:25] uh common and it's okay to go off track and things happen when i first went plant-based i was
+[5:34] fairly committed to being as whole food as possible i did eat minimally processed stuff very regularly like pasta and
+[5:42] bread and things like that um but i was really staying away from any packaged vegan foods or junk foods and stuff like that
+[5:50] and over time gradually those things eked their way back into our diets for convenience
+[5:57] and um to not put people out and various reasons and you can go check out my story we'll have it linked below
+[6:05] for more information specifically about that um but yeah we kind of went off track a little bit i went off
+[6:13] track a little bit chris wasn't really committed i wasn't on track to begin with at the time yeah so
+[6:21] we went off track i have had health issues for a long time and would have flare-ups and
+[6:28] um i had a particularly bad flare-up in the fall
+[6:35] of 2019 and at that point on the recommendation of a plant-based doctor i decided
+[6:42] to try dr goldner's hyper-nourishing protocol i was dealing with chronic pain chronic fatigue
+[6:49] asthma and endometriosis so i did that for a while lost a little weight a bit of weight doing that
+[6:56] my health greatly greatly improved and i was really excited about that and since then
+[7:04] we've gone back i have gone back to a whole food plant-based no oil diet
+[7:11] yeah i would say i'm quite close to how meg eats in terms of a whole food plant-based and uh oil-free
+[7:19] um i still eat things like bread and pastas uh they're things that i haven't been able to
+[7:26] say no to i eat them on occasion yeah i don't look at those foods as bad foods no and it's always a bit of
+[7:34] a learning curve meg was saying earlier that when we kind of went through the phase of of getting back into more processed things
+[7:41] kind of earlier days um i would attribute that to a degree just the learning curve of how to eat a plant-based diet you know
+[7:50] you kind of fall back into those convenience foods those processed foods um mainly because you're you're so kind
+[7:58] of growing into what's going to become your regular diet um and that's okay i guess my main point
+[8:05] there is to say most or it is quite common that people will relapse they'll kind of go back into
+[8:14] things that might not be the best options for them um but don't get discouraged don't lose that flow you'll kind of find your way back to it
+[8:22] assuming that you you keep yourself on task yeah for sure and it can be difficult to get back on track
+[8:30] once you've been eating those processed foods for a while because you get addicted to them and they taste good they're salty they're
+[8:38] fatty they have that combination of um those evolutionarily
+[8:45] needed things yeah it's the most calorie dense thing in the environment it's what you're going to seek out if it's
+[8:52] in your environment so get it out of your house preferably if you can depending on what
+[8:59] your situation is who you live with and what they're consuming and all of that um anyway so i've lost a total
+[9:08] of 78 pounds since i first went plant-based
+[9:16] and i've lost about 35 pounds in the last year since really committing to a whole food plant-based no
+[9:24] oil diet um for me um kind of over the course of everything since i originally started
+[9:32] putting on weight at about 30 i'm we're now 35 for perspective timeline wise uh i've lost approximately 30 to 35
+[9:40] pounds and it kind of varies a couple pounds here and there thank you um for for me it was extremely noticeable like i said i'm a relatively
+[9:49] small person to begin with so um it it felt like a very big uh achievement in terms of a weight
+[9:57] loss um for me like like we were saying it's it took me a while to get fully into having a plant-based diet um
+[10:05] but i think what really kept my weight on kind of longer term because when i had gained a little bit of weight in the past it would go
+[10:12] away again really quickly um there are some vices that i've had uh for instance they're accidentally vegan
+[10:22] but spicy doritos were something that was dangerous i was highly addicted to for a long time
+[10:30] i like to play a lot of late night video games and i'd be sitting there with my bag of doritos and i mean it would be like a bag of night so it really kept
+[10:37] some weight on and uh you know a bag at night we'll do that to you yeah bag with a couple balls of beer that sort of thing
+[10:45] it keeps it on it really does um so things for me that really were the turning point um were to kind of stay away from more
+[10:53] processed for sure i would say i'm i'm primarily off of processed foods all around um with the
+[11:01] exception of things like bread and pasta but in my mindset i don't think those as unhealthy or heavily processed foods
+[11:09] when i say heavily processed i'm thinking of things like the um vegan meat replacement type
+[11:17] products so you'll see kind of tofu or other based products that replicate hamburgers or
+[11:24] sausages or sandwich meats these sorts of things i did for a while and they didn't make me feel particularly
+[11:32] great it was more a taste thing at that time and i used them kind of as a stepping stone to move away from meat products all together um but now
+[11:40] when i want a burger we do our own burger patty recipe that we found in one of our books and it is phenomenal yeah it's dr greger's black
+[11:49] bean burger recipe i'm pretty sure he has it um online as well we have his how not to die cookbook
+[11:57] but if the recipe is available online i'll definitely uh link it below as well yeah so just to kind of transition one of those things that i
+[12:05] said was i had those habits of my doritos at night or whatever it was um and it's just a a big thing for me was
+[12:13] changing those habits and kind of incrementally doing it you know it was okay this night i'm playing my video games with my friends online
+[12:20] instead of having two beer i'm gonna have one beer right and then slowly negating those things out of out of my
+[12:27] habits and rituals um so now when it's an evening and i want to do those things because i it's not my hobby i enjoy doing it that social aspect to it
+[12:36] um when i'm sitting and playing i'm eating grapes or uh you know i'll do peanut butter and banana and it's the all-natural peanut
+[12:44] butters we're all uh it's all water now i think the only time i really have beer in recent history anyway is if
+[12:52] we're kind of socializing like megan's changed a lot of her habits as well yeah i am definitely a snacker
+[13:01] for sure yeah like for sure i want a really impress upon the audience the level of snacking i i say old bag of
+[13:10] doritos i might have been exaggerating a little bit megan is a snacker at heart yeah i used to be one of those people that would
+[13:18] just constantly be thinking about food all day it's like what's for lunch what's for my next snack what's for dinner
+[13:26] what am i gonna eat after dinner you know i need something salty oh i need something sweet oh i need something salty again yeah oh i need something
+[13:34] we would be hanging out relaxing at night and we'd be talking or you know playing a game watching a tv show whatever it was
+[13:41] and it literally felt like she would have a snack you know she would come to the sofa or whatever and she'd have
+[13:49] a small container of chips let's say okay and then this is pre plant-based meg okay uh and then you know she finished
+[13:58] off the chips and i'm like okay cool we're gonna sit and you know chill out and she's had her snack knowledge no no no she'd be up like 10 minutes later and it
+[14:06] would be the this sweet this oh here's the three oreos no big deal right i wasn't done yet no no and then
+[14:15] the three oreos are done and then somehow she'd come back with the i don't know if you guys know of these but you can get microwavable like dough
+[14:24] based pretzels that you kind of water and salt yourself so should come back with a couple of those that was a thing for a while it was a thing like there was a anyway
+[14:33] so it wasn't just like hey i'm gonna have a snack at night and and be done with it there was a habitual pattern which i know was a
+[14:40] big hurdle for meg um to kind of either change the habits and meaning snacking less
+[14:48] but also i think what's really worked for her anyway in my perspective is that she's gone from having those really kind of
+[14:56] unhealthy non-plant-based style snacks and having several of those throughout the night whereas i can say
+[15:04] last night it was a cup of chai tea with some non-dairy uh non-dairy milk i think it was almond milk and then she
+[15:11] came and got a bowl of uh mango and pineapple mixed together out of the freezer microwaved it for a few seconds and had that with a fork
+[15:19] i do still snack sometimes not all the time but most evenings i do have at least
+[15:26] one snack after dinner but that's okay it's usually fruit or it's a healthy snack that i've prepared at home it's a homemade
+[15:34] whole food plant-based oil-free yeah vegan snack yeah like we make a point to keep some of those things on hand because we know that we
+[15:41] enjoy it but we also want to you know make sure that we're nourishing ourselves and taking care of ourselves and not necessarily putting those things
+[15:49] in our bodies that we've had issues with in the past um so we try to keep some things on hand like tons of fruit always like if you were to do a little
+[15:57] snapshot of our crispers and our fruit bowl it's loaded like it's you know grapes apples bananas
+[16:04] clementines how we keep frozen foods on hand so frozen mango frozen pineapple mixed berries these sorts of things
+[16:12] just as snack options and then meg often will make things like um homemade muffins for instance
+[16:19] or we do this oat banana cookie option uh energy bites those little balls that are so
+[16:26] good those sorts of things yeah so it's really about changing your routines and your habits
+[16:35] and over time it gets a lot easier so if you had told me a couple years ago
+[16:43] that i'd be snacking on fruit and energy bites and i'd be happy with that i wouldn't have believed you i'd be like no
+[16:49] i need you know chips and chocolate and who knows what else right yeah unless i'm on a diet
+[16:57] then i'll be good you know but otherwise uh
+[17:04] my thought was that you know i would have these are this that was just what i did it's not even that i consciously
+[17:11] thought about it it was just what i did and how i lived my life yeah um
+[17:19] other things to to kind of help with people that want to have the benefit of not only having better health as a result of
+[17:27] going vegan and plant-based but also just to to really help yourself make sure that you're getting all the the nourishment that you possibly can
+[17:35] while still feeling like you're full and you know you feel satisfied and you have the energy and the fueling and think of it food is more
+[17:43] of a fuel for your body um what you have at your meal times obviously is going to play a big role right so for me
+[17:51] um like i mentioned before i'm still kind of heavy on carbs and starches but my plate comes out and you know a
+[17:58] third of it is green vegetables right and then another third of it is usually some sort of grain or starch type
+[18:05] product uh and then i have another vegetable or bean or lentil based dish
+[18:12] uh sometimes a tofu dish but it's it's cut into thirds for me and i make a point to say okay i'm gonna have you know that
+[18:21] grain starch type thing that tofu bean lentil type thing and then just straight up crucify
+[18:28] cruciferous that's difficult word for me type green vegetables so whether it's having kale spinach other greens um
+[18:35] i i love broccoli i do broccoli kind of every meal so yeah and i've taken to
+[18:43] doing a 50 50 plate i read dr mcdougall's maximum weight loss book i don't completely subscribe to everything
+[18:52] that he recommends there however i have taken on board the 550 plate so i eat
+[18:59] half of my plate is green or non-starchy vegetables and then the other half of my plate is starchy
+[19:06] veggies starches like beans grains uh that kind of thing
+[19:13] yeah um overall guys the probably the biggest win for me aside from you know regaining what he
+[19:20] was like in high school literally my 18 year old body is now my 35 year old body i weigh less now yeah than i did in high
+[19:28] school yeah why it's pretty crazy for us we've been together since we were 17.
+[19:34] yes which is really cool we're coming up to our 18th year being together um but
+[19:40] when i met megan she was a larger person than she is today and like i was just saying i'm back to the same
+[19:49] body type and size i had when i was 18 which is which is crazy i don't feel like there are a lot of people
+[19:56] around our age that are comfortable enough to say that they can they've done that um so it's really uh the health benefit the energy benefit
+[20:05] like with our son he's five so i love to be able to be active with him right so to be outside and
+[20:14] run around with a kite for a few hours or playing soccer with him or going on the scooters or whatever it is to be able to just do
+[20:22] just do those things and it not feel like i'm really expending any real energy you know i'm not winded when i'm running a block down the road to catch
+[20:31] up to him on a scooter and that's really really nice for me yeah we are both feeling so healthy healthier than we
+[20:39] ever have in our equal lives and so energetic and we have a zest for life i like to say
+[20:47] that we have a zest for life that we didn't have in the past yeah you kind of start thinking of how can we
+[20:54] go on an adventure or do something fun and those ideas of what is fun have now changed because because our energy levels and our our willingness to
+[21:04] want to do those things has changed as a result for sure another point about that is we used to eat out at restaurants for
+[21:12] meals quite a bit and we used to order takeout quite a bit uh and we don't do that anymore
+[21:20] i know for some people it's a social thing and it's habitual mostly it's a habit it's really fun
+[21:28] for us um we got to the point where eating out wasn't fun anymore it just wasn't making you feel
+[21:36] weird i didn't feel good yeah i think my our body or my body in particular i know became so accustomed to eating i'll say
+[21:44] a clean diet i don't like the word clean yeah i was trying to find the right word there yeah but a whole food plant-based yeah
+[21:54] clean that's a weird one just a diet that was making us feel the best that we could feel
+[22:01] right optimal diet yeah optimal that's a good word optimal diet so your body becomes a customer minded anyway
+[22:09] to that so did my optimal diet um so anything that kind of falls outside of that like you can
+[22:16] order a pizza and it technically speaking is vegan it is right there you know you can get it
+[22:25] without dairy no eggs no meat products and that kind of qualifies into it which is super cool that people have that option
+[22:32] you can order vegan prop vegan pizza absolutely have vegan products i think that's a great option especially for people
+[22:39] who are just transitioning or for an occasional thing if you want to have processed food from time to time yeah
+[22:47] but for us processed food just isn't worth it yeah general marketing has been great like to say these things are available in the
+[22:54] marketplace yeah it's awesome but when we eat them we don't feel as good you know there's no need to go into
+[23:02] details your body just doesn't feel as good as it does as when you're eating your quote optimal diet
+[23:09] um so we've just stopped doing it because it didn't feel good anymore yeah and
+[23:16] it saves money oh yeah which is nice yeah we found other fun things to do so it might seem odd to not go out for meals
+[23:24] especially if you're very accustomed to doing so but we've found other ways to have fun together and fun with fun with family
+[23:32] fun with friends obviously things are a little different now with the pandemic and with rules you know surrounding that
+[23:40] now when we do a date it's we go out and we do an activity and we usually do something like a coffee house or a smoothie date
+[23:49] with these sorts of things so the weather's kind of crummy you know you go out and you do a bookstore wander which is something we
+[23:56] we're dorks we really like doing um but if the weather was decent you know we would go for a walk along the waterfront
+[24:04] instead and there's a lot of great options there meet up with friends and family at a park yeah so it doesn't always have to be about
+[24:12] food yeah if you want to go out for a meal by all means go enjoy don't feel good or feel guilty about it go
+[24:19] enjoy your meal out and have fun with it but if you don't want to eat out we're at a point where we don't really
+[24:27] have a desire to eat out and sometimes there's a bit of social pressure to do so we we're not gonna do it right now
+[24:37] yeah not to say that we'll never go out for a meal or that we'll never you know um never go for
+[24:44] a dinner out at some point but right now it's just not desirable yeah it affects our health and
+[24:51] how we feel so so there are a few other things that helped us with our weight loss and
+[24:58] with our health journeys one of them is eating when you're hungry and stopping when you're full so
+[25:06] the eating when you're hungry point is more for this guy and the stopping when you're full point
+[25:13] is more for me so it's weird because we have very split mindsets on this i don't understand continuing to eat
+[25:22] when you're full like it just how did you even yeah it doesn't compute for me that's why it's good that we make these
+[25:29] videos together because we have different perspectives wildly different and it you might connect with people yeah so
+[25:38] i was someone who definitely would eat past satiation i didn't even really know what satiation was
+[25:46] feeling full i was just always stuffed with food i guess i don't know how you do it physically if
+[25:53] the food tasted good you would just keep going but there's no space like physically
+[26:00] the anatomy side of okay my perspective weight gain yes yes i'm terrible
+[26:07] for not eating when i should eat so i always i still to this day
+[26:14] fall into the trap of i wake up in the morning i'm half asleep i have coffee i don't even really focus on breakfast most days which i don't really feel hungry
+[26:22] my butt like i don't mentally or physically get to a point where i'm saying yeah i feel hungry until i'm real irritable right like
+[26:30] i was like two in the afternoon i'm angry yeah it's like two in the afternoon i'm raging out because i haven't eaten anything all day yeah um
+[26:38] so i i really try to consciously make an effort to say these are meal times i should have a little
+[26:47] something here here and here so that one i don't rage out and two it's just better for your overall health and well-being and digestion and all these things
+[26:55] yeah and for me i did do a structured approach for a little while and found that i would get into the
+[27:04] habit of eating at those structured times whether i was hungry or not because i have sort of the opposite
+[27:11] issue as chris does so for me i have a less structured
+[27:19] meal time i would say i do really try to listen to my body and if i'm hungry i eat
+[27:27] i stop when i'm full and then i wait until i'm hungry again i don't necessarily look at the clock and say oh it's
+[27:35] 12 o'clock i need to eat lunch immediately i have to do that otherwise i won't um and then another big part of that right is when
+[27:44] you are eating those meals to be able to focus on things that are fuel and energy giving for your body and and and give you
+[27:52] that feeling of okay i'm i'm feeling strong good satisfied and
+[27:59] and energized ready to go yeah so we eat food that we love the taste of for sure
+[28:06] however we're very focused on nourishing our bodies with foods that are nutritious you know good for us
+[28:14] healthful yeah colorful bottom line tip as many colors as you can get in that's the good stuff
+[28:22] yeah uh and then like we were saying before um making sure that it's nutrient rich
+[28:29] as well right so so eating for fuel and fitness and focusing
+[28:36] on uh nourishing your body so that it can do all the things that you want it to do yeah
+[28:44] uh for me that's what's running and doing calisthenics and having a lot of fun with fitness and things like that
+[28:52] for chris yeah i like cycling it quite a bit and the really big thing for me is like i mentioned before having that ability to
+[29:00] do whatever i want with our son or with meg and not feel as though it's any physical strain right
+[29:07] um really that's a big big win yeah for sure our focus is really on health
+[29:14] and the weight loss as fun as it is and as nice as it is to not be carrying around an extra
+[29:22] you know 78 pounds 30 35 yeah it's really about health
+[29:31] and what your body's functionality is what your body is capable of doing um is is really the
+[29:38] focus that's not as though i'm in front of a mirror going oh yeah it's it's more well it's true it's it's more about i
+[29:47] feel good we feel healthy and our bodies are more capable than they were previously
+[29:55] yeah and i would say for us weight loss was a side effect so for some people weight loss is the goal weight loss is
+[30:03] why they change their diets and change their fitness and do things differently and that's cool that's great for us it was very much let's get
+[30:12] healthy yeah let's figure this out we want to have longevity and energy and feel good and strong and
+[30:22] really the i would say the weight loss was a happy side effect of changing things up and getting healthy yeah the goal is to live to be
+[30:30] 100 yes yeah absolutely megan's very very passionate on that one
+[30:38] yeah we want to live to be a hundred yeah in very happy healthy you know not going down the path of
+[30:46] disease yeah you know i'd love to be 90 and walk five kilometers and it's no big deal yeah for sure yeah
+[30:55] i've lost a total of 78 pounds and i've lost a total of 35 pounds
+[31:02] so in total we have lost 113 pounds as a couple we're both feeling great feeling energized
+[31:11] ready to take on life yeah have fun and we get to share clothes yay
+[31:19] so if you'd like to see more from us you can subscribe below like this video if you liked it
+[31:26] and we'll talk to you guys soon bye
+[31:34] [Music]
+[31:37] you
+
+
+
+
+
+
+
+
+
+
+Title: How to Eat More Vegetables l Plant Fit Meg
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=mQ_a92YRYM8
+
+====
+
+Description:
+Even if you do not enjoy vegetables, there are many ways to prepare and serve them that will make them more appealing. Whether you’re embarking on a fully plant-based journey or just looking to incorporate more vegetables into your diet, these tips are for you!
+
+====
+
+Transcript:
+
+--- Intro ---
+[0:00] [Music]
+[0:06] hi
+[0:06] i'm meg welcome to plant fit meg today i
+[0:09] wanted to talk about how to incorporate
+[0:11] more vegetables into your diet so
+[0:14] whether you're embarking
+[0:15] on a fully plant-based journey or you're
+[0:17] just looking to
+[0:19] up the vegetable intake these tips are
+[0:22] for you
+[0:23] start where you are so some people don't
+--- START WHERE YOU ARE ---
+[0:26] enjoy vegetables and i
+[0:30] i'm sad to say that i was one of those
+[0:32] people
+[0:33] prior to going plant-based i did not eat
+[0:36] a lot of vegetables
+[0:38] i did as a kid at home with my parents
+[0:40] when
+[0:41] they were making meals and such
+[0:45] but i never really enjoyed vegetables
+[0:47] that much
+[0:48] i didn't cook them myself when i moved
+[0:51] away from home
+[0:53] very often i ate french fries that were
+[0:57] you know the bagged fries that you get
+[0:59] from the shop that you just put in the
+[1:01] oven and cook up that was considered
+[1:06] a vegetable for me and
+[1:10] i would have the occasional side of
+[1:14] broccoli or maybe some frozen mixed
+[1:17] vegetables
+[1:18] but not very often so
+[1:21] i'm very sad to say that i did not
+[1:24] enjoy vegetables in the past i've grown
+[1:27] to
+[1:28] really really enjoy vegetables so
+[1:31] start where you are don't be too hard on
+[1:33] yourself
+[1:34] and here we go start with vegetables
+--- START WITH VEGETABLES YOU ENJOY ---
+[1:37] that you
+[1:38] do enjoy so i
+[1:41] really enjoyed potatoes instead of
+[1:44] buying
+[1:44] packaged processed french fries i would
+[1:48] buy potatoes
+[1:49] and cut them into fry shapes
+[1:52] and bake them in the oven without oil
+[1:56] and enjoy them that way start with
+--- SWEET VEGETABLES ---
+[1:59] sweeter vegetables
+[2:00] so often even if you
+[2:03] dislike vegetables chances are there may
+[2:06] be a sweet vegetable
+[2:08] that you enjoy such as carrots or
+[2:11] corn or something like that that has a
+[2:14] little more sweetness to it
+[2:16] sweet potatoes are great smoothies are a
+--- SMOOTHIES ---
+[2:19] great way to get greens in
+[2:22] i know in the plant-based community
+[2:24] there's a little
+[2:25] bit of back and forth with juicing and
+[2:28] smoothies
+[2:29] and whether it's good or bad
+[2:32] and i would say that any way that you
+[2:35] can get your greens in
+[2:36] is good if you can eat greens
+[2:40] whole that's perhaps better
+[2:44] because of the nitric oxide i'll leave
+[2:46] some info and links below
+[2:48] if you're interested however any way
+[2:52] that you can incorporate
+[2:53] green vegetables into your life
+[2:56] is going to be a win so
+[3:00] green smoothies are a great place to
+[3:02] start you can start out with maybe just
+[3:04] a handful of greens in the smoothie
+[3:06] and the rest fruit and then gradually
+[3:08] increase the level of greens and reduce
+[3:11] the amount of fruit that you're having
+[3:14] side note it's also a great place to put
+[3:16] in your omega-3s so
+[3:18] pop in your flax or chia seed great way
+[3:21] to incorporate your omega-3s into your
+[3:23] diet as well
+--- SOUPS AND STEWS ---
+[3:25] soups and stews are another great way to
+[3:27] incorporate
+[3:28] vegetables into your diet if you don't
+[3:31] like the
+[3:32] chunky texture of the vegetables and
+[3:35] maybe you're just getting used to
+[3:36] eating more veggies you can always blend
+[3:38] your soups or blend
+[3:40] half and leave the other half a little
+[3:42] bit chunky
+[3:43] that's more of a personal preference
+[3:45] thing
+[3:46] but blending soups can be really helpful
+[3:49] to get some
+[3:50] veggies in without even realizing that
+[3:52] you're getting
+[3:53] a lot of green vegetables in there
+[3:56] another tip is to mix vegetables that
+--- MIX DIFFERENT TYPES OF VEGGIES TOGETHER ---
+[3:59] you don't
+[4:00] love or don't enjoy with ones that you
+[4:03] do
+[4:04] so i like to make mashed potatoes with
+[4:08] spinach in them and it's something that
+[4:11] my
+[4:12] mom has made since i was a kid and i
+[4:16] have continued to make now that i'm
+[4:20] an adult for a long time i didn't make
+[4:24] them at home because i honestly was just
+[4:26] too
+[4:27] lazy to bother i just couldn't be
+[4:30] fussed with it but now i love making
+[4:33] mashed potatoes at home
+[4:34] and all i do is i mash up my potatoes
+[4:39] and i chop up some spinach throw the
+[4:41] spinach in
+[4:42] mix it all together and it's delicious
+[4:47] again you can always start out small
+[4:49] start with maybe
+[4:51] a little handful or a cup of greens that
+[4:53] are chopped really finely
+[4:56] and as you get more accustomed to having
+[4:58] that greenery in there you can
+[5:01] up the quantity and really boost your
+[5:03] nutrition
+--- VEGGIE BASED SAUCES ---
+[5:05] you can make sauces out of vegetables so
+[5:08] there are a lot of vegan sauces that are
+[5:11] made from
+[5:11] nuts and seeds and things like that but
+[5:14] you can also
+[5:15] add vegetables to those sauces
+[5:19] to boost the nutrition
+[5:23] and there are also some sauces that are
+[5:26] just made from vegetables and spices
+[5:30] so i'll leave some links below for
+[5:32] recipes for some different sauces you
+[5:34] can try
+[5:35] related to sauces is
+[5:39] having a good sauce that you really
+--- ENJOYABLE SAUCE ON VEGETABLES ---
+[5:41] enjoy
+[5:42] on top of your vegetables can make them
+[5:44] a lot more palatable and a lot easier to
+[5:47] eat a big quantity of
+[5:49] chop your veggies smaller or prepare
+--- FINELY CHOPPED ---
+[5:52] them in a slightly different way
+[5:54] so when i first went plant-based i
+[5:56] wasn't accustomed to eating a lot of
+[5:57] vegetables
+[5:58] i ate a lot of chili and i ate a lot of
+[6:02] pasta with marinara sauce i have recipes
+[6:05] for both below if you want to check them
+[6:07] out
+[6:09] and in the beginning i would chop the
+[6:11] vegetables
+[6:12] very very finely so that they were
+[6:16] virtually
+[6:16] undetectable now i leave things a little
+[6:19] chunkier because i like that little
+[6:21] crispness or that little uh crunch and
+[6:24] flavor
+[6:25] uh but when i first got started i
+[6:27] definitely chopped things
+[6:28] very finely also preparing vegetables in
+--- PREPARE DIFFERENTLY ---
+[6:33] a new way
+[6:34] so if you're very accustomed to boiling
+[6:37] your vegetables
+[6:38] or maybe just steaming them or
+[6:40] microwaving them
+[6:42] those options can be delicious but it
+[6:45] might be worth trying
+[6:46] roasting your veggies or maybe doing
+[6:50] them up in
+[6:50] a stir fry with some tofu or
+[6:54] some chickpeas and just
+[6:57] enjoying vegetables in a different way
+[6:59] with different
+[7:00] flavors can really enhance the flavor
+[7:04] and enhance your enjoyment of your meal
+[7:07] if you can i'd highly recommend starting
+--- VEGGIES FOR BREAKFAST ---
+[7:10] your day with veggies
+[7:12] i find that starting my day with
+[7:14] vegetables really
+[7:16] sets the tone for the day so i like to
+[7:19] incorporate vegetables into my oatmeal
+[7:21] and i do that usually with either
+[7:23] shredded carrot or shredded zucchini
+[7:26] i have a baked steel cut up recipe i'll
+[7:28] link below that you can check out that
+[7:31] incorporates some shredded carrot
+[7:33] and i often add shredded zucchini to
+[7:35] that as well
+[7:37] another way to enjoy vegetables for
+[7:39] breakfast
+[7:40] is to eat sweet potatoes with broccoli
+[7:44] that's a combo that i've really really
+[7:46] enjoyed
+[7:48] i also eat veggies for breakfast even
+[7:50] when i'm having
+[7:51] a special breakfast is what we like to
+[7:54] call it at home so weekend breakfast
+[7:56] where we make
+[7:58] banana oat waffles or pancakes or
+[8:01] something like that
+[8:02] i'll still have a side of vegetables to
+[8:06] start
+[8:06] so it could be any green vegetable
+[8:10] typically it's broccoli
+[8:13] or brussels sprouts with some
+[8:16] hot sauce or well your world sriracha
+[8:21] or hummus something like that
+[8:24] and then i'll have my waffles after have
+[8:27] more vegetables in the house
+--- KEEP VEGETABLES IN THE HOUSE ---
+[8:29] sometimes it's just as simple as keeping
+[8:33] things handy and keeping things around
+[8:36] that you want to incorporate more into
+[8:38] your diet
+[8:39] so if you want to be eating more
+[8:41] vegetables but you don't really have
+[8:43] them in your house
+[8:45] chances are you're not really gonna go
+[8:47] out of your way
+[8:48] to seek them out while you're out and
+[8:51] about
+[8:51] so buy vegetables keep them in your
+[8:54] house keep raw veggies
+[8:56] chopped and prepped and ready to go with
+[8:58] some hummus or another dressing or dip
+[9:01] that you enjoy
+[9:02] and just try to get those veggies in any
+[9:06] way you can whether it's at snack times
+[9:08] meal times or both
+[9:12] so be sure to incorporate more
+[9:13] vegetables into your day
+[9:16] start where you are and build from there
+[9:19] i hated vegetables i love them now if i
+[9:22] did it you can do it too
+[9:25] if you liked this video and you found it
+[9:26] helpful give me a like
+[9:28] leave me a comment below subscribe
+[9:31] and i'll talk to you soon bye
+[9:36] [Music]
+[9:41] you
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=-nWJyjpfRVE
+Recipe: 4 Ingredient Apple Sauce (Sugar Free)
+October 8, 2020
+plantfitmeg
+Apples, lemon juice, cinnamon, and water combine to make this super simple apple sauce. We’ll be enjoying this along with our One Bowl Apple Cookies for Thanksgiving dessert! This lovely apple sauce is equally suited to enhancing a breakfast dish as well; it makes a great topping for pancakes, waffles, or oatmeal.
+
+
+
+
+
+4 Ingredient Apple Sauce (Sugar Free)
+Difficulty: easyPrint
+We like to use McIntosh apples, but if you prefer a sweeter apple sauce, you may want to use a sweeter variety such as honey crisp, gala, or ambrosia.
+
+Ingredients
+
+10 apples (peeled, cored, sliced)
+1/4 cup water
+squeeze of lemon juice
+1 tsp cinnamon (to taste)
+Directions
+
+Add apples, water, and lemon juice to a large pot.
+Cook over medium heat until apples are tender, about 10-20 minutes, stirring occasionally.
+Mash apples to desired consistency and add cinnamon to taste.
+Serve warm or allow to cool completely and serve cold.
+Store in the refrigerator.
+Serving Suggestions
+
+enjoy as is – warm or cold
+top with oats, chopped walnuts, hemp seeds
+mix into baked oats – https://plantfitmeg.com/2020/09/02/recipe-baked-steel-cut-oats-apple-carrot-cinnamon/
+serve on top of your favourite oatmeal
+serve on top of pancakes, waffles, millet squares
+use some to make apple cookies – https://plantfitmeg.com/2020/10/08/recipe-one-bowl-apple-cookies-refined-sugar-free-oil-free/
+© 2020 Plant Fit Meg
+
+
+
+
+
+
+
+
+
+Title: How to Go Plant-Based (Top 10 Tips for Getting Started)
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=gTFot10ZzCg
+
+====
+
+Description:
+Going plant-based can be simple and fun; but getting started can also be overwhelming. When I first went plant-based, I felt strongly about making a big change and committing to eating a fully plant-based diet for my health. However, I was also concerned about what to eat, how to prepare foods, and how to ensure I was getting the nutrients I needed on a plant-based diet. No matter your starting point, or whether you are interested in going plant-based overnight or making step by step c
+
+====
+
+Transcript:
+--- Intro ---
+[0:00] find healthful foods that you love to
+[0:02] eat and that make you
+[0:03] feel fantastic
+[0:06] [Music]
+[0:12] hi i'm meg welcome to plant fit meg i
+[0:14] went plant-based back in 2016
+[0:17] and i felt very strongly about making
+[0:19] the transition
+[0:20] and making the transition overnight if
+[0:23] you'd like to see more about my story
+[0:25] in particular you can check out the link
+[0:28] below
+[0:29] all about my story specifically this
+[0:32] video is going to be about
+[0:33] tips for going plant-based so even
+[0:36] though i made an overnight transition
+[0:38] i do not believe that that is for
+[0:41] everybody
+[0:42] at all so there are many ways to go
+[0:45] plant-based and to make the transition
+[0:48] and everyone comes to it from a
+[0:49] different starting point
+[0:51] everyone starts at a different place so
+[0:54] for me
+[0:55] it was lots of processed food lots of
+[0:57] animal products
+[0:59] oils all that stuff i wasn't
+[1:02] much of a cook didn't like being in the
+[1:05] kitchen
+[1:07] and so that's where i started and from
+[1:09] there
+[1:10] i made the decision to overnight
+[1:13] be a plant-based eater so with that
+[1:16] there was a bit of
+[1:18] um concern about getting the nutrients
+[1:21] that i needed
+[1:22] and being healthy on a plant-based diet
+[1:26] and so i watched a lot of documentaries
+[1:30] and did my own research online started
+--- PLANT-BASED LEARNING DOCUMENTARIES, BOOKS & DO YOUR OWN RESEARCH ---
+[1:32] reading books
+[1:34] all that good stuff so i'd highly
+[1:36] recommend doing those things
+[1:38] and finding your why before you get
+[1:42] started
+[1:42] so why do you want to go plant-based
+[1:46] i did it for my health and i had to
+[1:49] remind myself
+[1:50] over time that that was my why and had
+[1:53] to come back
+[1:54] to that and really renew my focus
+[1:57] on that so one book in particular that i
+[2:01] would recommend checking out
+[2:03] is this one here how not to die
+[2:06] by dr michael greger it's great
+[2:10] it's a big thick book
+[2:13] so if you're not a reader maybe not for
+[2:16] you
+[2:16] but it has tons of great information
+[2:20] he has the daily dozen which you can
+[2:23] follow
+[2:24] i didn't follow it follow it 100
+[2:28] you know to a t but it does give a good
+[2:31] it gave me a good general guideline to
+[2:35] follow in the beginning just to make
+[2:37] sure i was getting the
+[2:39] nutrients that i needed on a plant-based
+[2:41] diet he also offers tons of free
+[2:43] information
+[2:45] on his website nutritionfacts.org i'll
+[2:48] have that
+[2:48] linked below as well
+[2:52] find a starting point that works for you
+--- FIND A STARTING POINT THAT WORKS FOR YOU ---
+[2:55] so for me
+[2:55] i was very committed to just jumping
+[2:59] right in
+[3:00] doing it overnight completely
+[3:03] omitting the animal products and just
+[3:06] diving right in i started with a juice
+[3:09] fast
+[3:10] a five day juice fast to really reset my
+[3:13] taste buds and reset my palette
+[3:15] i felt like i really needed to
+[3:18] do that or do something like that that
+[3:21] was sort of extreme
+[3:22] in order to really reset my palette
+[3:26] because i was so accustomed to eating
+[3:28] so much processed food that i felt like
+[3:31] i need
+[3:32] needed that sort of kickstart i'll link
+[3:34] to the program that i used below
+[3:37] but again i don't think that's for
+[3:39] everybody and i don't think that it's
+[3:41] necessary when you're starting a
+[3:43] plant-based diet
+[3:44] other great ways to get started are
+[3:48] starting by doing a meatless monday
+--- MEATLESS MONDAY ---
+[3:51] so your mondays maybe it's just your
+[3:54] dinner meal
+[3:55] is meatless or maybe your whole day
+[3:58] of meals on mondays are meatless and
+[4:01] that's a good way to just kind of
+[4:03] slowly ease your way in another really
+[4:06] easy thing to do
+[4:07] is to focus on adding to your diet
+[4:10] so sometimes when you're thinking about
+[4:12] making a big change
+[4:14] it can be really scary and particularly
+[4:17] if you're
+[4:18] omitting a lot of foods that you are
+[4:20] accustomed to eating
+[4:22] it can be really unsettling to
+[4:25] make such a big change but if you focus
+[4:28] on
+[4:28] adding what you're missing and focus on
+[4:31] adding vegetables
+[4:33] adding fruit to your diet
+[4:36] it can seem a bit more manageable
+[4:39] another way is to eliminate one thing at
+--- ELIMINATE ONE THING AT A TIME ---
+[4:42] a time
+[4:43] so like i said i eliminated everything
+[4:46] all at once
+[4:48] so i eliminated all animal products
+[4:51] and for some people that works for me
+[4:53] that worked and i've just continued to
+[4:55] do that over the years
+[4:57] but for some people a slower
+[4:59] step-by-step approach
+[5:01] is more manageable so take one thing at
+[5:05] a time maybe
+[5:06] you're accustomed to eating a lot of
+[5:08] fast food
+[5:10] maybe you know if you're doing let's say
+[5:13] three times a week of fast food you
+[5:16] don't you know just
+[5:17] bring it down to two times a week
+[5:20] and then one time a week and just
+[5:22] gradually
+[5:24] decrease the fast food and meals out
+[5:27] that you're eating
+[5:28] and start cooking at home there are also
+[5:32] great
+[5:32] plant-based kickstart programs online
+--- PLANT-BASED KICKSTART ---
+[5:36] there's one from the physicians
+[5:38] committee for responsible medicine
+[5:41] there's one from the center for
+[5:43] nutrition studies
+[5:44] and i believe dr greger with his daily
+[5:47] dozen
+[5:48] has a kickstart as well so i'll link to
+[5:51] those resources below in case you're
+[5:53] interested
+[5:54] keep your kitchen stocked with healthy
+--- STOCK KITCHEN WITH HEALTHY FOODS ---
+[5:57] foods
+[5:58] so if you keep healthy foods in your
+[6:01] environment
+[6:02] you are way more likely to consume them
+[6:05] it sounds pretty common sense and
+[6:08] obvious
+[6:09] but if you remove processed foods from
+[6:13] your environment
+[6:14] and you remove gradually those animal
+[6:16] products and things from your
+[6:17] environment
+[6:18] and replace them with really healthful
+[6:20] options
+[6:21] that will help you to transition into
+[6:26] eating more healthfully start with
+--- START WITH FRUIT & VEGETABLES YOU ENJOY ---
+[6:28] fruits and vegetables that you
+[6:30] already enjoy so
+[6:33] i in the beginning did not eat a lot of
+[6:36] greenery i did not eat salads
+[6:40] i did not eat a lot of green vegetables
+[6:43] to begin with
+[6:44] green vegetables are amazing if you can
+[6:47] incorporate them into
+[6:48] your diet right away do it
+[6:51] awesome fabulous however
+[6:54] if you are someone who does not like
+[6:56] vegetables
+[6:57] and is not used to eating them at all
+[7:02] start slow start with veggies that you
+[7:05] enjoy most people enjoy
+[7:08] potatoes sweet potatoes
+[7:12] and other starchy vegetables like that
+--- REPLACE ANIMAL PRODUCTS WITH PLANT-BASED ---
+[7:16] replace animal products with plant-based
+[7:18] ingredients
+[7:20] so breakfast for me were the easiest to
+[7:24] transition to plant-based because my
+[7:26] breakfasts essentially
+[7:28] were already plant-based to begin with
+[7:30] so things like smoothies
+[7:32] oatmeal cereals breads
+[7:36] all that kind of stuff it was already
+[7:39] vegan
+[7:39] and i was already on my way
+[7:42] so the only thing i really needed to
+[7:45] swap
+[7:46] in that was the dairy milk which i
+[7:50] swapped for uh almond milk or soy milk
+[7:53] to start
+[7:55] as for lunches and dinners i kept it
+[7:57] really
+[7:58] really simple especially in the
+[8:00] beginning so
+[8:01] i used recipes that i
+[8:05] already knew and
+[8:08] i was already familiar with and already
+[8:10] enjoyed
+[8:12] like pasta and chili and i just modified
+[8:15] them
+[8:16] to eliminate the animal product and
+[8:20] i ate a lot of pasta and chili to start
+[8:24] if you're interested in super simple
+[8:26] pasta
+[8:27] sauce and chili recipes i have them both
+[8:30] on the channel and on the website and
+[8:33] i'll have them linked below so you can
+[8:35] check them out
+[8:36] this leads into my next point find a
+[8:38] handful of recipes
+[8:40] that you really enjoy as a base and as a
+[8:42] starting point
+[8:44] so for me it was pasta and chili those
+[8:46] were things that i was familiar with
+[8:49] and comfortable making and it was just
+[8:52] very
+[8:53] easy for me to go to and to transition
+[8:56] to making it a plant-based version
+[8:59] over time i did experiment and gradually
+--- EXPERIMENT WITH DIFFERENT INGREDIENTS & RECIPES ---
+[9:03] started
+[9:03] testing out different recipes and making
+[9:06] soups
+[9:07] and making cauliflower bites and
+[9:10] shepherd's pie made with lentils rather
+[9:13] than
+[9:13] ground beef and over time
+[9:17] trying out tofu recipes and tempeh and
+[9:21] different things
+[9:22] but to start i would say keep it simple
+[9:26] start with things that you're familiar
+--- KEEP IT SIMPLE IN THE BEGINNING ---
+[9:27] with and flavors that you already enjoy
+[9:30] and make a plant-based version
+[9:34] i'm a planner so i do like to
+[9:38] plan things out to a certain degree uh
+[9:41] in the beginning
+[9:42] i would plan what couple
+[9:46] or few recipes i would like to make
+[9:48] throughout the week
+[9:49] i would purchase the ingredients have
+[9:51] them ready to go
+[9:53] schedule time to prepare the recipe
+[9:57] and then have leftovers throughout the
+[10:00] week
+[10:00] that i could eat so i would have things
+[10:02] left over in the fridge
+[10:04] or the freezer that i could just heat up
+[10:06] and
+[10:07] enjoy and it just took the pressure off
+[10:10] in terms of making decisions during the
+[10:12] week as i went
+[10:14] because those things were already
+[10:15] prepped ready to go
+[10:17] so i could just warm them up and enjoy
+[10:20] this leads me to my next point so along
+[10:22] with having
+[10:23] some recipes prepared
+[10:27] in the fridge or freezer for future
+[10:29] meals
+[10:30] leftovers are one of my favorite things
+[10:33] honestly
+[10:33] i know it's not for everybody but that's
+[10:37] one thing that really helped me i would
+[10:39] also recommend
+[10:41] chopping up raw veggies and making
+[10:44] hummus
+[10:45] having healthy snacks available as well
+[10:48] keeping fresh fruit on hand keeping
+[10:51] frozen
+[10:52] fruit and vegetables can also be really
+[10:55] helpful
+[10:55] if things are not in season or if you
+[10:58] run out of fresh produce you have
+[11:00] some stuff in the freezer as backup to
+[11:02] go to
+[11:03] and to enjoy this makes it really easy
+[11:06] because when you're hungry
+[11:08] there's delicious food in your fridge
+[11:11] in your freezer ready to go
+[11:14] nourish yourself and enjoy the process
+--- NOURISH YOURSELF & ENJOY THE PROCESS ---
+[11:18] it's a journey it's not going to be
+[11:23] an easy thing to do and i don't say that
+[11:27] to deter people from
+[11:28] eating a plant-based diet but
+[11:31] we don't live in a world of people
+[11:35] a society of people that eats generally
+[11:39] plant-based so it can be difficult from
+[11:41] time to time
+[11:43] but if you focus on nourishing yourself
+[11:46] and doing what you want to do
+[11:50] that aligns with your values and with
+[11:53] what you want out of your life then
+[11:57] you'll feel so much better for it so for
+[12:00] me
+[12:00] it was focusing on my health and
+[12:03] focusing on
+[12:04] longevity and reducing disease risk
+[12:08] and eating a plant-based diet
+[12:11] will do all of those things find
+[12:13] healthful foods that you
+[12:15] love to eat and that make you feel
+[12:17] fantastic
+[12:19] nourishment is also about taking care of
+[12:21] yourself
+[12:22] and doing things that are
+[12:26] health promoting and good for your body
+[12:29] getting
+[12:29] moving getting active being kind to
+[12:33] yourself
+[12:34] and stress management good
+[12:38] sleep hygiene so many other factors go
+[12:41] into it
+[12:41] i would say start with the food start
+[12:44] with your mindset around
+[12:45] food and gradually over time
+[12:49] all those other things you can focus on
+[12:52] and will play a role in your health as
+[12:55] well
+[12:56] schedule time for yourself to do things
+--- SCHEDULE TIME FOR YOURSELF ---
+[12:59] that are important to you
+[13:00] the process of transitioning into a
+[13:02] plant-based lifestyle
+[13:04] is a process it can take some time
+[13:07] to get the hang of it and sometimes
+[13:10] you fall off track and you eat things
+[13:13] that maybe
+[13:14] are not the most health promoting and
+[13:17] not the best for you but you get back
+[13:20] on track you keep going and
+[13:24] it gets easier over time it takes time
+--- BUILD NEW ROUTINES ---
+[13:27] to build routines and get into a new
+[13:29] rhythm
+[13:30] and for me getting into a rhythm
+[13:33] happened fairly
+[13:34] quickly i started to enjoy spending time
+[13:36] in the kitchen when i had
+[13:38] never ever ever enjoyed it at all
+[13:41] in the past and so
+[13:45] change can be hard but it's doable it's
+[13:49] manageable
+[13:50] and you can you can do it
+[13:53] i did it and so anyone can do it
+[13:56] you'll almost definitely have ups and
+[13:58] downs in your journey
+[14:00] and i would say do not expect perfection
+[14:02] from yourself
+[14:04] you likely do not expect perfection from
+[14:07] anybody else
+[14:08] so be kind to yourself do not expect
+[14:11] yourself
+[14:12] to be perfect but if you do go off track
+[14:16] and things happen life happens
+[14:20] say nice things to yourself treat
+[14:23] yourself as you would
+[14:25] a child or as you would your best friend
+[14:28] be really kind and gentle with yourself
+[14:30] and get back on track
+[14:32] refocus on your why and
+[14:36] act according to those goals
+[14:40] do your best and do what works for you
+[14:43] i hope you enjoyed this video and found
+[14:45] these tips helpful
+[14:47] if you liked the video give it a good
+[14:49] old thumbs up
+[14:51] and if you'd like to follow on my
+[14:53] journey you can
+[14:54] subscribe to the channel check out my
+[14:57] website and instagram
+[14:58] linked below and i will talk to you soon
+[15:03] [Music]
+[15:10] bye
+--- Intro ---
+[0:00] find healthful foods that you love to
+[0:02] eat and that make you
+[0:03] feel fantastic
+[0:06] [Music]
+[0:12] hi i'm meg welcome to plant fit meg i
+[0:14] went plant-based back in 2016
+[0:17] and i felt very strongly about making
+[0:19] the transition
+[0:20] and making the transition overnight if
+[0:23] you'd like to see more about my story
+[0:25] in particular you can check out the link
+[0:28] below
+[0:29] all about my story specifically this
+[0:32] video is going to be about
+[0:33] tips for going plant-based so even
+[0:36] though i made an overnight transition
+[0:38] i do not believe that that is for
+[0:41] everybody
+[0:42] at all so there are many ways to go
+[0:45] plant-based and to make the transition
+[0:48] and everyone comes to it from a
+[0:49] different starting point
+[0:51] everyone starts at a different place so
+[0:54] for me
+[0:55] it was lots of processed food lots of
+[0:57] animal products
+[0:59] oils all that stuff i wasn't
+[1:02] much of a cook didn't like being in the
+[1:05] kitchen
+[1:07] and so that's where i started and from
+[1:09] there
+[1:10] i made the decision to overnight
+[1:13] be a plant-based eater so with that
+[1:16] there was a bit of
+[1:18] um concern about getting the nutrients
+[1:21] that i needed
+[1:22] and being healthy on a plant-based diet
+[1:26] and so i watched a lot of documentaries
+[1:30] and did my own research online started
+--- PLANT-BASED LEARNING DOCUMENTARIES, BOOKS & DO YOUR OWN RESEARCH ---
+[1:32] reading books
+[1:34] all that good stuff so i'd highly
+[1:36] recommend doing those things
+[1:38] and finding your why before you get
+[1:42] started
+[1:42] so why do you want to go plant-based
+[1:46] i did it for my health and i had to
+[1:49] remind myself
+[1:50] over time that that was my why and had
+[1:53] to come back
+[1:54] to that and really renew my focus
+[1:57] on that so one book in particular that i
+[2:01] would recommend checking out
+[2:03] is this one here how not to die
+[2:06] by dr michael greger it's great
+[2:10] it's a big thick book
+[2:13] so if you're not a reader maybe not for
+[2:16] you
+[2:16] but it has tons of great information
+[2:20] he has the daily dozen which you can
+[2:23] follow
+[2:24] i didn't follow it follow it 100
+[2:28] you know to a t but it does give a good
+[2:31] it gave me a good general guideline to
+[2:35] follow in the beginning just to make
+[2:37] sure i was getting the
+[2:39] nutrients that i needed on a plant-based
+[2:41] diet he also offers tons of free
+[2:43] information
+[2:45] on his website nutritionfacts.org i'll
+[2:48] have that
+[2:48] linked below as well
+[2:52] find a starting point that works for you
+--- FIND A STARTING POINT THAT WORKS FOR YOU ---
+[2:55] so for me
+[2:55] i was very committed to just jumping
+[2:59] right in
+[3:00] doing it overnight completely
+[3:03] omitting the animal products and just
+[3:06] diving right in i started with a juice
+[3:09] fast
+[3:10] a five day juice fast to really reset my
+[3:13] taste buds and reset my palette
+[3:15] i felt like i really needed to
+[3:18] do that or do something like that that
+[3:21] was sort of extreme
+[3:22] in order to really reset my palette
+[3:26] because i was so accustomed to eating
+[3:28] so much processed food that i felt like
+[3:31] i need
+[3:32] needed that sort of kickstart i'll link
+[3:34] to the program that i used below
+[3:37] but again i don't think that's for
+[3:39] everybody and i don't think that it's
+[3:41] necessary when you're starting a
+[3:43] plant-based diet
+[3:44] other great ways to get started are
+[3:48] starting by doing a meatless monday
+--- MEATLESS MONDAY ---
+[3:51] so your mondays maybe it's just your
+[3:54] dinner meal
+[3:55] is meatless or maybe your whole day
+[3:58] of meals on mondays are meatless and
+[4:01] that's a good way to just kind of
+[4:03] slowly ease your way in another really
+[4:06] easy thing to do
+[4:07] is to focus on adding to your diet
+[4:10] so sometimes when you're thinking about
+[4:12] making a big change
+[4:14] it can be really scary and particularly
+[4:17] if you're
+[4:18] omitting a lot of foods that you are
+[4:20] accustomed to eating
+[4:22] it can be really unsettling to
+[4:25] make such a big change but if you focus
+[4:28] on
+[4:28] adding what you're missing and focus on
+[4:31] adding vegetables
+[4:33] adding fruit to your diet
+[4:36] it can seem a bit more manageable
+[4:39] another way is to eliminate one thing at
+--- ELIMINATE ONE THING AT A TIME ---
+[4:42] a time
+[4:43] so like i said i eliminated everything
+[4:46] all at once
+[4:48] so i eliminated all animal products
+[4:51] and for some people that works for me
+[4:53] that worked and i've just continued to
+[4:55] do that over the years
+[4:57] but for some people a slower
+[4:59] step-by-step approach
+[5:01] is more manageable so take one thing at
+[5:05] a time maybe
+[5:06] you're accustomed to eating a lot of
+[5:08] fast food
+[5:10] maybe you know if you're doing let's say
+[5:13] three times a week of fast food you
+[5:16] don't you know just
+[5:17] bring it down to two times a week
+[5:20] and then one time a week and just
+[5:22] gradually
+[5:24] decrease the fast food and meals out
+[5:27] that you're eating
+[5:28] and start cooking at home there are also
+[5:32] great
+[5:32] plant-based kickstart programs online
+--- PLANT-BASED KICKSTART ---
+[5:36] there's one from the physicians
+[5:38] committee for responsible medicine
+[5:41] there's one from the center for
+[5:43] nutrition studies
+[5:44] and i believe dr greger with his daily
+[5:47] dozen
+[5:48] has a kickstart as well so i'll link to
+[5:51] those resources below in case you're
+[5:53] interested
+[5:54] keep your kitchen stocked with healthy
+--- STOCK KITCHEN WITH HEALTHY FOODS ---
+[5:57] foods
+[5:58] so if you keep healthy foods in your
+[6:01] environment
+[6:02] you are way more likely to consume them
+[6:05] it sounds pretty common sense and
+[6:08] obvious
+[6:09] but if you remove processed foods from
+[6:13] your environment
+[6:14] and you remove gradually those animal
+[6:16] products and things from your
+[6:17] environment
+[6:18] and replace them with really healthful
+[6:20] options
+[6:21] that will help you to transition into
+[6:26] eating more healthfully start with
+--- START WITH FRUIT & VEGETABLES YOU ENJOY ---
+[6:28] fruits and vegetables that you
+[6:30] already enjoy so
+[6:33] i in the beginning did not eat a lot of
+[6:36] greenery i did not eat salads
+[6:40] i did not eat a lot of green vegetables
+[6:43] to begin with
+[6:44] green vegetables are amazing if you can
+[6:47] incorporate them into
+[6:48] your diet right away do it
+[6:51] awesome fabulous however
+[6:54] if you are someone who does not like
+[6:56] vegetables
+[6:57] and is not used to eating them at all
+[7:02] start slow start with veggies that you
+[7:05] enjoy most people enjoy
+[7:08] potatoes sweet potatoes
+[7:12] and other starchy vegetables like that
+--- REPLACE ANIMAL PRODUCTS WITH PLANT-BASED ---
+[7:16] replace animal products with plant-based
+[7:18] ingredients
+[7:20] so breakfast for me were the easiest to
+[7:24] transition to plant-based because my
+[7:26] breakfasts essentially
+[7:28] were already plant-based to begin with
+[7:30] so things like smoothies
+[7:32] oatmeal cereals breads
+[7:36] all that kind of stuff it was already
+[7:39] vegan
+[7:39] and i was already on my way
+[7:42] so the only thing i really needed to
+[7:45] swap
+[7:46] in that was the dairy milk which i
+[7:50] swapped for uh almond milk or soy milk
+[7:53] to start
+[7:55] as for lunches and dinners i kept it
+[7:57] really
+[7:58] really simple especially in the
+[8:00] beginning so
+[8:01] i used recipes that i
+[8:05] already knew and
+[8:08] i was already familiar with and already
+[8:10] enjoyed
+[8:12] like pasta and chili and i just modified
+[8:15] them
+[8:16] to eliminate the animal product and
+[8:20] i ate a lot of pasta and chili to start
+[8:24] if you're interested in super simple
+[8:26] pasta
+[8:27] sauce and chili recipes i have them both
+[8:30] on the channel and on the website and
+[8:33] i'll have them linked below so you can
+[8:35] check them out
+[8:36] this leads into my next point find a
+[8:38] handful of recipes
+[8:40] that you really enjoy as a base and as a
+[8:42] starting point
+[8:44] so for me it was pasta and chili those
+[8:46] were things that i was familiar with
+[8:49] and comfortable making and it was just
+[8:52] very
+[8:53] easy for me to go to and to transition
+[8:56] to making it a plant-based version
+[8:59] over time i did experiment and gradually
+--- EXPERIMENT WITH DIFFERENT INGREDIENTS & RECIPES ---
+[9:03] started
+[9:03] testing out different recipes and making
+[9:06] soups
+[9:07] and making cauliflower bites and
+[9:10] shepherd's pie made with lentils rather
+[9:13] than
+[9:13] ground beef and over time
+[9:17] trying out tofu recipes and tempeh and
+[9:21] different things
+[9:22] but to start i would say keep it simple
+[9:26] start with things that you're familiar
+--- KEEP IT SIMPLE IN THE BEGINNING ---
+[9:27] with and flavors that you already enjoy
+[9:30] and make a plant-based version
+[9:34] i'm a planner so i do like to
+[9:38] plan things out to a certain degree uh
+[9:41] in the beginning
+[9:42] i would plan what couple
+[9:46] or few recipes i would like to make
+[9:48] throughout the week
+[9:49] i would purchase the ingredients have
+[9:51] them ready to go
+[9:53] schedule time to prepare the recipe
+[9:57] and then have leftovers throughout the
+[10:00] week
+[10:00] that i could eat so i would have things
+[10:02] left over in the fridge
+[10:04] or the freezer that i could just heat up
+[10:06] and
+[10:07] enjoy and it just took the pressure off
+[10:10] in terms of making decisions during the
+[10:12] week as i went
+[10:14] because those things were already
+[10:15] prepped ready to go
+[10:17] so i could just warm them up and enjoy
+[10:20] this leads me to my next point so along
+[10:22] with having
+[10:23] some recipes prepared
+[10:27] in the fridge or freezer for future
+[10:29] meals
+[10:30] leftovers are one of my favorite things
+[10:33] honestly
+[10:33] i know it's not for everybody but that's
+[10:37] one thing that really helped me i would
+[10:39] also recommend
+[10:41] chopping up raw veggies and making
+[10:44] hummus
+[10:45] having healthy snacks available as well
+[10:48] keeping fresh fruit on hand keeping
+[10:51] frozen
+[10:52] fruit and vegetables can also be really
+[10:55] helpful
+[10:55] if things are not in season or if you
+[10:58] run out of fresh produce you have
+[11:00] some stuff in the freezer as backup to
+[11:02] go to
+[11:03] and to enjoy this makes it really easy
+[11:06] because when you're hungry
+[11:08] there's delicious food in your fridge
+[11:11] in your freezer ready to go
+[11:14] nourish yourself and enjoy the process
+--- NOURISH YOURSELF & ENJOY THE PROCESS ---
+[11:18] it's a journey it's not going to be
+[11:23] an easy thing to do and i don't say that
+[11:27] to deter people from
+[11:28] eating a plant-based diet but
+[11:31] we don't live in a world of people
+[11:35] a society of people that eats generally
+[11:39] plant-based so it can be difficult from
+[11:41] time to time
+[11:43] but if you focus on nourishing yourself
+[11:46] and doing what you want to do
+[11:50] that aligns with your values and with
+[11:53] what you want out of your life then
+[11:57] you'll feel so much better for it so for
+[12:00] me
+[12:00] it was focusing on my health and
+[12:03] focusing on
+[12:04] longevity and reducing disease risk
+[12:08] and eating a plant-based diet
+[12:11] will do all of those things find
+[12:13] healthful foods that you
+[12:15] love to eat and that make you feel
+[12:17] fantastic
+[12:19] nourishment is also about taking care of
+[12:21] yourself
+[12:22] and doing things that are
+[12:26] health promoting and good for your body
+[12:29] getting
+[12:29] moving getting active being kind to
+[12:33] yourself
+[12:34] and stress management good
+[12:38] sleep hygiene so many other factors go
+[12:41] into it
+[12:41] i would say start with the food start
+[12:44] with your mindset around
+[12:45] food and gradually over time
+[12:49] all those other things you can focus on
+[12:52] and will play a role in your health as
+[12:55] well
+[12:56] schedule time for yourself to do things
+--- SCHEDULE TIME FOR YOURSELF ---
+[12:59] that are important to you
+[13:00] the process of transitioning into a
+[13:02] plant-based lifestyle
+[13:04] is a process it can take some time
+[13:07] to get the hang of it and sometimes
+[13:10] you fall off track and you eat things
+[13:13] that maybe
+[13:14] are not the most health promoting and
+[13:17] not the best for you but you get back
+[13:20] on track you keep going and
+[13:24] it gets easier over time it takes time
+--- BUILD NEW ROUTINES ---
+[13:27] to build routines and get into a new
+[13:29] rhythm
+[13:30] and for me getting into a rhythm
+[13:33] happened fairly
+[13:34] quickly i started to enjoy spending time
+[13:36] in the kitchen when i had
+[13:38] never ever ever enjoyed it at all
+[13:41] in the past and so
+[13:45] change can be hard but it's doable it's
+[13:49] manageable
+[13:50] and you can you can do it
+[13:53] i did it and so anyone can do it
+[13:56] you'll almost definitely have ups and
+[13:58] downs in your journey
+[14:00] and i would say do not expect perfection
+[14:02] from yourself
+[14:04] you likely do not expect perfection from
+[14:07] anybody else
+[14:08] so be kind to yourself do not expect
+[14:11] yourself
+[14:12] to be perfect but if you do go off track
+[14:16] and things happen life happens
+[14:20] say nice things to yourself treat
+[14:23] yourself as you would
+[14:25] a child or as you would your best friend
+[14:28] be really kind and gentle with yourself
+[14:30] and get back on track
+[14:32] refocus on your why and
+[14:36] act according to those goals
+[14:40] do your best and do what works for you
+[14:43] i hope you enjoyed this video and found
+[14:45] these tips helpful
+[14:47] if you liked the video give it a good
+[14:49] old thumbs up
+[14:51] and if you'd like to follow on my
+[14:53] journey you can
+[14:54] subscribe to the channel check out my
+[14:57] website and instagram
+[14:58] linked below and i will talk to you soon
+[15:03] [Music]
+[15:10] bye
+
+
+
+Title: What I Eat in a Day - After 80 lb Weight Loss (Vegan, Plant-Based) l Plant Fit Meg
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=hUU7wpodq4Y
+
+====
+
+Description:
+I lost 80 pounds and regained my health after switching to a plant-based diet. I love to keep my plant-based diet simple! I drink lots of water and eat all of the whole food plant-based (WFPB) deliciousness I want throughout the day: vegetables, fruit, legumes, whole grains, nuts, seeds, and spices. Today’s oil free vegan recipes are quick and easy to put together, and can be easily modified to suit your taste preferences.
+
+====
+
+Transcript:
+--- Intro ---
+[0:00] [Music]
+[0:06] hi i'm meg welcome to plant fit meg
+[0:09] in case you're unfamiliar with my story
+[0:11] i have regained my health
+[0:13] and lost 80 pounds on a plant-based diet
+[0:16] if you'd like to see
+[0:17] more detail about that you can check out
+[0:19] my story i'll link it below
+[0:22] i like to keep my plant-based diet very
+[0:24] simple
+[0:26] so i don't make really elaborate recipes
+[0:29] or anything
+[0:31] super involved i like to keep things
+[0:33] fairly
+[0:34] simple and easy and
+[0:37] quick i don't count calories
+[0:41] i don't count macros i
+[0:45] eat when i'm hungry and stop when i'm
+[0:48] full
+[0:49] and that's what works for me there are
+[0:52] many ways to
+[0:53] be a healthful plant-based eater and
+[0:56] this is just one of them
+[0:59] water is my drink of choice i do
+[1:01] sometimes have coffee in the mornings
+[1:03] and tea in the evenings but typically
+[1:07] i drink water throughout the day i try
+[1:09] to
+[1:10] stay really hydrated and drink lots of
+[1:12] water water is so important for
+[1:15] normal functioning of your body
+[1:17] regulating body temperature
+[1:18] lubricating joints so many important
+[1:21] reasons to stay hydrated
+[1:22] and drink water today's recipes are
+[1:26] quick
+[1:27] easy to put together and delicious so
+[1:30] enjoy
+--- Chocolate Zucchini Oats ---
+[1:33] here are the ingredients for my
+[1:34] chocolate zucchini oats
+[1:37] so i like to shred my zucchini first and
+[1:39] add that into the bowl
+[1:41] then i'll go ahead and add in my rolled
+[1:43] oats sometimes i also use
+[1:45] quick oats for this recipe i add in
+[1:48] some ground flax seeds cocoa powder
+[1:54] and sometimes i add some pb2 that is
+[1:57] optional so that's powdered peanut
+[1:59] butter you could also use regular peanut
+[2:01] butter
+[2:02] if you want and i've just splashed some
+[2:04] plant milk in there
+[2:07] and i'm going to go ahead and mix that
+[2:08] up
+[2:12] and we'll skip ahead a little bit here
+[2:15] show you what it looks like when it's
+[2:16] all
+[2:17] mixed thoroughly there we go
+[2:22] i like to top mine with fruit so
+[2:24] sometimes i will chop up a banana
+[2:27] and put that on top sometimes i will
+[2:29] have berries i mix it up
+[2:32] but i do really like the banana and
+[2:34] chocolate combo
+[2:37] i also like to top it with some extra
+[2:39] cocoa powder or some ground flax seeds
+[2:41] or ground chia seeds
+[2:45] so you can stop there if you want and go
+[2:47] ahead and dig in and start eating but i
+[2:50] like to give it another
+[2:51] thorough mix just so all the flavors
+[2:54] really blend together
+[2:56] and the banana adds a nice sweetness
+[2:59] i like it all mixed up
+[3:04] there you go i have my chocolate
+[3:06] zucchini oats with coffee
+[3:07] and water and now we're getting into
+--- zesty bean salad ---
+[3:10] lunch with
+[3:10] my zesty bean recipe super super simple
+[3:15] black beans your favorite salsa
+[3:19] i like the herdes brand
+[3:27] and some corn
+[3:30] so i'm gonna go ahead and mix that up
+[3:36] you can add of course more to this as
+[3:38] well you could add in
+[3:40] any chopped vegetables that you enjoy
+[3:43] some
+[3:44] onion or garlic you can add in extra
+[3:47] spices
+[3:48] anything really that you enjoy but this
+[3:50] is just sort of my
+[3:51] simple base recipe that i use
+[3:55] and then sometimes i do jazz it up with
+[3:57] some chili powder or cumin
+[3:59] here i'm keeping it super duper simple
+[4:01] just cooking that up
+[4:02] over medium high heat for about five to
+[4:05] ten minutes
+[4:09] and i decided to make it into a salad
+[4:11] today so i'm
+[4:12] putting some chopped kale onto a plate
+[4:17] i'll add my zesty beans on top oh
+[4:20] it's good
+[4:33] you could go ahead and dig in here but i
+[4:35] wanted to really mix it up
+[4:36] and meld the flavors together i would
+[4:39] recommend mixing this in a bowl it is a
+[4:41] little bit easier than
+[4:43] trying to mix it on a plate but that's
+[4:46] what i did
+[4:47] today so here we go mixing it all up
+[4:51] you can also add more of the bean
+[4:52] mixture if you want
+[4:54] or add a grain or potatoes i like to add
+[4:58] some toppings i'm using some well your
+[4:59] world sriracha here
+[5:02] and topping it with some nutritional
+[5:04] yeast
+[5:05] i also like to use some plant-based
+[5:07] queso sometimes
+[5:11] there's my zesty bean salad and water
+[5:14] oh and i had a little snack today so i
+[5:16] have a homemade apple cookie
+[5:19] and an apple here
+--- dinner ---
+[5:22] and then this was dinner and i to be
+[5:25] honest i didn't
+[5:26] actually make this dinner this day
+[5:29] yeah i ate leftovers for dinner but i
+[5:31] wanted to show you
+[5:33] how the tofu scramble is made so i've
+[5:36] just inserted this clip
+[5:37] from the full tofu scramble recipe
+[5:41] that's already on the website so here
+[5:43] i've just added into a pan
+[5:46] some red onion green pepper and red
+[5:48] pepper
+[5:49] and i'm mixing that up over medium heat
+[5:52] adding tiny bits of water as i go
+[5:54] just to avoid any sticking crumbling
+[5:57] some tofu
+[5:58] some firm tofu into the pan
+[6:02] adding coconut aminos and date syrup
+[6:06] you can also use maple syrup if you
+[6:08] don't have date syrup or
+[6:10] soy sauce if you don't have coconut
+[6:11] aminos
+[6:13] adding some nutritional yeast and
+[6:15] turmeric
+[6:16] and black pepper as well just getting in
+[6:19] there
+[6:20] and mixing it all up
+[6:34] i go ahead and cover it and simmer it
+[6:36] for a few minutes just to get those
+[6:37] flavors really
+[6:38] mixed together and then i add in my
+[6:41] chopped greens
+[6:43] give it another mix
+[6:57] and there we go tofu scramble i had
+[7:00] my tofu scramble with some broccoli
+[7:02] steamed broccoli
+[7:04] some baked fries and
+[7:07] some roasted brussels sprouts like i
+[7:09] said before
+[7:10] this was a meal made out of leftovers
+[7:13] that i already had in the fridge
+[7:15] i'll have really easy instructions for
+[7:18] the roasted brussels sprouts
+[7:20] and the baked fries down below it
+[7:22] doesn't really warrant a full recipe
+[7:25] so i'll just leave those really basic
+[7:27] instructions
+[7:28] in the description box below i often
+[7:31] like to finish the day with a little
+[7:33] snack
+[7:34] usually it's some kind of fruit or a
+[7:36] sweet potato
+[7:37] with tea of some kind so tonight i'm
+[7:40] having some grapes
+[7:42] and some chai tea with almond milk
+[7:46] i hope you enjoyed my first what i eat
+[7:48] in a day video
+[7:51] if you'd like more information you can
+[7:52] check out the blog post linked below
+[7:55] and check out my website for other easy
+[7:57] fun
+[7:58] plant-based recipes let me know what you
+[8:01] thought in the comments below
+[8:03] leave a like if you liked this video and
+[8:06] i'll talk to you guys soon
+[8:07] [Music]
+[8:10] bye
+[8:13] [Music]
+[8:16] you
+--- Intro ---
+[0:00] [Music]
+[0:06] hi i'm meg welcome to plant fit meg
+[0:09] in case you're unfamiliar with my story
+[0:11] i have regained my health
+[0:13] and lost 80 pounds on a plant-based diet
+[0:16] if you'd like to see
+[0:17] more detail about that you can check out
+[0:19] my story i'll link it below
+[0:22] i like to keep my plant-based diet very
+[0:24] simple
+[0:26] so i don't make really elaborate recipes
+[0:29] or anything
+[0:31] super involved i like to keep things
+[0:33] fairly
+[0:34] simple and easy and
+[0:37] quick i don't count calories
+[0:41] i don't count macros i
+[0:45] eat when i'm hungry and stop when i'm
+[0:48] full
+[0:49] and that's what works for me there are
+[0:52] many ways to
+[0:53] be a healthful plant-based eater and
+[0:56] this is just one of them
+[0:59] water is my drink of choice i do
+[1:01] sometimes have coffee in the mornings
+[1:03] and tea in the evenings but typically
+[1:07] i drink water throughout the day i try
+[1:09] to
+[1:10] stay really hydrated and drink lots of
+[1:12] water water is so important for
+[1:15] normal functioning of your body
+[1:17] regulating body temperature
+[1:18] lubricating joints so many important
+[1:21] reasons to stay hydrated
+[1:22] and drink water today's recipes are
+[1:26] quick
+[1:27] easy to put together and delicious so
+[1:30] enjoy
+--- Chocolate Zucchini Oats ---
+[1:33] here are the ingredients for my
+[1:34] chocolate zucchini oats
+[1:37] so i like to shred my zucchini first and
+[1:39] add that into the bowl
+[1:41] then i'll go ahead and add in my rolled
+[1:43] oats sometimes i also use
+[1:45] quick oats for this recipe i add in
+[1:48] some ground flax seeds cocoa powder
+[1:54] and sometimes i add some pb2 that is
+[1:57] optional so that's powdered peanut
+[1:59] butter you could also use regular peanut
+[2:01] butter
+[2:02] if you want and i've just splashed some
+[2:04] plant milk in there
+[2:07] and i'm going to go ahead and mix that
+[2:08] up
+[2:12] and we'll skip ahead a little bit here
+[2:15] show you what it looks like when it's
+[2:16] all
+[2:17] mixed thoroughly there we go
+[2:22] i like to top mine with fruit so
+[2:24] sometimes i will chop up a banana
+[2:27] and put that on top sometimes i will
+[2:29] have berries i mix it up
+[2:32] but i do really like the banana and
+[2:34] chocolate combo
+[2:37] i also like to top it with some extra
+[2:39] cocoa powder or some ground flax seeds
+[2:41] or ground chia seeds
+[2:45] so you can stop there if you want and go
+[2:47] ahead and dig in and start eating but i
+[2:50] like to give it another
+[2:51] thorough mix just so all the flavors
+[2:54] really blend together
+[2:56] and the banana adds a nice sweetness
+[2:59] i like it all mixed up
+[3:04] there you go i have my chocolate
+[3:06] zucchini oats with coffee
+[3:07] and water and now we're getting into
+--- zesty bean salad ---
+[3:10] lunch with
+[3:10] my zesty bean recipe super super simple
+[3:15] black beans your favorite salsa
+[3:19] i like the herdes brand
+[3:27] and some corn
+[3:30] so i'm gonna go ahead and mix that up
+[3:36] you can add of course more to this as
+[3:38] well you could add in
+[3:40] any chopped vegetables that you enjoy
+[3:43] some
+[3:44] onion or garlic you can add in extra
+[3:47] spices
+[3:48] anything really that you enjoy but this
+[3:50] is just sort of my
+[3:51] simple base recipe that i use
+[3:55] and then sometimes i do jazz it up with
+[3:57] some chili powder or cumin
+[3:59] here i'm keeping it super duper simple
+[4:01] just cooking that up
+[4:02] over medium high heat for about five to
+[4:05] ten minutes
+[4:09] and i decided to make it into a salad
+[4:11] today so i'm
+[4:12] putting some chopped kale onto a plate
+[4:17] i'll add my zesty beans on top oh
+[4:20] it's good
+[4:33] you could go ahead and dig in here but i
+[4:35] wanted to really mix it up
+[4:36] and meld the flavors together i would
+[4:39] recommend mixing this in a bowl it is a
+[4:41] little bit easier than
+[4:43] trying to mix it on a plate but that's
+[4:46] what i did
+[4:47] today so here we go mixing it all up
+[4:51] you can also add more of the bean
+[4:52] mixture if you want
+[4:54] or add a grain or potatoes i like to add
+[4:58] some toppings i'm using some well your
+[4:59] world sriracha here
+[5:02] and topping it with some nutritional
+[5:04] yeast
+[5:05] i also like to use some plant-based
+[5:07] queso sometimes
+[5:11] there's my zesty bean salad and water
+[5:14] oh and i had a little snack today so i
+[5:16] have a homemade apple cookie
+[5:19] and an apple here
+--- dinner ---
+[5:22] and then this was dinner and i to be
+[5:25] honest i didn't
+[5:26] actually make this dinner this day
+[5:29] yeah i ate leftovers for dinner but i
+[5:31] wanted to show you
+[5:33] how the tofu scramble is made so i've
+[5:36] just inserted this clip
+[5:37] from the full tofu scramble recipe
+[5:41] that's already on the website so here
+[5:43] i've just added into a pan
+[5:46] some red onion green pepper and red
+[5:48] pepper
+[5:49] and i'm mixing that up over medium heat
+[5:52] adding tiny bits of water as i go
+[5:54] just to avoid any sticking crumbling
+[5:57] some tofu
+[5:58] some firm tofu into the pan
+[6:02] adding coconut aminos and date syrup
+[6:06] you can also use maple syrup if you
+[6:08] don't have date syrup or
+[6:10] soy sauce if you don't have coconut
+[6:11] aminos
+[6:13] adding some nutritional yeast and
+[6:15] turmeric
+[6:16] and black pepper as well just getting in
+[6:19] there
+[6:20] and mixing it all up
+[6:34] i go ahead and cover it and simmer it
+[6:36] for a few minutes just to get those
+[6:37] flavors really
+[6:38] mixed together and then i add in my
+[6:41] chopped greens
+[6:43] give it another mix
+[6:57] and there we go tofu scramble i had
+[7:00] my tofu scramble with some broccoli
+[7:02] steamed broccoli
+[7:04] some baked fries and
+[7:07] some roasted brussels sprouts like i
+[7:09] said before
+[7:10] this was a meal made out of leftovers
+[7:13] that i already had in the fridge
+[7:15] i'll have really easy instructions for
+[7:18] the roasted brussels sprouts
+[7:20] and the baked fries down below it
+[7:22] doesn't really warrant a full recipe
+[7:25] so i'll just leave those really basic
+[7:27] instructions
+[7:28] in the description box below i often
+[7:31] like to finish the day with a little
+[7:33] snack
+[7:34] usually it's some kind of fruit or a
+[7:36] sweet potato
+[7:37] with tea of some kind so tonight i'm
+[7:40] having some grapes
+[7:42] and some chai tea with almond milk
+[7:46] i hope you enjoyed my first what i eat
+[7:48] in a day video
+[7:51] if you'd like more information you can
+[7:52] check out the blog post linked below
+[7:55] and check out my website for other easy
+[7:57] fun
+[7:58] plant-based recipes let me know what you
+[8:01] thought in the comments below
+[8:03] leave a like if you liked this video and
+[8:06] i'll talk to you guys soon
+[8:07] [Music]
+[8:10] bye
+[8:13] [Music]
+[8:16] you
+
+
+
+
+
+Title: Surviving Halloween & the Holidays (Vegan or Whole Food Plant-Based Lifestyle) l Plant Fit Meg
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=B5yZkMgo2-w
+
+====
+
+Description:
+These strategies have helped me survive the holiday season as a vegan (and WFPB eater). 🌱❤️ As a new vegan, the holidays can be difficult to navigate. You may be questioned about your diet and lifestyle choices and it may be a trying time. I've got you covered with great tips for surviving Halloween and the holidays!
+
+====
+
+Transcript:
+--- Intro ---
+[0:00] they were pretty cool with me doing my
+[0:02] thing
+[0:03] and they would do their thing and we
+[0:06] would just
+[0:07] coexist
+[0:08] [Music]
+[0:14] hi i'm meg welcome to plant fit meg i've
+[0:17] been vegan since
+[0:18] 2016 and in that time
+[0:21] um my diet has changed quite a bit i
+[0:24] have been whole food plant-based on and
+[0:26] off in that time
+[0:28] and in the last year i've been very
+[0:30] committed and very consistent to being
+[0:32] a whole food plant-based eater and so
+[0:36] the holidays in the beginning were a
+[0:38] little bit tricky
+[0:39] with first going vegan and trying to
+[0:42] explain that to family and friends and
+[0:46] navigating that around holiday times
+[0:49] i've also lost 80 pounds on a
+[0:51] plant-based diet so
+[0:53] before going vegan and even after going
+[0:56] vegan i also had the tendency
+[0:59] of overeating and over
+[1:02] consuming during holiday time so at
+[1:06] halloween
+[1:06] pretty much starting with thanksgiving
+[1:09] i'm in canada so thanksgiving for us
+[1:12] is before halloween so starting with
+[1:15] thanksgiving
+[1:16] through halloween through into
+[1:19] the holidays the holiday season uh
+[1:23] it would just kind of be one bad choice
+[1:27] after the next and they would compound
+[1:30] and compile
+[1:31] my health would suffer for it and my
+[1:35] weight would also go up so
+[1:38] i put together this video of tips and
+[1:41] tricks
+[1:42] and strategies to help you navigate the
+[1:45] holidays
+--- Telling people youre vegan ---
+[1:47] i'd recommend telling people that you're
+[1:49] vegan so
+[1:50] when i first made the decision to go
+[1:53] plant-based
+[1:54] and be a vegan i
+[1:58] reached out to family and friends and i
+[2:01] told them what i was doing i did sort of
+[2:05] frame it as
+[2:06] more of an experiment and to see how i
+[2:09] would
+[2:09] feel and to
+[2:11] [Music]
+[2:13] tell them that i was just sort of
+[2:15] testing it out
+[2:16] even though in my mind i felt very
+[2:19] strongly about being vegan and i
+[2:21] knew it would be a long term thing
+[2:24] but i didn't want anyone to worry about
+[2:26] me or to
+[2:27] be concerned about my diet or
+[2:30] question me a lot about my diet so i
+[2:34] tried to only tell people when it was
+[2:37] uh necessary you know when we were
+[2:39] eating together
+[2:41] and it would have to be sort of brought
+[2:43] up or discussed
+[2:45] um but i would try to be just really
+[2:46] chill about it and
+[2:49] i was really lucky that i have amazing
+[2:52] family and friends
+[2:53] who were very understanding and they
+[2:56] were pretty
+[2:57] chill about it too i was sort of nervous
+[2:59] to
+[3:00] talk to them about it initially because
+[3:02] i didn't know what the response would be
+[3:04] uh but i was very lucky in that uh
+[3:08] people were fairly supportive i mean not
+[3:10] they weren't super interested in it
+[3:12] or didn't want to know too much about it
+[3:15] but at the same time
+[3:16] they were pretty cool with me doing my
+[3:19] thing
+[3:19] and they would do their thing and we
+[3:22] would just
+[3:23] co-exist and enjoy each other's company
+[3:26] find vegan alternatives so in terms of
+--- Find vegan alternatives ---
+[3:29] halloween
+[3:31] a lot of halloween candy is actually
+[3:33] vegan
+[3:34] so a lot of the little chocolate bars
+[3:37] and things have milk in them but a lot
+[3:39] of the
+[3:40] candies a lot of the like lollipops and
+[3:42] sweets
+[3:44] they are oftentimes they are vegan so
+[3:47] that's pretty cool
+[3:48] just read read labels and
+[3:51] you know familiarize yourself with
+[3:53] reading labels just to make sure but a
+[3:55] lot of that stuff
+[3:56] is accidentally vegan so that's really
+[3:59] fun
+[4:00] if you're a whole food plant-based it's
+[4:01] a little bit different
+[4:03] a lot of that stuff is not whole food
+[4:05] ingredients
+[4:07] so you'd have to be a bit more
+[4:09] particular about
+[4:10] what what you're having we do have a
+[4:13] treat video that's vegan treats
+[4:16] some of which are a bit more whole food
+[4:18] based style
+[4:20] treats made out of dried fruit and nuts
+[4:23] and things like that and then we also
+[4:24] have a couple of
+[4:26] chocolate bars in there and other things
+[4:28] so you can check that out i'll link it
+[4:29] below in case you want to take a look
+[4:32] in terms of the holidays finding vegan
+[4:34] alternatives is getting easier
+[4:36] and easier over time so for
+[4:40] thanksgiving for example if you'd like a
+[4:42] turkey replacement
+[4:44] there's tofurkey there's gardein
+[4:48] there are tons of different options for
+[4:51] turkey style replacements
+[4:54] instead of purchasing processed foods
+--- Make your own meals ---
+[4:57] you could always make your own
+[4:59] snacks and make your own meals as well
+[5:02] i did a whole video about our halloween
+[5:05] uh
+[5:06] plans and halloween meals and treats
+[5:10] so you can check that out i'll link it
+[5:11] below but basically
+[5:13] we had some themed meals planned that
+[5:17] were
+[5:17] sort of black and orange you could
+[5:19] always make
+[5:20] you know oats in the morning with some
+[5:22] sweet potato or pumpkin
+[5:24] or something like that so that it's
+[5:26] orange and maybe add some chia seeds on
+[5:29] top
+[5:29] for some black in there lots of fun
+[5:33] creative ways to have a halloween themed
+[5:36] meal that's sort of a regular
+[5:39] meal that you would eat but that is a
+[5:42] little bit festive and fun just with the
+[5:44] different colors
+[5:45] you can also experiment with making
+[5:46] different smoothies
+[5:48] you can make really interesting colored
+[5:51] smoothies depending on what ingredients
+[5:53] you use
+[5:54] so that could be really fun to play with
+[5:56] as well
+[5:57] in our video we also made these
+[5:59] delicious jack-o-lantern cookies that
+[6:02] i'm so excited about because they're so
+[6:05] good and they're
+[6:06] wholesome whole food ingredients no oil
+[6:09] and super super tasty so check that
+[6:12] video out for sure if you're interested
+[6:15] you can also make your own meals for
+[6:17] holiday
+[6:18] dishes so usually all the side dishes
+[6:21] that you would typically have
+[6:23] at thanksgiving or at christmas during
+[6:26] the holiday season
+[6:28] they are vegan already or you can
+[6:31] make them into vegan versions very
+[6:34] easily
+[6:35] and make them into whole food
+[6:36] plant-based versions really easily if
+[6:38] you want to
+[6:40] so we have a mashed potato
+[6:43] recipe as well as a gravy recipe
+[6:47] we have a shepherd's pie recipe that's
+[6:49] really delicious
+[6:51] so i'll link that below in case you're
+[6:54] interested
+[6:54] there's also tons of other recipes
+[6:58] online
+[6:58] for lentil loaves for all sorts of
+[7:02] different
+[7:02] alternatives that you can make vegan
+[7:05] stuffing
+[7:06] lots of cool stuff to experiment with
+[7:08] and play with
+[7:10] and you can always keep it as simple or
+[7:12] make it as complicated as you want
+[7:14] depending on how much time you want to
+[7:15] spend in the kitchen
+[7:17] how much you enjoy cooking of all that
+[7:19] good stuff
+--- Shift your focus ---
+[7:22] i would say enjoy your food but
+[7:25] shift the focus away from food so
+[7:29] for halloween it's very
+[7:32] typical for people to be very
+[7:36] tuned in to the candy side of things and
+[7:39] the chips and the
+[7:40] food at least i was i know for me
+[7:43] that was a very big deal it was very
+[7:45] exciting it was very fun
+[7:47] i've always loved halloween since i was
+[7:49] a kid and
+[7:50] the food and the junk food was a big
+[7:53] focus and now that we've shifted into
+[7:57] going vegan and going whole food
+[8:00] plant-based
+[8:01] our focus is more around celebrating
+[8:04] the time of year and
+[8:08] just celebrating it in a different way
+[8:10] so we still ha
+[8:11] make and enjoy fun foods and different
+[8:14] foods than we
+[8:15] maybe typically would on a day-to-day
+[8:17] basis
+[8:19] but we also focus on different
+[8:22] aspects of the holiday so for halloween
+[8:25] there's
+[8:26] decorating there's carving pumpkins
+[8:30] taking hikes outside
+[8:33] and in the crunchy leaves
+[8:36] dressing up for halloween watching scary
+[8:40] movies listening to spooky music you
+[8:42] know
+[8:43] there are a lot of different things you
+[8:45] can do that don't involve
+[8:46] food and if you can shift your focus
+[8:50] away from the food aspect then
+[8:53] you know that can that can help for sure
+[8:56] that way you don't miss out on the fun
+[8:58] but you're just shifting your focus away
+[9:00] from the food aspect
+[9:02] for holidays the focus for sure for us
+[9:05] is
+[9:06] spending time with family and friends
+[9:08] and this year
+[9:10] might be different because of the
+[9:12] coronavirus
+[9:14] and uh we might not be able to celebrate
+[9:16] it in the same way
+[9:18] but typically um the holiday time
+[9:22] is for us to spend time together as a
+[9:25] family
+[9:25] and to really enjoy each other's company
+[9:28] chat hang out
+[9:30] have fun and the food is there and we
+[9:32] enjoy it
+[9:33] and it's delicious and lovely
+[9:37] but it's more important to
+[9:40] spend that time together and do
+[9:42] different things together go for a walk
+[9:44] or you know if it's snowing outside
+[9:48] fill the snowman play in the snow we
+[9:51] have a five-year-old
+[9:53] he loves getting outside and playing
+[9:56] and you know kicking a soccer ball
+[9:58] around throwing a football around
+[10:01] playing catch
+[10:02] all sorts of cool stuff that you can do
+[10:04] if the weather's not good or if you
+[10:06] would rather remain inside play a board
+[10:09] game
+[10:10] play multiple board games read to one
+[10:13] another or
+[10:14] spend some time on your own reading a
+[10:17] good book
+[10:18] watch holiday movies together so many
+[10:21] fun activities and different things that
+[10:23] you can do that don't
+[10:25] revolve around food i'm a planner so i
+--- Make a plan ---
+[10:29] like to make a plan and do my best to
+[10:31] stick with it
+[10:32] and not everybody is like that my
+[10:34] husband is much more
+[10:36] just kind of go with the flow and see
+[10:38] what happens
+[10:39] and he's a bit more relaxed in that way
+[10:43] i like to plan things out so i'll plan
+[10:46] what i'm going to make
+[10:47] for the holidays and i'll make sure i
+[10:50] have all the ingredients and i
+[10:51] test it beforehand before i make it
+[10:55] and serve it um and
+[10:58] so i have a bit of a plan so that i can
+[11:01] make
+[11:02] conscious choices and conscious
+[11:04] decisions
+[11:05] and enjoy myself so
+[11:09] holiday times are for fun and enjoyment
+[11:12] and it's so important to
+[11:16] enjoy the time and have a good time
+[11:20] i would say if you make a plan or you
+[11:23] have a meal plan or a food plan that you
+[11:26] follow and you do happen to go off track
+[11:31] that's okay don't beat yourself up
+[11:34] don't be too hard on yourself be kind to
+[11:37] yourself
+[11:39] things happen sometimes you know
+[11:42] unexpected things come up
+[11:46] and you know it's not the end of the
+[11:49] world
+[11:50] do your very best not to allow it to
+[11:52] spiral
+[11:53] into another bad choice and another bad
+[11:56] choice
+[11:56] another bad choice because it's so easy
+[11:59] to do
+[12:00] and if you can be aware
+[12:05] and you know if you slip up
+[12:08] just make a better choice the next time
+[12:12] and feel good about that choice and
+[12:15] build on the good choices again
+[12:17] you'll feel so much better for it and
+[12:19] for me it's all about my health
+[12:20] so i am very conscious
+[12:24] and very focused on that and not to say
+[12:27] that i'm perfect i do slip up from time
+[12:29] to time
+[12:29] and eat things that aren't necessarily
+[12:32] the most
+[12:33] health promoting thing that i can be
+[12:35] consuming
+[12:36] um but i've gotten much better at just
+[12:40] being kind to myself getting right back
+[12:42] on track
+[12:43] and just continuing with my whole food
+[12:45] plant-based oil-free diet
+[12:48] so on the topic of being kind and
+[12:50] compassionate to yourself
+[12:52] it is also very important to be kind and
+[12:54] compassionate with others
+[12:56] so you were not always vegan i was not
+[13:00] always vegan you were not always
+[13:03] whole food plant-based i was not always
+[13:06] whole food plant-based
+[13:08] uh so it takes some time it took me some
+[13:11] time
+[13:12] i'll speak for myself it took me some
+[13:14] time to build
+[13:15] new habits build new routines and get
+[13:18] into a rhythm
+[13:19] of eating a whole food plant-based diet
+[13:21] and then when i first went vegan
+[13:23] same thing it took some time to get into
+[13:26] that habit
+[13:26] and really um create a new
+[13:30] rhythm and just a new a new lifestyle to
+[13:35] all together
+[13:36] and it will take time for your family
+[13:40] and for your friends to get used to that
+[13:42] too
+[13:43] and you live your lifestyle every day
+[13:47] you become very accustomed to it and
+[13:49] very familiar with it
+[13:50] your family and friends maybe don't see
+[13:53] it that
+[13:54] often and it can take time for them to
+[13:57] come around to really understanding what
+[13:59] you're doing
+[14:00] whether it's a vegan lifestyle or a
+[14:02] whole food plant-based lifestyle
+[14:04] and uh if they have questions i would
+[14:07] say try to be patient
+[14:09] try to be calm relaxed
+[14:14] and hopefully they will be respectful of
+[14:16] your decisions and
+[14:18] you can be respectful of theirs and
+[14:21] everyone can have a good time and enjoy
+[14:24] themselves
+[14:25] and be respectful of one another i've
+[14:28] heard horror stories about
+[14:30] families not getting along and not
+[14:33] being respectful of one another and a
+[14:35] lot of attacks and things like that
+[14:38] i'm super fortunate that i've never had
+[14:40] to deal with that
+[14:41] and i really feel for anyone who does
+[14:44] have to
+[14:44] deal with that i would say in that case
+[14:48] you know stand up for yourself try to
+[14:51] remain
+[14:51] calm and you know just explain that
+[14:54] it's your choice it's not a comment on
+[14:57] anyone else's choices
+[14:58] it's not a judgment on anybody else
+[15:00] you're making the decision
+[15:01] for you and for your own family
+[15:05] and that's that everyone makes the best
+[15:09] choices they can with what they know and
+[15:11] with what they
+[15:13] think is true or what they know to be
+[15:15] true
+[15:16] and everyone you know has a different
+[15:19] perspective and
+[15:20] we just we need to be respectful of that
+[15:23] remember where you came from remember
+[15:24] that you were not always
+[15:26] vegan you were not always whole food
+[15:28] plant-based
+[15:29] and a lot of vegans never thought that
+[15:32] they ever would be vegans
+[15:34] i know before i went vegan i never
+[15:37] ever thought i would go vegan i didn't
+[15:39] even know another vegan
+[15:41] when i went vegan i was the only vegan i
+[15:44] knew
+[15:45] so be kind and compassionate to others
+[15:50] you want people to be kind and
+[15:51] compassionate to you and respect your
+[15:53] lifestyle
+[15:54] and as much as it can be difficult to
+[15:57] watch people eating animals or you know
+[16:01] eating animal products
+[16:03] you need to recognize you know where
+[16:05] they're coming from
+[16:07] and be respectful of that
+[16:11] and who knows maybe one day they'll come
+[16:13] around and they'll be interested in
+[16:15] eating more plants
+[16:16] and going more plant-based because of
+[16:19] the example that you said
+[16:21] don't expect people to go vegan and
+[16:24] change their mind just because you've
+[16:27] made the decision
+[16:28] to do so they might
+[16:31] in the future make that decision but
+[16:33] it's a very
+[16:34] personal decision to make and
+[16:38] the more that you can be compassionate
+[16:41] and
+[16:42] judgment free around it
+[16:45] so make a plan stick to it enjoy
+[16:48] yourself and
+[16:50] be kind to yourself and others this
+[16:54] holiday season
+[16:55] thank you so much for watching i hope
+[16:57] you enjoyed this video and found my tips
+[17:00] helpful
+[17:01] give it a like if you liked it comment
+[17:04] and subscribe below if you haven't
+[17:06] already and i will talk to you soon bye
+[17:18] you
+--- Intro ---
+[0:00] they were pretty cool with me doing my
+[0:02] thing
+[0:03] and they would do their thing and we
+[0:06] would just
+[0:07] coexist
+[0:08] [Music]
+[0:14] hi i'm meg welcome to plant fit meg i've
+[0:17] been vegan since
+[0:18] 2016 and in that time
+[0:21] um my diet has changed quite a bit i
+[0:24] have been whole food plant-based on and
+[0:26] off in that time
+[0:28] and in the last year i've been very
+[0:30] committed and very consistent to being
+[0:32] a whole food plant-based eater and so
+[0:36] the holidays in the beginning were a
+[0:38] little bit tricky
+[0:39] with first going vegan and trying to
+[0:42] explain that to family and friends and
+[0:46] navigating that around holiday times
+[0:49] i've also lost 80 pounds on a
+[0:51] plant-based diet so
+[0:53] before going vegan and even after going
+[0:56] vegan i also had the tendency
+[0:59] of overeating and over
+[1:02] consuming during holiday time so at
+[1:06] halloween
+[1:06] pretty much starting with thanksgiving
+[1:09] i'm in canada so thanksgiving for us
+[1:12] is before halloween so starting with
+[1:15] thanksgiving
+[1:16] through halloween through into
+[1:19] the holidays the holiday season uh
+[1:23] it would just kind of be one bad choice
+[1:27] after the next and they would compound
+[1:30] and compile
+[1:31] my health would suffer for it and my
+[1:35] weight would also go up so
+[1:38] i put together this video of tips and
+[1:41] tricks
+[1:42] and strategies to help you navigate the
+[1:45] holidays
+--- Telling people youre vegan ---
+[1:47] i'd recommend telling people that you're
+[1:49] vegan so
+[1:50] when i first made the decision to go
+[1:53] plant-based
+[1:54] and be a vegan i
+[1:58] reached out to family and friends and i
+[2:01] told them what i was doing i did sort of
+[2:05] frame it as
+[2:06] more of an experiment and to see how i
+[2:09] would
+[2:09] feel and to
+[2:11] [Music]
+[2:13] tell them that i was just sort of
+[2:15] testing it out
+[2:16] even though in my mind i felt very
+[2:19] strongly about being vegan and i
+[2:21] knew it would be a long term thing
+[2:24] but i didn't want anyone to worry about
+[2:26] me or to
+[2:27] be concerned about my diet or
+[2:30] question me a lot about my diet so i
+[2:34] tried to only tell people when it was
+[2:37] uh necessary you know when we were
+[2:39] eating together
+[2:41] and it would have to be sort of brought
+[2:43] up or discussed
+[2:45] um but i would try to be just really
+[2:46] chill about it and
+[2:49] i was really lucky that i have amazing
+[2:52] family and friends
+[2:53] who were very understanding and they
+[2:56] were pretty
+[2:57] chill about it too i was sort of nervous
+[2:59] to
+[3:00] talk to them about it initially because
+[3:02] i didn't know what the response would be
+[3:04] uh but i was very lucky in that uh
+[3:08] people were fairly supportive i mean not
+[3:10] they weren't super interested in it
+[3:12] or didn't want to know too much about it
+[3:15] but at the same time
+[3:16] they were pretty cool with me doing my
+[3:19] thing
+[3:19] and they would do their thing and we
+[3:22] would just
+[3:23] co-exist and enjoy each other's company
+[3:26] find vegan alternatives so in terms of
+--- Find vegan alternatives ---
+[3:29] halloween
+[3:31] a lot of halloween candy is actually
+[3:33] vegan
+[3:34] so a lot of the little chocolate bars
+[3:37] and things have milk in them but a lot
+[3:39] of the
+[3:40] candies a lot of the like lollipops and
+[3:42] sweets
+[3:44] they are oftentimes they are vegan so
+[3:47] that's pretty cool
+[3:48] just read read labels and
+[3:51] you know familiarize yourself with
+[3:53] reading labels just to make sure but a
+[3:55] lot of that stuff
+[3:56] is accidentally vegan so that's really
+[3:59] fun
+[4:00] if you're a whole food plant-based it's
+[4:01] a little bit different
+[4:03] a lot of that stuff is not whole food
+[4:05] ingredients
+[4:07] so you'd have to be a bit more
+[4:09] particular about
+[4:10] what what you're having we do have a
+[4:13] treat video that's vegan treats
+[4:16] some of which are a bit more whole food
+[4:18] based style
+[4:20] treats made out of dried fruit and nuts
+[4:23] and things like that and then we also
+[4:24] have a couple of
+[4:26] chocolate bars in there and other things
+[4:28] so you can check that out i'll link it
+[4:29] below in case you want to take a look
+[4:32] in terms of the holidays finding vegan
+[4:34] alternatives is getting easier
+[4:36] and easier over time so for
+[4:40] thanksgiving for example if you'd like a
+[4:42] turkey replacement
+[4:44] there's tofurkey there's gardein
+[4:48] there are tons of different options for
+[4:51] turkey style replacements
+[4:54] instead of purchasing processed foods
+--- Make your own meals ---
+[4:57] you could always make your own
+[4:59] snacks and make your own meals as well
+[5:02] i did a whole video about our halloween
+[5:05] uh
+[5:06] plans and halloween meals and treats
+[5:10] so you can check that out i'll link it
+[5:11] below but basically
+[5:13] we had some themed meals planned that
+[5:17] were
+[5:17] sort of black and orange you could
+[5:19] always make
+[5:20] you know oats in the morning with some
+[5:22] sweet potato or pumpkin
+[5:24] or something like that so that it's
+[5:26] orange and maybe add some chia seeds on
+[5:29] top
+[5:29] for some black in there lots of fun
+[5:33] creative ways to have a halloween themed
+[5:36] meal that's sort of a regular
+[5:39] meal that you would eat but that is a
+[5:42] little bit festive and fun just with the
+[5:44] different colors
+[5:45] you can also experiment with making
+[5:46] different smoothies
+[5:48] you can make really interesting colored
+[5:51] smoothies depending on what ingredients
+[5:53] you use
+[5:54] so that could be really fun to play with
+[5:56] as well
+[5:57] in our video we also made these
+[5:59] delicious jack-o-lantern cookies that
+[6:02] i'm so excited about because they're so
+[6:05] good and they're
+[6:06] wholesome whole food ingredients no oil
+[6:09] and super super tasty so check that
+[6:12] video out for sure if you're interested
+[6:15] you can also make your own meals for
+[6:17] holiday
+[6:18] dishes so usually all the side dishes
+[6:21] that you would typically have
+[6:23] at thanksgiving or at christmas during
+[6:26] the holiday season
+[6:28] they are vegan already or you can
+[6:31] make them into vegan versions very
+[6:34] easily
+[6:35] and make them into whole food
+[6:36] plant-based versions really easily if
+[6:38] you want to
+[6:40] so we have a mashed potato
+[6:43] recipe as well as a gravy recipe
+[6:47] we have a shepherd's pie recipe that's
+[6:49] really delicious
+[6:51] so i'll link that below in case you're
+[6:54] interested
+[6:54] there's also tons of other recipes
+[6:58] online
+[6:58] for lentil loaves for all sorts of
+[7:02] different
+[7:02] alternatives that you can make vegan
+[7:05] stuffing
+[7:06] lots of cool stuff to experiment with
+[7:08] and play with
+[7:10] and you can always keep it as simple or
+[7:12] make it as complicated as you want
+[7:14] depending on how much time you want to
+[7:15] spend in the kitchen
+[7:17] how much you enjoy cooking of all that
+[7:19] good stuff
+--- Shift your focus ---
+[7:22] i would say enjoy your food but
+[7:25] shift the focus away from food so
+[7:29] for halloween it's very
+[7:32] typical for people to be very
+[7:36] tuned in to the candy side of things and
+[7:39] the chips and the
+[7:40] food at least i was i know for me
+[7:43] that was a very big deal it was very
+[7:45] exciting it was very fun
+[7:47] i've always loved halloween since i was
+[7:49] a kid and
+[7:50] the food and the junk food was a big
+[7:53] focus and now that we've shifted into
+[7:57] going vegan and going whole food
+[8:00] plant-based
+[8:01] our focus is more around celebrating
+[8:04] the time of year and
+[8:08] just celebrating it in a different way
+[8:10] so we still ha
+[8:11] make and enjoy fun foods and different
+[8:14] foods than we
+[8:15] maybe typically would on a day-to-day
+[8:17] basis
+[8:19] but we also focus on different
+[8:22] aspects of the holiday so for halloween
+[8:25] there's
+[8:26] decorating there's carving pumpkins
+[8:30] taking hikes outside
+[8:33] and in the crunchy leaves
+[8:36] dressing up for halloween watching scary
+[8:40] movies listening to spooky music you
+[8:42] know
+[8:43] there are a lot of different things you
+[8:45] can do that don't involve
+[8:46] food and if you can shift your focus
+[8:50] away from the food aspect then
+[8:53] you know that can that can help for sure
+[8:56] that way you don't miss out on the fun
+[8:58] but you're just shifting your focus away
+[9:00] from the food aspect
+[9:02] for holidays the focus for sure for us
+[9:05] is
+[9:06] spending time with family and friends
+[9:08] and this year
+[9:10] might be different because of the
+[9:12] coronavirus
+[9:14] and uh we might not be able to celebrate
+[9:16] it in the same way
+[9:18] but typically um the holiday time
+[9:22] is for us to spend time together as a
+[9:25] family
+[9:25] and to really enjoy each other's company
+[9:28] chat hang out
+[9:30] have fun and the food is there and we
+[9:32] enjoy it
+[9:33] and it's delicious and lovely
+[9:37] but it's more important to
+[9:40] spend that time together and do
+[9:42] different things together go for a walk
+[9:44] or you know if it's snowing outside
+[9:48] fill the snowman play in the snow we
+[9:51] have a five-year-old
+[9:53] he loves getting outside and playing
+[9:56] and you know kicking a soccer ball
+[9:58] around throwing a football around
+[10:01] playing catch
+[10:02] all sorts of cool stuff that you can do
+[10:04] if the weather's not good or if you
+[10:06] would rather remain inside play a board
+[10:09] game
+[10:10] play multiple board games read to one
+[10:13] another or
+[10:14] spend some time on your own reading a
+[10:17] good book
+[10:18] watch holiday movies together so many
+[10:21] fun activities and different things that
+[10:23] you can do that don't
+[10:25] revolve around food i'm a planner so i
+--- Make a plan ---
+[10:29] like to make a plan and do my best to
+[10:31] stick with it
+[10:32] and not everybody is like that my
+[10:34] husband is much more
+[10:36] just kind of go with the flow and see
+[10:38] what happens
+[10:39] and he's a bit more relaxed in that way
+[10:43] i like to plan things out so i'll plan
+[10:46] what i'm going to make
+[10:47] for the holidays and i'll make sure i
+[10:50] have all the ingredients and i
+[10:51] test it beforehand before i make it
+[10:55] and serve it um and
+[10:58] so i have a bit of a plan so that i can
+[11:01] make
+[11:02] conscious choices and conscious
+[11:04] decisions
+[11:05] and enjoy myself so
+[11:09] holiday times are for fun and enjoyment
+[11:12] and it's so important to
+[11:16] enjoy the time and have a good time
+[11:20] i would say if you make a plan or you
+[11:23] have a meal plan or a food plan that you
+[11:26] follow and you do happen to go off track
+[11:31] that's okay don't beat yourself up
+[11:34] don't be too hard on yourself be kind to
+[11:37] yourself
+[11:39] things happen sometimes you know
+[11:42] unexpected things come up
+[11:46] and you know it's not the end of the
+[11:49] world
+[11:50] do your very best not to allow it to
+[11:52] spiral
+[11:53] into another bad choice and another bad
+[11:56] choice
+[11:56] another bad choice because it's so easy
+[11:59] to do
+[12:00] and if you can be aware
+[12:05] and you know if you slip up
+[12:08] just make a better choice the next time
+[12:12] and feel good about that choice and
+[12:15] build on the good choices again
+[12:17] you'll feel so much better for it and
+[12:19] for me it's all about my health
+[12:20] so i am very conscious
+[12:24] and very focused on that and not to say
+[12:27] that i'm perfect i do slip up from time
+[12:29] to time
+[12:29] and eat things that aren't necessarily
+[12:32] the most
+[12:33] health promoting thing that i can be
+[12:35] consuming
+[12:36] um but i've gotten much better at just
+[12:40] being kind to myself getting right back
+[12:42] on track
+[12:43] and just continuing with my whole food
+[12:45] plant-based oil-free diet
+[12:48] so on the topic of being kind and
+[12:50] compassionate to yourself
+[12:52] it is also very important to be kind and
+[12:54] compassionate with others
+[12:56] so you were not always vegan i was not
+[13:00] always vegan you were not always
+[13:03] whole food plant-based i was not always
+[13:06] whole food plant-based
+[13:08] uh so it takes some time it took me some
+[13:11] time
+[13:12] i'll speak for myself it took me some
+[13:14] time to build
+[13:15] new habits build new routines and get
+[13:18] into a rhythm
+[13:19] of eating a whole food plant-based diet
+[13:21] and then when i first went vegan
+[13:23] same thing it took some time to get into
+[13:26] that habit
+[13:26] and really um create a new
+[13:30] rhythm and just a new a new lifestyle to
+[13:35] all together
+[13:36] and it will take time for your family
+[13:40] and for your friends to get used to that
+[13:42] too
+[13:43] and you live your lifestyle every day
+[13:47] you become very accustomed to it and
+[13:49] very familiar with it
+[13:50] your family and friends maybe don't see
+[13:53] it that
+[13:54] often and it can take time for them to
+[13:57] come around to really understanding what
+[13:59] you're doing
+[14:00] whether it's a vegan lifestyle or a
+[14:02] whole food plant-based lifestyle
+[14:04] and uh if they have questions i would
+[14:07] say try to be patient
+[14:09] try to be calm relaxed
+[14:14] and hopefully they will be respectful of
+[14:16] your decisions and
+[14:18] you can be respectful of theirs and
+[14:21] everyone can have a good time and enjoy
+[14:24] themselves
+[14:25] and be respectful of one another i've
+[14:28] heard horror stories about
+[14:30] families not getting along and not
+[14:33] being respectful of one another and a
+[14:35] lot of attacks and things like that
+[14:38] i'm super fortunate that i've never had
+[14:40] to deal with that
+[14:41] and i really feel for anyone who does
+[14:44] have to
+[14:44] deal with that i would say in that case
+[14:48] you know stand up for yourself try to
+[14:51] remain
+[14:51] calm and you know just explain that
+[14:54] it's your choice it's not a comment on
+[14:57] anyone else's choices
+[14:58] it's not a judgment on anybody else
+[15:00] you're making the decision
+[15:01] for you and for your own family
+[15:05] and that's that everyone makes the best
+[15:09] choices they can with what they know and
+[15:11] with what they
+[15:13] think is true or what they know to be
+[15:15] true
+[15:16] and everyone you know has a different
+[15:19] perspective and
+[15:20] we just we need to be respectful of that
+[15:23] remember where you came from remember
+[15:24] that you were not always
+[15:26] vegan you were not always whole food
+[15:28] plant-based
+[15:29] and a lot of vegans never thought that
+[15:32] they ever would be vegans
+[15:34] i know before i went vegan i never
+[15:37] ever thought i would go vegan i didn't
+[15:39] even know another vegan
+[15:41] when i went vegan i was the only vegan i
+[15:44] knew
+[15:45] so be kind and compassionate to others
+[15:50] you want people to be kind and
+[15:51] compassionate to you and respect your
+[15:53] lifestyle
+[15:54] and as much as it can be difficult to
+[15:57] watch people eating animals or you know
+[16:01] eating animal products
+[16:03] you need to recognize you know where
+[16:05] they're coming from
+[16:07] and be respectful of that
+[16:11] and who knows maybe one day they'll come
+[16:13] around and they'll be interested in
+[16:15] eating more plants
+[16:16] and going more plant-based because of
+[16:19] the example that you said
+[16:21] don't expect people to go vegan and
+[16:24] change their mind just because you've
+[16:27] made the decision
+[16:28] to do so they might
+[16:31] in the future make that decision but
+[16:33] it's a very
+[16:34] personal decision to make and
+[16:38] the more that you can be compassionate
+[16:41] and
+[16:42] judgment free around it
+[16:45] so make a plan stick to it enjoy
+[16:48] yourself and
+[16:50] be kind to yourself and others this
+[16:54] holiday season
+[16:55] thank you so much for watching i hope
+[16:57] you enjoyed this video and found my tips
+[17:00] helpful
+[17:01] give it a like if you liked it comment
+[17:04] and subscribe below if you haven't
+[17:06] already and i will talk to you soon bye
+[17:18] you
+
+
+
+
+
+
+
+
+Title: WFPB HALLOWEEN PART 2: Healthy Halloween Recipes Part 2 (Oil Free Vegan, Whole Food Plant-Based)
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=BQbQMBc-efg
+
+====
+
+Description:
+After filming my first WFPB Halloween video, my husband Chris wanted to join in the fun! So here’s Healthy Halloween Recipes Part 2! Today, we’ll be making a slime smoothie, a spooky salad, and bat brownies (Dr. Greger's Fudgy No-Bake Brownies). All recipes are oil free vegan, whole food plant-based, and delicious!
+
+====
+
+Transcript:
+--- Intro ---
+[0:00] but they're bats we made them into bat
+[0:01] shapes with our cookie cutters
+[0:03] [Music]
+[0:08] hey hi i'm meg hi i'm chris meg's
+[0:11] husband
+[0:12] welcome to plant fit meg hi
+[0:16] so here's another halloween video
+[0:19] well i didn't surprise you i didn't get
+[0:22] to do the first one
+[0:24] it's not really a surprise that i felt
+[0:25] left out on the halloween video
+[0:28] it's the whole reason we're doing
+[0:29] another one chris wanted to join in on
+[0:31] the fun
+[0:31] we both love halloween we have a
+[0:33] five-year-old and he's
+[0:34] super excited for halloween so we
+[0:38] thought we would go ahead and
+[0:40] film more halloween fun yeah we got lots
+[0:43] of halloween shapes which
+[0:44] we've been going to town yes so we have
+[0:47] a few recipes for you today we have a
+[0:49] green smoothie that we like to call our
+[0:51] slime
+[0:52] smoothie we have a black bean kale
+[0:55] and cauliflower salad with green salsa
+[0:58] that we like to call our spooky salad
+[1:01] and we also have made the
+[1:05] fudgy no-bake brownies from dr greger
+[1:07] but they're bats we made them into bat
+[1:09] shapes with our cookie cutters we've
+[1:10] been obsessed with our
+[1:11] new cookie cutters and have been trying
+[1:13] to use them with everything
+[1:15] like all our foods like everything
+[1:18] like toast yes so at the end you'll see
+[1:22] more fun with cookie cutters yeah
+[1:25] we hope you enjoyed the video here are
+--- Slime Smoothie ---
+[1:28] the ingredients for the slime
+[1:30] smoothie it's not really made out of
+[1:33] slime it's made out of delicious
+[1:35] whole food ingredients i'm putting some
+[1:38] spinach
+[1:39] in the blender here
+[1:43] and i like to put quite a bit of spinach
+[1:45] in and then pack it down
+[1:51] i'm adding some mango some banana
+[1:58] and some pineapple and water all the
+[2:02] fruit is
+[2:02] frozen so that it's very cold and
+[2:06] frosty smoothie you could also freeze
+[2:09] the greens
+[2:10] and use frozen greens if you prefer or
+[2:13] if that's what you have on hand
+[2:15] i used baby spinach here but i have also
+[2:17] used kale
+[2:19] in the past as well or regular spinach
+[2:22] and that works
+[2:22] just as well i'm going to go ahead and
+[2:27] blend that up
+[2:28] [Music]
+[2:33] using the tamper to push the fruit and
+[2:35] the greens gently into the blade
+[2:43] you could always defrost your fruit a
+[2:46] little bit
+[2:46] prior to blending just to make the
+[2:48] process a little smoother and a little
+[2:50] quicker
+[2:51] but i just went ahead and put them in
+[2:54] frozen
+[2:56] [Music]
+[2:58] you can also add flax seeds or chia
+[3:00] seeds to this smoothie just to
+[3:02] bump up the nutrition a little bit add
+[3:04] in those omega-3s
+[3:07] so i just continue blending until it is
+[3:10] all smooth and all the chunks
+[3:12] are blended thoroughly i'm going to go
+[3:15] ahead and pour the smoothie
+[3:16] it's as easy as that blend up all the
+[3:19] ingredients
+[3:20] and pour into a cup ready to enjoy
+[3:35] this smoothie makes about two cups worth
+[3:40] and there you have it slime smoothie
+[3:43] ready to enjoy
+[3:44] delicious green and festive
+[3:47] [Music]
+--- Spooky Salad ---
+[3:49] here are the ingredients for my spooky
+[3:53] salad which is
+[3:54] basically a mishmash of things that i
+[3:56] had in my
+[3:58] refrigerator i'm adding some kale slaw
+[4:01] here to my plate you could add any
+[4:03] greens
+[4:04] of your choice
+[4:06] [Music]
+[4:13] this mix has kale in it as well as
+[4:16] purple and green cabbage and shredded
+[4:18] carrot
+[4:19] it's really yummy
+[4:22] [Music]
+[4:26] i'm gonna go ahead and add some
+[4:27] cauliflower i had roasted
+[4:30] uh this cauliflower the day before so
+[4:32] i'm just adding the
+[4:34] roasted cauliflower here you could
+[4:36] always use raw
+[4:37] cauliflower if you prefer or steamed
+[4:41] cauliflower
+[4:43] make it your own if you don't like
+[4:44] cauliflower you could use broccoli or a
+[4:47] different vegetable
+[4:56] now i'm adding some brown rice to the
+[4:59] top
+[5:00] i'm adding my black beans to the top
+[5:02] here this was just canned beans that i
+[5:06] drained and rinsed you could also cook
+[5:08] your own black beans
+[5:11] using dried beans you could also use a
+[5:15] different kind of bean if you prefer
+[5:17] i love black beans and i thought the
+[5:19] contrast with the black beans
+[5:21] and the greens and cauliflower
+[5:24] would be really festive and fun for
+[5:26] halloween so i'm adding some green salsa
+[5:29] here
+[5:32] and i'm just mixing it up a little bit
+[5:36] this would be easier to do in a bowl but
+[5:39] i wanted to
+[5:40] have the presentation on a plate so um
+[5:43] i'm just
+[5:44] mixing that a little bit with a pork and
+[5:46] spoon here
+[5:47] and adding some more green salsa
+[5:52] it's so good it looks weird like a weird
+[5:55] color but it's delicious
+[5:59] if you haven't tried green salsa before
+[6:01] i highly recommend giving it a go
+[6:04] and i'm adding some well year old
+[6:05] sriracha on top
+[6:07] i'll leave a link below to where you can
+[6:09] find well your world products
+[6:11] they make um sos free sauces which are
+[6:14] salt oil and sugar-free
+[6:16] if you've been watching the channel
+[6:18] you've heard me talk about them a lot
+[6:20] because i thoroughly enjoy their
+[6:21] products and here's the finished salad
+[6:25] super simple yummy next we'll be making
+--- fudgy brownies ---
+[6:28] the fudgy no bake brownies from the how
+[6:31] not to die cookbook
+[6:33] the recipe is also available online so i
+[6:36] will leave a link to that below
+[6:39] we've modified the recipe slightly here
+[6:41] we used peanut butter instead of
+[6:44] almond butter because it was what we had
+[6:45] on hand and we also just omitted the
+[6:48] crushed pecans
+[6:49] at the end you could always add those if
+[6:52] you like
+[6:53] but we just omitted them because we were
+[6:55] going to use our bat
+[6:57] cookie cutters for this recipe so here
+[7:00] i'm just putting some parchment paper
+[7:02] into our baking dish so that at the end
+[7:05] it's really easy to just pop the
+[7:07] brownies out
+[7:10] i'm using clothes pegs just to hold the
+[7:13] parchment paper down just because i find
+[7:15] it just pops right out if you try to
+[7:19] just line the baking dish without
+[7:22] anything holding it down
+[7:24] so i'm adding walnuts to the food
+[7:26] processor
+[7:28] and things
+[7:32] [Music]
+[7:39] and i'll process that until it is
+[7:41] crumbly
+[7:43] i probably could have mixed it a little
+[7:45] bit longer
+[7:46] but i tend to get a little impatient
+[7:49] sometimes when i'm cooking
+[7:51] and making recipes so i went ahead and
+[7:54] added the peanut butter
+[7:57] all right and i'm going to process that
+[7:59] so that the peanut butter is thoroughly
+[8:01] incorporated
+[8:02] in with the date and walnut mixture
+[8:13] that's what the texture looks like
+[8:17] and here goes the cocoa powder
+[8:28] and again i'm going to go ahead and
+[8:30] process that
+[8:31] until it's thoroughly blended with the
+[8:34] rest of the ingredients
+[8:42] coco makes it this deep dark brown color
+[8:46] and it
+[8:46] looks really yummy
+[8:57] so i'm just checking the texture here
+[8:59] and it seems a bit crumbly
+[9:02] so i decided to add a little bit of
+[9:05] water to this so i'm just showing the
+[9:07] crumbly texture here
+[9:09] and i'm going to add two teaspoons of
+[9:12] water
+[9:13] just to allow the mix to
+[9:16] come together a little bit more this
+[9:19] step may not be necessary
+[9:21] um but if you find your mixture is a
+[9:22] little bit dry you can always add a
+[9:24] little bit of water
+[9:25] to help it along i'm just showing the
+[9:28] texture here
+[9:31] going ahead and scooping out all of the
+[9:34] brownie batter into my baking dish
+[9:55] so i'm just going to skip ahead here and
+[9:57] show you what it looks like
+[9:59] when i'm pressing down the brownie
+[10:02] batter
+[10:03] and smoothing it out
+[10:04] [Music]
+[10:12] i just got in there with my hands and
+[10:15] i'm pressing the brownie batter down
+[10:19] i decided to use some parchment paper
+[10:21] here just to really
+[10:23] smooth out the surface of the
+[10:26] top of the brownies try to make it as
+[10:29] even as possible
+[10:30] it doesn't have to be perfect but i'm
+[10:32] just smoothing it out here
+[10:34] so that's what it looks like when it's
+[10:37] all done
+[10:38] my husband was actually helping me out
+[10:40] with this recipe and he thought it'd be
+[10:41] cool to make some texture
+[10:43] in the top of the brownie
+[10:46] so he's just going ahead with a fork and
+[10:49] adding some textured lines to the top
+[10:51] this stuff isn't necessary it was just
+[10:54] something that
+[10:55] he wanted to do and that we thought
+[10:56] would be fun for our bat brownies
+[11:02] and this is what the brownies look like
+[11:04] before we put them into the fridge
+[11:08] and so we put them into the fridge for
+[11:10] about an hour
+[11:12] and then pulled them out and see how
+[11:14] easy it is to just pull those out with
+[11:16] the parchment paper
+[11:17] i love that it makes it so much easier
+[11:19] to just get the brownies out really
+[11:21] easily
+[11:22] so i'm going to go ahead with our bat
+[11:24] cookie cutter
+[11:25] and press that into the batter to make
+[11:29] our bat shaped so you can wiggle the
+[11:32] cookie cutter a little bit once you
+[11:34] press it down
+[11:35] fully and just pull away the extra
+[11:38] pieces and we get these cute little bat
+[11:42] shapes so we went ahead through the
+[11:45] entire
+[11:45] dish and we made baths out of the entire
+[11:49] brownie mix so let's get ahead here and
+[11:53] show you our finished
+[11:54] plate
+[11:58] here's a nice close-up of the bat and
+[12:01] here are our completed
+[12:03] fudgy no bake bath brownies this is so
+[12:06] good
+[12:08] and i love it so much and it has
+[12:20] nuts and cubes
+[12:22] that's all
+[12:28] [Music]
+[12:31] you have candy then you could
+[12:35] even even eat it after dinner
+[12:38] if you eat all your food off your face
+[12:42] [Music]
+[12:49] and here are a few other things that we
+[12:52] use the cookie cutters
+[12:53] for so i made some roasted potato
+[12:57] ghosts and roasted sweet potato pumpkins
+[13:03] some toast and a few other things here
+[13:10] [Music]
+--- outro ---
+[13:14] we hope you enjoyed the video thank you
+[13:16] so much for watching
+[13:18] we had tons of fun doing all the
+[13:20] halloween shapes guys and like we said
+[13:22] before
+[13:22] it's been out of control with everything
+[13:26] yeah so we're having a lot of fun with
+[13:27] halloween with the season
+[13:29] we're wishing everyone a happy safe fun
+[13:32] halloween
+[13:34] enjoy we absolutely love halloween so if
+[13:37] you guys can let us know your thoughts
+[13:39] were on our halloween fun and
+[13:41] subscribe or like the video below that
+[13:43] would be super appreciated
+[13:45] thanks again so much for watching guys
+[13:47] we'll talk to you soon bye
+--- Intro ---
+[0:00] but they're bats we made them into bat
+[0:01] shapes with our cookie cutters
+[0:03] [Music]
+[0:08] hey hi i'm meg hi i'm chris meg's
+[0:11] husband
+[0:12] welcome to plant fit meg hi
+[0:16] so here's another halloween video
+[0:19] well i didn't surprise you i didn't get
+[0:22] to do the first one
+[0:24] it's not really a surprise that i felt
+[0:25] left out on the halloween video
+[0:28] it's the whole reason we're doing
+[0:29] another one chris wanted to join in on
+[0:31] the fun
+[0:31] we both love halloween we have a
+[0:33] five-year-old and he's
+[0:34] super excited for halloween so we
+[0:38] thought we would go ahead and
+[0:40] film more halloween fun yeah we got lots
+[0:43] of halloween shapes which
+[0:44] we've been going to town yes so we have
+[0:47] a few recipes for you today we have a
+[0:49] green smoothie that we like to call our
+[0:51] slime
+[0:52] smoothie we have a black bean kale
+[0:55] and cauliflower salad with green salsa
+[0:58] that we like to call our spooky salad
+[1:01] and we also have made the
+[1:05] fudgy no-bake brownies from dr greger
+[1:07] but they're bats we made them into bat
+[1:09] shapes with our cookie cutters we've
+[1:10] been obsessed with our
+[1:11] new cookie cutters and have been trying
+[1:13] to use them with everything
+[1:15] like all our foods like everything
+[1:18] like toast yes so at the end you'll see
+[1:22] more fun with cookie cutters yeah
+[1:25] we hope you enjoyed the video here are
+--- Slime Smoothie ---
+[1:28] the ingredients for the slime
+[1:30] smoothie it's not really made out of
+[1:33] slime it's made out of delicious
+[1:35] whole food ingredients i'm putting some
+[1:38] spinach
+[1:39] in the blender here
+[1:43] and i like to put quite a bit of spinach
+[1:45] in and then pack it down
+[1:51] i'm adding some mango some banana
+[1:58] and some pineapple and water all the
+[2:02] fruit is
+[2:02] frozen so that it's very cold and
+[2:06] frosty smoothie you could also freeze
+[2:09] the greens
+[2:10] and use frozen greens if you prefer or
+[2:13] if that's what you have on hand
+[2:15] i used baby spinach here but i have also
+[2:17] used kale
+[2:19] in the past as well or regular spinach
+[2:22] and that works
+[2:22] just as well i'm going to go ahead and
+[2:27] blend that up
+[2:28] [Music]
+[2:33] using the tamper to push the fruit and
+[2:35] the greens gently into the blade
+[2:43] you could always defrost your fruit a
+[2:46] little bit
+[2:46] prior to blending just to make the
+[2:48] process a little smoother and a little
+[2:50] quicker
+[2:51] but i just went ahead and put them in
+[2:54] frozen
+[2:56] [Music]
+[2:58] you can also add flax seeds or chia
+[3:00] seeds to this smoothie just to
+[3:02] bump up the nutrition a little bit add
+[3:04] in those omega-3s
+[3:07] so i just continue blending until it is
+[3:10] all smooth and all the chunks
+[3:12] are blended thoroughly i'm going to go
+[3:15] ahead and pour the smoothie
+[3:16] it's as easy as that blend up all the
+[3:19] ingredients
+[3:20] and pour into a cup ready to enjoy
+[3:35] this smoothie makes about two cups worth
+[3:40] and there you have it slime smoothie
+[3:43] ready to enjoy
+[3:44] delicious green and festive
+[3:47] [Music]
+--- Spooky Salad ---
+[3:49] here are the ingredients for my spooky
+[3:53] salad which is
+[3:54] basically a mishmash of things that i
+[3:56] had in my
+[3:58] refrigerator i'm adding some kale slaw
+[4:01] here to my plate you could add any
+[4:03] greens
+[4:04] of your choice
+[4:06] [Music]
+[4:13] this mix has kale in it as well as
+[4:16] purple and green cabbage and shredded
+[4:18] carrot
+[4:19] it's really yummy
+[4:22] [Music]
+[4:26] i'm gonna go ahead and add some
+[4:27] cauliflower i had roasted
+[4:30] uh this cauliflower the day before so
+[4:32] i'm just adding the
+[4:34] roasted cauliflower here you could
+[4:36] always use raw
+[4:37] cauliflower if you prefer or steamed
+[4:41] cauliflower
+[4:43] make it your own if you don't like
+[4:44] cauliflower you could use broccoli or a
+[4:47] different vegetable
+[4:56] now i'm adding some brown rice to the
+[4:59] top
+[5:00] i'm adding my black beans to the top
+[5:02] here this was just canned beans that i
+[5:06] drained and rinsed you could also cook
+[5:08] your own black beans
+[5:11] using dried beans you could also use a
+[5:15] different kind of bean if you prefer
+[5:17] i love black beans and i thought the
+[5:19] contrast with the black beans
+[5:21] and the greens and cauliflower
+[5:24] would be really festive and fun for
+[5:26] halloween so i'm adding some green salsa
+[5:29] here
+[5:32] and i'm just mixing it up a little bit
+[5:36] this would be easier to do in a bowl but
+[5:39] i wanted to
+[5:40] have the presentation on a plate so um
+[5:43] i'm just
+[5:44] mixing that a little bit with a pork and
+[5:46] spoon here
+[5:47] and adding some more green salsa
+[5:52] it's so good it looks weird like a weird
+[5:55] color but it's delicious
+[5:59] if you haven't tried green salsa before
+[6:01] i highly recommend giving it a go
+[6:04] and i'm adding some well year old
+[6:05] sriracha on top
+[6:07] i'll leave a link below to where you can
+[6:09] find well your world products
+[6:11] they make um sos free sauces which are
+[6:14] salt oil and sugar-free
+[6:16] if you've been watching the channel
+[6:18] you've heard me talk about them a lot
+[6:20] because i thoroughly enjoy their
+[6:21] products and here's the finished salad
+[6:25] super simple yummy next we'll be making
+--- fudgy brownies ---
+[6:28] the fudgy no bake brownies from the how
+[6:31] not to die cookbook
+[6:33] the recipe is also available online so i
+[6:36] will leave a link to that below
+[6:39] we've modified the recipe slightly here
+[6:41] we used peanut butter instead of
+[6:44] almond butter because it was what we had
+[6:45] on hand and we also just omitted the
+[6:48] crushed pecans
+[6:49] at the end you could always add those if
+[6:52] you like
+[6:53] but we just omitted them because we were
+[6:55] going to use our bat
+[6:57] cookie cutters for this recipe so here
+[7:00] i'm just putting some parchment paper
+[7:02] into our baking dish so that at the end
+[7:05] it's really easy to just pop the
+[7:07] brownies out
+[7:10] i'm using clothes pegs just to hold the
+[7:13] parchment paper down just because i find
+[7:15] it just pops right out if you try to
+[7:19] just line the baking dish without
+[7:22] anything holding it down
+[7:24] so i'm adding walnuts to the food
+[7:26] processor
+[7:28] and things
+[7:32] [Music]
+[7:39] and i'll process that until it is
+[7:41] crumbly
+[7:43] i probably could have mixed it a little
+[7:45] bit longer
+[7:46] but i tend to get a little impatient
+[7:49] sometimes when i'm cooking
+[7:51] and making recipes so i went ahead and
+[7:54] added the peanut butter
+[7:57] all right and i'm going to process that
+[7:59] so that the peanut butter is thoroughly
+[8:01] incorporated
+[8:02] in with the date and walnut mixture
+[8:13] that's what the texture looks like
+[8:17] and here goes the cocoa powder
+[8:28] and again i'm going to go ahead and
+[8:30] process that
+[8:31] until it's thoroughly blended with the
+[8:34] rest of the ingredients
+[8:42] coco makes it this deep dark brown color
+[8:46] and it
+[8:46] looks really yummy
+[8:57] so i'm just checking the texture here
+[8:59] and it seems a bit crumbly
+[9:02] so i decided to add a little bit of
+[9:05] water to this so i'm just showing the
+[9:07] crumbly texture here
+[9:09] and i'm going to add two teaspoons of
+[9:12] water
+[9:13] just to allow the mix to
+[9:16] come together a little bit more this
+[9:19] step may not be necessary
+[9:21] um but if you find your mixture is a
+[9:22] little bit dry you can always add a
+[9:24] little bit of water
+[9:25] to help it along i'm just showing the
+[9:28] texture here
+[9:31] going ahead and scooping out all of the
+[9:34] brownie batter into my baking dish
+[9:55] so i'm just going to skip ahead here and
+[9:57] show you what it looks like
+[9:59] when i'm pressing down the brownie
+[10:02] batter
+[10:03] and smoothing it out
+[10:04] [Music]
+[10:12] i just got in there with my hands and
+[10:15] i'm pressing the brownie batter down
+[10:19] i decided to use some parchment paper
+[10:21] here just to really
+[10:23] smooth out the surface of the
+[10:26] top of the brownies try to make it as
+[10:29] even as possible
+[10:30] it doesn't have to be perfect but i'm
+[10:32] just smoothing it out here
+[10:34] so that's what it looks like when it's
+[10:37] all done
+[10:38] my husband was actually helping me out
+[10:40] with this recipe and he thought it'd be
+[10:41] cool to make some texture
+[10:43] in the top of the brownie
+[10:46] so he's just going ahead with a fork and
+[10:49] adding some textured lines to the top
+[10:51] this stuff isn't necessary it was just
+[10:54] something that
+[10:55] he wanted to do and that we thought
+[10:56] would be fun for our bat brownies
+[11:02] and this is what the brownies look like
+[11:04] before we put them into the fridge
+[11:08] and so we put them into the fridge for
+[11:10] about an hour
+[11:12] and then pulled them out and see how
+[11:14] easy it is to just pull those out with
+[11:16] the parchment paper
+[11:17] i love that it makes it so much easier
+[11:19] to just get the brownies out really
+[11:21] easily
+[11:22] so i'm going to go ahead with our bat
+[11:24] cookie cutter
+[11:25] and press that into the batter to make
+[11:29] our bat shaped so you can wiggle the
+[11:32] cookie cutter a little bit once you
+[11:34] press it down
+[11:35] fully and just pull away the extra
+[11:38] pieces and we get these cute little bat
+[11:42] shapes so we went ahead through the
+[11:45] entire
+[11:45] dish and we made baths out of the entire
+[11:49] brownie mix so let's get ahead here and
+[11:53] show you our finished
+[11:54] plate
+[11:58] here's a nice close-up of the bat and
+[12:01] here are our completed
+[12:03] fudgy no bake bath brownies this is so
+[12:06] good
+[12:08] and i love it so much and it has
+[12:20] nuts and cubes
+[12:22] that's all
+[12:28] [Music]
+[12:31] you have candy then you could
+[12:35] even even eat it after dinner
+[12:38] if you eat all your food off your face
+[12:42] [Music]
+[12:49] and here are a few other things that we
+[12:52] use the cookie cutters
+[12:53] for so i made some roasted potato
+[12:57] ghosts and roasted sweet potato pumpkins
+[13:03] some toast and a few other things here
+[13:10] [Music]
+--- outro ---
+[13:14] we hope you enjoyed the video thank you
+[13:16] so much for watching
+[13:18] we had tons of fun doing all the
+[13:20] halloween shapes guys and like we said
+[13:22] before
+[13:22] it's been out of control with everything
+[13:26] yeah so we're having a lot of fun with
+[13:27] halloween with the season
+[13:29] we're wishing everyone a happy safe fun
+[13:32] halloween
+[13:34] enjoy we absolutely love halloween so if
+[13:37] you guys can let us know your thoughts
+[13:39] were on our halloween fun and
+[13:41] subscribe or like the video below that
+[13:43] would be super appreciated
+[13:45] thanks again so much for watching guys
+[13:47] we'll talk to you soon bye
+
+
+
+
+
+
+
+Title: Weird Things That Happened When I Lost Weight l Plant Fit Meg
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=sElYimsRlAY
+
+====
+
+Description:
+Since changing my diet and lifestyle, I have regained my health and lost 80 lbs in the process. 
+
+I was inspired to make this video after seeing Brian and Jessica Krock discuss “Bad” Things About Weight Loss. I experienced several of the things t
+
+====
+
+Transcript:
+[0:00] i didn't know that that was a thing no one told me
+[0:05] [Music]
+[0:09] hey hi i'm meg welcome to plant fit meg if you're not familiar with my story i have lost
+[0:16] 78 pounds on a plant-based diet and i have healed from multiple chronic health conditions
+[0:24] if you'd like to see more about my story you can check the link below i'll have my story linked as well as
+[0:32] my 100 pound weight loss video with my husband because between the two of us we've lost over 100 pounds
+[0:39] so today i wanted to talk about some weird unexpected things that happened when i lost weight
+[0:47] being obese i thought losing weight would be a certain way and once you get there it's not exactly what you imagined
+[0:57] and so i've regained my health i'm feeling amazing i am the smallest weight and dress size
+[1:04] that i have ever been um and i'm feeling amazing and i don't want this video to come up as me complaining
+[1:12] or griping about certain odd things that have happened but i just thought i'd share in case anyone's interested
+[1:20] i was inspired to do this video um after watching the crocs do a similar video brian and jessica
+[1:27] crock talked about a few things that happened with their weight loss that were kind of weird or i think they might have called
+[1:35] it bad things anyway i'll have their video linked below as well there'll be a little bit of crossover and some different stuff as
+[1:42] well here i'm cold pretty much all the time so i'm always having to wear
+[1:51] an extra layer more so than anyone else around me if that makes sense so if my husband is
+[1:59] wearing a t-shirt then i need to be wearing a sweatshirt prior to losing the weight i think i had
+[2:07] a fairly moderate temperature setting for myself for my body if that makes sense
+[2:15] i was never someone who was super hot all the time or super cold all
+[2:22] the time i was just fairly comfortable most of the time i would say unless you know as an extreme heat or
+[2:31] extreme cold weather um so yeah now i'm cold all the time i definitely need extra layers
+[2:39] and it's weird to get used to my shoe size has changed so some of my shoes still fit and i can
+[2:47] still wear them and it's okay but some of my shoes i've actually had to get rid of because they're too
+[2:56] big who knew that losing weight would also
+[3:02] result in results in your shoe size changing i didn't know that that was a thing
+[3:09] no one told me so here we go if you're in the process of losing weight
+[3:16] that might be a thing after i lost a large amount of weight
+[3:23] i got some really interesting and weird reactions from people so from work colleagues from
+[3:31] strangers from friends um so that's something to sort of prepare yourself for
+[3:38] your body becomes a commentary it becomes a subject of conversation people want to know how
+[3:46] you did it and oh you look great in some cases i wasn't even recognized
+[3:52] in certain scenarios which was very odd so yeah there are sometimes some weird conversations surrounding that
+[4:01] most of the time people are just trying to get some information for themselves or say wow congratulations and it's
+[4:09] generally well intended i would say um but yeah i've definitely had some weird reactions especially when people don't recognize
+[4:17] me that's super super strange or um another weird one is when they ask oh what how did you do
+[4:27] it what's what's the secret you know how did you lose all this weight and they're so interested and so excited to find out
+[4:34] and then you tell them oh i switched to a plant-based diet you know i'm eating a vegan diet and they're like
+[4:42] oh and they just kind of lose interest
+[4:48] that's a pretty common and unfortunate but kind of common and funny one as well i also
+[4:56] was telling someone at one point that i had gone plant-based and that after a few months i had a lot of energy
+[5:04] and i started running and so immediately they took to the exercise component oh you're running so running burns a lot of calories and
+[5:12] that's how you lost all the weight running had an impact for sure but i definitely credit
+[5:20] my nutrition and a plant-based diet for my weight loss more so than exercise
+[5:27] it takes a while for your brain to catch up to your body i think this is true for a lot of people
+[5:35] and i'll speak for myself because i can't speak for everyone who has lost weight obviously but for me it is still
+[5:44] taking me time for my brain to catch up to where my body is so
+[5:52] um thought shows up in a variety of different ways um sometimes i'll just catch like
+[6:01] oh i feel bony like i feel i can feel my bones in a way that i couldn't before which is
+[6:09] strange to me when i'm shopping i i'm getting better at it but
+[6:16] initially when i as i've as i was losing the weight i would reach for the extra large sizes
+[6:26] without realizing oh right i'm i'm not an extra large size anymore i need to
+[6:33] make other choices and try different things so that's taken some time to get used to and i'm still
+[6:40] getting used to that also related to my brain catching up i don't take up as much space
+[6:47] as i think i do so for example if my husband and i are making dinner in the kitchen together
+[6:57] and i try to move out of the way so that he can do something i step way way out of the way more so than i need to
+[7:04] and he always laughs at me that i'm doing that and i don't even realize i'm doing it until he mentions
+[7:11] oh you didn't need to step that far away so it's just it i think it takes time for your brain to really
+[7:19] catch up to where you're at with your weight loss at least that's been true for me this one's going to make me sound
+[7:27] very lazy but i'll share it anyway so
+[7:34] i have to tie the drawstrings on my sweatpants yeah so when i was
+[7:44] very overweight i would put my sweatpants on and they had a drawstring but i never
+[7:52] used the drawstring because they would just stay on because i had you know
+[7:59] a larger bum and hips and whatever so i just put the pants on and they would
+[8:06] stay now i can't do that i have to even if i since i've purchased smaller sizes
+[8:14] i still need to actually tie the drawstring which seems so common sense and so
+[8:22] silly that i wouldn't have in the past but i just didn't need to in the past our bed seems really huge we
+[8:29] have a queen-size bed it's kind of a typical thing but in the past
+[8:37] i took up more space and it just seemed smaller i guess and now
+[8:44] our bed just seems very large there's a lot more space there for us to sleep and curl up
+[8:52] and have our kiddo come hang out with us and yeah going back to the feeling my bones
+[9:00] more and being more aware of my bones which sounds really odd but
+[9:06] related to that as well is i have what i like to call bony butt syndrome
+[9:13] so if i sit somewhere too long without a cushion if i sit on the floor for example with my kiddo
+[9:21] my butt will get really sore fairly quickly and that was never an issue in the past i never had to sit on a cushion or
+[9:30] [Music]
+[9:32] was bothered in the slightest by sitting on the floor and now i am another thing related to the bones
+[9:40] is i've noticed what i like to call crunchy elbows so if i lean an elbow on the table
+[9:50] it sort of does a weird crunchy cracking thing that sounds terrible
+[9:58] it does not painful or anything like that it just feels uncomfortable so i cannot lean my elbows on the table
+[10:06] which is perhaps a good thing anyway i can share clothes with my husband so that's really cool because he has
+[10:14] always been a slim guy and we're about the same height and now
+[10:21] we're the same size so we can share uh shirts as well as pants which is really really cool it's really exciting
+[10:30] because we can share shirts as well as pants and so that's really cool i don't think many couples
+[10:39] can share clothes and maybe certain couples wouldn't want to share clothes but for us it's fun
+[10:46] i've always joked with chris that we would meet in the middle in terms of sizing so that we could share clothing
+[10:54] um and so i was hoping that he would gain some weight and i would lose some weight and we'd meet in the middle but what ended up happening is i
+[11:03] lost a bunch of weight and now we're the same size and the last weird thing that has happened since losing weight
+[11:12] is loose skin so in my first year of being plant-based when i lost 60 pounds
+[11:19] i did not notice loose skin really after regaining some weight because of
+[11:26] health issues and medication that i was on and then subsequently losing more weight
+[11:34] again now i've noticed loose skin for sure let me know if you'd like a full video about my loose skin and what that's been like
+[11:43] i can definitely put that together for you if you're interested so those are some weird things that happened to me since losing weight
+[11:51] if you're on your weight loss journey these are things that may or may not happen to you depending on how much weight you're
+[11:59] losing and many other factors i am so grateful and thankful every day that
+[12:06] i've regained my health and have lost the weight and i'm feeling as good as i'm feeling right now
+[12:13] i would definitely experience all these weird things throughout the process again and again over being obese
+[12:21] and ill please like if you liked this video leave a comment below subscribe if you'd
+[12:29] like to see more from me and i will talk to you soon bye
+[12:38] [Music]
+[12:41] you
+
+
+
+
+
+
+
+
+
+
