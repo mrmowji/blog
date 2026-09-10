@@ -22621,4 +22621,1489 @@ Transcript:
 
 
 
+https://www.youtube.com/watch?v=P8UzIjMnpzM
+Recipe: Baked Tamari Peanut Tempeh (Oil Free)
+November 4, 2020
+plantfitmeg
+When I first went plant-based, I didn’t eat tofu and I had never even heard of tempeh! Tempeh is made from fermented soybeans and is slightly less processed than tofu. After experimenting with different spices, sauces, and preparation methods, I now thoroughly enjoy both tofu and tempeh in a variety of ways! This baked tempeh recipe is easy and delicious. Toss it on top of a salad or serve it alongside your favourite veggies and grains.
+
+
+
+Baked Tamari Peanut Tempeh
+Difficulty: easyPrint
+Ingredients
+
+500 g (about 17.5 oz) tempeh, cut into bite-sized pieces 
+3 tbsp tamari (or coconut aminos)
+3 tbsp balsamic vinegar
+1.5 tbsp powdered peanut butter (PB2)
+1 tsp garlic powder 
+1 tsp ground ginger
+0.5 tsp red pepper flakes 
+Directions
+
+Preheat oven to 375 F.
+Put all marinade ingredients in oven-safe baking dish and mix.
+Add chopped tempeh. Flip and allow to marinate for 15-30 minutes. (see note)
+Bake 20 minutes. Flip and bake another 10 minutes.
+Enjoy!
+Note: I have also made this recipe without marinating when I’ve been short on time. The flavour isn’t quite as strong, but it’s still delicious.
+
+Serving ideas:
+
+Serve with broccoli and rice (or other veggies and grains)
+Serve on top of a bed of greens and grains or mix into a big salad
+Use in a wrap or sandwich with your favourite veggies
+© 2020 Plant Fit Meg
+
+
+
+
+
+
+
+
+
+
+Title: Fitness Chat: My Husband Hates the Gym?! l Plant Fit Meg
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=okpPTrBB9CU
+
+====
+
+Description:
+I love the gym. My husband Chris does not. We both value our health and aspire to live long, healthy, happy lives. However, we have very different perspectives on fitness and physical activity.  Let us know in the comments whether you're Team Meg 💪 or Team Chris 🖖 when it comes to working out, and exercising in a gym or fitness facility. 🙂
+
+Blog Post - Different Perspectives on Fitness - Plant Fit Meg’s Husband Hates the Gym?! - https://plantfitmeg.com/2020/11/08/di...
+
+How We Lost Over 100 lbs -    • How We Lost Over 100 lbs l Plant Fit Meg  
+
+Website - https://www.plantfitmeg.com
+Facebook -   / plant-fit-meg-101106901719245  
+Instagram -   / plantfitmeg  
+
+GoodLife Fitness - https://www.goodlifefitness.com/
+Les Mills Body Pump - https://www.lesmills.com/workouts/fit...
+
+PLEASE NOTE: If you choose to purchase through the Amazon link below, I receive a small commission from each sale at NO extra cost to you. All proceeds go back into making more content.
+
+As an Amazon Associate, I earn from qualifying purchases.
+
+Calisthenics Dip Bars
+Lebert Fitness Equalizer Bars (Black XL) - https://www.amazon.com/gp/product/B01...
+
+Vegan Proteins - https://www.veganproteins.com/
+28 Day Overhaul - https://www.veganproteins.com/the-28-...
+
+====
+
+Transcript:
+[0:00] hey bro you left yep i left no
+[0:09] it's not my not my thing
+[0:16] hey hi i'm meg hi i'm chris mike's husband welcome to plant fit meg yeah welcome guys
+[0:24] so uh today we're gonna talk about how wildly different we are when it comes to quote
+[0:32] fitness yeah so chris and i have been together for 18 years
+[0:41] wow 18 years so we are celebrating our uh dating anniversary this weekend we like to call it our
+[0:49] day diversary and it's been 18 years and we have a lot in common we share a lot of the same
+[0:56] values and you know things that are very important to us we share but we are also very very
+[1:02] different in a lot of ways wildly yes we're opposites in a lot of ways uh so we thought we it would be a fun
+[1:11] video to chat about fitness and exercise and how we feel about it because we do things very very
+[1:19] differently when she says we do things differently it's she does things and i don't
+[1:27] so much yeah more or less yeah so obviously you know we're putting out content right now about being healthful
+[1:36] which we can both agree on is very important um one of the big reasons we both went to a vegan or a plant-based diet about five years ago
+[1:44] was for health that was the the main focus especially in the beginning now there's a whole multitude of things that i care about in that regard
+[1:52] but the main focus was we want to live to be a hundred this seems like a great way to go about it you know our kiddo was around and we wanted to be good and strong and active
+[2:01] for him right but when it comes to fitness specifically an exercise
+[2:08] we are just two opposite ends of a spectrum yeah for sure so in case this is
+[2:16] funny in case you guys don't already know i am a gym goer i love going to the gym
+[2:23] i haven't always loved going to the gym it used to be something that i saw more as a chore and i kind of felt like i
+[2:30] had to go but i absolutely love going to the gym pumped
+[2:38] a big nerd i get really excited before i go to the gym i'm like yes i'm going go get jacked she says that too
+[2:46] i do and um yeah i feel really good i like to feel really strong
+[2:53] i often take classes where i lift weights if you're familiar with good life fitness that's where i go and i take pump classes
+[3:01] and also i've started doing uh body flow which is fun and so i have a lot of fun with it and i really enjoy it
+[3:09] and we have a little community at our gym and yeah it's nice yeah a couple pals meg is also uh like she used to be a fitness
+[3:17] instructor if you haven't watched previous videos she used to teach zumba all the time uh different dance classes she's
+[3:24] certified for yoga instructor and many many fitness related activities yeah so i've always been
+[3:33] fairly active and fairly physical so even when my health has not been as good and when i was very overweight and obese
+[3:41] i've most of that time i have been active for sure yeah so as much as possible anyway sometimes
+[3:48] my health just would not allow for it but if i was able to be active i usually was yeah and oftentimes when you talk about
+[3:56] fitness as like a goal or a mentality we try not to focus on
+[4:02] how we look as much as what our bodies are capable of and what our own mindsets and we each
+[4:09] have wildly different mindsets on what we feel our body is uh when we've reached that moment of oh yeah my body's
+[4:18] as capable as i want it to be and how we feel so you know to a certain degree
+[4:26] people might want to you know go to the gym to maybe lift weights and look a certain way and build build strength and
+[4:34] you know have their muscles show or whatever the case may be and that's fun and that's great but it's
+[4:43] it's very much about how we feel and um like chris is saying what we are capable of yeah yeah so i guess we'll kind of
+[4:52] we'll start so what do you think about the gym yeah
+[5:02] i despise the gym and pretty much everything commercialized gyms stand for
+[5:08] um there are so many reasons just so many negatives in my mind surrounding
+[5:16] gyms and and commercialized gyms i'm not going to put out brand names because
+[5:24] i i feel like it's i'm being really mean to these big bad millionaires out there that own these gyms but
+[5:30] well you've you've been to this i have been to gyms when i have um encouraged chris to go to the gym
+[5:38] in the past with me occasionally i've been successful in having him try come and try to go to the gym with me
+[5:46] yeah but it has never stuck no unfortunately like meg said we've been together for nearly 20 years 18 years
+[5:53] uh in a couple days and i think in that time i can easily say it's been less than a half dozen times i have been to a
+[6:02] gym like a like a you know they have ellipticals bikes and studios for aerobic
+[6:09] type activities i feel very strongly against james for many many reasons i kind of promised meg i wouldn't get into the the nitty-gritty
+[6:18] details but just as a general overview they're a disgusting atmosphere to be in just i'll leave it there they're not
+[6:26] disgusting so gross no they're clean no especially now with coven our gyms are open we're really lucky
+[6:33] where we live that the gym is open yeah right now and they are on point like they are cleaning constantly it's amazing i agree
+[6:42] i can agree to part of that i it's not i said atmosphere on a conscious level
+[6:49] choosing that word it's a disgusting atmosphere it's not that it's necessarily like there's it's partly sweating it's it's
+[6:57] hardly uncomfortable with the sweating sweating is gross natural now if you're familiar with terms like swas
+[7:05] or swoobs or any any of these types of terms which i'm not going to define on this video today those things bother me a great deal i'm
+[7:14] not talking about the gyms actually being dirty it's the atmosphere of the gym i find
+[7:20] most troubling and some of the gym goers not all of them but we all know that there are different
+[7:28] categories of gym goers and there are some that fit into certain categories in my brain that
+[7:35] just grows me out and the noises the grunting panting and that there's just so many
+[7:43] reasons of that okay so for me fitness how i define it for myself it looks different yeah
+[7:52] wildly different so i like to feel capable and my idea of being capable in my life
+[7:59] probably the biggest standpoint i've said it in other videos that i've been a part of on plant fit meg's website is i want to be able to feel as though
+[8:08] it is easy and comfortable to be active with my family doing things i enjoy and doing things that my son who's five
+[8:16] likes to play that is probably my number one goal in terms of my body's capability
+[8:25] i want to be 80 years old and being able to actively play with grandchildren
+[8:34] without a cane without a walker whatever those things are that happen later on in life my ideal is to be the 80 year old guy
+[8:42] who walks five kilometers every day and it's not a problem yeah i agree with that too i feel also very strongly real i can agree
+[8:52] on that there are certain aspects of what megan perceives as fitness that i don't necessarily
+[8:59] feel are important to me like what i don't need to be able to see my
+[9:06] muscles i it's not a thing for me i don't want to have like a like
+[9:15] a belly or anything i've lost weight over the last year or two yeah it's great yeah if you want more about our
+[9:22] weight loss we have a video all about that that you can check out we'll link it below yeah and that makes me happy it does because it again it makes me feel more
+[9:31] capable to do the things that i want to do in my life and therefore makes me feel fit and a happy side effect is that i
+[9:39] look more the way i prefer right yeah so what kind of activities do you like to do because you've talked a lot
+[9:47] about not liking gems and not liking this and that what do you enjoy because there are activities that you want there are activities
+[9:55] that uh could be considered exercise or fitness related that i enjoy so
+[10:02] i enjoy walking i really talking we go hiking as a family pretty often really um we live in kind of
+[10:10] a downtown suburb uh where we are so we often walk to local shops or the downtown core and do things together there
+[10:18] so walking is a win for me i enjoy biking um for instance one job that i was at uh i love biking to and from work
+[10:25] all the time and i really do enjoy riding my bike i also enjoy uh pre-covered times when they were open
+[10:33] i enjoy indoor rock climbing gyms or outdoor rock climbing but primarily indoor um and megan and i have done that in the past together
+[10:41] yeah i've never actually gone top roping though is that what they call it top roping yeah i've only ever gone bouldering so that's when you
+[10:49] climb i always do this yeah this is the climbing motion for me she's been doing it forever anyway um
+[10:58] yeah so i've only ever gone bouldering which is without the ropes so you don't go as high on the walls
+[11:06] yeah and they have big crash pads oh yeah anyway so those are fitness type things that i
+[11:13] enjoy doing i do some calories yeah okay i do skateboarding i do some calisthenics um we have calisthenic bars that i like
+[11:21] to do a little bit of workout usually every couple days i'll do a little bit on there um and these things like when i say a
+[11:29] little bit of calisthenics i really want to focus on this a little bit oh we we need one more background so i'm i'm 35
+[11:38] uh i weigh the same as i did when i was 18.
+[11:42] um which feels really nice i feel healthy and fit and all these good things when i say a little bit
+[11:49] of actual calisthenic workout i'm talking like eight minutes it's like 10 push-ups
+[11:58] 10 leg left things from my tummy muscles that's the technical term tummy muscles this just shows you how
+[12:06] fitness i am um and that's it i'm talking like every two days it's kind of my best streak doing it every two days and that's okay i do it very
+[12:14] minimally yeah um so it's fun that we love those banana but we call them bananas
+[12:22] they're the derrick simnet nutrition libert fitness equalizer bars yeah
+[12:29] i guess for me that like my whole point is i really want to speak to how much a plant-based diet can do for
+[12:36] you in terms of overall wellness and generally speaking fitness as well just in terms of i do little to
+[12:46] no exercise and i feel very good i feel tweet um
+[12:53] and uh you know it just it feels like i'm capable yeah healthy the thing is i don't think you consciously
+[13:01] exercise but without thinking about it you are very active so you walk a lot of
+[13:09] places you bike around yeah we we chase ryden around and kick the soccer ball around and stuff like that carry lots of grocery
+[13:17] bags yeah yeah how little things were good at that yeah and so uh we talked a little bit about the
+[13:25] dip bars and how we both enjoy doing that another thing that we both enjoy is yoga yeah yoga is something that we can agree
+[13:34] on yoga is great it actually makes me feel good it helps me sleep better i'm somebody who suffers from weird sleep patterns and just trouble in
+[13:42] general that way truly yoga does help me in that regard now that we're talking about agreeing on things
+[13:49] megan as i said is very very different from how i think of fitness and activity and and whether that's fun or just a tragedy
+[13:59] in day-to-day life um yeah like i'm starting sorry to interrupt you i'm starting i'm
+[14:06] really excited she's so pumped and i don't get it anyway i'm starting a 28-day challenge it was put out by
+[14:13] vegan proteins if you're not familiar with them i'll leave their info below but i'm super excited to start it
+[14:20] tomorrow and uh chris is like you're doing my response was why why like you know we try to put out
+[14:30] content to again talk about being helpful and make recommendations that you guys might find interesting and helpful and you know knowing that there are
+[14:38] other quote-unquote normal people out there that are willing to be there to support you guys through what you may or may not choose to do
+[14:45] in regards to a plant fit life um having said all that megan has lost like 80 pounds over the last few years
+[14:54] and and she's very helpful and very fit and and so on and so forth and she turns around and she says oh hon i just saw this crate like there's this
+[15:01] deal that she's all excited and she's like it's super cheap i'm going to do it look at the price on this this is amazing i'm i'm signing and she gets her
+[15:10] card out she's doing it yeah and me meanwhile i'm like just why like i don't again one of the
+[15:18] differences but i you need to respect each other yeah that's what it comes down to is massive differences
+[15:27] and like megan will talk in what my mind feels endlessly about fitness and healthful foods
+[15:36] and and things like this and sometimes i really enjoy talking about that sometimes sometimes
+[15:43] but i would say it's like 40 as much as how much megan enjoys it i'm a big
+[15:50] nutrition nerd i recently finished the plant-based uh plant-based nutrition certificate
+[15:57] through e cornell and i'm always listening to podcasts
+[16:05] listening to webinars reading i just want to know more and i want to do more in terms of fitness i want to get
+[16:13] stronger i want to feel more capable i'm i'm working on my handstands and i want them to be stronger and better just to
+[16:22] give perspective you see how excited she gets and she talks about doing this and she will i mean i mean hours
+[16:30] a day spent doing this on average is my perspective that's an exaggeration she'll she'll downplay it right now see
+[16:37] that's the downplay face but i don't spend that much time on it a significant amount of time
+[16:44] daily is spent quote learning but she does i enjoy um just to give you another example of how
+[16:53] wildly different oftentimes while mega is doing those things you know she's listening to podcasts and reading
+[17:00] what i perceive as big scary boring books um i am playing video games
+[17:09] and this is frequent um yep i think there are certain parts of fitness that i do really find fun
+[17:18] fitness is fun fitness can be very fun totally depending on like not depending
+[17:26] i'm just trying to say we are at totally different points on the fitness spectrum spectrum and how enthusiastic
+[17:34] we might be about those things and how much time in our lives we want to dedicate to those things for ourselves
+[17:41] however we can both respect each other's choices and you know sometimes husbands this is a bad stereotype but sometimes you'll see
+[17:48] one partner in a relationship say that we both each respect each other's choices and it might not be 100 accurate this is
+[17:57] legitimate truth yeah totally yeah so if we're joking yeah if i'm going to the gym he's like
+[18:05] all right see ya you know yeah and i you know for a while there i thought
+[18:13] maybe i could encourage him to come with me and we'd do it together it'd be fun um but you know
+[18:20] it's not his thing and he doesn't he doesn't enjoy it and so i'm not gonna pressure him into you know
+[18:28] coming to the gym with me when i know he really hates it yeah like megan's there megan's there like three days four days a week yeah on average and then there's home
+[18:36] exercises that she does so handstands and calisthenics and all these things um which is great and and just to point
+[18:45] this out i want to say i've always been a relatively small person and it's difficult for me to fully
+[18:53] empathize and put myself in the shoes of people that have been larger for most of their life for a significant portion of their life or what have you
+[19:00] yeah megan is a person who is larger for a fair majority of her life
+[19:07] um so there's a certain demand on yourself not demand i think that's the wrong word
+[19:16] part of the reason megan might be putting so much focus on her fitness is because her body in some ways requires it
+[19:22] in a way that mine does not i don't know if that's fair to say this is why yeah i know i was this is why i intro by saying it's difficult for me to put
+[19:31] myself in other people's shoes i wouldn't really agree with that i think in the past i might have agreed with that in the past i exercised because i felt like i needed
+[19:40] to and i was really intimidated at the gym and i you know i just did it because i thought
+[19:47] oh i i have to to lose weight or to you know maintain my weight or whatever um now
+[19:57] it's like after being ill for so long and my body is capable of moving and
+[20:05] doing these things i have such a deep appreciation for being able
+[20:12] being capable of doing these things that i couldn't do in the past and
+[20:19] continuing to progress and build on that and get stronger and feel more healthy and more vital and
+[20:28] just i have so much energy so it just feels so good that that's that's really my motivation she really is pumped
+[20:36] that's not to say that it's not to say that i don't get pumped like there were times where i would come home from the climbing gym the rock climbing gym
+[20:44] and i would like i guess brag in a way not brag but just feel pride yeah in that oh i just i
+[20:51] crushed this really hard route yeah totally there was a certain level of like yes you know like celebratory pride
+[21:00] and i was able to do this and i i guess what i perceive as
+[21:08] this is an accomplishment is different from what megan perceives as an accomplishment like for meg i think
+[21:15] you know oh i can you know lift x amount of weight repetitively during this particular exercise in a
+[21:23] fitness routine class that pumps her up and makes her feel as though there's that level of accomplishment and pride and things
+[21:31] yeah i'm making progress yeah yeah for me it's like when i was you know skateboarding or climbing if i could
+[21:38] finish that route or i could land that trick or whatever it is that was my point of i feel strong and i feel good and
+[21:47] accomplished in what i'm doing which i think is very important no matter what activities you enjoy doing or
+[21:55] exercise whether it's traditional non-traditional you know sport i say sport because i don't play team sports i
+[22:04] i just don't think that way whatever is your thing whatever gives you that jolly of oh i did this
+[22:11] yeah that's in my brain worthwhile and that's what fitness and aspirative goals
+[22:20] that's not a word aspirative whatever those goals that you aspire to do physically
+[22:27] that's what you should chase after i guess yeah and do what feels good so don't just do
+[22:34] exercise because you think you have to like experiment and find the ones that you enjoy doing yeah if you hate going to the gym
+[22:42] and you're going and you're just like because and you're miserable and you just hate it like don't do it
+[22:50] find something else find something else that you really love that you enjoy right i can't i said it at the beginning and i'll say
+[22:58] it again because we're about to wrap up traditional gyms gross me out i don't like really anything about it i'm gonna say i
+[23:06] respect people that do that and i do there are i i truly do if uh if you are a person that really
+[23:15] gets pumped and that is your thing and you feel good doing it no matter what the activity is
+[23:22] i respect you for doing it and you should respect yourself and feel good for doing that thing if it makes you feel good and prideful and healthful and fit yeah
+[23:32] is it i think that's a bottom line message yeah what you do and how much time you want to dedicate to it and how different you can be
+[23:40] between you know big dude who lives the little dude who doesn't to fitness girl who lives eats breathes
+[23:48] et want yes going to the gym whatever your thing is feel good yeah so it's good i'm feeling good if you
+[23:57] have a significant other who has different interests than you yeah you know it's not a deal breaker no
+[24:05] as long as you have the same values of you know things that are very important in life um but you know when it comes to fitness
+[24:13] if you can do it together great and if you can't then that's okay too and you find your own time to do these things
+[24:20] as you can and um yeah yeah sometimes you have to find the things that you enjoy
+[24:27] doing together too like like i said one of the things that we really enjoy is we go for nature walks and hikes like
+[24:35] with our whole family like you know megan and i and a little guy and all that good stuff and it's something that we can all
+[24:42] really enjoy that gets us active gets us outside into nature so if you can find those things where
+[24:51] you might not have done them before so i might take some experimenting or trial and error to see if there's something that everybody can enjoy
+[24:57] together yeah that's great um it's i we just know that i won't go to the gym yeah and if you
+[25:05] differ in what you enjoy don't let that hamper you right like when i first started running
+[25:13] and i was very nervous about starting running because i had never done it before like i had played soccer as a kid but
+[25:22] i wanted to run but i didn't know if i even could and it was scary and chris was not into it at all he was like i'm not going to
+[25:31] run with are you going to run are we running somewhere like what is the purpose of the running
+[25:38] is it a destination get there quickly thing i didn't allow this attitude to deter me i just did what i
+[25:45] wanted to do because it was important to me to try it out i was really lucky that my best friend wanted to run too so we joined a running clinic
+[25:54] together yeah and we bumbled our way through it and got to doing a 5k yeah
+[26:02] which was really exciting time in our lives like we scheduled those times for
+[26:10] us each to do our own thing or do something together so like we make a point like megan makes a point okay i want this time
+[26:17] this day to go running for x distance to really no place in particular which seems pointless
+[26:25] she does that and i make the time for myself to do the things that i want to do and enjoy doing that are fitness
+[26:33] related so yeah so bottom line do what's important to you do what you enjoy if you haven't found an exercise that you enjoy yet maybe try something
+[26:41] new do something different try you know a challenge or try an online course of something that you've never done before
+[26:49] like a dance class or a yoga class or you know anything and if it's new to you take your time like don't eat your way in
+[26:56] and feel like you have to go in and be the the pro right away like you're it's just not how it goes like
+[27:03] i'm horrendous at yoga like like in my mind i know she's gonna do this face but in my mind
+[27:11] i feel like a ridiculous human being doing yoga however you set that aside in your brain and you just do it you just do it until
+[27:19] you progress a bit it's the same with anything you you you practice if you enjoy it and you slowly get better at it
+[27:28] yeah so stick with it whatever fitness you enjoy do it have fun with it and try something new
+[27:35] if you want to make new friends yeah yeah uh well i guess that's it then i guess that wraps it up yeah
+[27:42] you know what give us a thumbs up guys uh we like being nutrition nerds for your enjoyment uh subscribe if you haven't already let
+[27:50] us know if uh you know you agree with us if you disagree with us if you have unique fitness interests that you know
+[27:58] if you think lazy folk like me might really enjoy it i'd love to hear about it so you can comment below as well yeah leave us comments with different
+[28:05] activities that you guys enjoy and um maybe things that we could try out that maybe we haven't tried before a very fun idea if you guys think of
+[28:13] cool stuff i will try it there you go you know maybe we could even film you can challenge me to try new fitness things my only rule
+[28:22] is no commercial gyms i'm serious okay cool all right
+[28:31] bye bye guys thanks for watching
+
+
+
+
+
+
+
+
+
+http://youtube.com/watch?v=3x6CMc5Ms60
+Recipe: Vegan Eggplant Parmesan (Oil Free, Nut Free)
+November 11, 2020
+plantfitmeg
+Pasta + roasted eggplant + easy marinara sauce + gooey vegan cheese = a delectably delightful dish. Three simple recipes and your pasta of choice come together for a flavourful meal. You could always buy a prepared pasta sauce or make the pasta sauce in advance to cut down on the preparation time. Let us know if you give this recipe a try!
+
+
+
+
+Roasted Eggplant Steaks
+Difficulty: easyPrint
+Ingredients
+
+1 eggplant, sliced lengthwise (about 1/2” thick)
+2 tbsp oat flour
+2 tsp nutritional yeast
+2 tsp garlic powder
+2 tsp Italian seasoning (or 1 tsp basil, 1 tsp oregano)
+Directions
+
+Preheat oven to 425 F. Line baking sheet with silicone baking mat or parchment paper.
+Combine all ingredients (except eggplant) in a small bowl.
+Put spice blend in a large flat dish (or on a plate).
+Wet eggplant slightly – brush with water or run under tap briefly.
+Place eggplant in spice blend, flip, and place on lined baking sheet.
+Bake 20 minutes. Flip, bake another 5-10 minutes.
+Notes:
+
+We have also made this recipe chopping the eggplant into cubes. The cubes may need slightly less cooking time and they get a bit crispier.
+© 2020 Plant Fit Meg
+
+
+Easy Veggie Marinara Sauce (Oil Free)
+Difficulty: easyPrint
+Ingredients
+
+1 can (794 g / 28 oz) diced tomatoes with liquid (or 2.5 cups freshly diced tomatoes + 1 cup water)
+1 can (156 ml / 5.5 fl oz) tomato paste (or 2/3 cup)
+1/2 diced onion
+1/2 diced red pepper
+1/2 diced green pepper
+1 tbsp Italian seasoning (or 1.5 tsp basil, 1.5 tsp oregano)
+2 tsp garlic powder
+2 tsp onion powder
+1/4 tsp black pepper and/or crushed red pepper flakes
+optional: 1/2 tsp date syrup (or maple syrup-see note)
+Directions
+
+Mix all ingredients over medium-high heat for 5-10 minutes. The consistency will be quite thick; it will thin slightly as it simmers.
+Reduce heat to medium-low, cover, and allow to simmer for 15-20 minutes (stirring occasionally).
+Notes
+
+We like our veggies to be slightly crisp. If you prefer a softer texture, you can cook the onion and peppers for a few minutes first, before adding the remaining ingredients.
+Sugar is often used in tomato-based sauces to balance the acidity. We don’t use any sweetener in our sauce, but you can add date syrup (or maple syrup) 1/2 tsp at a time to achieve desired flavour.
+We often like to add cooked (or rinsed canned) lentils to this sauce as well.
+© 2020 Plant Fit Meg
+
+Pasta
+
+Prepare your favourite pasta. We like to use brown rice pasta, whole wheat pasta, or spiralized zucchini noodles. This meal can also be prepared with roasted potatoes or a grain (ex. quinoa or rice) rather than pasta if you prefer.
+
+
+Gooey Vegan Cheese Sauce (Nut free)
+Difficulty: easyPrint
+Ingredients
+
+3/4 cup plant milk (unsweetened)
+3 tbsp nutritional yeast
+2 tbsp corn starch or tapioca starch
+1/2 tsp garlic powder
+1/2 tsp onion powder
+1/4 tsp salt (optional-see note)
+Directions
+
+Combine all ingredients in a saucepan. Whisk continuously over high heat until thick (about 2-5 minutes).
+If it becomes too thick, add a little more plant milk and whisk again.
+Notes
+
+When using this cheese for the Eggplant Parmesan topping, I don’t find the salt to make much of a difference because of all the other flavours going on. Add salt if you enjoy it, and omit if you’d rather not use it.
+We also like to use this cheese on pizza, and on toast with garlic powder and Italian seasoning. It does make the top of the toast slightly spongy, but we have gotten used to the texture since we stopped using vegan butters.
+© 2020 Plant Fit Meg
+
+Assembly
+
+Put pasta on a plate
+Add marinara sauce
+Place eggplant on top
+Add more marinara sauce if desired
+Top with gooey vegan cheese
+Add salt, black pepper, and/or crushed chili peppers if desired
+Enjoy!
+
+
+
+
+
+
+
+
+
+
+Title: Weight Loss FAQ l Plant Fit Meg
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=mxprj6UNyTc
+
+====
+
+Description:
+Since posting about my weight loss, I have received several questions. I’m always happy to respond to questions directly. However, since I have been receiving a lot of the same questions, I thought it would be helpful to make a frequently asked questions video and blog post.
+
+====
+
+Transcript:
+--- Intro ---
+[0:00] [Music]
+[0:04] hey
+[0:05] hi i'm meg welcome to plant fit meg
+[0:08] today i thought i would do
+[0:09] a frequently asked questions video about
+[0:12] my weight loss specifically
+[0:14] because i've had a lot of questions
+[0:16] about what i've done to
+[0:18] lose the weight how i got started
+[0:21] how things are going now and all that
+[0:24] kind of stuff
+[0:25] so i just thought i could go through it
+[0:27] and make a video about it
+--- HOW DID YOU GET STARTED ON YOUR WEIGHT LOSS JOURNEY? ---
+[0:32] so to make a long story short i went
+[0:34] plant-based nearly five years ago
+[0:36] i decided to go plant-based for my
+[0:38] health and
+[0:40] i also decided to go vegan overnight so
+[0:44] i made the decision to do it overnight
+[0:48] and that's how i got started
+[0:51] i actually started with a five day juice
+[0:53] fast
+[0:54] and then switched to a plant-based diet
+[0:57] from there
+[0:58] and i started really simply with just
+[1:01] foods that i was familiar with
+[1:04] foods that were already plant-based that
+[1:05] i was already eating like
+[1:07] fruit and smoothies and oats and cereal
+[1:11] breads things like that um and just
+[1:14] expanded from there
+[1:15] i also started with very simple recipes
+[1:18] that
+[1:18] i could put together very easily and
+[1:21] that were very simple
+[1:23] like chili and pasta with marinara sauce
+[1:27] and things like that
+[1:28] i would just omit the animal product
+[1:30] from it i'll link some recipes below
+[1:33] of things that i enjoyed when i first
+[1:36] started my journey
+--- HOW MUCH WEIGHT HAVE YOU LOST? ---
+[1:41] i have lost a total of 80 pounds
+--- HOW LONG DID IT TAKE TO LOSE THE WEIGHT? ---
+[1:48] so it did take me some time to come
+[1:50] around to
+[1:51] eating a fully whole food plant-based
+[1:54] oil-free diet
+[1:57] so in the first year of going
+[1:59] plant-based i lost 60 pounds
+[2:02] subsequently i loosened the rains a
+[2:05] little bit
+[2:06] i started eating more processed foods
+[2:09] and just incorporating you know more
+[2:12] meals
+[2:12] out and things like that into my diet
+[2:15] and
+[2:16] my health declined my
+[2:20] weight also went back up a little bit i
+[2:22] gained about 20 pounds back
+[2:25] and then in the last year
+[2:28] or so maybe 18 months um i have
+[2:32] fully regained my health and lost 40
+[2:36] pounds
+[2:36] so the 80 pounds was lost you know
+[2:39] starting in 2016
+[2:41] and continuing through until 2020
+[2:44] but it wasn't a linear progression of
+[2:47] continuously losing weight losing weight
+[2:49] losing weight
+[2:50] it was you know i lost a big chunk i
+[2:52] lost 60 pounds in a year
+[2:54] maintained it gained 20 pounds back
+[2:58] over a couple years and then lost 40
+[3:02] pounds in the last
+[3:05] 18 months if you'd like to see more info
+[3:08] about
+[3:09] my weight loss specifically you can
+[3:11] check out the video that i made with my
+[3:13] husband
+[3:14] where we discuss how we as a couple have
+[3:16] lost over 100 pounds
+[3:18] i'll link it below
+--- DO YOU MEAL PREP? ---
+[3:24] yes and no so i don't plan every single
+[3:27] meal
+[3:28] in advance i don't plan you know a week
+[3:31] out or something
+[3:32] like that i also don't individually
+[3:34] portion
+[3:35] my foods into prepared containers
+[3:39] what i do is i make big batches of
+[3:42] roasted potatoes or mashed potatoes
+[3:46] or a whole grain like rice or
+[3:49] quinoa or beans i'll have beans on hand
+[3:54] and i'll have those things prepped and
+[3:56] ready to go
+[3:57] in my fridge i also really love
+[4:00] leftovers so i do tend to have
+[4:02] leftover something or other in my fridge
+[4:04] whether it's
+[4:05] chili or soup or
+[4:08] just anything that i whenever i make a
+[4:12] meal
+[4:13] i make enough so that there's going to
+[4:14] be leftover
+[4:16] for the following day or the following
+[4:18] couple of days
+[4:19] i also like to chop veggies in advance
+[4:21] sometimes and i
+[4:23] keep shredded zucchini and shredded
+[4:25] carrot in my fridge
+[4:27] so that it's easy to just top my oatmeal
+[4:30] with in the mornings or just add to a
+[4:32] salad
+[4:33] just throw into pretty much anything
+--- DO YOU FOLLOW A SPECIFIC PLAN? DR. MCDOUGALL? DR. GREGER? DR. FUHRMAN? ---
+[4:39] so i've been asked this question a lot i
+[4:42] consume a whole food plant-based
+[4:45] oil-free diet so what that means is i
+[4:48] eat vegetables fruits legumes
+[4:52] whole grains nuts seeds and spices
+[4:56] and so i don't specifically follow
+[5:00] a plan that being said i have done a lot
+[5:03] of reading
+[5:04] and obviously that reading has
+[5:06] influenced my decisions
+[5:08] on how i eat and what i eat
+[5:12] also my personal preferences and
+[5:13] personal tastes have influenced that as
+[5:16] well
+[5:17] so i basically made created my own
+[5:20] sort of way of doing things and what
+[5:23] works for me
+[5:24] i think when i first went plant-based i
+[5:26] was following
+[5:27] more of a starch solution style diet
+[5:30] i didn't specifically follow the plan
+[5:34] as set out by dr mcdougall but
+[5:37] i think just from my taste preferences
+[5:40] of
+[5:40] i love potatoes i love whole grains
+[5:44] i enjoy starchy foods so i think i
+[5:47] leaned more in that direction just kind
+[5:49] of naturally
+[5:50] i also read how not to die by dr michael
+[5:52] greger very early on when i
+[5:54] made the transition into plant-based
+[5:56] diet and i did try to
+[5:59] vaguely cover the daily dozen
+[6:02] but i definitely did not eat the
+[6:05] recommended amount of greens
+[6:07] or beans in the beginning i've also read
+[6:10] eat to live by dr
+[6:11] furman i eat way more starchy vegetables
+[6:14] and whole grains than dr
+[6:15] fuhrman recommends in eat to live if i
+[6:18] had to qualify what my dietary pattern
+[6:20] is
+[6:21] now i would say it is mostly
+[6:24] i guess a cross between the star starch
+[6:27] solution
+[6:28] and dr mcdougall's maximum weight loss
+[6:31] program
+[6:32] so i don't eat as much starch
+[6:36] as is recommended in the starch solution
+[6:38] i believe it's 70 percent of your plate
+[6:41] uh is supposed to be starch and i don't
+[6:44] eat
+[6:45] that much starch but i also don't
+[6:48] subscribe to everything that is in the
+[6:50] maximum weight loss plan
+[6:52] either so i eat a 50 50 plate for the
+[6:56] most part
+[6:57] so i eat half of my plate as green
+[7:00] vegetables and then the other half
+[7:03] dr mcdougall would recommend the other
+[7:05] half be starch
+[7:07] and for me sometimes it's starch
+[7:10] sometimes it's a mix of starch with
+[7:14] other things like tofu tempeh
+[7:18] which aren't recommended on the maximum
+[7:20] weight loss program
+[7:22] i also don't limit my fruit intake i
+[7:25] also consume ground flax or
+[7:28] chia seeds every day for omega-3s
+[7:31] avocado nuts and dried fruit
+[7:34] aren't part of my daily diet but i
+[7:37] definitely do
+[7:38] consume those food items as well
+[7:41] and now i would say i generally do meet
+[7:43] dr greger's
+[7:45] recommendations for the daily dozen the
+[7:47] only exception being
+[7:49] nuts i don't tend to eat nuts every
+[7:51] single day
+--- WHAT DO YOU EAT IN A DAY? ---
+[7:56] i like to keep my meals fairly simple so
+[7:59] i do like to switch it up
+[8:01] but i most often will eat oats in the
+[8:04] morning
+[8:05] with some kind of vegetable so whether
+[8:08] the vegetable is on the side and i eat
+[8:11] the veggie first
+[8:12] and then i eat my bowl of oats with
+[8:13] fruit or
+[8:15] i mix the vegetables into my oats so
+[8:18] i'll add
+[8:19] shredded carrot or shredded zucchini or
+[8:22] both
+[8:23] i have a couple of baked oats recipes
+[8:25] that i've been really really enjoying
+[8:27] so i'll leave those linked below in case
+[8:29] you're interested as i previously said i
+[8:32] often eat a 50 50 plate
+[8:34] so half of my plate is green vegetables
+[8:37] and the other half
+[8:39] is whatever other foods i want to eat
+[8:42] the other foods could be chili or soup
+[8:45] it could be rice and beans it could look
+[8:49] like
+[8:49] tofu scramble with roasted potato fries
+[8:54] so lots of different options but still
+[8:57] keeping it fairly simple
+[8:58] i drink a lot of water and i usually eat
+[9:01] fruit
+[9:02] or sweet potatoes for a snack if i'm
+[9:04] hungry in between meals or
+[9:06] after dinner i have a bunch of recipes
+[9:09] on my website and i use them all the
+[9:11] time
+[9:12] so you can check those out below to get
+[9:13] an idea of what i eat
+[9:15] in a day i also do have a what i eat in
+[9:18] a day
+[9:18] video that you can check out i will link
+[9:21] that below and there's actually another
+[9:23] what i eat in a day video coming
+[9:25] next week so keep an eye out for that
+--- DO YOU COUNT CALORIES OR MACRONUTRIENTS (MACROS)? ---
+[9:32] no no i don't i don't count calories and
+[9:36] i do not
+[9:37] count macros in the beginning i tried to
+[9:40] track a little bit with chronometer just
+[9:42] to see
+[9:44] what i was eating and what kind of
+[9:46] targets i was
+[9:47] hitting uh but i didn't enjoy doing
+[9:51] it i found it to be quite cumbersome and
+[9:54] a lot of the plant-based doctors say
+[9:55] that it's not
+[9:57] really necessary to track
+[10:00] calories or macros when you're eating a
+[10:02] whole food plant-based diet anyway
+[10:05] so i i didn't really
+[10:08] stick with it i've lost 80 pounds and
+[10:11] regained my health on a hopefully
+[10:14] plant-based diet without doing any
+[10:16] of that kind of tracking that being said
+[10:19] i think that
+[10:20] for some people tracking calories can be
+[10:24] very helpful
+[10:25] and can give them good insight into
+[10:27] where their starting point is and where
+[10:30] they're going
+[10:31] and depending on what dietary pattern
+[10:33] they choose it might be helpful
+[10:35] to track your calories or macros for a
+[10:38] time
+[10:39] just to kind of see where you're at i
+[10:42] would either get really obsessive
+[10:43] and really wrapped up in it and be on
+[10:46] the phone constantly trying to figure
+[10:48] out
+[10:48] like how much of this and how much of
+[10:50] that and
+[10:52] well you know measuring everything out
+[10:55] you know it was a lot
+[10:56] um or i would just do the other end of
+[11:00] the spectrum where i kind of like
+[11:01] guesstimate
+[11:02] things so it wasn't accurate anyway um
+[11:05] so it just didn't work
+[11:06] for me i think in certain instances it
+[11:08] can be really helpful for people
+[11:10] but if you're eating a whole food
+[11:12] plant-based diet and your goal is
+[11:14] to lose a significant amount of weight
+[11:17] or regain health i don't think it's
+[11:19] necessary to track
+[11:20] calories that being said if you enjoy
+[11:23] doing it or you find it to be a useful
+[11:25] tool then by all means go ahead and do
+[11:27] it
+--- DO YOU EXERCISE? ---
+[11:32] yes
+--- DID YOU EXERCISE AT THE START OF YOUR HEALTH AND WEIGHT LOSS JOURNEY? ---
+[11:36] in the beginning i didn't exercise much
+[11:39] at all
+[11:40] i was trying to get the food right and
+[11:42] focus on that
+[11:43] first and so that was my main focus
+[11:47] i did try to walk and get more steps in
+[11:51] but otherwise i didn't really exercise
+[11:53] that much in the beginning
+[11:55] about four months in i think i
+[11:58] decided that i wanted to take up running
+[12:01] which i had never
+[12:02] really done before and was really scary
+[12:04] for me
+[12:05] i still quite overweight probably still
+[12:08] in the obese category at that point and
+[12:12] yeah i was nervous about it but i was
+[12:13] really excited and i had energy
+[12:16] so i did take up running fairly early on
+[12:19] within
+[12:20] you know after about four months i think
+[12:23] i joined a learn to run group with my
+[12:25] best friend and we had a lot of fun with
+[12:28] that
+[12:28] you know just doing the you know one
+[12:31] minute walk one minute run
+[12:33] and just building up and eventually
+[12:35] running a 5k
+[12:36] and we were being really excited about
+[12:38] that
+--- HOW MUCH DO YOU EXERCISE NOW? ---
+[12:43] i currently go to the gym three days a
+[12:45] week so
+[12:46] i lift weights in a group fitness class
+[12:49] two days a week and i also do a
+[12:52] another class one day a week that's sort
+[12:55] of a yoga pilates
+[12:57] tai chi combo so that's what i do at the
+[13:01] gym
+[13:01] and then at home i also like to play
+[13:03] with my calisthenics bars
+[13:06] um i don't have a specific schedule for
+[13:08] that like
+[13:09] some weeks i'll work on it you know one
+[13:12] or two days a week
+[13:14] some weeks not at all it just kind of
+[13:17] depends on what's going on
+[13:19] and what's happening in my life i
+[13:22] try to stay active by walking when
+[13:24] possible rather than driving in the car
+[13:27] i play with my five-year-old son that
+[13:29] keeps me
+[13:30] active and busy and i also practice yoga
+[13:34] if you liked this video please give me a
+[13:36] thumbs up
+[13:37] and or leave me a comment below if you
+[13:40] have any more questions
+[13:41] let me know in the comments below and i
+[13:44] can definitely
+[13:44] answer those for you i'd be happy to
+[13:47] answer more questions
+[13:49] and i can even make another frequently
+[13:51] asked questions video if there are
+[13:53] enough questions coming through
+[13:55] if you'd like to see more from me please
+[13:57] subscribe below
+[13:59] and i will talk to you soon bye
+[14:02] [Music]
+--- Intro ---
+[0:00] [Music]
+[0:04] hey
+[0:05] hi i'm meg welcome to plant fit meg
+[0:08] today i thought i would do
+[0:09] a frequently asked questions video about
+[0:12] my weight loss specifically
+[0:14] because i've had a lot of questions
+[0:16] about what i've done to
+[0:18] lose the weight how i got started
+[0:21] how things are going now and all that
+[0:24] kind of stuff
+[0:25] so i just thought i could go through it
+[0:27] and make a video about it
+--- HOW DID YOU GET STARTED ON YOUR WEIGHT LOSS JOURNEY? ---
+[0:32] so to make a long story short i went
+[0:34] plant-based nearly five years ago
+[0:36] i decided to go plant-based for my
+[0:38] health and
+[0:40] i also decided to go vegan overnight so
+[0:44] i made the decision to do it overnight
+[0:48] and that's how i got started
+[0:51] i actually started with a five day juice
+[0:53] fast
+[0:54] and then switched to a plant-based diet
+[0:57] from there
+[0:58] and i started really simply with just
+[1:01] foods that i was familiar with
+[1:04] foods that were already plant-based that
+[1:05] i was already eating like
+[1:07] fruit and smoothies and oats and cereal
+[1:11] breads things like that um and just
+[1:14] expanded from there
+[1:15] i also started with very simple recipes
+[1:18] that
+[1:18] i could put together very easily and
+[1:21] that were very simple
+[1:23] like chili and pasta with marinara sauce
+[1:27] and things like that
+[1:28] i would just omit the animal product
+[1:30] from it i'll link some recipes below
+[1:33] of things that i enjoyed when i first
+[1:36] started my journey
+--- HOW MUCH WEIGHT HAVE YOU LOST? ---
+[1:41] i have lost a total of 80 pounds
+--- HOW LONG DID IT TAKE TO LOSE THE WEIGHT? ---
+[1:48] so it did take me some time to come
+[1:50] around to
+[1:51] eating a fully whole food plant-based
+[1:54] oil-free diet
+[1:57] so in the first year of going
+[1:59] plant-based i lost 60 pounds
+[2:02] subsequently i loosened the rains a
+[2:05] little bit
+[2:06] i started eating more processed foods
+[2:09] and just incorporating you know more
+[2:12] meals
+[2:12] out and things like that into my diet
+[2:15] and
+[2:16] my health declined my
+[2:20] weight also went back up a little bit i
+[2:22] gained about 20 pounds back
+[2:25] and then in the last year
+[2:28] or so maybe 18 months um i have
+[2:32] fully regained my health and lost 40
+[2:36] pounds
+[2:36] so the 80 pounds was lost you know
+[2:39] starting in 2016
+[2:41] and continuing through until 2020
+[2:44] but it wasn't a linear progression of
+[2:47] continuously losing weight losing weight
+[2:49] losing weight
+[2:50] it was you know i lost a big chunk i
+[2:52] lost 60 pounds in a year
+[2:54] maintained it gained 20 pounds back
+[2:58] over a couple years and then lost 40
+[3:02] pounds in the last
+[3:05] 18 months if you'd like to see more info
+[3:08] about
+[3:09] my weight loss specifically you can
+[3:11] check out the video that i made with my
+[3:13] husband
+[3:14] where we discuss how we as a couple have
+[3:16] lost over 100 pounds
+[3:18] i'll link it below
+--- DO YOU MEAL PREP? ---
+[3:24] yes and no so i don't plan every single
+[3:27] meal
+[3:28] in advance i don't plan you know a week
+[3:31] out or something
+[3:32] like that i also don't individually
+[3:34] portion
+[3:35] my foods into prepared containers
+[3:39] what i do is i make big batches of
+[3:42] roasted potatoes or mashed potatoes
+[3:46] or a whole grain like rice or
+[3:49] quinoa or beans i'll have beans on hand
+[3:54] and i'll have those things prepped and
+[3:56] ready to go
+[3:57] in my fridge i also really love
+[4:00] leftovers so i do tend to have
+[4:02] leftover something or other in my fridge
+[4:04] whether it's
+[4:05] chili or soup or
+[4:08] just anything that i whenever i make a
+[4:12] meal
+[4:13] i make enough so that there's going to
+[4:14] be leftover
+[4:16] for the following day or the following
+[4:18] couple of days
+[4:19] i also like to chop veggies in advance
+[4:21] sometimes and i
+[4:23] keep shredded zucchini and shredded
+[4:25] carrot in my fridge
+[4:27] so that it's easy to just top my oatmeal
+[4:30] with in the mornings or just add to a
+[4:32] salad
+[4:33] just throw into pretty much anything
+--- DO YOU FOLLOW A SPECIFIC PLAN? DR. MCDOUGALL? DR. GREGER? DR. FUHRMAN? ---
+[4:39] so i've been asked this question a lot i
+[4:42] consume a whole food plant-based
+[4:45] oil-free diet so what that means is i
+[4:48] eat vegetables fruits legumes
+[4:52] whole grains nuts seeds and spices
+[4:56] and so i don't specifically follow
+[5:00] a plan that being said i have done a lot
+[5:03] of reading
+[5:04] and obviously that reading has
+[5:06] influenced my decisions
+[5:08] on how i eat and what i eat
+[5:12] also my personal preferences and
+[5:13] personal tastes have influenced that as
+[5:16] well
+[5:17] so i basically made created my own
+[5:20] sort of way of doing things and what
+[5:23] works for me
+[5:24] i think when i first went plant-based i
+[5:26] was following
+[5:27] more of a starch solution style diet
+[5:30] i didn't specifically follow the plan
+[5:34] as set out by dr mcdougall but
+[5:37] i think just from my taste preferences
+[5:40] of
+[5:40] i love potatoes i love whole grains
+[5:44] i enjoy starchy foods so i think i
+[5:47] leaned more in that direction just kind
+[5:49] of naturally
+[5:50] i also read how not to die by dr michael
+[5:52] greger very early on when i
+[5:54] made the transition into plant-based
+[5:56] diet and i did try to
+[5:59] vaguely cover the daily dozen
+[6:02] but i definitely did not eat the
+[6:05] recommended amount of greens
+[6:07] or beans in the beginning i've also read
+[6:10] eat to live by dr
+[6:11] furman i eat way more starchy vegetables
+[6:14] and whole grains than dr
+[6:15] fuhrman recommends in eat to live if i
+[6:18] had to qualify what my dietary pattern
+[6:20] is
+[6:21] now i would say it is mostly
+[6:24] i guess a cross between the star starch
+[6:27] solution
+[6:28] and dr mcdougall's maximum weight loss
+[6:31] program
+[6:32] so i don't eat as much starch
+[6:36] as is recommended in the starch solution
+[6:38] i believe it's 70 percent of your plate
+[6:41] uh is supposed to be starch and i don't
+[6:44] eat
+[6:45] that much starch but i also don't
+[6:48] subscribe to everything that is in the
+[6:50] maximum weight loss plan
+[6:52] either so i eat a 50 50 plate for the
+[6:56] most part
+[6:57] so i eat half of my plate as green
+[7:00] vegetables and then the other half
+[7:03] dr mcdougall would recommend the other
+[7:05] half be starch
+[7:07] and for me sometimes it's starch
+[7:10] sometimes it's a mix of starch with
+[7:14] other things like tofu tempeh
+[7:18] which aren't recommended on the maximum
+[7:20] weight loss program
+[7:22] i also don't limit my fruit intake i
+[7:25] also consume ground flax or
+[7:28] chia seeds every day for omega-3s
+[7:31] avocado nuts and dried fruit
+[7:34] aren't part of my daily diet but i
+[7:37] definitely do
+[7:38] consume those food items as well
+[7:41] and now i would say i generally do meet
+[7:43] dr greger's
+[7:45] recommendations for the daily dozen the
+[7:47] only exception being
+[7:49] nuts i don't tend to eat nuts every
+[7:51] single day
+--- WHAT DO YOU EAT IN A DAY? ---
+[7:56] i like to keep my meals fairly simple so
+[7:59] i do like to switch it up
+[8:01] but i most often will eat oats in the
+[8:04] morning
+[8:05] with some kind of vegetable so whether
+[8:08] the vegetable is on the side and i eat
+[8:11] the veggie first
+[8:12] and then i eat my bowl of oats with
+[8:13] fruit or
+[8:15] i mix the vegetables into my oats so
+[8:18] i'll add
+[8:19] shredded carrot or shredded zucchini or
+[8:22] both
+[8:23] i have a couple of baked oats recipes
+[8:25] that i've been really really enjoying
+[8:27] so i'll leave those linked below in case
+[8:29] you're interested as i previously said i
+[8:32] often eat a 50 50 plate
+[8:34] so half of my plate is green vegetables
+[8:37] and the other half
+[8:39] is whatever other foods i want to eat
+[8:42] the other foods could be chili or soup
+[8:45] it could be rice and beans it could look
+[8:49] like
+[8:49] tofu scramble with roasted potato fries
+[8:54] so lots of different options but still
+[8:57] keeping it fairly simple
+[8:58] i drink a lot of water and i usually eat
+[9:01] fruit
+[9:02] or sweet potatoes for a snack if i'm
+[9:04] hungry in between meals or
+[9:06] after dinner i have a bunch of recipes
+[9:09] on my website and i use them all the
+[9:11] time
+[9:12] so you can check those out below to get
+[9:13] an idea of what i eat
+[9:15] in a day i also do have a what i eat in
+[9:18] a day
+[9:18] video that you can check out i will link
+[9:21] that below and there's actually another
+[9:23] what i eat in a day video coming
+[9:25] next week so keep an eye out for that
+--- DO YOU COUNT CALORIES OR MACRONUTRIENTS (MACROS)? ---
+[9:32] no no i don't i don't count calories and
+[9:36] i do not
+[9:37] count macros in the beginning i tried to
+[9:40] track a little bit with chronometer just
+[9:42] to see
+[9:44] what i was eating and what kind of
+[9:46] targets i was
+[9:47] hitting uh but i didn't enjoy doing
+[9:51] it i found it to be quite cumbersome and
+[9:54] a lot of the plant-based doctors say
+[9:55] that it's not
+[9:57] really necessary to track
+[10:00] calories or macros when you're eating a
+[10:02] whole food plant-based diet anyway
+[10:05] so i i didn't really
+[10:08] stick with it i've lost 80 pounds and
+[10:11] regained my health on a hopefully
+[10:14] plant-based diet without doing any
+[10:16] of that kind of tracking that being said
+[10:19] i think that
+[10:20] for some people tracking calories can be
+[10:24] very helpful
+[10:25] and can give them good insight into
+[10:27] where their starting point is and where
+[10:30] they're going
+[10:31] and depending on what dietary pattern
+[10:33] they choose it might be helpful
+[10:35] to track your calories or macros for a
+[10:38] time
+[10:39] just to kind of see where you're at i
+[10:42] would either get really obsessive
+[10:43] and really wrapped up in it and be on
+[10:46] the phone constantly trying to figure
+[10:48] out
+[10:48] like how much of this and how much of
+[10:50] that and
+[10:52] well you know measuring everything out
+[10:55] you know it was a lot
+[10:56] um or i would just do the other end of
+[11:00] the spectrum where i kind of like
+[11:01] guesstimate
+[11:02] things so it wasn't accurate anyway um
+[11:05] so it just didn't work
+[11:06] for me i think in certain instances it
+[11:08] can be really helpful for people
+[11:10] but if you're eating a whole food
+[11:12] plant-based diet and your goal is
+[11:14] to lose a significant amount of weight
+[11:17] or regain health i don't think it's
+[11:19] necessary to track
+[11:20] calories that being said if you enjoy
+[11:23] doing it or you find it to be a useful
+[11:25] tool then by all means go ahead and do
+[11:27] it
+--- DO YOU EXERCISE? ---
+[11:32] yes
+--- DID YOU EXERCISE AT THE START OF YOUR HEALTH AND WEIGHT LOSS JOURNEY? ---
+[11:36] in the beginning i didn't exercise much
+[11:39] at all
+[11:40] i was trying to get the food right and
+[11:42] focus on that
+[11:43] first and so that was my main focus
+[11:47] i did try to walk and get more steps in
+[11:51] but otherwise i didn't really exercise
+[11:53] that much in the beginning
+[11:55] about four months in i think i
+[11:58] decided that i wanted to take up running
+[12:01] which i had never
+[12:02] really done before and was really scary
+[12:04] for me
+[12:05] i still quite overweight probably still
+[12:08] in the obese category at that point and
+[12:12] yeah i was nervous about it but i was
+[12:13] really excited and i had energy
+[12:16] so i did take up running fairly early on
+[12:19] within
+[12:20] you know after about four months i think
+[12:23] i joined a learn to run group with my
+[12:25] best friend and we had a lot of fun with
+[12:28] that
+[12:28] you know just doing the you know one
+[12:31] minute walk one minute run
+[12:33] and just building up and eventually
+[12:35] running a 5k
+[12:36] and we were being really excited about
+[12:38] that
+--- HOW MUCH DO YOU EXERCISE NOW? ---
+[12:43] i currently go to the gym three days a
+[12:45] week so
+[12:46] i lift weights in a group fitness class
+[12:49] two days a week and i also do a
+[12:52] another class one day a week that's sort
+[12:55] of a yoga pilates
+[12:57] tai chi combo so that's what i do at the
+[13:01] gym
+[13:01] and then at home i also like to play
+[13:03] with my calisthenics bars
+[13:06] um i don't have a specific schedule for
+[13:08] that like
+[13:09] some weeks i'll work on it you know one
+[13:12] or two days a week
+[13:14] some weeks not at all it just kind of
+[13:17] depends on what's going on
+[13:19] and what's happening in my life i
+[13:22] try to stay active by walking when
+[13:24] possible rather than driving in the car
+[13:27] i play with my five-year-old son that
+[13:29] keeps me
+[13:30] active and busy and i also practice yoga
+[13:34] if you liked this video please give me a
+[13:36] thumbs up
+[13:37] and or leave me a comment below if you
+[13:40] have any more questions
+[13:41] let me know in the comments below and i
+[13:44] can definitely
+[13:44] answer those for you i'd be happy to
+[13:47] answer more questions
+[13:49] and i can even make another frequently
+[13:51] asked questions video if there are
+[13:53] enough questions coming through
+[13:55] if you'd like to see more from me please
+[13:57] subscribe below
+[13:59] and i will talk to you soon bye
+[14:02] [Music]
+
+
+
+
+
+
+
+
+
+Title: What I Eat in a Day for Weight Loss Maintenance - Vegan, Plant-Based l Plant Fit Meg
+
+====
+
+Channel: Plant Fit Meg
+Channel Link: https://www.youtube.com/@PlantFitMeg
+
+====
+
+Link: https://www.youtube.com/watch?v=bC6mnNxrSHY
+
+====
+
+Description:
+I eat simple plant-based meals and snacks that support weight loss maintenance. I love to create easy, delicious recipes that my family enjoys, especially ones that we want to make and enjoy over and over again. Let me know if you try any of today’s recipes. I hope you enjoy them as much as we do!
+
+====
+
+Transcript:
+[0:00] [Music]
+[0:04] hi
+[0:05] hi i'm meg welcome to plant fit meg
+[0:08] today i'm going to share a full day of
+[0:10] eating with you
+[0:11] i'm making some of my favorite delicious
+[0:15] easy vegan whole food plant-based
+[0:17] recipes i'll have them linked below
+[0:19] if you'd like to check them out i'll
+[0:21] have printable recipes linked below if
+[0:23] you'd like to print them out and give
+[0:24] them a try
+[0:25] let me know if you do this is my second
+[0:28] what i eat in a day video i hope you
+[0:30] enjoy it
+[0:31] i'll link my first what i eat in a day
+[0:33] video below in case you're interested in
+[0:35] checking that out as well
+[0:37] and let me know if you'd like to see
+[0:38] more of these style videos from me
+[0:40] and i can go ahead and make more of them
+[0:44] i like to start my day with water and i
+[0:46] do
+[0:47] typically eat whatever is left over from
+[0:50] my son's lunch so these are just a few
+[0:53] carrot sticks and apple slices from
+[0:56] ryden's lunchbox
+[0:58] i'm going to have some broccoli this
+[1:00] morning so i've just microwaved some
+[1:03] broccoli and topped it with frank's red
+[1:05] hot sauce and
+[1:06] nooch next kind of my
+[1:10] second breakfast or breakfast part two
+[1:13] will be my blueberry baked oats with
+[1:17] lentils
+[1:18] and so this full recipe video just went
+[1:21] up so you can check it out on the
+[1:24] channel i won't show you the entire
+[1:26] process of making it again but it's
+[1:29] basically
+[1:30] rolled oats red lentils shredded carrot
+[1:33] blueberry flax seeds a couple of other
+[1:37] yummy things like vanilla
+[1:38] and date syrup with some plant milk
+[1:41] applesauce and
+[1:42] water and i just baked that for a while
+[1:45] and it comes out beautifully tastes
+[1:48] awesome
+[1:49] the blueberry is really delicious with
+[1:51] the carrot
+[1:52] the lentils kind of blend and mesh with
+[1:55] everything else so
+[1:56] they're not super apparent and it's just
+[1:59] a really yummy wholesome breakfast
+[2:03] it's really become a family favorite
+[2:04] lately so it's really really good
+[2:07] we love to make jam at home we have a
+[2:09] recipe for
+[2:10] our berry chia jam and we mix up what
+[2:13] kind of berries we like to use in it
+[2:15] this time around we used a triple berry
+[2:17] mix of
+[2:18] blueberry raspberries and blackberries
+[2:21] and it's just
+[2:22] mixed with date syrup and chia seeds on
+[2:26] the stove top
+[2:27] super simple you can check out the
+[2:29] recipe linked below
+[2:31] but we've been enjoying uh our oats
+[2:34] topped with
+[2:35] the berry chia jam and i've also been
+[2:39] mixing some powdered peanut butter into
+[2:41] the berry chia jam
+[2:42] and enjoying that as a topping on top of
+[2:45] the oats
+[2:46] it's really yummy you get that peanut
+[2:48] butter and jam flavor
+[2:50] but without the higher fat content of
+[2:53] peanut butter
+[2:54] if you're not concerned about the fat
+[2:55] content when you want to just use peanut
+[2:57] butter of course that is another option
+[3:01] but i've been really enjoying this
+[3:02] mixture lately
+[3:04] so i'm topping my baked oats with the
+[3:06] berry chia jam
+[3:08] and powdered peanut butter mixture
+[3:10] topping that with
+[3:12] some extra berries on top and this is a
+[3:15] delicious
+[3:16] meal fabulous breakfast it looks like
+[3:20] dessert
+[3:21] could be dessert but it's delicious
+[3:23] breakfast
+[3:24] super yummy if you try it out let me
+[3:27] know
+[3:27] so next i'm going to be drinking another
+[3:30] cup of water i
+[3:32] try to stay really hydrated during the
+[3:34] day and drink a lot of water throughout
+[3:36] the day
+[3:38] i'm going to rinse some quinoa here and
+[3:41] put it in
+[3:42] the instant pot that's the easiest
+[3:45] quickest most convenient way to make
+[3:47] quinoa
+[3:48] and it always turns out really yummy so
+[3:51] i'm going to go ahead and set the
+[3:53] instant pot for
+[3:54] one minute and let it do its thing
+[3:57] come to pressure cook up my quinoa while
+[4:01] i go ahead and make the rest of my lunch
+[4:03] so next i'm going to
+[4:05] be drinking another cup of water so next
+[4:08] i'm going to be preparing
+[4:09] a what i like to call a mishmash meal
+[4:12] so it's a very simple recipe
+[4:16] i hesitate to even call it a recipe
+[4:19] because it is so easy
+[4:21] i am just putting a few simple
+[4:24] ingredients together and making
+[4:25] something
+[4:26] super delicious so today i'm having a
+[4:29] jackfruit
+[4:30] mix bbq jackfruit with
+[4:33] some vegetables i have my pan on high
+[4:36] heat here
+[4:37] and i just test it with a little bit of
+[4:38] water to see how hot it is
+[4:41] it's actually maybe a little too hot
+[4:44] that's okay
+[4:44] it just i turned the dial down a little
+[4:47] bit
+[4:48] so that it's on medium high and i'm
+[4:51] gonna go ahead and add my onions to the
+[4:53] pan
+[4:54] so i stir those around and let them cook
+[4:56] up a little bit
+[4:59] i add a little bit of water as i go just
+[5:01] to prevent sticking
+[5:04] and i'm going to go ahead and add my red
+[5:06] and green pepper
+[5:10] [Music]
+[5:12] i love those beautiful colors how fresh
+[5:14] and
+[5:15] delicious it looks all together i get
+[5:18] really excited about my food
+[5:21] so tasty so i'm gonna give that a good
+[5:24] stir and let it cook for a few minutes
+[5:27] so i'm gonna go ahead and add my
+[5:29] jackfruit here
+[5:30] stir all of that together combining the
+[5:33] jackfruit
+[5:34] in with the vegetables
+[5:38] i'm adding some barbecue seasoning here
+[5:41] so this is just a mix of a few different
+[5:43] spices
+[5:44] some smoked paprika and a few other
+[5:47] things
+[5:48] you could also add barbecue sauce if you
+[5:51] had it on hand
+[5:52] or some liquid smoke or
+[5:55] any other flavors that you really enjoy
+[5:58] it doesn't even have to be barbecue
+[5:59] sauce
+[6:00] it could be you know any any flavor
+[6:03] profile that you want to add to it and
+[6:05] the jackfruit and the vegetables will
+[6:07] just kind of take on that flavor
+[6:09] so i'm just mixing that thoroughly
+[6:11] making sure
+[6:12] all of the jackfruit is coated with the
+[6:14] seasoning
+[6:15] so i'm just going to cover this and
+[6:17] allow it to simmer for a little bit to
+[6:19] just let the flavors meld together
+[6:21] if you like a more wet consistency
+[6:25] you could also add a little bit of water
+[6:27] or a little bit of veggie broth to this
+[6:29] just to moisten it a little bit so this
+[6:32] is a super simple recipe
+[6:34] i've just kind of thrown some veggies in
+[6:36] thrown in some seasoning and jackfruit
+[6:39] and just
+[6:39] i'm letting it cook up to make a really
+[6:42] yummy lunch
+[6:44] you could serve this up in a variety of
+[6:46] ways you could serve it over top of
+[6:48] rice or another whole grain you could
+[6:50] serve it alongside
+[6:52] potatoes lots of different options
+[6:55] what i decided to do today was to have
+[6:58] my jackfruit in
+[6:59] these yummy corn tortillas
+[7:03] and make little tacos out of them so i'm
+[7:06] adding some kale slaw here
+[7:10] you could add any greens of your choice
+[7:11] whatever your preference is
+[7:14] so i'm going to go ahead and add my
+[7:16] jackfruit here
+[7:24] [Music]
+[7:27] i'm adding some shredded carrot over at
+[7:29] the top
+[7:31] [Music]
+[7:37] and i'm adding a few little chunks of
+[7:40] jalapeno
+[7:41] on top just for some added spice
+[7:46] so i'm enjoying these tacos with a
+[7:48] little bowl of quinoa on the side
+[7:50] i could have mixed my quinoa into the
+[7:52] jackfruit which also would have been
+[7:54] really delicious
+[7:56] and i could have enjoyed it that way so
+[7:57] that's just another option if you do try
+[8:00] this recipe
+[8:01] here's another cup of water staying
+[8:04] hydrated throughout the day
+[8:07] so for a snack today i had an apple and
+[8:10] a roasted potato
+[8:12] [Music]
+[8:13] so i'm making a curry tomato yellow
+[8:16] split pea dish
+[8:18] you could swap the yellow split peas for
+[8:21] any
+[8:21] bean of choice i've used a can of
+[8:24] chickpeas for this as well
+[8:26] and that works beautifully you could use
+[8:28] any lentil or bean that you prefer
+[8:31] so you just want to have your beans
+[8:34] cooked
+[8:34] and prepped and ready to go or just
+[8:37] canned
+[8:37] drained and rinsed i'm going to go ahead
+[8:40] and
+[8:40] add my diced tomatoes and my yellow slit
+[8:43] peas
+[8:44] and my curry powder and it's as
+[8:48] easy as that guys that is this recipe
+[8:52] so i'm going to give it a good stir
+[8:54] [Music]
+[8:58] mix it all up until the curry powder
+[9:01] coats
+[9:02] everything
+[9:06] you could of course start this dish with
+[9:09] onion
+[9:10] or garlic and then add your tomatoes
+[9:14] you could add other vegetables lots of
+[9:17] different opportunities to make this
+[9:20] dish your own
+[9:22] [Music]
+[9:25] so once everything is incorporated i'm
+[9:27] just going to put the lid on there
+[9:29] and allow it to simmer for a while
+[9:33] just to have the flavor meld together
+[9:35] and
+[9:36] that it's nice and warm
+[9:50] so this is an extra step my husband is
+[9:52] not a huge
+[9:53] fan of big chunks of tomato so i went in
+[9:56] and just
+[9:57] mashed uh the curry a little bit
+[10:01] so that it wouldn't be quite as chunky
+[10:03] for him but that is just a personal
+[10:05] preference thing
+[10:06] you can omit this step and enjoy
+[10:09] the recipe as is so you could serve this
+[10:12] up in a number of different ways
+[10:15] so i already had some broccoli and
+[10:16] cauliflower prepped in my fridge
+[10:18] and i had quinoa from earlier so i'm
+[10:22] just having my curry split pea mix
+[10:24] with those yummy vegetables and i'm
+[10:27] drinking more water
+[10:29] so for dessert tonight i decided to have
+[10:31] a banana
+[10:32] and a chai tea with some almond milk
+[10:37] thank you so much for watching i hope
+[10:39] you enjoyed my second what i eat in a
+[10:41] day video
+[10:42] if you liked it please give it a like
+[10:44] leave a comment below
+[10:46] subscribe if you'd like to see more from
+[10:48] me and i'll talk to you soon
+[10:50] [Music]
+[10:56] bye 
+
+
+
+
+
+
+
+
+
+
 
